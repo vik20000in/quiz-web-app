@@ -1,0 +1,155 @@
+
+{
+    "questions": [
+      {
+        "question": "Change the following direct speech to indirect speech: She said, 'I am reading a book.'",
+        "options": ["She said that she was reading a book.", "She said that she is reading a book.", "She says that she was reading a book."],
+        "answer": "A",
+        "explanation": "In indirect speech, the present continuous tense 'am reading' changes to the past continuous 'was reading' because the reporting verb 'said' is in the past tense."
+      },
+      {
+        "question": "Convert this indirect speech to direct speech: He said that he had finished his homework.",
+        "options": ["He said, 'I have finished my homework.'", "He said, 'I had finished my homework.'", "He said, 'I finished my homework.'"],
+        "answer": "A",
+        "explanation": "In direct speech, the past perfect 'had finished' changes to present perfect 'have finished' to reflect the original tense spoken."
+      },
+      {
+        "question": "Identify whether this sentence is direct or indirect speech: 'I will go to school,' said Priya.",
+        "options": ["Direct speech", "Indirect speech", "Neither"],
+        "answer": "A",
+        "explanation": "This is direct speech because it uses quotation marks to show Priya's exact words."
+      },
+      {
+        "question": "Choose the correct indirect speech for: 'Please sit down,' said the teacher.",
+        "options": ["The teacher asked to sit down.", "The teacher said to sit down.", "The teacher requested to sit down."],
+        "answer": "A",
+        "explanation": "For polite commands like 'please sit down,' indirect speech often uses 'asked' followed by 'to' and the verb."
+      },
+      {
+        "question": "What is the indirect speech of: 'I like to play football,' said Rohan.",
+        "options": ["Rohan said that he liked to play football.", "Rohan said that he likes to play football.", "Rohan says that he liked to play football."],
+        "answer": "A",
+        "explanation": "The present simple 'like' changes to past simple 'liked' in indirect speech when the reporting verb is in the past."
+      },
+      {
+        "question": "Convert to indirect speech: 'Are you coming to the party?' asked Neha.",
+        "options": ["Neha asked if I was coming to the party.", "Neha asked are you coming to the party.", "Neha asked if I am coming to the party."],
+        "answer": "A",
+        "explanation": "Questions in indirect speech use 'if' or 'whether,' and the present tense 'are coming' shifts to past 'was coming.'"
+      },
+      {
+        "question": "Which is the correct indirect speech for: 'I can dance well,' said Anjali.",
+        "options": ["Anjali said that she can dance well.", "Anjali said that she could dance well.", "Anjali said that she dances well."],
+        "answer": "B",
+        "explanation": "The modal verb 'can' changes to 'could' in indirect speech when reported in the past."
+      },
+      {
+        "question": "Change to direct speech: The girl said that she was singing a song.",
+        "options": ["The girl said, 'I am singing a song.'", "The girl said, 'I was singing a song.'", "The girl said, 'I sing a song.'"],
+        "answer": "A",
+        "explanation": "The past continuous 'was singing' in indirect speech changes to present continuous 'am singing' in direct speech."
+      },
+      {
+        "question": "Fill in the blank with the correct word: He said, 'I ___ hungry.' (am / was)",
+        "options": ["am", "was", "Both are correct"],
+        "answer": "A",
+        "explanation": "In direct speech, 'am' is used because it reflects the speaker's current state at the time of speaking."
+      },
+      {
+        "question": "Correct the error in this indirect speech: She said that she will go to the market.",
+        "options": ["She said that she would go to the market.", "She said that she will go tomorrow.", "She said that she went to the market."],
+        "answer": "A",
+        "explanation": "In indirect speech, 'will' changes to 'would' because the reporting verb 'said' is in the past tense."
+      },
+      {
+        "question": "What is the indirect speech of: 'I have lost my pen,' said the boy.",
+        "options": ["The boy said that he has lost his pen.", "The boy said that he had lost his pen.", "The boy said that he lost his pen."],
+        "answer": "B",
+        "explanation": "The present perfect 'have lost' changes to past perfect 'had lost' in indirect speech."
+      },
+      {
+        "question": "Choose the correct direct speech for: My father told me that he was busy.",
+        "options": ["My father said, 'I am busy.'", "My father said, 'I was busy.'", "My father said, 'I will be busy.'"],
+        "answer": "A",
+        "explanation": "The past tense 'was busy' in indirect speech changes to present tense 'am busy' in direct speech."
+      },
+      {
+        "question": "Identify the type of speech: The principal ordered the students to line up.",
+        "options": ["Direct speech", "Indirect speech", "Both"],
+        "answer": "B",
+        "explanation": "This is indirect speech because it reports the principal's command without quoting the exact words."
+      },
+      {
+        "question": "Convert to indirect speech: 'Don’t run in the corridor!' shouted the monitor.",
+        "options": ["The monitor shouted not to run in the corridor.", "The monitor shouted to don’t run in the corridor.", "The monitor shouted run not in the corridor."],
+        "answer": "A",
+        "explanation": "Negative commands in indirect speech use 'not to' followed by the base verb."
+      },
+      {
+        "question": "What is the correct indirect speech for: 'I must finish my work,' said Kavita.",
+        "options": ["Kavita said that she must finish her work.", "Kavita said that she had to finish her work.", "Kavita said that she has to finish her work."],
+        "answer": "B",
+        "explanation": "The modal 'must' changes to 'had to' in indirect speech when reported in the past."
+      },
+      {
+        "question": "Change to direct speech: The coach said that the team would practice later.",
+        "options": ["The coach said, 'The team will practice later.'", "The coach said, 'The team would practice later.'", "The coach said, 'The team practices later.'"],
+        "answer": "A",
+        "explanation": "The future 'would' in indirect speech changes to 'will' in direct speech."
+      },
+      {
+        "question": "Fill in the blank: In indirect speech, 'today' changes to ___.",
+        "options": ["that day", "yesterday", "tomorrow"],
+        "answer": "A",
+        "explanation": "Time expressions like 'today' change to 'that day' in indirect speech to adjust the time reference."
+      },
+      {
+        "question": "Which sentence is in indirect speech?",
+        "options": ["He said, 'I am tired.'", "He said that he was tired.", "He says, 'I am tired.'"],
+        "answer": "B",
+        "explanation": "Option B reports what was said without quotation marks, making it indirect speech."
+      },
+      {
+        "question": "Convert to indirect speech: 'I watched a movie last night,' said Simran.",
+        "options": ["Simran said that she had watched a movie the previous night.", "Simran said that she watched a movie last night.", "Simran said that she has watched a movie last night."],
+        "answer": "A",
+        "explanation": "The past simple 'watched' changes to past perfect 'had watched,' and 'last night' becomes 'the previous night' in indirect speech."
+      },
+      {
+        "question": "What is the direct speech of: The librarian told us to keep quiet.",
+        "options": ["The librarian said, 'Keep quiet.'", "The librarian said, 'You should keep quiet.'", "Both A and B"],
+        "answer": "C",
+        "explanation": "Both options could be correct as they reflect possible original statements."
+      },
+      {
+        "question": "Choose the correct indirect speech: 'I am studying now,' said my sister.",
+        "options": ["My sister said that she was studying then.", "My sister said that she is studying now.", "My sister says that she was studying now."],
+        "answer": "A",
+        "explanation": "The present continuous 'am studying' changes to past continuous 'was studying,' and 'now' changes to 'then.'"
+      },
+      {
+        "question": "Identify the error: He said that he can play cricket.",
+        "options": ["'can' should be 'could'", "'play' should be 'played'", "No error"],
+        "answer": "A",
+        "explanation": "In indirect speech, 'can' should change to 'could' when the reporting verb is in the past."
+      },
+      {
+        "question": "Convert to direct speech: The children said that they were happy.",
+        "options": ["The children said, 'We are happy.'", "The children said, 'We were happy.'", "The children said, 'We will be happy.'"],
+        "answer": "A",
+        "explanation": "The past tense 'were happy' in indirect speech changes to present tense 'are happy' in direct speech."
+      },
+      {
+        "question": "What is the indirect speech of: 'I have just finished my lunch,' said Arjun.",
+        "options": ["Arjun said that he has just finished his lunch.", "Arjun said that he had just finished his lunch.", "Arjun said that he finished his lunch."],
+        "answer": "B",
+        "explanation": "The present perfect 'have finished' changes to past perfect 'had finished' in indirect speech."
+      },
+      {
+        "question": "Fill in the blank: In indirect speech, 'here' often changes to ___.",
+        "options": ["there", "this place", "that"],
+        "answer": "A",
+        "explanation": "Place words like 'here' change to 'there' in indirect speech to adjust the reference."
+      }
+    ]
+  }

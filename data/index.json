@@ -7,7 +7,9 @@
                     "subcategories": [
                         { "name": "Number System", "path": "class6/mathematics/number_system.json" },
                         { "name": "LinearEquations.json", "path": "class6/mathematics/LinearEquations.json" },
-                        { "name": "Olympiad Math", "path": "class6/mathematics/OlympiadMath.json" }
+                        { "name": "Olympiad Math", "path": "class6/mathematics/OlympiadMath.json" },
+                        { "name": "Decimal", "path": "class6/mathematics/Decimal.json" },
+                        { "name": "Fraction", "path": "class6/mathematics/Fraction.json" }
                     ]
                 },
                 {
@@ -22,7 +24,8 @@
                     "subcategories": [
                         { "name": "Adjectives", "path": "class6/EnglishGrammer/Adjectives.json" },
                         { "name": "Adverbs", "path": "class6/EnglishGrammer/Adverbs.json" },
-                        { "name": "Conjunctions", "path": "class6/EnglishGrammer/Conjunctions.json" }
+                        { "name": "Conjunctions", "path": "class6/EnglishGrammer/Conjunctions.json" },
+                        { "name":"direct to indirect", "path":"class6/EnglishGrammer/directtoindirect.json"}
                     ]
                 }
             ]

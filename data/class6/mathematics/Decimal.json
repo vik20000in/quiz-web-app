@@ -1,0 +1,154 @@
+{
+    "questions": [
+      {
+        "question": "What is the place value of 5 in the number 23.456?",
+        "options": ["5 hundredths", "5 tenths", "5 thousandths"],
+        "answer": "A",
+        "explanation": "In the decimal 23.456, the digit 5 is in the hundredths place because it is two positions to the right of the decimal point."
+      },
+      {
+        "question": "Which of the following is equal to 0.7?",
+        "options": ["7/10", "7/100", "70/100"],
+        "answer": "A",
+        "explanation": "0.7 represents 7 tenths, which is the same as the fraction 7/10."
+      },
+      {
+        "question": "Arrange the decimals in ascending order: 0.56, 0.65, 0.5, 0.6",
+        "options": ["0.5, 0.56, 0.6, 0.65", "0.65, 0.6, 0.56, 0.5", "0.5, 0.6, 0.56, 0.65"],
+        "answer": "A",
+        "explanation": "Comparing the digits step-by-step: 0.5 < 0.56 < 0.6 < 0.65."
+      },
+      {
+        "question": "Which is greater: 0.09 or 0.1?",
+        "options": ["0.09", "0.1", "They are equal"],
+        "answer": "B",
+        "explanation": "0.1 is the same as 0.10, and 0.10 > 0.09 when comparing the hundredths place."
+      },
+      {
+        "question": "What is 2.34 + 1.56?",
+        "options": ["3.8", "3.9", "4.0"],
+        "answer": "B",
+        "explanation": "Adding the decimals: 2.34 + 1.56 = 3.90, which simplifies to 3.9."
+      },
+      {
+        "question": "Subtract 0.75 from 1.2.",
+        "options": ["0.45", "0.55", "0.65"],
+        "answer": "A",
+        "explanation": "1.2 - 0.75 = 0.45. Align the decimals and subtract: 1.20 - 0.75 = 0.45."
+      },
+      {
+        "question": "What is 0.2 × 0.3?",
+        "options": ["0.06", "0.6", "0.006"],
+        "answer": "A",
+        "explanation": "Multiply 2 × 3 = 6, then adjust for two decimal places: 0.2 × 0.3 = 0.06."
+      },
+      {
+        "question": "Calculate 1.5 × 2.4.",
+        "options": ["3.6", "3.0", "4.0"],
+        "answer": "A",
+        "explanation": "1.5 × 2.4 = 3.6. Multiply 15 × 24 = 360, then adjust for two decimal places: 3.60 = 3.6."
+      },
+      {
+        "question": "What is 0.8 ÷ 0.2?",
+        "options": ["4", "0.4", "40"],
+        "answer": "A",
+        "explanation": "0.8 ÷ 0.2 = 4. Convert to fractions: 8/10 ÷ 2/10 = 8/2 = 4."
+      },
+      {
+        "question": "Divide 2.5 by 0.5.",
+        "options": ["5", "0.5", "50"],
+        "answer": "A",
+        "explanation": "2.5 ÷ 0.5 = 5. Alternatively, 25/10 ÷ 5/10 = 25/5 = 5."
+      },
+      {
+        "question": "Convert 3/4 to a decimal.",
+        "options": ["0.75", "0.34", "0.43"],
+        "answer": "A",
+        "explanation": "Divide 3 by 4: 3 ÷ 4 = 0.75."
+      },
+      {
+        "question": "What is 5/8 as a decimal?",
+        "options": ["0.625", "0.58", "0.85"],
+        "answer": "A",
+        "explanation": "Divide 5 by 8: 5 ÷ 8 = 0.625."
+      },
+      {
+        "question": "Convert 0.25 to a fraction.",
+        "options": ["1/4", "1/2", "1/5"],
+        "answer": "A",
+        "explanation": "0.25 = 25/100, which simplifies to 1/4 by dividing numerator and denominator by 25."
+      },
+      {
+        "question": "What is 0.6 as a fraction?",
+        "options": ["3/5", "2/3", "6/10"],
+        "answer": "A",
+        "explanation": "0.6 = 6/10, which simplifies to 3/5 by dividing by 2."
+      },
+      {
+        "question": "If a pen costs Rs. 12.50, how much do 4 pens cost?",
+        "options": ["Rs. 50", "Rs. 45", "Rs. 55"],
+        "answer": "A",
+        "explanation": "Multiply 12.50 by 4: 12.50 × 4 = 50.00, so the cost is Rs. 50."
+      },
+      {
+        "question": "A rope is 5.6 meters long. If it is cut into 4 equal pieces, what is the length of each piece?",
+        "options": ["1.4 m", "1.2 m", "1.6 m"],
+        "answer": "A",
+        "explanation": "Divide 5.6 by 4: 5.6 ÷ 4 = 1.4 meters."
+      },
+      {
+        "question": "What is the decimal equivalent of 1/2?",
+        "options": ["0.5", "0.2", "0.25"],
+        "answer": "A",
+        "explanation": "Divide 1 by 2: 1 ÷ 2 = 0.5."
+      },
+      {
+        "question": "Arrange in descending order: 0.123, 0.132, 0.321, 0.213",
+        "options": ["0.321, 0.213, 0.132, 0.123", "0.123, 0.132, 0.213, 0.321", "0.321, 0.132, 0.213, 0.123"],
+        "answer": "A",
+        "explanation": "Compare the decimals: 0.321 > 0.213 > 0.132 > 0.123."
+      },
+      {
+        "question": "What is 0.05 × 0.02?",
+        "options": ["0.001", "0.01", "0.1"],
+        "answer": "A",
+        "explanation": "Multiply 5 × 2 = 10, then adjust for four decimal places: 0.05 × 0.02 = 0.001."
+      },
+      {
+        "question": "If you have Rs. 10 and you spend Rs. 2.75, how much do you have left?",
+        "options": ["Rs. 7.25", "Rs. 7.50", "Rs. 8.00"],
+        "answer": "A",
+        "explanation": "Subtract 2.75 from 10: 10.00 - 2.75 = 7.25."
+      },
+      {
+        "question": "Convert 7/10 to a decimal.",
+        "options": ["0.7", "0.07", "7.0"],
+        "answer": "A",
+        "explanation": "Divide 7 by 10: 7 ÷ 10 = 0.7."
+      },
+      {
+        "question": "What is 0.9 ÷ 0.3?",
+        "options": ["3", "0.3", "30"],
+        "answer": "A",
+        "explanation": "0.9 ÷ 0.3 = 3. Convert to fractions: 9/10 ÷ 3/10 = 9/3 = 3."
+      },
+      {
+        "question": "Which is smaller: 0.08 or 0.080?",
+        "options": ["0.08", "0.080", "They are equal"],
+        "answer": "C",
+        "explanation": "0.08 and 0.080 are the same value; the extra zero does not change the number."
+      },
+      {
+        "question": "Add 1.23 + 2.34 + 3.45.",
+        "options": ["6.02", "7.02", "8.02"],
+        "answer": "B",
+        "explanation": "First, 1.23 + 2.34 = 3.57, then 3.57 + 3.45 = 7.02."
+      },
+      {
+        "question": "If a rectangle has a length of 4.5 cm and a breadth of 2.5 cm, what is its area?",
+        "options": ["11.25 cm²", "12.5 cm²", "10 cm²"],
+        "answer": "A",
+        "explanation": "Area = length × breadth = 4.5 × 2.5 = 11.25 cm²."
+      }
+    ]
+  }

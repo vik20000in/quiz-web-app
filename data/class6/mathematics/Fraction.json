@@ -1,0 +1,154 @@
+{
+    "questions": [
+      {
+        "question": "What is the fraction of shaded parts in a circle divided into 8 equal parts, with 3 shaded?",
+        "options": ["3/8", "5/8", "8/3"],
+        "answer": "A",
+        "explanation": "The circle is divided into 8 equal parts, and 3 are shaded. Thus, the fraction is 3/8."
+      },
+      {
+        "question": "Which of the following is equivalent to 2/3?",
+        "options": ["4/6", "3/4", "2/5"],
+        "answer": "A",
+        "explanation": "Multiply numerator and denominator by 2: (2*2)/(3*2) = 4/6, which is equivalent to 2/3."
+      },
+      {
+        "question": "Which fraction is greater: 3/4 or 2/3?",
+        "options": ["3/4", "2/3", "They are equal"],
+        "answer": "A",
+        "explanation": "Find a common denominator, like 12. Convert: 3/4 = 9/12, 2/3 = 8/12. Since 9/12 > 8/12, 3/4 is greater."
+      },
+      {
+        "question": "What is the sum of 1/2 and 1/3?",
+        "options": ["2/5", "5/6", "3/5"],
+        "answer": "B",
+        "explanation": "Find a common denominator, which is 6. Convert: 1/2 = 3/6, 1/3 = 2/6. Add: 3/6 + 2/6 = 5/6."
+      },
+      {
+        "question": "Subtract 1/4 from 3/4.",
+        "options": ["1/2", "1/4", "2/4"],
+        "answer": "A",
+        "explanation": "Since the denominators are the same, subtract numerators: 3/4 - 1/4 = 2/4, which simplifies to 1/2."
+      },
+      {
+        "question": "What is 2/3 of 12?",
+        "options": ["8", "6", "4"],
+        "answer": "A",
+        "explanation": "Multiply 12 by 2/3: 12 * 2/3 = (12*2)/3 = 24/3 = 8."
+      },
+      {
+        "question": "Divide 3/4 by 1/2.",
+        "options": ["3/2", "1/2", "3/8"],
+        "answer": "A",
+        "explanation": "Dividing by a fraction is the same as multiplying by its reciprocal: 3/4 ÷ 1/2 = 3/4 * 2/1 = 6/4 = 3/2."
+      },
+      {
+        "question": "What is the reciprocal of 5/6?",
+        "options": ["6/5", "5/6", "1/5"],
+        "answer": "A",
+        "explanation": "The reciprocal of a fraction is obtained by swapping the numerator and denominator: reciprocal of 5/6 is 6/5."
+      },
+      {
+        "question": "Simplify 8/12 to its lowest terms.",
+        "options": ["2/3", "4/6", "1/2"],
+        "answer": "A",
+        "explanation": "Divide numerator and denominator by the greatest common divisor (GCD), which is 4: 8÷4/12÷4 = 2/3."
+      },
+      {
+        "question": "Which of the following is a proper fraction?",
+        "options": ["5/4", "3/3", "2/5"],
+        "answer": "C",
+        "explanation": "A proper fraction has a numerator smaller than the denominator, like 2/5."
+      },
+      {
+        "question": "What is the mixed number for 7/2?",
+        "options": ["3 1/2", "2 1/2", "3 2/1"],
+        "answer": "A",
+        "explanation": "Divide 7 by 2: 2 goes into 7 three times (2*3=6), with a remainder of 1. So, 7/2 = 3 1/2."
+      },
+      {
+        "question": "Convert 2 3/4 to an improper fraction.",
+        "options": ["11/4", "8/4", "7/4"],
+        "answer": "A",
+        "explanation": "Multiply the whole number by the denominator: 2*4=8, then add the numerator: 8+3=11. So, 2 3/4 = 11/4."
+      },
+      {
+        "question": "What is 1/2 + 1/4?",
+        "options": ["3/4", "2/4", "1/2"],
+        "answer": "A",
+        "explanation": "Find a common denominator, which is 4. Convert 1/2 to 2/4, then add: 2/4 + 1/4 = 3/4."
+      },
+      {
+        "question": "Subtract 2/5 from 3/5.",
+        "options": ["1/5", "2/5", "3/5"],
+        "answer": "A",
+        "explanation": "Since the denominators are the same, subtract numerators: 3/5 - 2/5 = 1/5."
+      },
+      {
+        "question": "Multiply 3/4 by 2/3.",
+        "options": ["1/2", "3/6", "6/12"],
+        "answer": "A",
+        "explanation": "Multiply numerators: 3*2=6, and denominators: 4*3=12. So, 6/12 simplifies to 1/2."
+      },
+      {
+        "question": "What is 1/3 of 18?",
+        "options": ["6", "9", "3"],
+        "answer": "A",
+        "explanation": "Multiply 18 by 1/3: 18 * 1/3 = 18/3 = 6."
+      },
+      {
+        "question": "Divide 4/5 by 2/5.",
+        "options": ["2", "4/5", "2/5"],
+        "answer": "A",
+        "explanation": "Dividing fractions: 4/5 ÷ 2/5 = 4/5 * 5/2 = 20/10 = 2."
+      },
+      {
+        "question": "If you have 3/4 of a pizza and you eat 1/2 of it, how much pizza is left?",
+        "options": ["1/4", "1/2", "3/8"],
+        "answer": "C",
+        "explanation": "First, find how much you ate: 1/2 of 3/4 = (1/2)*(3/4) = 3/8. Then, subtract from the original: 3/4 - 3/8. Convert to eighths: 6/8 - 3/8 = 3/8."
+      },
+      {
+        "question": "Which fraction is equivalent to 4/5?",
+        "options": ["8/10", "6/8", "5/4"],
+        "answer": "A",
+        "explanation": "Multiply numerator and denominator by 2: 4*2/5*2 = 8/10, which is equivalent to 4/5."
+      },
+      {
+        "question": "Arrange the fractions in ascending order: 1/2, 1/3, 1/4",
+        "options": ["1/4, 1/3, 1/2", "1/2, 1/3, 1/4", "1/3, 1/4, 1/2"],
+        "answer": "A",
+        "explanation": "Since the numerators are the same, the larger the denominator, the smaller the fraction. So, 1/4 < 1/3 < 1/2."
+      },
+      {
+        "question": "What is 2/3 + 1/6?",
+        "options": ["5/6", "3/6", "4/6"],
+        "answer": "A",
+        "explanation": "Find a common denominator, which is 6. Convert 2/3 to 4/6, then add: 4/6 + 1/6 = 5/6."
+      },
+      {
+        "question": "Subtract 1/5 from 1/2.",
+        "options": ["3/10", "1/10", "2/10"],
+        "answer": "A",
+        "explanation": "Find a common denominator, which is 10. Convert: 1/2 = 5/10, 1/5 = 2/10. Subtract: 5/10 - 2/10 = 3/10."
+      },
+      {
+        "question": "What is 3/4 of 20?",
+        "options": ["15", "12", "18"],
+        "answer": "A",
+        "explanation": "Multiply 20 by 3/4: 20 * 3/4 = (20*3)/4 = 60/4 = 15."
+      },
+      {
+        "question": "Divide 5/6 by 1/3.",
+        "options": ["5/2", "1/2", "5/18"],
+        "answer": "A",
+        "explanation": "Dividing by a fraction: 5/6 ÷ 1/3 = 5/6 * 3/1 = 15/6 = 5/2."
+      },
+      {
+        "question": "If a recipe calls for 2/3 cup of sugar and you want to make half the recipe, how much sugar do you need?",
+        "options": ["1/3 cup", "1/2 cup", "2/3 cup"],
+        "answer": "A",
+        "explanation": "Half of 2/3 is (1/2)*(2/3) = 2/6 = 1/3 cup."
+      }
+    ]
+  }
