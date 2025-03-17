@@ -1,0 +1,244 @@
+{
+    "questions": [
+      {
+        "question": "Identify the preposition in the sentence: 'The cat is on the table.'",
+        "options": ["cat", "is", "on"],
+        "answer": "C",
+        "explanation": "A preposition shows the relationship between a noun and another word. 'On' shows the position of the cat relative to the table."
+      },
+      {
+        "question": "Choose the correct preposition: 'I will meet you ___ 5 PM.'",
+        "options": ["at", "in", "on"],
+        "answer": "A",
+        "explanation": "'At' is used for specific times, like '5 PM.'"
+      },
+      {
+        "question": "Fill in the blank: 'The book is ___ the shelf.'",
+        "options": ["under", "on", "beside"],
+        "answer": "B",
+        "explanation": "'On' indicates the book’s position on top of the shelf."
+      },
+      {
+        "question": "Which preposition fits: 'We play cricket ___ the evening.'",
+        "options": ["in", "on", "at"],
+        "answer": "A",
+        "explanation": "'In' is used for parts of the day, like 'the evening.'"
+      },
+      {
+        "question": "Identify the preposition: 'She walked to school.'",
+        "options": ["she", "walked", "to"],
+        "answer": "C",
+        "explanation": "'To' shows direction toward the school."
+      },
+      {
+        "question": "Choose the correct preposition: 'The kite is flying ___ the sky.'",
+        "options": ["in", "on", "at"],
+        "answer": "A",
+        "explanation": "'In' is used for something contained within a large space, like 'the sky.'"
+      },
+      {
+        "question": "Fill in the blank: 'He lives ___ Mumbai.'",
+        "options": ["at", "in", "on"],
+        "answer": "B",
+        "explanation": "'In' is used for cities or large areas, like 'Mumbai.'"
+      },
+      {
+        "question": "Which preposition is correct: 'The picture is ___ the wall.'",
+        "options": ["on", "in", "under"],
+        "answer": "A",
+        "explanation": "'On' shows the picture’s position attached to the wall."
+      },
+      {
+        "question": "Correct the sentence: 'She sat at the chair.'",
+        "options": ["She sat on the chair.", "She sat in the chair.", "Both A and B"],
+        "answer": "C",
+        "explanation": "Both 'on' (surface) and 'in' (enclosed chair) can work depending on the context."
+      },
+      {
+        "question": "Choose the preposition: 'We will travel ___ Diwali.'",
+        "options": ["on", "during", "at"],
+        "answer": "B",
+        "explanation": "'During' is used for events or periods, like 'Diwali.'"
+      },
+      {
+        "question": "Fill in the blank: 'The ball rolled ___ the hill.'",
+        "options": ["down", "up", "across"],
+        "answer": "A",
+        "explanation": "'Down' shows the direction of the ball’s movement."
+      },
+      {
+        "question": "Identify the preposition: 'The dog ran across the road.'",
+        "options": ["ran", "across", "road"],
+        "answer": "B",
+        "explanation": "'Across' shows movement from one side to the other."
+      },
+      {
+        "question": "Which preposition fits: 'I was born ___ 2012.'",
+        "options": ["in", "on", "at"],
+        "answer": "A",
+        "explanation": "'In' is used for years, like '2012.'"
+      },
+      {
+        "question": "Choose the correct preposition: 'The pen is ___ the table.'",
+        "options": ["under", "over", "in"],
+        "answer": "A",
+        "explanation": "'Under' indicates the pen is below the table."
+      },
+      {
+        "question": "Fill in the blank: 'She stood ___ the door.'",
+        "options": ["beside", "behind", "between"],
+        "answer": "B",
+        "explanation": "'Behind' means at the back of the door."
+      },
+      {
+        "question": "Which sentence uses the preposition correctly?",
+        "options": ["He jumped on the river.", "He jumped into the river.", "He jumped at the river."],
+        "answer": "B",
+        "explanation": "'Into' shows movement entering the river."
+      },
+      {
+        "question": "Identify the preposition: 'We waited for the bus.'",
+        "options": ["waited", "for", "bus"],
+        "answer": "B",
+        "explanation": "'For' shows the purpose or object of waiting."
+      },
+      {
+        "question": "Choose the preposition: 'The cat slept ___ the bed.'",
+        "options": ["on", "in", "at"],
+        "answer": "A",
+        "explanation": "'On' shows the cat’s position on the surface of the bed."
+      },
+      {
+        "question": "Fill in the blank: 'They arrived ___ Monday.'",
+        "options": ["in", "on", "at"],
+        "answer": "B",
+        "explanation": "'On' is used for specific days, like 'Monday.'"
+      },
+      {
+        "question": "Which preposition is correct: 'The shop is ___ the corner.'",
+        "options": ["at", "on", "in"],
+        "answer": "A",
+        "explanation": "'At' is used for specific points, like 'the corner.'"
+      },
+      {
+        "question": "Correct the sentence: 'He lives on Delhi.'",
+        "options": ["He lives in Delhi.", "He lives at Delhi.", "He lives over Delhi."],
+        "answer": "A",
+        "explanation": "'In' is used for cities, like 'Delhi.'"
+      },
+      {
+        "question": "Choose the preposition: 'The bird flew ___ the tree.'",
+        "options": ["over", "under", "beside"],
+        "answer": "A",
+        "explanation": "'Over' shows the bird flew above the tree."
+      },
+      {
+        "question": "Fill in the blank: 'The children are playing ___ the park.'",
+        "options": ["in", "on", "at"],
+        "answer": "A",
+        "explanation": "'In' is used for enclosed spaces, like 'the park.'"
+      },
+      {
+        "question": "Identify the preposition: 'She wrote with a pen.'",
+        "options": ["wrote", "with", "pen"],
+        "answer": "B",
+        "explanation": "'With' shows the tool used for writing."
+      },
+      {
+        "question": "Which preposition fits: 'I will finish this ___ an hour.'",
+        "options": ["in", "on", "at"],
+        "answer": "A",
+        "explanation": "'In' is used for a period of time, like 'an hour.'"
+      },
+      {
+        "question": "Choose the correct preposition: 'He climbed ___ the ladder.'",
+        "options": ["up", "down", "across"],
+        "answer": "A",
+        "explanation": "'Up' shows the direction of climbing."
+      },
+      {
+        "question": "Fill in the blank: 'The book belongs ___ me.'",
+        "options": ["to", "for", "with"],
+        "answer": "A",
+        "explanation": "'To' shows ownership or belonging."
+      },
+      {
+        "question": "Which sentence is correct?",
+        "options": ["She is sitting at the sofa.", "She is sitting on the sofa.", "She is sitting in the sofa."],
+        "answer": "B",
+        "explanation": "'On' is used for sitting on a surface, like a sofa."
+      },
+      {
+        "question": "Identify the preposition: 'The ball is between the chairs.'",
+        "options": ["ball", "between", "chairs"],
+        "answer": "B",
+        "explanation": "'Between' shows the position relative to two objects."
+      },
+      {
+        "question": "Choose the preposition: 'We go to school ___ bus.'",
+        "options": ["by", "with", "on"],
+        "answer": "A",
+        "explanation": "'By' is used for means of transport, like 'bus.'"
+      },
+      {
+        "question": "Fill in the blank: 'The meeting is ___ 10 AM.'",
+        "options": ["at", "in", "on"],
+        "answer": "A",
+        "explanation": "'At' is used for specific times, like '10 AM.'"
+      },
+      {
+        "question": "Which preposition is correct: 'The dog ran ___ the house.'",
+        "options": ["around", "through", "over"],
+        "answer": "A",
+        "explanation": "'Around' shows movement circling the house."
+      },
+      {
+        "question": "Correct the sentence: 'He is waiting at the station since morning.'",
+        "options": ["He is waiting at the station for morning.", "He has been waiting at the station since morning.", "He waits at the station since morning."],
+        "answer": "B",
+        "explanation": "'Since' needs a perfect tense for duration, so 'has been waiting' is correct."
+      },
+      {
+        "question": "Choose the preposition: 'The clock is ___ the wall.'",
+        "options": ["on", "in", "at"],
+        "answer": "A",
+        "explanation": "'On' shows the clock’s position attached to the wall."
+      },
+      {
+        "question": "Fill in the blank: 'She walked ___ the room.'",
+        "options": ["into", "onto", "over"],
+        "answer": "A",
+        "explanation": "'Into' shows movement entering the room."
+      },
+      {
+        "question": "Identify the preposition: 'They sat beside the river.'",
+        "options": ["sat", "beside", "river"],
+        "answer": "B",
+        "explanation": "'Beside' shows the position next to the river."
+      },
+      {
+        "question": "Which preposition fits: 'The festival is ___ October.'",
+        "options": ["in", "on", "at"],
+        "answer": "A",
+        "explanation": "'In' is used for months, like 'October.'"
+      },
+      {
+        "question": "Choose the correct preposition: 'He threw the ball ___ the window.'",
+        "options": ["through", "over", "under"],
+        "answer": "A",
+        "explanation": "'Through' shows the ball passed into and out of the window."
+      },
+      {
+        "question": "Fill in the blank: 'The teacher stood ___ the students.'",
+        "options": ["among", "between", "beside"],
+        "answer": "A",
+        "explanation": "'Among' is used for more than two people or things."
+      },
+      {
+        "question": "Which sentence uses the preposition correctly?",
+        "options": ["The cat is in the roof.", "The cat is on the roof.", "The cat is at the roof."],
+        "answer": "B",
+        "explanation": "'On' is used for a surface, like 'the roof.'"
+      }
+    ]
+  }

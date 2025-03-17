@@ -15,7 +15,7 @@
                 {
                     "name": "Science",
                     "subcategories": [
-                        { "name": "Living Organisms", "path": "class6/science/living_organisms.json" }
+                        { "name": "Living Organisms", "path": "class6/Science/living_organisms.json" }
                       
                     ]
                 },
@@ -25,7 +25,12 @@
                         { "name": "Adjectives", "path": "class6/EnglishGrammer/Adjectives.json" },
                         { "name": "Adverbs", "path": "class6/EnglishGrammer/Adverbs.json" },
                         { "name": "Conjunctions", "path": "class6/EnglishGrammer/Conjunctions.json" },
-                        { "name":"direct to indirect", "path":"class6/EnglishGrammer/directtoindirect.json"}
+                        { "name":"direct to indirect", "path":"class6/EnglishGrammer/directtoindirect.json"},
+                        { "name":"nouns", "path":"class6/EnglishGrammer/nouns.json"},
+                        { "name":"prepositions", "path":"class6/EnglishGrammer/prepositions.json"},
+                        { "name":"pronouns", "path":"class6/EnglishGrammer/pronouns.json"},
+                        { "name":"tenses", "path":"class6/EnglishGrammer/tenses.json"},
+                        { "name":"verbs", "path":"class6/EnglishGrammer/verbs.json"}
                     ]
                 }
             ]

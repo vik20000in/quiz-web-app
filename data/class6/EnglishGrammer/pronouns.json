@@ -1,0 +1,244 @@
+{
+    "questions": [
+      {
+        "question": "Identify the pronoun in the sentence: 'She is reading a book.'",
+        "options": ["is", "she", "book"],
+        "answer": "B",
+        "explanation": "A pronoun replaces a noun. 'She' replaces a person’s name."
+      },
+      {
+        "question": "Choose the correct pronoun: 'Ravi and ___ are playing cricket.'",
+        "options": ["I", "me", "mine"],
+        "answer": "A",
+        "explanation": "'I' is a subject pronoun used with 'Ravi' to perform the action 'playing.'"
+      },
+      {
+        "question": "Fill in the blank: 'This is ___ pencil.'",
+        "options": ["my", "mine", "me"],
+        "answer": "A",
+        "explanation": "'My' is a possessive adjective used before a noun like 'pencil.'"
+      },
+      {
+        "question": "Which pronoun fits: '___ is your teacher?'",
+        "options": ["Who", "What", "Which"],
+        "answer": "A",
+        "explanation": "'Who' is an interrogative pronoun used to ask about a person."
+      },
+      {
+        "question": "Identify the possessive pronoun: 'The bag is hers.'",
+        "options": ["bag", "is", "hers"],
+        "answer": "C",
+        "explanation": "'Hers' is a possessive pronoun showing ownership."
+      },
+      {
+        "question": "Choose the correct pronoun: 'The students enjoyed ___ during the picnic.'",
+        "options": ["themselves", "them", "their"],
+        "answer": "A",
+        "explanation": "'Themselves' is a reflexive pronoun showing the students enjoyed their own company."
+      },
+      {
+        "question": "Fill in the blank: '___ book is this?'",
+        "options": ["Whose", "Who", "Which"],
+        "answer": "A",
+        "explanation": "'Whose' is an interrogative pronoun asking about ownership."
+      },
+      {
+        "question": "Which is a demonstrative pronoun?",
+        "options": ["this", "he", "me"],
+        "answer": "A",
+        "explanation": "'This' points to a specific thing, making it a demonstrative pronoun."
+      },
+      {
+        "question": "Correct the sentence: 'Me and my friend went to school.'",
+        "options": ["My friend and I went to school.", "Me and my friend go to school.", "I and my friend went to school."],
+        "answer": "A",
+        "explanation": "'I' is the subject pronoun, and it’s polite to put others first."
+      },
+      {
+        "question": "Choose the pronoun: '___ is standing at the gate?'",
+        "options": ["Who", "What", "Where"],
+        "answer": "A",
+        "explanation": "'Who' asks about a person."
+      },
+      {
+        "question": "Fill in the blank: 'The dog licked ___ paws.'",
+        "options": ["its", "it’s", "their"],
+        "answer": "A",
+        "explanation": "'Its' is a possessive pronoun for the dog."
+      },
+      {
+        "question": "Identify the reflexive pronoun: 'She made the dress herself.'",
+        "options": ["she", "made", "herself"],
+        "answer": "C",
+        "explanation": "'Herself' reflects the action back to 'she.'"
+      },
+      {
+        "question": "Which pronoun fits: 'The boy ___ won the race is my friend.'",
+        "options": ["who", "which", "that"],
+        "answer": "A",
+        "explanation": "'Who' is a relative pronoun used for people."
+      },
+      {
+        "question": "Choose the correct pronoun: 'This is the book ___ I borrowed.'",
+        "options": ["that", "who", "whose"],
+        "answer": "A",
+        "explanation": "'That' is a relative pronoun used for things."
+      },
+      {
+        "question": "Fill in the blank: 'They helped ___ with the homework.'",
+        "options": ["each other", "them", "their"],
+        "answer": "A",
+        "explanation": "'Each other' shows mutual action between 'they.'"
+      },
+      {
+        "question": "Which is a personal pronoun?",
+        "options": ["you", "this", "whose"],
+        "answer": "A",
+        "explanation": "'You' refers to a person directly."
+      },
+      {
+        "question": "Identify the pronoun: 'We enjoyed our trip to Kolkata.'",
+        "options": ["we", "enjoyed", "trip"],
+        "answer": "A",
+        "explanation": "'We' replaces the names of people."
+      },
+      {
+        "question": "Choose the correct pronoun: 'The teacher gave ___ a prize.'",
+        "options": ["he", "him", "his"],
+        "answer": "B",
+        "explanation": "'Him' is an object pronoun receiving the prize."
+      },
+      {
+        "question": "Fill in the blank: '___ is your favorite color?'",
+        "options": ["What", "Who", "Which"],
+        "answer": "C",
+        "explanation": "'Which' asks about a choice among options."
+      },
+      {
+        "question": "Which pronoun is correct: 'The girls painted ___ nails.'",
+        "options": ["their", "theirs", "them"],
+        "answer": "A",
+        "explanation": "'Their' is a possessive adjective used before 'nails.'"
+      },
+      {
+        "question": "Correct the sentence: 'Him and I are friends.'",
+        "options": ["He and I are friends.", "Him and me are friends.", "He and me are friends."],
+        "answer": "A",
+        "explanation": "'He' and 'I' are subject pronouns for the sentence."
+      },
+      {
+        "question": "Choose the pronoun: '___ house is this?'",
+        "options": ["Whose", "Who", "What"],
+        "answer": "A",
+        "explanation": "'Whose' asks about possession."
+      },
+      {
+        "question": "Fill in the blank: 'The pen is ___.'",
+        "options": ["mine", "my", "me"],
+        "answer": "A",
+        "explanation": "'Mine' is a possessive pronoun standing alone."
+      },
+      {
+        "question": "Identify the demonstrative pronoun: 'Those are my shoes.'",
+        "options": ["those", "are", "my"],
+        "answer": "A",
+        "explanation": "'Those' points to specific items."
+      },
+      {
+        "question": "Which pronoun fits: 'I hurt ___ when I fell.'",
+        "options": ["myself", "me", "mine"],
+        "answer": "A",
+        "explanation": "'Myself' is a reflexive pronoun showing I hurt my own self."
+      },
+      {
+        "question": "Choose the correct pronoun: 'The bag belongs to ___.'",
+        "options": ["she", "her", "hers"],
+        "answer": "B",
+        "explanation": "'Her' is the object of the preposition 'to.'"
+      },
+      {
+        "question": "Fill in the blank: '___ is knocking at the door?'",
+        "options": ["Who", "What", "Which"],
+        "answer": "A",
+        "explanation": "'Who' asks about a person."
+      },
+      {
+        "question": "Which is a relative pronoun?",
+        "options": ["that", "this", "me"],
+        "answer": "A",
+        "explanation": "'That' connects a clause to a noun."
+      },
+      {
+        "question": "Identify the pronoun: 'These are my friends.'",
+        "options": ["these", "are", "friends"],
+        "answer": "A",
+        "explanation": "'These' is a demonstrative pronoun pointing to 'friends.'"
+      },
+      {
+        "question": "Choose the correct pronoun: 'The teacher spoke to ___.'",
+        "options": ["we", "us", "our"],
+        "answer": "B",
+        "explanation": "'Us' is an object pronoun after 'to.'"
+      },
+      {
+        "question": "Fill in the blank: 'They painted the house ___.'",
+        "options": ["themselves", "them", "their"],
+        "answer": "A",
+        "explanation": "'Themselves' shows they did it on their own."
+      },
+      {
+        "question": "Which pronoun is correct: 'This is the boy ___ won the prize.'",
+        "options": ["who", "which", "whose"],
+        "answer": "A",
+        "explanation": "'Who' refers to a person in a relative clause."
+      },
+      {
+        "question": "Correct the sentence: 'Her and me went to the park.'",
+        "options": ["She and I went to the park.", "Her and I went to the park.", "She and me went to the park."],
+        "answer": "A",
+        "explanation": "'She' and 'I' are subject pronouns."
+      },
+      {
+        "question": "Choose the pronoun: '___ dog is barking?'",
+        "options": ["Whose", "Who", "What"],
+        "answer": "A",
+        "explanation": "'Whose' asks about ownership."
+      },
+      {
+        "question": "Fill in the blank: 'The car is ___.'",
+        "options": ["ours", "our", "us"],
+        "answer": "A",
+        "explanation": "'Ours' is a possessive pronoun standing alone."
+      },
+      {
+        "question": "Identify the reflexive pronoun: 'We enjoyed ourselves at the party.'",
+        "options": ["we", "enjoyed", "ourselves"],
+        "answer": "C",
+        "explanation": "'Ourselves' reflects the action back to 'we.'"
+      },
+      {
+        "question": "Which pronoun fits: 'The girl ___ bag is red is my sister.'",
+        "options": ["whose", "who", "that"],
+        "answer": "A",
+        "explanation": "'Whose' shows possession in a relative clause."
+      },
+      {
+        "question": "Choose the correct pronoun: 'The teacher gave the book to ___.'",
+        "options": ["they", "them", "their"],
+        "answer": "B",
+        "explanation": "'Them' is an object pronoun after 'to.'"
+      },
+      {
+        "question": "Fill in the blank: '___ are you talking to?'",
+        "options": ["Who", "What", "Which"],
+        "answer": "A",
+        "explanation": "'Who' asks about a person."
+      },
+      {
+        "question": "Which sentence uses the pronoun correctly?",
+        "options": ["Me like ice cream.", "I like ice cream.", "Mine like ice cream."],
+        "answer": "B",
+        "explanation": "'I' is the subject pronoun for the action 'like.'"
+      }
+    ]
+  }

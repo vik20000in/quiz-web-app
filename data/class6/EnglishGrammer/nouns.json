@@ -1,0 +1,244 @@
+{
+    "questions": [
+      {
+        "question": "Identify the proper noun in the sentence: 'Priya studies at DPS Megacity.'",
+        "options": ["Priya", "studies", "at"],
+        "answer": "A",
+        "explanation": "A proper noun is a specific name of a person, place, or thing. 'Priya' is a specific name of a person."
+      },
+      {
+        "question": "Which of the following is a common noun?",
+        "options": ["Kolkata", "city", "India"],
+        "answer": "B",
+        "explanation": "A common noun is a general name for a person, place, or thing. 'City' is a general term, while 'Kolkata' and 'India' are specific names (proper nouns)."
+      },
+      {
+        "question": "Choose the collective noun: 'A ___ of players won the match.'",
+        "options": ["team", "ball", "game"],
+        "answer": "A",
+        "explanation": "A collective noun refers to a group of people or things. 'Team' refers to a group of players."
+      },
+      {
+        "question": "Which of these is an abstract noun?",
+        "options": ["love", "chair", "school"],
+        "answer": "A",
+        "explanation": "An abstract noun names an idea, feeling, or quality that cannot be seen or touched. 'Love' is a feeling."
+      },
+      {
+        "question": "Identify the concrete noun in the sentence: 'The dog chased the ball.'",
+        "options": ["dog", "chased", "the"],
+        "answer": "A",
+        "explanation": "A concrete noun names a physical object that can be seen or touched. 'Dog' is a physical object."
+      },
+      {
+        "question": "Which of the following is a countable noun?",
+        "options": ["milk", "pen", "rice"],
+        "answer": "B",
+        "explanation": "Countable nouns can be counted individually. 'Pen' can be counted (one pen, two pens), while 'milk' and 'rice' are uncountable."
+      },
+      {
+        "question": "Choose the uncountable noun: 'We need some ___ for the recipe.'",
+        "options": ["eggs", "water", "apples"],
+        "answer": "B",
+        "explanation": "Uncountable nouns cannot be counted individually. 'Water' is uncountable, while 'eggs' and 'apples' are countable."
+      },
+      {
+        "question": "Fill in the blank with the correct article: '___ elephant is a big animal.'",
+        "options": ["A", "An", "The"],
+        "answer": "B",
+        "explanation": "We use 'an' before words that start with a vowel sound. 'Elephant' starts with a vowel sound, so 'an' is correct."
+      },
+      {
+        "question": "Which sentence uses the possessive noun correctly?",
+        "options": ["The childrens' books are new.", "The children's books are new.", "The children books are new."],
+        "answer": "B",
+        "explanation": "Possessive nouns show ownership. 'Children's' correctly shows that the books belong to the children."
+      },
+      {
+        "question": "Identify the masculine noun: 'The ___ is driving the car.'",
+        "options": ["man", "woman", "driver"],
+        "answer": "A",
+        "explanation": "Masculine nouns refer to males. 'Man' is a male, while 'woman' is female, and 'driver' can be either."
+      },
+      {
+        "question": "Which of the following is a feminine noun?",
+        "options": ["father", "mother", "uncle"],
+        "answer": "B",
+        "explanation": "Feminine nouns refer to females. 'Mother' is a female, while 'father' and 'uncle' are males."
+      },
+      {
+        "question": "Choose the neuter noun: 'The ___ is on the desk.'",
+        "options": ["pencil", "boy", "girl"],
+        "answer": "A",
+        "explanation": "Neuter nouns refer to things that are neither male nor female. 'Pencil' is a thing."
+      },
+      {
+        "question": "Which of these is a common gender noun?",
+        "options": ["student", "brother", "sister"],
+        "answer": "A",
+        "explanation": "Common gender nouns can refer to both males and females. 'Student' can be male or female."
+      },
+      {
+        "question": "Identify the noun in the sentence: 'The bright sun shines every day.'",
+        "options": ["bright", "sun", "shines"],
+        "answer": "B",
+        "explanation": "A noun is a word that names a person, place, or thing. 'Sun' is a thing."
+      },
+      {
+        "question": "Which of the following is not a noun?",
+        "options": ["table", "jump", "river"],
+        "answer": "B",
+        "explanation": "'Jump' is a verb, while 'table' and 'river' are nouns."
+      },
+      {
+        "question": "Choose the correct plural form of 'baby.'",
+        "options": ["babys", "babies", "babyes"],
+        "answer": "B",
+        "explanation": "The plural of 'baby' is 'babies.' The 'y' changes to 'ies' in the plural form."
+      },
+      {
+        "question": "Fill in the blank: 'There are many ___ in the park.'",
+        "options": ["tree", "trees", "tree's"],
+        "answer": "B",
+        "explanation": "We need the plural form of 'tree' to match the plural verb 'are.'"
+      },
+      {
+        "question": "Which sentence has a proper noun?",
+        "options": ["The bird is flying.", "Mumbai is a big city.", "The tree is tall."],
+        "answer": "B",
+        "explanation": "'Mumbai' is a proper noun because it is a specific name of a place."
+      },
+      {
+        "question": "Identify the abstract noun: 'She feels a lot of ___.'",
+        "options": ["toys", "joy", "chairs"],
+        "answer": "B",
+        "explanation": "'Joy' is an abstract noun because it is a feeling."
+      },
+      {
+        "question": "Choose the collective noun: 'A ___ of birds flew overhead.'",
+        "options": ["flock", "group", "pair"],
+        "answer": "A",
+        "explanation": "'Flock' is a collective noun for a group of birds."
+      },
+      {
+        "question": "Which of the following is a countable noun?",
+        "options": ["sugar", "book", "salt"],
+        "answer": "B",
+        "explanation": "'Book' can be counted (one book, two books), while 'sugar' and 'salt' are uncountable."
+      },
+      {
+        "question": "Fill in the blank with the correct article: '___ earth is round.'",
+        "options": ["A", "An", "The"],
+        "answer": "C",
+        "explanation": "We use 'the' before specific nouns like 'earth' because there is only one Earth."
+      },
+      {
+        "question": "Which sentence uses the possessive noun correctly?",
+        "options": ["The boys' kite is high.", "The boy kite is high.", "The boys kite is high."],
+        "answer": "A",
+        "explanation": "'Boys'' shows that the kite belongs to more than one boy."
+      },
+      {
+        "question": "Identify the masculine noun: 'The ___ is singing a song.'",
+        "options": ["king", "queen", "singer"],
+        "answer": "A",
+        "explanation": "'King' is a masculine noun because it refers to a male."
+      },
+      {
+        "question": "Which of the following is a feminine noun?",
+        "options": ["prince", "princess", "hero"],
+        "answer": "B",
+        "explanation": "'Princess' is a feminine noun because it refers to a female."
+      },
+      {
+        "question": "Choose the neuter noun: 'The ___ is ringing.'",
+        "options": ["bell", "man", "lady"],
+        "answer": "A",
+        "explanation": "'Bell' is a neuter noun because it is a thing."
+      },
+      {
+        "question": "Which of these is a common gender noun?",
+        "options": ["friend", "father", "mother"],
+        "answer": "A",
+        "explanation": "'Friend' can refer to both males and females."
+      },
+      {
+        "question": "Identify the noun in the sentence: 'The noisy children are playing.'",
+        "options": ["noisy", "children", "playing"],
+        "answer": "B",
+        "explanation": "'Children' is a noun because it names people."
+      },
+      {
+        "question": "Which of the following is not a noun?",
+        "options": ["happiness", "sing", "school"],
+        "answer": "B",
+        "explanation": "'Sing' is a verb, while 'happiness' and 'school' are nouns."
+      },
+      {
+        "question": "Choose the correct plural form of 'foot.'",
+        "options": ["foots", "feet", "footes"],
+        "answer": "B",
+        "explanation": "The plural of 'foot' is 'feet.'"
+      },
+      {
+        "question": "Fill in the blank: 'There is a lot of ___ in the bottle.'",
+        "options": ["juice", "juices", "juice's"],
+        "answer": "A",
+        "explanation": "'Juice' is an uncountable noun, so it does not have a plural form."
+      },
+      {
+        "question": "Which sentence has a proper noun?",
+        "options": ["The fish swims fast.", "Rani loves ice cream.", "The cow eats grass."],
+        "answer": "B",
+        "explanation": "'Rani' is a proper noun because it is a specific name."
+      },
+      {
+        "question": "Identify the abstract noun: 'He has a lot of ___.'",
+        "options": ["courage", "cars", "tables"],
+        "answer": "A",
+        "explanation": "'Courage' is an abstract noun because it is a quality."
+      },
+      {
+        "question": "Choose the collective noun: 'A ___ of ants marched by.'",
+        "options": ["colony", "group", "team"],
+        "answer": "A",
+        "explanation": "'Colony' is a collective noun for a group of ants."
+      },
+      {
+        "question": "Which of the following is a countable noun?",
+        "options": ["bread", "cake", "butter"],
+        "answer": "B",
+        "explanation": "'Cake' can be counted (one cake, two cakes), while 'bread' and 'butter' are uncountable."
+      },
+      {
+        "question": "Fill in the blank with the correct article: '___ sky is blue.'",
+        "options": ["A", "An", "The"],
+        "answer": "C",
+        "explanation": "We use 'the' before specific nouns like 'sky' because there is only one sky."
+      },
+      {
+        "question": "Which sentence uses the possessive noun correctly?",
+        "options": ["The girls' bags are heavy.", "The girl bags are heavy.", "The girls bag's are heavy."],
+        "answer": "A",
+        "explanation": "'Girls'' shows that the bags belong to more than one girl."
+      },
+      {
+        "question": "Identify the masculine noun: 'The ___ is writing a letter.'",
+        "options": ["gentleman", "lady", "person"],
+        "answer": "A",
+        "explanation": "'Gentleman' is a masculine noun because it refers to a male."
+      },
+      {
+        "question": "Which of the following is a feminine noun?",
+        "options": ["son", "daughter", "nephew"],
+        "answer": "B",
+        "explanation": "'Daughter' is a feminine noun because it refers to a female."
+      },
+      {
+        "question": "Choose the neuter noun: 'The ___ is new.'",
+        "options": ["car", "boy", "girl"],
+        "answer": "A",
+        "explanation": "'Car' is a neuter noun because it is a thing."
+      }
+    ]
+  }

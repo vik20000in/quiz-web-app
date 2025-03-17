@@ -1,0 +1,244 @@
+{
+    "questions": [
+      {
+        "question": "Identify the verb in the sentence: 'The dog barked loudly.'",
+        "options": ["dog", "barked", "loudly"],
+        "answer": "barked",
+        "explanation": "A verb is a word that shows an action. 'Barked' is the action the dog is doing."
+      },
+      {
+        "question": "Choose the correct verb: 'She ___ playing with her friends yesterday.'",
+        "options": ["is", "was"],
+        "answer": "was",
+        "explanation": "The word 'yesterday' shows the past, so 'was' is the correct past tense."
+      },
+      {
+        "question": "Fill in the blank: 'They have ___ to the market.'",
+        "options": ["go", "went", "gone"],
+        "answer": "gone",
+        "explanation": "'Have' needs the past participle form. 'Gone' is the past participle of 'go.'"
+      },
+      {
+        "question": "'Run' is a linking verb. True or false?",
+        "options": ["true", "false"],
+        "answer": "false",
+        "explanation": "'Run' shows an action, not a state, so it is an action verb, not a linking verb."
+      },
+      {
+        "question": "Which of these is an action verb?",
+        "options": ["is", "jump", "seem"],
+        "answer": "jump",
+        "explanation": "'Jump' shows a physical action. 'Is' and 'seem' are linking verbs."
+      },
+      {
+        "question": "What is the past tense of 'write'?",
+        "options": ["writed", "wrote", "written"],
+        "answer": "wrote",
+        "explanation": "'Write' is irregular, and its past tense is 'wrote.'"
+      },
+      {
+        "question": "Choose the correct verb: 'The children ___ in the park.'",
+        "options": ["play", "plays"],
+        "answer": "play",
+        "explanation": "'Children' is plural, so the verb 'play' fits."
+      },
+      {
+        "question": "Identify the helping verb: 'She can swim well.'",
+        "options": ["she", "can", "swim"],
+        "answer": "can",
+        "explanation": "'Can' helps the main verb 'swim' by showing ability."
+      },
+      {
+        "question": "What type of verb is 'look' in: 'You look tired'?",
+        "options": ["action verb", "linking verb", "helping verb"],
+        "answer": "linking verb",
+        "explanation": "'Look' connects 'you' to 'tired,' so it’s a linking verb."
+      },
+      {
+        "question": "Fill in the blank: 'The sun ___ early in the morning.'",
+        "options": ["rise", "rises"],
+        "answer": "rises",
+        "explanation": "'Sun' is singular, so 'rises' agrees with it."
+      },
+      {
+        "question": "During Diwali, people ___ crackers.",
+        "options": ["burst", "bursts"],
+        "answer": "burst",
+        "explanation": "'People' is plural, so 'burst' is correct."
+      },
+      {
+        "question": "The students of DPS Megacity ___ their lessons daily.",
+        "options": ["learn", "learns"],
+        "answer": "learn",
+        "explanation": "'Students' is plural, so 'learn' fits."
+      },
+      {
+        "question": "Choose the correct tense: 'I ___ a story last night.'",
+        "options": ["write", "wrote", "written"],
+        "answer": "wrote",
+        "explanation": "'Last night' means past tense, so 'wrote' is right."
+      },
+      {
+        "question": "What is the past tense of 'see'?",
+        "options": ["saw", "seen", "seed"],
+        "answer": "saw",
+        "explanation": "'See' is irregular, and its past tense is 'saw.'"
+      },
+      {
+        "question": "Fill in the blank: 'He has ___ his homework.'",
+        "options": ["do", "did", "done"],
+        "answer": "done",
+        "explanation": "'Has' uses the past participle 'done' for 'do.'"
+      },
+      {
+        "question": "Identify the verb: 'The kite flies high.'",
+        "options": ["kite", "flies", "high"],
+        "answer": "flies",
+        "explanation": "'Flies' is the action the kite is doing."
+      },
+      {
+        "question": "Choose the correct verb: 'We ___ cricket every evening.'",
+        "options": ["play", "plays"],
+        "answer": "play",
+        "explanation": "'We' is plural, so 'play' is correct."
+      },
+      {
+        "question": "'Am' is a linking verb. True or false?",
+        "options": ["true", "false"],
+        "answer": "true",
+        "explanation": "'Am' links the subject to a state, like 'I am happy.'"
+      },
+      {
+        "question": "Which is a helping verb?",
+        "options": ["will", "run", "look"],
+        "answer": "will",
+        "explanation": "'Will' helps show future action with another verb."
+      },
+      {
+        "question": "What type of verb is 'dance' in: 'They dance happily'?",
+        "options": ["action verb", "linking verb", "helping verb"],
+        "answer": "action verb",
+        "explanation": "'Dance' shows a physical action."
+      },
+      {
+        "question": "Correct the verb: 'She walk to school every day.'",
+        "options": ["walks", "walking", "walked"],
+        "answer": "walks",
+        "explanation": "'She' is singular, so 'walks' agrees with it."
+      },
+      {
+        "question": "Choose the correct tense: 'I ___ to school tomorrow.'",
+        "options": ["go", "will go", "went"],
+        "answer": "will go",
+        "explanation": "'Tomorrow' is future, so 'will go' is correct."
+      },
+      {
+        "question": "Fill in the blank: 'They ___ watching TV now.'",
+        "options": ["is", "are", "am"],
+        "answer": "are",
+        "explanation": "'They' is plural and it’s happening now, so 'are' fits."
+      },
+      {
+        "question": "What is the past participle of 'take'?",
+        "options": ["took", "taken", "taked"],
+        "answer": "taken",
+        "explanation": "'Taken' is the past participle of 'take.'"
+      },
+      {
+        "question": "Identify the verb: 'The teacher explains clearly.'",
+        "options": ["teacher", "explains", "clearly"],
+        "answer": "explains",
+        "explanation": "'Explains' is the action the teacher does."
+      },
+      {
+        "question": "Choose the correct verb: 'My sister ___ songs.'",
+        "options": ["sing", "sings"],
+        "answer": "sings",
+        "explanation": "'Sister' is singular, so 'sings' is right."
+      },
+      {
+        "question": "'Seem' is an action verb. True or false?",
+        "options": ["true", "false"],
+        "answer": "false",
+        "explanation": "'Seem' links the subject to a state, not an action."
+      },
+      {
+        "question": "Which is a linking verb?",
+        "options": ["run", "is", "jump"],
+        "answer": "is",
+        "explanation": "'Is' connects the subject to a description."
+      },
+      {
+        "question": "What type of verb is 'are' in: 'We are happy'?",
+        "options": ["action verb", "linking verb", "helping verb"],
+        "answer": "linking verb",
+        "explanation": "'Are' links 'we' to 'happy.'"
+      },
+      {
+        "question": "Fill in the blank: 'I ___ my lunch yesterday.'",
+        "options": ["eat", "ate", "eaten"],
+        "answer": "ate",
+        "explanation": "'Yesterday' is past, so 'ate' is the past tense of 'eat.'"
+      },
+      {
+        "question": "Choose the correct verb: 'The boys ___ football.'",
+        "options": ["play", "plays"],
+        "answer": "play",
+        "explanation": "'Boys' is plural, so 'play' fits."
+      },
+      {
+        "question": "What is the past tense of 'drink'?",
+        "options": ["drank", "drinked", "drunken"],
+        "answer": "drank",
+        "explanation": "'Drink' is irregular, and its past tense is 'drank.'"
+      },
+      {
+        "question": "Identify the helping verb: 'He has finished his work.'",
+        "options": ["he", "has", "finished"],
+        "answer": "has",
+        "explanation": "'Has' helps the main verb 'finished.'"
+      },
+      {
+        "question": "Choose the correct tense: 'She ___ a book last month.'",
+        "options": ["read", "reads", "reading"],
+        "answer": "read",
+        "explanation": "'Last month' is past, so 'read' (pronounced 'red') is correct."
+      },
+      {
+        "question": "Fill in the blank: 'He ___ running in the park.'",
+        "options": ["is", "are", "am"],
+        "answer": "is",
+        "explanation": "'He' is singular and it’s happening now, so 'is' fits."
+      },
+      {
+        "question": "'Jump' is a helping verb. True or false?",
+        "options": ["true", "false"],
+        "answer": "false",
+        "explanation": "'Jump' is an action verb, not a helping verb."
+      },
+      {
+        "question": "Which is an action verb?",
+        "options": ["seem", "dance", "be"],
+        "answer": "dance",
+        "explanation": "'Dance' shows action, unlike 'seem' or 'be.'"
+      },
+      {
+        "question": "What type of verb is 'was' in: 'It was sunny'?",
+        "options": ["action verb", "linking verb", "helping verb"],
+        "answer": "linking verb",
+        "explanation": "'Was' links 'it' to 'sunny.'"
+      },
+      {
+        "question": "Fill in the blank: 'The birds ___ in the trees.'",
+        "options": ["sing", "sings"],
+        "answer": "sing",
+        "explanation": "'Birds' is plural, so 'sing' is correct."
+      },
+      {
+        "question": "Choose the correct verb: 'My friend ___ me every day.'",
+        "options": ["call", "calls"],
+        "answer": "calls",
+        "explanation": "'Friend' is singular, so 'calls' fits."
+      }
+    ]
+  }

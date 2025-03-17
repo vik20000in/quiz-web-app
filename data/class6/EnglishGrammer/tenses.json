@@ -1,0 +1,245 @@
+
+{
+    "questions": [
+      {
+        "question": "Fill in the blank with the correct form of the verb: She ___ (read) a book every day.",
+        "options": ["reads", "is reading", "has read"],
+        "answer": "A",
+        "explanation": "The sentence describes a habit, so the Simple Present tense is used. The correct form is 'reads'."
+      },
+      {
+        "question": "Choose the correct tense for the sentence: They ___ (play) football now.",
+        "options": ["play", "are playing", "have played"],
+        "answer": "B",
+        "explanation": "The word 'now' indicates an action happening at the moment, so Present Continuous tense is used: 'are playing'."
+      },
+      {
+        "question": "Which sentence is in Present Perfect tense?",
+        "options": ["I am eating.", "I have eaten.", "I ate."],
+        "answer": "B",
+        "explanation": "Present Perfect tense is formed with 'have/has + past participle', so 'I have eaten' is correct."
+      },
+      {
+        "question": "Fill in the blank: He ___ (study) for two hours.",
+        "options": ["studies", "is studying", "has been studying"],
+        "answer": "C",
+        "explanation": "The sentence indicates an action that started in the past and is still continuing, so Present Perfect Continuous tense is used: 'has been studying'."
+      },
+      {
+        "question": "What is the correct form of the verb in Simple Past tense: She ___ (go) to the market yesterday.",
+        "options": ["goes", "went", "has gone"],
+        "answer": "B",
+        "explanation": "Simple Past tense is used for completed actions in the past. The past form of 'go' is 'went'."
+      },
+      {
+        "question": "Choose the correct tense: They ___ (watch) TV when I called.",
+        "options": ["watched", "were watching", "had watched"],
+        "answer": "B",
+        "explanation": "The sentence describes an ongoing action in the past when another action happened, so Past Continuous tense is used: 'were watching'."
+      },
+      {
+        "question": "Fill in the blank with Past Perfect tense: I ___ (eat) dinner before the movie started.",
+        "options": ["ate", "had eaten", "was eating"],
+        "answer": "B",
+        "explanation": "Past Perfect tense is used for actions completed before another past action. The correct form is 'had eaten'."
+      },
+      {
+        "question": "Which sentence is in Past Perfect Continuous tense?",
+        "options": ["He worked all day.", "He had been working all day.", "He was working all day."],
+        "answer": "B",
+        "explanation": "Past Perfect Continuous tense is formed with 'had been + verb-ing', so 'He had been working all day' is correct."
+      },
+      {
+        "question": "Fill in the blank with Simple Future tense: She ___ (visit) her grandmother tomorrow.",
+        "options": ["visits", "will visit", "is visiting"],
+        "answer": "B",
+        "explanation": "Simple Future tense is used for actions that will happen in the future. The correct form is 'will visit'."
+      },
+      {
+        "question": "Choose the correct form: They ___ (play) at 5 PM tomorrow.",
+        "options": ["play", "will play", "will be playing"],
+        "answer": "C",
+        "explanation": "Future Continuous tense is used for actions that will be ongoing at a specific time in the future: 'will be playing'."
+      },
+      {
+        "question": "Fill in the blank with Future Perfect tense: I ___ (finish) my project by next week.",
+        "options": ["finish", "will finish", "will have finished"],
+        "answer": "C",
+        "explanation": "Future Perfect tense is used for actions that will be completed by a certain future time: 'will have finished'."
+      },
+      {
+        "question": "Which sentence is in Future Perfect Continuous tense?",
+        "options": ["She will study for three hours.", "She will have been studying for three hours by 6 PM.", "She will be studying at 6 PM."],
+        "answer": "B",
+        "explanation": "Future Perfect Continuous tense is formed with 'will have been + verb-ing', indicating an action ongoing up to a future time."
+      },
+      {
+        "question": "Identify the tense in the sentence: 'I am reading a book.'",
+        "options": ["Simple Present", "Present Continuous", "Present Perfect"],
+        "answer": "B",
+        "explanation": "The sentence uses 'am reading', which is Present Continuous tense."
+      },
+      {
+        "question": "Change the sentence to Simple Past tense: 'She writes a letter.'",
+        "options": ["She wrote a letter.", "She was writing a letter.", "She has written a letter."],
+        "answer": "A",
+        "explanation": "Simple Past tense of 'writes' is 'wrote'."
+      },
+      {
+        "question": "Correct the sentence: 'I am go to school.'",
+        "options": ["I go to school.", "I am going to school.", "Both A and B are correct."],
+        "answer": "C",
+        "explanation": "Both 'I go to school' (Simple Present) and 'I am going to school' (Present Continuous) are grammatically correct, depending on the context."
+      },
+      {
+        "question": "Fill in the blank: 'They ___ (finish) their homework before dinner.'",
+        "options": ["finish", "finished", "had finished"],
+        "answer": "C",
+        "explanation": "Past Perfect tense is used because the action was completed before another past action (dinner)."
+      },
+      {
+        "question": "Which tense is used for general truths?",
+        "options": ["Simple Present", "Present Continuous", "Simple Past"],
+        "answer": "A",
+        "explanation": "Simple Present tense is used for general truths, like 'The sun rises in the east.'"
+      },
+      {
+        "question": "Choose the correct form: 'She ___ (sing) beautifully.'",
+        "options": ["sings", "is singing", "has sung"],
+        "answer": "A",
+        "explanation": "The sentence describes a general ability, so Simple Present tense is used: 'sings'."
+      },
+      {
+        "question": "Fill in the blank with Present Perfect tense: 'I ___ (see) that movie.'",
+        "options": ["see", "saw", "have seen"],
+        "answer": "C",
+        "explanation": "Present Perfect tense is used for actions completed at an unspecified time: 'have seen'."
+      },
+      {
+        "question": "Change to Past Continuous tense: 'He reads a book.'",
+        "options": ["He read a book.", "He was reading a book.", "He had read a book."],
+        "answer": "B",
+        "explanation": "Past Continuous tense is 'was/were + verb-ing': 'He was reading a book.'"
+      },
+      {
+        "question": "Identify the error: 'They has finished their work.'",
+        "options": ["'has' should be 'have'", "'finished' should be 'finish'", "No error"],
+        "answer": "A",
+        "explanation": "For plural subjects like 'they', the correct auxiliary is 'have', not 'has'."
+      },
+      {
+        "question": "Fill in the blank: 'By next year, I ___ (learn) French.'",
+        "options": ["learn", "will learn", "will have learned"],
+        "answer": "C",
+        "explanation": "Future Perfect tense is used for actions that will be completed by a future time: 'will have learned'."
+      },
+      {
+        "question": "Which sentence is in Simple Future tense?",
+        "options": ["I am going to school.", "I will go to school.", "I went to school."],
+        "answer": "B",
+        "explanation": "Simple Future tense uses 'will + base verb': 'I will go to school.'"
+      },
+      {
+        "question": "Choose the correct tense: 'She ___ (cook) dinner when the guests arrived.'",
+        "options": ["cooked", "was cooking", "had cooked"],
+        "answer": "B",
+        "explanation": "Past Continuous tense is used for an ongoing action interrupted by another action: 'was cooking'."
+      },
+      {
+        "question": "Fill in the blank with Future Continuous tense: 'At 8 PM, I ___ (watch) TV.'",
+        "options": ["watch", "will watch", "will be watching"],
+        "answer": "C",
+        "explanation": "Future Continuous tense is used for actions that will be ongoing at a specific future time: 'will be watching'."
+      },
+      {
+        "question": "Change to Present Perfect Continuous tense: 'She studies for two hours.'",
+        "options": ["She has studied for two hours.", "She has been studying for two hours.", "She is studying for two hours."],
+        "answer": "B",
+        "explanation": "Present Perfect Continuous tense emphasizes the duration of an action that started in the past and continues: 'has been studying'."
+      },
+      {
+        "question": "Identify the tense: 'They had been playing before the rain started.'",
+        "options": ["Past Continuous", "Past Perfect", "Past Perfect Continuous"],
+        "answer": "C",
+        "explanation": "The sentence uses 'had been + verb-ing', which is Past Perfect Continuous tense."
+      },
+      {
+        "question": "Correct the sentence: 'I will has finished my work by tomorrow.'",
+        "options": ["I will have finished my work by tomorrow.", "I will finished my work by tomorrow.", "I will be finish my work by tomorrow."],
+        "answer": "A",
+        "explanation": "Future Perfect tense requires 'will have + past participle': 'will have finished'."
+      },
+      {
+        "question": "Fill in the blank: 'She ___ (not, eat) breakfast yet.'",
+        "options": ["did not eat", "has not eaten", "does not eat"],
+        "answer": "B",
+        "explanation": "Present Perfect tense is used for actions not completed yet: 'has not eaten'."
+      },
+      {
+        "question": "Which tense is used for actions that will be completed before another future action?",
+        "options": ["Future Continuous", "Future Perfect", "Simple Future"],
+        "answer": "B",
+        "explanation": "Future Perfect tense is used for actions completed before a specific future time or action."
+      },
+      {
+        "question": "Choose the correct form: 'By the time you arrive, I ___ (finish) cooking.'",
+        "options": ["finish", "will finish", "will have finished"],
+        "answer": "C",
+        "explanation": "Future Perfect tense is used because the action will be completed before another future action: 'will have finished'."
+      },
+      {
+        "question": "Fill in the blank with Past Perfect Continuous tense: 'They ___ (wait) for an hour before the bus came.'",
+        "options": ["waited", "had waited", "had been waiting"],
+        "answer": "C",
+        "explanation": "Past Perfect Continuous tense is used for actions that were ongoing before another past action: 'had been waiting'."
+      },
+      {
+        "question": "Change to Simple Present tense: 'She was singing.'",
+        "options": ["She sings.", "She is singing.", "She sang."],
+        "answer": "A",
+        "explanation": "Simple Present tense of 'was singing' is 'sings'."
+      },
+      {
+        "question": "Identify the tense: 'I will have been living here for five years by next month.'",
+        "options": ["Future Continuous", "Future Perfect", "Future Perfect Continuous"],
+        "answer": "C",
+        "explanation": "The sentence uses 'will have been + verb-ing', which is Future Perfect Continuous tense."
+      },
+      {
+        "question": "Correct the sentence: 'He is play football every day.'",
+        "options": ["He plays football every day.", "He is playing football every day.", "Both are correct."],
+        "answer": "A",
+        "explanation": "For habits, Simple Present tense is used: 'He plays football every day.'"
+      },
+      {
+        "question": "Fill in the blank: 'If it ___ (rain), I will stay home.'",
+        "options": ["rains", "is raining", "has rained"],
+        "answer": "A",
+        "explanation": "In conditional sentences, Simple Present tense is used in the 'if' clause: 'If it rains'."
+      },
+      {
+        "question": "Which sentence is in Present Continuous tense?",
+        "options": ["She reads books.", "She is reading a book.", "She has read a book."],
+        "answer": "B",
+        "explanation": "Present Continuous tense is formed with 'is/are + verb-ing': 'She is reading a book.'"
+      },
+      {
+        "question": "Change to Past Perfect tense: 'They finished their work.'",
+        "options": ["They had finished their work.", "They have finished their work.", "They were finishing their work."],
+        "answer": "A",
+        "explanation": "Past Perfect tense is 'had + past participle': 'They had finished their work.'"
+      },
+      {
+        "question": "Fill in the blank with Future Perfect Continuous tense: 'By 2025, I ___ (work) here for ten years.'",
+        "options": ["will work", "will have worked", "will have been working"],
+        "answer": "C",
+        "explanation": "Future Perfect Continuous tense is used for actions that will continue up to a future point: 'will have been working'."
+      },
+      {
+        "question": "Identify the error: 'She will be go to the party.'",
+        "options": ["'be go' should be 'going'", "'will' should be 'would'", "No error"],
+        "answer": "A",
+        "explanation": "The correct form for Future Continuous tense is 'will be + verb-ing': 'She will be going to the party.'"
+      }
+    ]
+  }
