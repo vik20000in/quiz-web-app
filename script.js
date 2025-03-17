@@ -53,7 +53,7 @@ function populateCategories() {
     document.getElementById("startButton").addEventListener("click", startQuizFromSelection);
 }
 
-// Populate subcategory dropdown based on category
+// Populate subcategory dropdown
 function populateSubcategories() {
     const categoryIndex = document.getElementById("categorySelect").value;
     const subcategorySelect = document.getElementById("subcategorySelect");
@@ -70,6 +70,15 @@ function populateSubcategories() {
     }
 }
 
+// Shuffle array function
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
+
 // Start the quiz based on selection
 function startQuizFromSelection() {
     const categoryIndex = document.getElementById("categorySelect").value;
@@ -79,7 +88,9 @@ function startQuizFromSelection() {
         return;
     }
 
-    questions = allData.categories[categoryIndex].subcategories[subcategoryIndex].questions;
+    // Get and shuffle questions
+    questions = [...allData.categories[categoryIndex].subcategories[subcategoryIndex].questions];
+    shuffleArray(questions);
     document.getElementById("startContainer").style.display = "none";
     startQuiz();
 }
@@ -93,10 +104,14 @@ function startQuiz() {
     }
     console.log("Starting quiz with", questions.length, "questions.");
     score = 0;
+    currentQuestionIndex = 0;
     updateScore();
     document.getElementById("scoreContainer").style.display = "block";
     document.getElementById("quizContainer").style.display = "block";
     showQuestion();
+
+    // Add exit button functionality
+    document.getElementById("exitButton").addEventListener("click", exitQuiz);
 }
 
 // Display and speak the current question
@@ -180,15 +195,7 @@ function checkAnswer(selectedIndex) {
         if (currentQuestionIndex < questions.length) {
             showQuestion();
         } else {
-            const finalMessage = `Quiz finished! Your score: ${score} out of ${questions.length}`;
-            alert(finalMessage);
-            if (window.speechSynthesis) {
-                window.speechSynthesis.speak(new SpeechSynthesisUtterance(finalMessage));
-            }
-            document.getElementById("scoreContainer").style.display = "none";
-            document.getElementById("quizContainer").style.display = "none";
-            document.getElementById("startContainer").style.display = "block";
-            currentQuestionIndex = 0;
+            endQuiz();
         }
     }, 3000);
 }
@@ -216,7 +223,7 @@ if (recognition) {
         // Check if spoken answer matches a letter (A, B, C)
         const letter = spokenAnswer.toUpperCase();
         if (["a", "b", "c"].includes(spokenAnswer)) {
-            selectedIndex = letter.charCodeAt(0) - 97; // 'a' -> 0, 'b' -> 1, 'c' -> 2
+            selectedIndex = letter.charCodeAt(0) - 97;
         } else {
             // Check if spoken answer matches an option text
             selectedIndex = question.options.findIndex(option => 
@@ -247,4 +254,28 @@ if (recognition) {
 } else {
     console.error("SpeechRecognition not supported.");
     document.getElementById("speakAnswerButton").style.display = "none";
+}
+
+// Exit the quiz
+function exitQuiz() {
+    console.log("Exiting quiz...");
+    endQuiz(true); // Pass true to indicate exit rather than completion
+}
+
+// End the quiz (either by completion or exit)
+function endQuiz(isExit = false) {
+    const finalMessage = isExit 
+        ? `Quiz exited! Your score: ${score} out of ${questions.length}`
+        : `Quiz finished! Your score: ${score} out of ${questions.length}`;
+    alert(finalMessage);
+    if (window.speechSynthesis) {
+        window.speechSynthesis.cancel();
+        window.speechSynthesis.speak(new SpeechSynthesisUtterance(finalMessage));
+    }
+    document.getElementById("scoreContainer").style.display = "none";
+    document.getElementById("quizContainer").style.display = "none";
+    document.getElementById("startContainer").style.display = "block";
+    currentQuestionIndex = 0;
+    score = 0; // Reset score for the next quiz
+    updateScore();
 }
