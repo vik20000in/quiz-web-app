@@ -48,5 +48,155 @@
         "question": "He is good _ mathematics.",
         "options": ["at", "in", "with"],
         "answer": "A"
+    },
+    {
+        "question": "The meeting will start _ 9 AM.",
+        "options": ["in", "on", "at"],
+        "answer": "C"
+    },
+    {
+        "question": "She was born _ 1995.",
+        "options": ["in", "on", "at"],
+        "answer": "A"
+    },
+    {
+        "question": "The pen is _ the drawer.",
+        "options": ["in", "on", "at"],
+        "answer": "A"
+    },
+    {
+        "question": "He walked _ the street.",
+        "options": ["across", "through", "between"],
+        "answer": "A"
+    },
+    {
+        "question": "The picture is hanging _ the wall.",
+        "options": ["on", "in", "at"],
+        "answer": "A"
+    },
+    {
+        "question": "She is standing _ the door.",
+        "options": ["at", "on", "in"],
+        "answer": "A"
+    },
+    {
+        "question": "The train passes _ the tunnel.",
+        "options": ["through", "under", "over"],
+        "answer": "A"
+    },
+    {
+        "question": "He is afraid _ spiders.",
+        "options": ["of", "from", "with"],
+        "answer": "A"
+    },
+    {
+        "question": "The shop is open _ 9 AM to 5 PM.",
+        "options": ["from", "between", "during"],
+        "answer": "A"
+    },
+    {
+        "question": "She is married _ a doctor.",
+        "options": ["to", "with", "by"],
+        "answer": "A"
+    },
+    {
+        "question": "The cat is sitting _ the chair.",
+        "options": ["on", "in", "under"],
+        "answer": "C"
+    },
+    {
+        "question": "He is responsible _ the project.",
+        "options": ["for", "to", "with"],
+        "answer": "A"
+    },
+    {
+        "question": "They are waiting _ the bus stop.",
+        "options": ["at", "in", "on"],
+        "answer": "A"
+    },
+    {
+        "question": "She is looking forward _ the holidays.",
+        "options": ["to", "for", "with"],
+        "answer": "A"
+    },
+    {
+        "question": "The book is _ the table.",
+        "options": ["on", "in", "at"],
+        "answer": "A"
+    },
+    {
+        "question": "He is interested _ music.",
+        "options": ["in", "on", "at"],
+        "answer": "A"
+    },
+    {
+        "question": "She is good _ dancing.",
+        "options": ["at", "in", "on"],
+        "answer": "A"
+    },
+    {
+        "question": "They are afraid _ the dark.",
+        "options": ["of", "in", "at"],
+        "answer": "A"
+    },
+    {
+        "question": "The cat jumped _ the wall.",
+        "options": ["over", "on", "in"],
+        "answer": "A"
+    },
+    {
+        "question": "He is sitting _ the chair.",
+        "options": ["on", "in", "at"],
+        "answer": "A"
+    },
+    {
+        "question": "She is standing _ the corner.",
+        "options": ["at", "on", "in"],
+        "answer": "A"
+    },
+    {
+        "question": "The dog is sleeping _ the bed.",
+        "options": ["on", "in", "under"],
+        "answer": "C"
+    },
+    {
+        "question": "He is walking _ the street.",
+        "options": ["down", "on", "in"],
+        "answer": "A"
+    },
+    {
+        "question": "She is sitting _ the table.",
+        "options": ["at", "on", "in"],
+        "answer": "A"
+    },
+    {
+        "question": "The picture is _ the wall.",
+        "options": ["on", "in", "at"],
+        "answer": "A"
+    },
+    {
+        "question": "He is running _ the park.",
+        "options": ["in", "on", "at"],
+        "answer": "A"
+    },
+    {
+        "question": "She is lying _ the bed.",
+        "options": ["on", "in", "at"],
+        "answer": "A"
+    },
+    {
+        "question": "The keys are _ the drawer.",
+        "options": ["in", "on", "at"],
+        "answer": "A"
+    },
+    {
+        "question": "He is sitting _ his friends.",
+        "options": ["among", "between", "with"],
+        "answer": "B"
+    },
+    {
+        "question": "She is walking _ the road.",
+        "options": ["along", "on", "in"],
+        "answer": "A"
     }
 ]
