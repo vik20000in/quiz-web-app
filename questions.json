@@ -502,6 +502,586 @@
                             "explanation": "'Tomorrow' is appropriately used as an adverb of time in the sentence."
                         }
                     ]
+                },
+                {
+                    "name": "Fractions",
+                    "questions": [
+                        {
+                            "question": "What is half of 8?",
+                            "options": ["2", "4", "6"],
+                            "answer": "B",
+                            "explanation": "Half of 8 is 4."
+                        },
+                        {
+                            "question": "Simplify the fraction 4/8.",
+                            "options": ["1/2", "2/3", "3/4"],
+                            "answer": "A",
+                            "explanation": "Divide the numerator and denominator by 4; 4/8 simplifies to 1/2."
+                        },
+                        {
+                            "question": "What is 1/2 + 1/4?",
+                            "options": ["3/4", "1/2", "1/4"],
+                            "answer": "A",
+                            "explanation": "1/2 is equivalent to 2/4; adding 2/4 and 1/4 gives 3/4."
+                        },
+                        {
+                            "question": "What is 2/3 - 1/3?",
+                            "options": ["1/3", "2/3", "0"],
+                            "answer": "A",
+                            "explanation": "Subtracting fractions with the same denominator: 2/3 - 1/3 equals 1/3."
+                        },
+                        {
+                            "question": "Multiply 2/3 by 3/4.",
+                            "options": ["1/2", "1/3", "3/4"],
+                            "answer": "A",
+                            "explanation": "Multiply the numerators (2×3 = 6) and denominators (3×4 = 12), then simplify 6/12 to 1/2."
+                        },
+                        {
+                            "question": "Divide 3/4 by 1/2.",
+                            "options": ["3/2", "1/2", "2/3"],
+                            "answer": "A",
+                            "explanation": "Dividing by a fraction is equivalent to multiplying by its reciprocal: (3/4) ÷ (1/2) = (3/4) × (2/1) = 6/4 = 3/2."
+                        },
+                        {
+                            "question": "Which fraction is equivalent to 3/4?",
+                            "options": ["6/8", "4/5", "5/8"],
+                            "answer": "A",
+                            "explanation": "Multiplying both numerator and denominator of 3/4 by 2 gives 6/8."
+                        },
+                        {
+                            "question": "What is the result of 1/3 + 1/6?",
+                            "options": ["1/2", "2/3", "1/4"],
+                            "answer": "A",
+                            "explanation": "Convert 1/3 to 2/6 and add 2/6 + 1/6 to get 3/6, which simplifies to 1/2."
+                        },
+                        {
+                            "question": "Subtract 1/8 from 3/8.",
+                            "options": ["1/4", "1/2", "1/3"],
+                            "answer": "A",
+                            "explanation": "3/8 - 1/8 = 2/8, which simplifies to 1/4."
+                        },
+                        {
+                            "question": "Convert the mixed number 2 1/2 to an improper fraction.",
+                            "options": ["5/2", "3/2", "4/2"],
+                            "answer": "A",
+                            "explanation": "Multiply the whole number by the denominator and add the numerator: (2×2) + 1 = 5, so 2 1/2 becomes 5/2."
+                        },
+                        {
+                            "question": "What is 3/5 of 25?",
+                            "options": ["10", "15", "20"],
+                            "answer": "B",
+                            "explanation": "Multiply 25 by 3/5: 25 × (3/5) = 75/5 = 15."
+                        },
+                        {
+                            "question": "Which fraction is greater: 3/7 or 2/5?",
+                            "options": ["3/7", "2/5", "They are equal"],
+                            "answer": "A",
+                            "explanation": "3/7 ≈ 0.4286 and 2/5 = 0.4, so 3/7 is greater."
+                        },
+                        {
+                            "question": "Simplify the fraction 15/20.",
+                            "options": ["3/4", "4/5", "2/3"],
+                            "answer": "A",
+                            "explanation": "Divide numerator and denominator by 5: 15/20 simplifies to 3/4."
+                        },
+                        {
+                            "question": "Add: 1/4 + 1/8.",
+                            "options": ["3/8", "1/2", "5/8"],
+                            "answer": "A",
+                            "explanation": "Convert 1/4 to 2/8; then 2/8 + 1/8 = 3/8."
+                        },
+                        {
+                            "question": "Subtract: 5/6 - 1/3.",
+                            "options": ["1/2", "1/3", "1/6"],
+                            "answer": "A",
+                            "explanation": "Convert 1/3 to 2/6; then 5/6 - 2/6 = 3/6, which simplifies to 1/2."
+                        },
+                        {
+                            "question": "Multiply: 1/2 × 4/5.",
+                            "options": ["2/5", "4/10", "8/10"],
+                            "answer": "A",
+                            "explanation": "Multiply the numerators and denominators: (1×4)/(2×5) = 4/10, which simplifies to 2/5."
+                        },
+                        {
+                            "question": "Divide: 5/8 ÷ 1/4.",
+                            "options": ["5/2", "5/8", "5/32"],
+                            "answer": "A",
+                            "explanation": "Dividing by 1/4 is the same as multiplying by 4: (5/8) × 4 = 20/8, which simplifies to 5/2."
+                        },
+                        {
+                            "question": "Convert the fraction 7/4 to a mixed number.",
+                            "options": ["1 3/4", "1 1/4", "2 1/4"],
+                            "answer": "A",
+                            "explanation": "7 divided by 4 is 1 with a remainder of 3, so 7/4 is 1 3/4."
+                        },
+                        {
+                            "question": "Find the common denominator for 1/2 and 1/3.",
+                            "options": ["5", "6", "7"],
+                            "answer": "B",
+                            "explanation": "The least common multiple of 2 and 3 is 6."
+                        },
+                        {
+                            "question": "What is the reciprocal of 3/5?",
+                            "options": ["5/3", "3/5", "1/5"],
+                            "answer": "A",
+                            "explanation": "The reciprocal is found by swapping the numerator and denominator: the reciprocal of 3/5 is 5/3."
+                        }
+                    ]
+                },
+                {
+                    "name": "Direct and Indirect sentences",
+                    "questions": [
+                        {
+                            "question": "Identify the sentence written in direct speech.",
+                            "options": [
+                                "He said that he would attend the meeting.",
+                                "He said, 'I will attend the meeting.'",
+                                "He said if he will attend the meeting."
+                            ],
+                            "answer": "B",
+                            "explanation": "Direct speech is enclosed in quotation marks and uses the speaker’s exact words."
+                        },
+                        {
+                            "question": "Convert the direct sentence 'I am playing football,' said Sam, into indirect speech.",
+                            "options": [
+                                "Sam said that he is playing football.",
+                                "Sam said that he was playing football.",
+                                "Sam said that he playing football."
+                            ],
+                            "answer": "B",
+                            "explanation": "When converting to indirect speech, the pronoun 'I' changes to 'he' and the present continuous 'am playing' becomes 'was playing.'"
+                        },
+                        {
+                            "question": "Which of the following is the correct indirect version of 'I have finished my homework,' she said?",
+                            "options": [
+                                "She said that she has finished her homework.",
+                                "She said that she had finished her homework.",
+                                "She said that she finished her homework."
+                            ],
+                            "answer": "B",
+                            "explanation": "In indirect speech, the present perfect 'have finished' typically changes to the past perfect 'had finished.'"
+                        },
+                        {
+                            "question": "Identify the sentence in direct speech.",
+                            "options": [
+                                "'I cannot go,' he said.",
+                                "He said that he could not go.",
+                                "He told me that he cannot go."
+                            ],
+                            "answer": "A",
+                            "explanation": "Direct speech is represented by the speaker’s words in quotes."
+                        },
+                        {
+                            "question": "Convert the direct sentence 'We will meet at the park,' they said, into indirect speech.",
+                            "options": [
+                                "They said that they would meet at the park.",
+                                "They said that they will meet at the park.",
+                                "They said that they meeting at the park."
+                            ],
+                            "answer": "A",
+                            "explanation": "The future tense 'will' in direct speech changes to 'would' in indirect speech."
+                        },
+                        {
+                            "question": "Which sentence is in indirect speech?",
+                            "options": [
+                                "'I am hungry,' she said.",
+                                "She said that she was hungry.",
+                                "She said, 'I was hungry.'"
+                            ],
+                            "answer": "B",
+                            "explanation": "Indirect speech does not use quotation marks and typically shifts the verb tense."
+                        },
+                        {
+                            "question": "Convert the direct command 'Close the door,' he said, into indirect speech.",
+                            "options": [
+                                "He said to close the door.",
+                                "He said that close the door.",
+                                "He said to closing the door."
+                            ],
+                            "answer": "A",
+                            "explanation": "Commands in indirect speech use the infinitive form after 'to'."
+                        },
+                        {
+                            "question": "Choose the correct indirect speech version of 'I am tired,' he said.",
+                            "options": [
+                                "He said that he is tired.",
+                                "He said that he was tired.",
+                                "He said that he tired."
+                            ],
+                            "answer": "B",
+                            "explanation": "In indirect speech, the present tense is shifted to the past tense."
+                        },
+                        {
+                            "question": "Convert the direct command 'Do your homework,' the teacher said, into indirect speech.",
+                            "options": [
+                                "The teacher said to do your homework.",
+                                "The teacher told us to do our homework.",
+                                "The teacher said that we should do our homework."
+                            ],
+                            "answer": "B",
+                            "explanation": "For commands, the verb 'told' is used along with the appropriate pronoun change in indirect speech."
+                        },
+                        {
+                            "question": "Convert the direct sentence 'I will come tomorrow,' he said, into indirect speech.",
+                            "options": [
+                                "He said that he will come tomorrow.",
+                                "He said that he would come tomorrow.",
+                                "He said that he come tomorrow."
+                            ],
+                            "answer": "B",
+                            "explanation": "The future tense 'will' is changed to 'would' in indirect speech."
+                        },
+                        {
+                            "question": "Convert the direct question 'Why are you late?' said by the teacher to Mark, into indirect speech.",
+                            "options": [
+                                "The teacher asked Mark why he was late.",
+                                "The teacher asked Mark why are you late.",
+                                "The teacher asked Mark why he is late."
+                            ],
+                            "answer": "A",
+                            "explanation": "In indirect questions, the sentence structure changes and pronouns are adjusted accordingly."
+                        },
+                        {
+                            "question": "Choose the correct indirect version of 'I like chocolate,' she said.",
+                            "options": [
+                                "She said that she liked chocolate.",
+                                "She said that she likes chocolate.",
+                                "She said that she like chocolate."
+                            ],
+                            "answer": "A",
+                            "explanation": "The present simple 'like' changes to 'liked' in indirect speech."
+                        },
+                        {
+                            "question": "Convert the direct command 'Open the window,' he said, into indirect speech.",
+                            "options": [
+                                "He said to open the window.",
+                                "He said that open the window.",
+                                "He said to opening the window."
+                            ],
+                            "answer": "A",
+                            "explanation": "Commands in indirect speech use the infinitive form after 'to'."
+                        },
+                        {
+                            "question": "Identify the sentence in indirect speech.",
+                            "options": [
+                                "'I will visit the museum,' she said.",
+                                "She said that she would visit the museum.",
+                                "She said, 'I would visit the museum.'"
+                            ],
+                            "answer": "B",
+                            "explanation": "Indirect speech does not enclose the words in quotation marks and adjusts the verb tense."
+                        },
+                        {
+                            "question": "Which is the correct conversion of 'I cannot swim,' he said, into indirect speech?",
+                            "options": [
+                                "He said that he cannot swim.",
+                                "He said that he could not swim.",
+                                "He said that he not swim."
+                            ],
+                            "answer": "B",
+                            "explanation": "The modal 'cannot' changes to 'could not' in indirect speech."
+                        },
+                        {
+                            "question": "Convert the direct sentence 'We are leaving now,' they said, into indirect speech.",
+                            "options": [
+                                "They said that they are leaving now.",
+                                "They said that they were leaving then.",
+                                "They said that they were leaving now."
+                            ],
+                            "answer": "B",
+                            "explanation": "The time reference 'now' changes to 'then' in indirect speech."
+                        },
+                        {
+                            "question": "Convert the direct sentence 'I will help you,' she said, into indirect speech (considering proper pronoun change).",
+                            "options": [
+                                "She said that she would help me.",
+                                "She said that she would help you.",
+                                "She said that she will help me."
+                            ],
+                            "answer": "A",
+                            "explanation": "The pronoun 'I' changes to 'she' and 'you' changes to 'me' when reported in indirect speech, and 'will' becomes 'would'."
+                        },
+                        {
+                            "question": "Choose the correct indirect version of 'I am hungry,' he said.",
+                            "options": [
+                                "He said that he is hungry.",
+                                "He said that he was hungry.",
+                                "He said that he hungry."
+                            ],
+                            "answer": "B",
+                            "explanation": "The present tense 'am' is shifted to the past tense 'was' in indirect speech."
+                        },
+                        {
+                            "question": "Convert the direct question 'Where are you going?' he asked, into indirect speech.",
+                            "options": [
+                                "He asked where I am going.",
+                                "He asked where I was going.",
+                                "He asked where are you going."
+                            ],
+                            "answer": "B",
+                            "explanation": "When converting a question to indirect speech, the word order changes and the verb tense is shifted."
+                        },
+                        {
+                            "question": "Identify the correct indirect form of 'Please be quiet,' the teacher said.",
+                            "options": [
+                                "The teacher asked us to be quiet.",
+                                "The teacher requested us to be quiet.",
+                                "The teacher told us to be quiet."
+                            ],
+                            "answer": "C",
+                            "explanation": "For commands, 'told' is typically used along with the infinitive form in indirect speech."
+                        }
+                    ]
+                },
+                {
+                    "name": "Word Meaning",
+                    "questions": [
+                        {
+                            "question": "What does the word 'benevolent' mean?",
+                            "options": ["Kind and generous", "Harsh and cruel", "Angry and upset"],
+                            "answer": "A",
+                            "explanation": "'Benevolent' means kind and generous."
+                        },
+                        {
+                            "question": "What does the word 'vivid' mean?",
+                            "options": ["Dull", "Bright and clear", "Faded"],
+                            "answer": "B",
+                            "explanation": "'Vivid' means bright, distinct, and clear."
+                        },
+                        {
+                            "question": "What does the word 'fragile' mean?",
+                            "options": ["Strong and durable", "Delicate and easily broken", "Heavy and robust"],
+                            "answer": "B",
+                            "explanation": "'Fragile' means delicate and easily broken."
+                        },
+                        {
+                            "question": "What does the word 'optimistic' mean?",
+                            "options": ["Hopeful and positive", "Pessimistic", "Indifferent"],
+                            "answer": "A",
+                            "explanation": "'Optimistic' means being hopeful and positive about the future."
+                        },
+                        {
+                            "question": "What does the word 'gloomy' mean?",
+                            "options": ["Cheerful", "Dark and depressed", "Exciting"],
+                            "answer": "B",
+                            "explanation": "'Gloomy' means dark, depressing, or lacking brightness."
+                        },
+                        {
+                            "question": "What does the word 'vulnerable' mean?",
+                            "options": ["Protected", "Exposed and easily hurt", "Strong"],
+                            "answer": "B",
+                            "explanation": "'Vulnerable' means susceptible to harm or easily hurt."
+                        },
+                        {
+                            "question": "What does the word 'elaborate' mean?",
+                            "options": ["Simple", "Detailed and complicated", "Brief"],
+                            "answer": "B",
+                            "explanation": "'Elaborate' means involving many details or complicated parts."
+                        },
+                        {
+                            "question": "What does the word 'diligent' mean?",
+                            "options": ["Lazy", "Careful and hardworking", "Careless"],
+                            "answer": "B",
+                            "explanation": "'Diligent' means being careful, thorough, and hardworking."
+                        },
+                        {
+                            "question": "What does the word 'curious' mean?",
+                            "options": ["Uninterested", "Eager to learn", "Bored"],
+                            "answer": "B",
+                            "explanation": "'Curious' means having a strong desire to know or learn something."
+                        },
+                        {
+                            "question": "What does the word 'hasty' mean?",
+                            "options": ["Done quickly without much thought", "Careful and deliberate", "Slow"],
+                            "answer": "A",
+                            "explanation": "'Hasty' means done in a hurry and without careful thought."
+                        },
+                        {
+                            "question": "What does the word 'reliable' mean?",
+                            "options": ["Trustworthy", "Unpredictable", "Inconsistent"],
+                            "answer": "A",
+                            "explanation": "'Reliable' means consistently good in quality or performance; trustworthy."
+                        },
+                        {
+                            "question": "What does the word 'exhausted' mean?",
+                            "options": ["Very energetic", "Very tired", "Very happy"],
+                            "answer": "B",
+                            "explanation": "'Exhausted' means extremely tired or worn out."
+                        },
+                        {
+                            "question": "What does the word 'ancient' mean?",
+                            "options": ["Old", "Modern", "New"],
+                            "answer": "A",
+                            "explanation": "'Ancient' means very old or belonging to a distant past."
+                        },
+                        {
+                            "question": "What does the word 'abundant' mean?",
+                            "options": ["Scarce", "Plentiful", "Limited"],
+                            "answer": "B",
+                            "explanation": "'Abundant' means existing or available in large quantities; plentiful."
+                        },
+                        {
+                            "question": "What does the word 'swift' mean?",
+                            "options": ["Slow", "Quick", "Heavy"],
+                            "answer": "B",
+                            "explanation": "'Swift' means moving very fast or quick."
+                        },
+                        {
+                            "question": "What does the word 'genuine' mean?",
+                            "options": ["Real", "Fake", "Imitation"],
+                            "answer": "A",
+                            "explanation": "'Genuine' means truly what something is said to be; authentic."
+                        },
+                        {
+                            "question": "What does the word 'melancholy' mean?",
+                            "options": ["Happy", "Sad", "Excited"],
+                            "answer": "B",
+                            "explanation": "'Melancholy' means a feeling of deep sadness or gloom."
+                        },
+                        {
+                            "question": "What does the word 'peculiar' mean?",
+                            "options": ["Normal", "Strange", "Ordinary"],
+                            "answer": "B",
+                            "explanation": "'Peculiar' means unusual or strange."
+                        },
+                        {
+                            "question": "What does the word 'impartial' mean?",
+                            "options": ["Fair", "Biased", "Partial"],
+                            "answer": "A",
+                            "explanation": "'Impartial' means treating all rivals or disputants equally; fair and unbiased."
+                        },
+                        {
+                            "question": "What does the word 'novel' mean?",
+                            "options": ["Old", "New and original", "Common"],
+                            "answer": "B",
+                            "explanation": "'Novel' means new or unusual in an interesting way."
+                        }
+                    ]
+                },
+                {
+                    "name": "Subject and Predicate",
+                    "questions": [
+                        {
+                            "question": "In the sentence 'The cat sleeps on the mat,' what is the subject?",
+                            "options": ["The cat", "sleeps on the mat", "on the mat"],
+                            "answer": "A",
+                            "explanation": "'The cat' is the subject because it performs the action."
+                        },
+                        {
+                            "question": "In the sentence 'The students study in the library,' what is the predicate?",
+                            "options": ["The students", "study in the library", "in the library"],
+                            "answer": "B",
+                            "explanation": "'Study in the library' tells what the subject does, making it the predicate."
+                        },
+                        {
+                            "question": "Identify the subject in the sentence 'A bird sings beautifully.'",
+                            "options": ["A bird", "sings beautifully", "beautifully"],
+                            "answer": "A",
+                            "explanation": "'A bird' is the subject performing the action of singing."
+                        },
+                        {
+                            "question": "In the sentence 'The wind blows strongly,' which part is the predicate?",
+                            "options": ["The wind", "blows strongly", "strongly"],
+                            "answer": "B",
+                            "explanation": "'Blows strongly' describes what the subject 'the wind' does."
+                        },
+                        {
+                            "question": "In the sentence 'Our teacher explains the lesson clearly,' what is the subject?",
+                            "options": ["Our teacher", "explains the lesson clearly", "the lesson"],
+                            "answer": "A",
+                            "explanation": "'Our teacher' is the subject because the sentence tells what the teacher does."
+                        },
+                        {
+                            "question": "In the sentence 'The children play in the park,' what is the predicate?",
+                            "options": ["The children", "play in the park", "in the park"],
+                            "answer": "B",
+                            "explanation": "'Play in the park' describes the action performed by the subject."
+                        },
+                        {
+                            "question": "Identify the subject in the sentence 'Rain falls heavily during the monsoon.'",
+                            "options": ["Rain", "falls heavily during the monsoon", "heavily during the monsoon"],
+                            "answer": "A",
+                            "explanation": "'Rain' is the subject that performs the action of falling."
+                        },
+                        {
+                            "question": "Which of the following is the predicate in the sentence 'The dog barked loudly'?",
+                            "options": ["The dog", "barked loudly", "loudly"],
+                            "answer": "B",
+                            "explanation": "'Barked loudly' tells what the subject 'the dog' did."
+                        },
+                        {
+                            "question": "In the sentence 'Singing birds attract attention,' what is the subject?",
+                            "options": ["Singing birds", "attract attention", "birds"],
+                            "answer": "A",
+                            "explanation": "'Singing birds' is the subject as it performs the action of attracting attention."
+                        },
+                        {
+                            "question": "In the sentence 'The old tree stands in the garden,' what is the predicate?",
+                            "options": ["The old tree", "stands in the garden", "in the garden"],
+                            "answer": "B",
+                            "explanation": "'Stands in the garden' tells what the subject 'the old tree' does."
+                        },
+                        {
+                            "question": "Identify the subject in the sentence 'My brother reads comics.'",
+                            "options": ["reads comics", "My brother", "comics"],
+                            "answer": "B",
+                            "explanation": "'My brother' is the subject performing the action of reading."
+                        },
+                        {
+                            "question": "In the sentence 'The sun rises in the east,' what is the predicate?",
+                            "options": ["The sun", "rises in the east", "in the east"],
+                            "answer": "B",
+                            "explanation": "'Rises in the east' describes the action of the subject 'the sun.'"
+                        },
+                        {
+                            "question": "Which part of the sentence 'A gentle breeze cooled the hot day' is the subject?",
+                            "options": ["A gentle breeze", "cooled the hot day", "the hot day"],
+                            "answer": "A",
+                            "explanation": "'A gentle breeze' is the subject performing the action."
+                        },
+                        {
+                            "question": "In the sentence 'The children are reading books,' what is the predicate?",
+                            "options": ["The children", "are reading books", "books"],
+                            "answer": "B",
+                            "explanation": "'Are reading books' tells what the subject 'the children' are doing."
+                        },
+                        {
+                            "question": "Identify the subject in the sentence 'A sudden noise startled everyone.'",
+                            "options": ["A sudden noise", "startled everyone", "everyone"],
+                            "answer": "A",
+                            "explanation": "'A sudden noise' is the subject that causes the action."
+                        },
+                        {
+                            "question": "Which part is the predicate in the sentence 'The teacher explained the chapter'?",
+                            "options": ["The teacher", "explained the chapter", "the chapter"],
+                            "answer": "B",
+                            "explanation": "'Explained the chapter' describes what the subject 'the teacher' did."
+                        },
+                        {
+                            "question": "In the sentence 'Bright stars twinkle in the night sky,' what is the subject?",
+                            "options": ["Bright stars", "twinkle in the night sky", "in the night sky"],
+                            "answer": "A",
+                            "explanation": "'Bright stars' is the subject performing the action."
+                        },
+                        {
+                            "question": "Identify the predicate in the sentence 'The river flows gently.'",
+                            "options": ["The river", "flows gently", "gently"],
+                            "answer": "B",
+                            "explanation": "'Flows gently' tells what the subject 'the river' does."
+                        },
+                        {
+                            "question": "Which is the subject in the sentence 'My friend and I went to the museum'?",
+                            "options": ["My friend and I", "went to the museum", "the museum"],
+                            "answer": "A",
+                            "explanation": "'My friend and I' is the subject performing the action."
+                        },
+                        {
+                            "question": "In the sentence 'The bell rings every hour,' what is the predicate?",
+                            "options": ["The bell", "rings every hour", "every hour"],
+                            "answer": "B",
+                            "explanation": "'Rings every hour' tells what the subject 'the bell' does."
+                        }
+                    ]
                 }
             ]
         }
