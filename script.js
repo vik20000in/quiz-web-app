@@ -1,31 +1,44 @@
 let questions = [];
 let currentQuestionIndex = 0;
 
-// Fetch questions from server when the page loads
+// Fetch questions when the page loads
 window.onload = function() {
-    fetch("questions.json")
+    console.log("Starting fetch for questions.json...");
+    fetch("questions.json", { cache: "no-store" }) // Prevent caching issues
         .then(response => {
             if (!response.ok) {
-                throw new Error("Network response was not ok");
+                throw new Error(`HTTP error! Status: ${response.status} - ${response.statusText}`);
             }
             return response.json();
         })
         .then(data => {
+            console.log("Questions loaded:", data);
             questions = data;
             startQuiz();
         })
         .catch(error => {
-            console.error("Error loading questions:", error);
-            alert("Failed to load questions from the server.");
+            console.error("Fetch error:", error);
+            alert("Failed to load questions. Using fallback data. Check console for details.");
+            // Fallback questions for debugging
+            questions = [
+                {
+                    question: "Fallback: What is 1 + 1?",
+                    options: ["2", "3", "4"],
+                    answer: "A"
+                }
+            ];
+            startQuiz();
         });
 };
 
 // Start the quiz
 function startQuiz() {
     if (questions.length === 0) {
-        alert("No questions available.");
+        console.warn("No questions available.");
+        alert("No questions to display.");
         return;
     }
+    console.log("Starting quiz with", questions.length, "questions.");
     document.getElementById("quizContainer").style.display = "block";
     showQuestion();
 }
@@ -51,14 +64,16 @@ function showQuestion() {
 document.getElementById("speakButton").addEventListener("click", () => {
     const question = questions[currentQuestionIndex];
     const speech = new SpeechSynthesisUtterance(question.question);
-    speech.lang = "en-US"; // Adjust language as needed
+    speech.lang = "en-US";
+    speech.onstart = () => console.log("Speech started");
+    speech.onerror = (event) => console.error("Speech error:", event.error);
     window.speechSynthesis.speak(speech);
 });
 
 // Check the user's answer
 function checkAnswer(selectedIndex) {
     const question = questions[currentQuestionIndex];
-    const correctIndex = question.answer.charCodeAt(0) - 65; // Convert 'A' to 0, 'B' to 1, etc.
+    const correctIndex = question.answer.charCodeAt(0) - 65;
     const feedback = document.getElementById("feedback");
     if (selectedIndex === correctIndex) {
         feedback.textContent = "Correct!";
@@ -75,8 +90,8 @@ function checkAnswer(selectedIndex) {
         } else {
             alert("Quiz finished!");
             document.getElementById("quizContainer").style.display = "none";
-            currentQuestionIndex = 0; // Reset for replay
-            startQuiz(); // Restart the quiz
+            currentQuestionIndex = 0;
+            startQuiz();
         }
     }, 2000);
 }
