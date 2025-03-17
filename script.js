@@ -17,6 +17,7 @@ window.onload = function() {
         })
         .then(data => {
             allData = data;
+           // populateCategories();
             populateCategories();
         })
         .catch(error => {
@@ -35,7 +36,19 @@ window.onload = function() {
             populateCategories();
         });
 };
+function populateClass() {
+    const classSelect = document.getElementById("classSelect");
+    categorySelect.innerHTML = '<option value="">Select Class</option>';
+    allData.categories.forEach((class, index) => {
+        const option = document.createElement("option");
+        option.value = index;
+        option.textContent = classSelect.name;
+        classSelect.appendChild(option);
+    });
 
+    categorySelect.addEventListener("change", populateCategories);
+    document.getElementById("startButton").addEventListener("click", startQuizFromSelection);
+}
 // Populate category dropdown
 function populateCategories() {
     const categorySelect = document.getElementById("categorySelect");
