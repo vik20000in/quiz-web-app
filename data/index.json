@@ -1,0 +1,46 @@
+{
+    "classes": {
+        "Class 6": {
+            "categories": [
+                {
+                    "name": "Mathematics",
+                    "subcategories": [
+                        { "name": "Number System", "path": "class6/mathematics/number_system.json" },
+                        { "name": "LinearEquations.json", "path": "class6/mathematics/LinearEquations.json" }
+                    ]
+                },
+                {
+                    "name": "Science",
+                    "subcategories": [
+                        { "name": "Living Organisms", "path": "class6/science/living_organisms.json" }
+                      
+                    ]
+                },
+                {
+                    "name": "EnglishGrammer",
+                    "subcategories": [
+                        { "name": "Adjectives", "path": "class6/EnglishGrammer/Adjectives.json" },
+                        { "name": "Adverbs", "path": "class6/EnglishGrammer/Adverbs.json" },
+                        { "name": "Conjunctions", "path": "class6/EnglishGrammer/Conjunctions.json" }
+                    ]
+                }
+            ]
+        },
+        "Class 7": {
+            "categories": [
+                {
+                    "name": "Mathematics",
+                    "subcategories": [
+                        { "name": "Geometry", "path": "class7/mathematics/geometry.json" }
+                    ]
+                },
+                {
+                    "name": "Science",
+                    "subcategories": [
+                        { "name": "Chemistry", "path": "class7/science/chemistry.json" }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "questions": [
+        {
+            "question": "I want to go to the park _ play some games.",
+            "options": [
+                "and",
+                "but",
+                "or"
+            ],
+            "answer": "A",
+            "explanation": "The conjunction 'and' is used to connect two related actions."
+        },
+        {
+            "question": "She will not come to the party _ she is feeling unwell.",
+            "options": [
+                "because",
+                "if",
+                "while"
+            ],
+            "answer": "A",
+            "explanation": "The conjunction 'because' introduces a reason for not coming to the party."
+        },
+        {
+            "question": "_ you study hard, you will pass the exam.",
+            "options": [
+                "If",
+                "Or",
+                "But"
+            ],
+            "answer": "A",
+            "explanation": "The conjunction 'if' introduces a condition for passing the exam."
+        },
+        {
+            "question": "He is not only a good student _ a talented musician.",
+            "options": [
+                "and",
+                "but also",
+                "or"
+            ],
+            "answer": "B",
+            "explanation": "The correlative conjunction 'not only...but also' is used to add emphasis to both qualities."
+        },
+        {
+            "question": "Would you like tea _ coffee?",
+            "options": [
+                "and",
+                "or",
+                "but"
+            ],
+            "answer": "B",
+            "explanation": "The conjunction 'or' is used to present a choice between two options."
+        },
+        {
+            "question": "She was tired, _ she continued working.",
+            "options": [
+                "so",
+                "but",
+                "because"
+            ],
+            "answer": "B",
+            "explanation": "The conjunction 'but' is used to show contrast between being tired and continuing to work."
+        },
+        {
+            "question": "He missed the bus, _ he was late to school.",
+            "options": [
+                "and",
+                "so",
+                "but"
+            ],
+            "answer": "B",
+            "explanation": "The conjunction 'so' indicates a result of missing the bus."
+        },
+        {
+            "question": "I will wait here _ you come back.",
+            "options": [
+                "until",
+                "but",
+                "or"
+            ],
+            "answer": "A",
+            "explanation": "The conjunction 'until' indicates the time up to which the action of waiting will continue."
+        },
+        {
+            "question": "She talks _ she knows everything.",
+            "options": [
+                "as if",
+                "and",
+                "or"
+            ],
+            "answer": "A",
+            "explanation": "The conjunction 'as if' is used to describe a manner that is not true."
+        },
+        {
+            "question": "You can have ice cream _ you finish your vegetables.",
+            "options": [
+                "if",
+                "and",
+                "but"
+            ],
+            "answer": "A",
+            "explanation": "The conjunction 'if' introduces a condition for having ice cream."
+        },
+        {
+            "question": "_ he was the best candidate, he didn't get the job.",
+            "options": [
+                "Although",
+                "And",
+                "Or"
+            ],
+            "answer": "A",
+            "explanation": "The conjunction 'although' is used to show a contrast between being the best candidate and not getting the job."
+        },
+        {
+            "question": "She is both intelligent _ hardworking.",
+            "options": [
+                "and",
+                "or",
+                "but"
+            ],
+            "answer": "A",
+            "explanation": "The conjunction 'and' is used to add two positive qualities."
+        },
+        {
+            "question": "He neither smiled _ laughed at the joke.",
+            "options": [
+                "or",
+                "nor",
+                "and"
+            ],
+            "answer": "B",
+            "explanation": "The correlative conjunction 'neither...nor' is used to connect two negative actions."
+        },
+        {
+            "question": "We can go to the beach _ the weather is good.",
+            "options": [
+                "if",
+                "but",
+                "and"
+            ],
+            "answer": "A",
+            "explanation": "The conjunction 'if' introduces a condition for going to the beach."
+        },
+        {
+            "question": "She didn't study, _ she failed the test.",
+            "options": [
+                "so",
+                "but",
+                "or"
+            ],
+            "answer": "A",
+            "explanation": "The conjunction 'so' indicates a result of not studying."
+        },
+        {
+            "question": "I like apples _ oranges.",
+            "options": [
+                "and",
+                "but",
+                "or"
+            ],
+            "answer": "A",
+            "explanation": "The conjunction 'and' is used to connect two items in a list."
+        },
+        {
+            "question": "He is rich, _ he is not happy.",
+            "options": [
+                "but",
+                "so",
+                "and"
+            ],
+            "answer": "A",
+            "explanation": "The conjunction 'but' is used to show contrast between being rich and not being happy."
+        },
+        {
+            "question": "_ you finish your homework, you can watch TV.",
+            "options": [
+                "After",
+                "But",
+                "Or"
+            ],
+            "answer": "A",
+            "explanation": "The conjunction 'after' indicates the sequence of actions."
+        },
+        {
+            "question": "She sings _ she plays the piano.",
+            "options": [
+                "and",
+                "but",
+                "or"
+            ],
+            "answer": "A",
+            "explanation": "The conjunction 'and' is used to connect two related actions."
+        },
+        {
+            "question": "I will call you _ I arrive.",
+            "options": [
+                "when",
+                "but",
+                "or"
+            ],
+            "answer": "A",
+            "explanation": "The conjunction 'when' indicates the time of the action."
+        }
+    ]
+  }

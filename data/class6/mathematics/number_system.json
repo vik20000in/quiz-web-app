@@ -1,0 +1,16 @@
+{
+  "questions": [
+      {
+          "question": "What is the smallest natural number?",
+          "options": ["0", "1", "2"],
+          "answer": "B",
+          "explanation": "Natural numbers start from 1."
+      },
+      {
+          "question": "What is the largest single-digit number?",
+          "options": ["7", "8", "9"],
+          "answer": "C",
+          "explanation": "The single-digit numbers are 0 to 9, and 9 is the largest."
+      }
+  ]
+}

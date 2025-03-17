@@ -5,6 +5,10 @@ let correctAnswers = 0;
 let attemptedQuestions = 0;
 let questionHistory = []; // Track questions seen in this session
 let score = 0;
+let selectedClass = "";
+let selectedCategoryIndex = "";
+let selectedSubcategoryIndex = "";
+
 const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
 const recognition = SpeechRecognition ? new SpeechRecognition() : null;
 
@@ -32,7 +36,7 @@ window.onload = function() {
         document.body.className = theme;
         localStorage.setItem('theme', theme);
     });
-    fetch("data.json", { cache: "no-store" })
+    fetch("data/index.json", { cache: "no-store" })
         .then(response => {
             if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
             return response.json();
@@ -45,14 +49,18 @@ window.onload = function() {
             console.error("Fetch error:", error);
             alert("Failed to load questions. Using fallback data.");
             allData = {
-                categories: [
-                    {
-                        name: "Fallback",
-                        subcategories: [
-                            { name: "Test", questions: [{ question: "What is 1 + 1?", options: ["2", "3", "4"], answer: "A", explanation: "Basic addition." }] }
+                classes: {
+                    "Class 6": {
+                        categories: [
+                            {
+                                name: "Fallback",
+                                subcategories: [
+                                    { name: "Test", path: "class6/fallback/test.json" }
+                                ]
+                            }
                         ]
                     }
-                ]
+                }
             };
             populateClassSelect();
         });
@@ -63,10 +71,11 @@ window.onload = function() {
 function populateClass() {
     const classSelect = document.getElementById("classSelect");
     classSelect.innerHTML = '<option value="">Select Class</option>';
-    allData.classes.forEach((classes, index) => {
+    Object.keys(allData.classes).forEach((classKey) => {
+
         const option = document.createElement("option");
-        option.value = index;
-        option.textContent = classes.name;
+        option.value = classKey;
+        option.textContent = classKey;
         classSelect.appendChild(option);
     });
 
@@ -122,18 +131,29 @@ function shuffleArray(array) {
 
 // Start the quiz based on selection
 function startQuizFromSelection() {
-    const classIndex = document.getElementById("classSelect").value;
-    const categoryIndex = document.getElementById("categorySelect").value;
-    const subcategoryIndex = document.getElementById("subcategorySelect").value;
-    if (categoryIndex === "" || subcategoryIndex === "") {
+    const selectedClass = document.getElementById("classSelect").value;
+    selectedCategoryIndex = document.getElementById("categorySelect").value;
+    selectedSubcategoryIndex = document.getElementById("subcategorySelect").value;
+    if (selectedCategoryIndex === "" || selectedSubcategoryIndex === "") {
         alert("Please select a subject and chapter.");
         return;
     }
-
-    questions = [...allData.classes[classIndex].categories[categoryIndex].subcategories[subcategoryIndex].questions];
-    shuffleArray(questions);
-    document.getElementById("startContainer").style.display = "none";
-    startQuiz();
+    const subcategoryPath = allData.classes[selectedClass].categories[selectedCategoryIndex].subcategories[selectedSubcategoryIndex].path;
+    fetch(`data/${subcategoryPath}`, { cache: "no-store" })
+        .then(response => {
+            if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
+            return response.json();
+        })
+        .then(data => {
+            questions = [...data.questions];
+            shuffleArray(questions);
+            document.getElementById("startContainer").style.display = "none";
+            startQuiz();
+        })
+        .catch(error => {
+            console.error("Error loading questions:", error);
+            alert("Failed to load questions.");
+        });
 }
 
 // Start the quiz
