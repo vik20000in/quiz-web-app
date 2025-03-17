@@ -15,7 +15,11 @@ window.onload = function() {
         .then(data => {
             console.log("Questions loaded:", data);
             questions = data;
-            startQuiz();
+            // Wait for user to click Start instead of starting immediately
+            document.getElementById("startButton").addEventListener("click", () => {
+                document.getElementById("startContainer").style.display = "none";
+                startQuiz();
+            });
         })
         .catch(error => {
             console.error("Fetch error:", error);
@@ -23,7 +27,10 @@ window.onload = function() {
             questions = [
                 { question: "Fallback: What is 1 + 1?", options: ["2", "3", "4"], answer: "A" }
             ];
-            startQuiz();
+            document.getElementById("startButton").addEventListener("click", () => {
+                document.getElementById("startContainer").style.display = "none";
+                startQuiz();
+            });
         });
 };
 
@@ -35,8 +42,9 @@ function startQuiz() {
         return;
     }
     console.log("Starting quiz with", questions.length, "questions.");
-    score = 0; // Reset score
+    score = 0;
     updateScore();
+    document.getElementById("scoreContainer").style.display = "block";
     document.getElementById("quizContainer").style.display = "block";
     showQuestion();
 }
@@ -95,7 +103,7 @@ function checkAnswer(selectedIndex) {
     if (selectedIndex === correctIndex) {
         feedbackText = "Correct!";
         feedback.style.color = "green";
-        score += 1; // Increment score
+        score += 1;
     } else {
         feedbackText = `Wrong! Correct answer: ${question.options[correctIndex]}`;
         feedback.style.color = "red";
@@ -105,7 +113,7 @@ function checkAnswer(selectedIndex) {
 
     // Speak feedback
     if (window.speechSynthesis) {
-        window.speechSynthesis.cancel(); // Clear previous speech
+        window.speechSynthesis.cancel();
         const speech = new SpeechSynthesisUtterance(feedbackText);
         speech.lang = "en-US";
         speech.volume = 1.0;
@@ -128,9 +136,10 @@ function checkAnswer(selectedIndex) {
             if (window.speechSynthesis) {
                 window.speechSynthesis.speak(new SpeechSynthesisUtterance(finalMessage));
             }
+            document.getElementById("scoreContainer").style.display = "none";
             document.getElementById("quizContainer").style.display = "none";
+            document.getElementById("startContainer").style.display = "block";
             currentQuestionIndex = 0;
-            startQuiz(); // Restart quiz
         }
-    }, 3000); // Increased delay to allow feedback speech to finish
+    }, 3000);
 }
