@@ -4,215 +4,127 @@
             "name": "English",
             "subcategories": [
                 {
-                    "name": "Prepositions",
+                    "name": "Conjunctions",
                     "questions": [
                         {
-                            "question": "The cat is hiding _ the table.",
-                            "options": [
-                                "under",
-                                "over",
-                                "between"
-                            ],
-                            "answer": "A"
+                            "question": "I want to go to the park _____ play some games.",
+                            "options": ["and", "but", "or"],
+                            "answer": "A",
+                            "explanation": "The conjunction 'and' is used to connect two related actions."
                         },
                         {
-                            "question": "She arrived _ the airport early in the morning.",
-                            "options": [
-                                "at",
-                                "on",
-                                "in"
-                            ],
-                            "answer": "A"
+                            "question": "She will not come to the party _____ she is feeling unwell.",
+                            "options": ["because", "if", "while"],
+                            "answer": "A",
+                            "explanation": "The conjunction 'because' introduces a reason for not coming to the party."
                         },
                         {
-                            "question": "The book is placed _ the shelf.",
-                            "options": ["on", "in", "at"],
-                            "answer": "A"
+                            "question": "_____ you study hard, you will pass the exam.",
+                            "options": ["If", "Or", "But"],
+                            "answer": "A",
+                            "explanation": "The conjunction 'if' introduces a condition for passing the exam."
                         },
                         {
-                            "question": "He sat _ his friends during the movie.",
-                            "options": ["between", "among", "beside"],
-                            "answer": "C"
+                            "question": "He is not only a good student _____ a talented musician.",
+                            "options": ["and", "but also", "or"],
+                            "answer": "B",
+                            "explanation": "The correlative conjunction 'not only...but also' is used to add emphasis to both qualities."
                         },
                         {
-                            "question": "We will meet _ Monday to discuss the project.",
-                            "options": ["in", "on", "at"],
-                            "answer": "B"
+                            "question": "Would you like tea _____ coffee?",
+                            "options": ["and", "or", "but"],
+                            "answer": "B",
+                            "explanation": "The conjunction 'or' is used to present a choice between two options."
                         },
                         {
-                            "question": "The dog jumped _ the fence.",
-                            "options": ["over", "under", "through"],
-                            "answer": "A"
+                            "question": "She was tired, _____ she continued working.",
+                            "options": ["so", "but", "because"],
+                            "answer": "B",
+                            "explanation": "The conjunction 'but' is used to show contrast between being tired and continuing to work."
                         },
                         {
-                            "question": "She is interested _ learning new languages.",
-                            "options": ["in", "on", "about"],
-                            "answer": "A"
+                            "question": "He missed the bus, _____ he was late to school.",
+                            "options": ["and", "so", "but"],
+                            "answer": "B",
+                            "explanation": "The conjunction 'so' indicates a result of missing the bus."
                         },
                         {
-                            "question": "They have been living here _ 2010.",
-                            "options": ["since", "for", "from"],
-                            "answer": "A"
+                            "question": "I will wait here _____ you come back.",
+                            "options": ["until", "but", "or"],
+                            "answer": "A",
+                            "explanation": "The conjunction 'until' indicates the time up to which the action of waiting will continue."
                         },
                         {
-                            "question": "The kids are playing _ the park.",
-                            "options": ["at", "in", "on"],
-                            "answer": "B"
+                            "question": "She talks _____ she knows everything.",
+                            "options": ["as if", "and", "or"],
+                            "answer": "A",
+                            "explanation": "The conjunction 'as if' is used to describe a manner that is not true."
                         },
                         {
-                            "question": "He is good _ mathematics.",
-                            "options": ["at", "in", "with"],
-                            "answer": "A"
+                            "question": "You can have ice cream _____ you finish your vegetables.",
+                            "options": ["if", "and", "but"],
+                            "answer": "A",
+                            "explanation": "The conjunction 'if' introduces a condition for having ice cream."
                         },
                         {
-                            "question": "The meeting will start _ 9 AM.",
-                            "options": ["in", "on", "at"],
-                            "answer": "C"
+                            "question": "_____ he was the best candidate, he didn't get the job.",
+                            "options": ["Although", "And", "Or"],
+                            "answer": "A",
+                            "explanation": "The conjunction 'although' is used to show a contrast between being the best candidate and not getting the job."
                         },
                         {
-                            "question": "She was born _ 1995.",
-                            "options": ["in", "on", "at"],
-                            "answer": "A"
+                            "question": "She is both intelligent _____ hardworking.",
+                            "options": ["and", "or", "but"],
+                            "answer": "A",
+                            "explanation": "The conjunction 'and' is used to add two positive qualities."
                         },
                         {
-                            "question": "The pen is _ the drawer.",
-                            "options": ["in", "on", "at"],
-                            "answer": "A"
+                            "question": "He neither smiled _____ laughed at the joke.",
+                            "options": ["or", "nor", "and"],
+                            "answer": "B",
+                            "explanation": "The correlative conjunction 'neither...nor' is used to connect two negative actions."
                         },
                         {
-                            "question": "He walked _ the street.",
-                            "options": ["across", "through", "between"],
-                            "answer": "A"
+                            "question": "We can go to the beach _____ the weather is good.",
+                            "options": ["if", "but", "and"],
+                            "answer": "A",
+                            "explanation": "The conjunction 'if' introduces a condition for going to the beach."
                         },
                         {
-                            "question": "The picture is hanging _ the wall.",
-                            "options": ["on", "in", "at"],
-                            "answer": "A"
+                            "question": "She didn't study, _____ she failed the test.",
+                            "options": ["so", "but", "or"],
+                            "answer": "A",
+                            "explanation": "The conjunction 'so' indicates a result of not studying."
                         },
                         {
-                            "question": "She is standing _ the door.",
-                            "options": ["at", "on", "in"],
-                            "answer": "A"
+                            "question": "I like apples _____ oranges.",
+                            "options": ["and", "but", "or"],
+                            "answer": "A",
+                            "explanation": "The conjunction 'and' is used to connect two items in a list."
                         },
                         {
-                            "question": "The train passes _ the tunnel.",
-                            "options": ["through", "under", "over"],
-                            "answer": "A"
+                            "question": "He is rich, _____ he is not happy.",
+                            "options": ["but", "so", "and"],
+                            "answer": "A",
+                            "explanation": "The conjunction 'but' is used to show contrast between being rich and not being happy."
                         },
                         {
-                            "question": "He is afraid _ spiders.",
-                            "options": ["of", "from", "with"],
-                            "answer": "A"
+                            "question": "_____ you finish your homework, you can watch TV.",
+                            "options": ["After", "But", "Or"],
+                            "answer": "A",
+                            "explanation": "The conjunction 'after' indicates the sequence of actions."
                         },
                         {
-                            "question": "The shop is open _ 9 AM to 5 PM.",
-                            "options": ["from", "between", "during"],
-                            "answer": "A"
+                            "question": "She sings _____ she plays the piano.",
+                            "options": ["and", "but", "or"],
+                            "answer": "A",
+                            "explanation": "The conjunction 'and' is used to connect two related actions."
                         },
                         {
-                            "question": "She is married _ a doctor.",
-                            "options": ["to", "with", "by"],
-                            "answer": "A"
-                        },
-                        {
-                            "question": "The cat is sitting _ the chair.",
-                            "options": ["on", "in", "under"],
-                            "answer": "C"
-                        },
-                        {
-                            "question": "He is responsible _ the project.",
-                            "options": ["for", "to", "with"],
-                            "answer": "A"
-                        },
-                        {
-                            "question": "They are waiting _ the bus stop.",
-                            "options": ["at", "in", "on"],
-                            "answer": "A"
-                        },
-                        {
-                            "question": "She is looking forward _ the holidays.",
-                            "options": ["to", "for", "with"],
-                            "answer": "A"
-                        },
-                        {
-                            "question": "The book is _ the table.",
-                            "options": ["on", "in", "at"],
-                            "answer": "A"
-                        },
-                        {
-                            "question": "He is interested _ music.",
-                            "options": ["in", "on", "at"],
-                            "answer": "A"
-                        },
-                        {
-                            "question": "She is good _ dancing.",
-                            "options": ["at", "in", "on"],
-                            "answer": "A"
-                        },
-                        {
-                            "question": "They are afraid _ the dark.",
-                            "options": ["of", "in", "at"],
-                            "answer": "A"
-                        },
-                        {
-                            "question": "The cat jumped _ the wall.",
-                            "options": ["over", "on", "in"],
-                            "answer": "A"
-                        },
-                        {
-                            "question": "He is sitting _ the chair.",
-                            "options": ["on", "in", "at"],
-                            "answer": "A"
-                        },
-                        {
-                            "question": "She is standing _ the corner.",
-                            "options": ["at", "on", "in"],
-                            "answer": "A"
-                        },
-                        {
-                            "question": "The dog is sleeping _ the bed.",
-                            "options": ["on", "in", "under"],
-                            "answer": "C"
-                        },
-                        {
-                            "question": "He is walking _ the street.",
-                            "options": ["down", "on", "in"],
-                            "answer": "A"
-                        },
-                        {
-                            "question": "She is sitting _ the table.",
-                            "options": ["at", "on", "in"],
-                            "answer": "A"
-                        },
-                        {
-                            "question": "The picture is _ the wall.",
-                            "options": ["on", "in", "at"],
-                            "answer": "A"
-                        },
-                        {
-                            "question": "He is running _ the park.",
-                            "options": ["in", "on", "at"],
-                            "answer": "A"
-                        },
-                        {
-                            "question": "She is lying _ the bed.",
-                            "options": ["on", "in", "at"],
-                            "answer": "A"
-                        },
-                        {
-                            "question": "The keys are _ the drawer.",
-                            "options": ["in", "on", "at"],
-                            "answer": "A"
-                        },
-                        {
-                            "question": "He is sitting _ his friends.",
-                            "options": ["among", "between", "with"],
-                            "answer": "B"
-                        },
-                        {
-                            "question": "She is walking _ the road.",
-                            "options": ["along", "on", "in"],
-                            "answer": "A"
+                            "question": "I will call you _____ I arrive.",
+                            "options": ["when", "but", "or"],
+                            "answer": "A",
+                            "explanation": "The conjunction 'when' indicates the time of the action."
                         }
                     ]
                 },{
@@ -221,102 +133,122 @@
                         {
                             "question": "Solve for x: x + 5 = 12",
                             "options": ["5", "7", "12"],
-                            "answer": "B"
+                            "answer": "B",
+                            "explanation": "Subtract 5 from both sides: x = 12 - 5 = 7."
                         },
                         {
                             "question": "Solve for x: 2x = 16",
                             "options": ["8", "6", "10"],
-                            "answer": "A"
+                            "answer": "A",
+                            "explanation": "Divide both sides by 2: x = 16 ÷ 2 = 8."
                         },
                         {
                             "question": "Solve for x: x - 3 = 7",
                             "options": ["10", "4", "5"],
-                            "answer": "A"
+                            "answer": "A",
+                            "explanation": "Add 3 to both sides: x = 7 + 3 = 10."
                         },
                         {
                             "question": "Solve for x: 3x = 9",
                             "options": ["1", "2", "3"],
-                            "answer": "C"
+                            "answer": "C",
+                            "explanation": "Divide both sides by 3: x = 9 ÷ 3 = 3."
                         },
                         {
-                            "question": "Solve for x: x/4 = 5",
+                            "question": "Solve for x: x ÷ 4 = 5",
                             "options": ["20", "9", "12"],
-                            "answer": "A"
+                            "answer": "A",
+                            "explanation": "Multiply both sides by 4: x = 5 × 4 = 20."
                         },
                         {
                             "question": "Solve for x: 5x + 2 = 17",
                             "options": ["3", "5", "2"],
-                            "answer": "A"
+                            "answer": "A",
+                            "explanation": "Subtract 2 from both sides: 5x = 15; then divide by 5: x = 15 ÷ 5 = 3."
                         },
                         {
                             "question": "Solve for x: 4x - 8 = 0",
                             "options": ["2", "4", "8"],
-                            "answer": "A"
+                            "answer": "A",
+                            "explanation": "Add 8 to both sides: 4x = 8; then divide by 4: x = 8 ÷ 4 = 2."
                         },
                         {
                             "question": "Solve for x: x + 7 = 14",
                             "options": ["5", "7", "8"],
-                            "answer": "C"
+                            "answer": "C",
+                            "explanation": "Subtract 7 from both sides: x = 14 - 7 = 7."
                         },
                         {
                             "question": "Solve for x: 6x = 36",
                             "options": ["5", "6", "7"],
-                            "answer": "B"
+                            "answer": "B",
+                            "explanation": "Divide both sides by 6: x = 36 ÷ 6 = 6."
                         },
                         {
                             "question": "Solve for x: x - 9 = 0",
                             "options": ["9", "8", "7"],
-                            "answer": "A"
+                            "answer": "A",
+                            "explanation": "Add 9 to both sides: x = 0 + 9 = 9."
                         },
                         {
                             "question": "Solve for x: 7x = 49",
                             "options": ["5", "6", "7"],
-                            "answer": "C"
+                            "answer": "C",
+                            "explanation": "Divide both sides by 7: x = 49 ÷ 7 = 7."
                         },
                         {
-                            "question": "Solve for x: x/5 = 6",
+                            "question": "Solve for x: x ÷ 5 = 6",
                             "options": ["30", "25", "20"],
-                            "answer": "A"
+                            "answer": "A",
+                            "explanation": "Multiply both sides by 5: x = 6 × 5 = 30."
                         },
                         {
                             "question": "Solve for x: 8x - 16 = 0",
                             "options": ["1", "2", "3"],
-                            "answer": "B"
+                            "answer": "B",
+                            "explanation": "Add 16 to both sides: 8x = 16; then divide by 8: x = 16 ÷ 8 = 2."
                         },
                         {
                             "question": "Solve for x: x + 10 = 20",
                             "options": ["5", "10", "15"],
-                            "answer": "B"
+                            "answer": "B",
+                            "explanation": "Subtract 10 from both sides: x = 20 - 10 = 10."
                         },
                         {
                             "question": "Solve for x: 9x = 81",
                             "options": ["7", "8", "9"],
-                            "answer": "C"
+                            "answer": "C",
+                            "explanation": "Divide both sides by 9: x = 81 ÷ 9 = 9."
                         },
                         {
                             "question": "Solve for x: x - 4 = 10",
                             "options": ["12", "14", "16"],
-                            "answer": "B"
+                            "answer": "B",
+                            "explanation": "Add 4 to both sides: x = 10 + 4 = 14."
                         },
                         {
                             "question": "Solve for x: 10x = 100",
                             "options": ["5", "10", "15"],
-                            "answer": "B"
+                            "answer": "B",
+                            "explanation": "Divide both sides by 10: x = 100 ÷ 10 = 10."
                         },
                         {
-                            "question": "Solve for x: x/2 = 8",
+                            "question": "Solve for x: x ÷ 2 = 8",
                             "options": ["14", "16", "18"],
-                            "answer": "B"
+                            "answer": "B",
+                            "explanation": "Multiply both sides by 2: x = 8 × 2 = 16."
                         },
                         {
                             "question": "Solve for x: 3x + 9 = 0",
                             "options": ["-3", "3", "0"],
-                            "answer": "A"
+                            "answer": "A",
+                            "explanation": "Subtract 9 from both sides: 3x = -9; then divide by 3: x = -9 ÷ 3 = -3."
                         },
                         {
                             "question": "Solve for x: 2x - 5 = 9",
                             "options": ["5", "6", "7"],
-                            "answer": "B"
+                            "answer": "B",
+                            "explanation": "Add 5 to both sides: 2x = 14; then divide by 2: x = 14 ÷ 2 = 7."
                         }
                     ]
                 }
