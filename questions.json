@@ -1,17 +1,52 @@
 [
     {
-        "question": "What is the capital of France?",
-        "options": ["Paris", "London", "Berlin"],
+        "question": "The cat is hiding ______ the table.",
+        "options": ["under", "over", "between"],
         "answer": "A"
     },
     {
-        "question": "Which planet is known as the Red Planet?",
-        "options": ["Mars", "Jupiter", "Venus"],
+        "question": "She arrived ______ the airport early in the morning.",
+        "options": ["at", "on", "in"],
         "answer": "A"
     },
     {
-        "question": "What is 2 + 2?",
-        "options": ["3", "4", "5"],
+        "question": "The book is placed ______ the shelf.",
+        "options": ["on", "in", "at"],
+        "answer": "A"
+    },
+    {
+        "question": "He sat ______ his friends during the movie.",
+        "options": ["between", "among", "beside"],
+        "answer": "C"
+    },
+    {
+        "question": "We will meet ______ Monday to discuss the project.",
+        "options": ["in", "on", "at"],
         "answer": "B"
+    },
+    {
+        "question": "The dog jumped ______ the fence.",
+        "options": ["over", "under", "through"],
+        "answer": "A"
+    },
+    {
+        "question": "She is interested ______ learning new languages.",
+        "options": ["in", "on", "about"],
+        "answer": "A"
+    },
+    {
+        "question": "They have been living here ______ 2010.",
+        "options": ["since", "for", "from"],
+        "answer": "A"
+    },
+    {
+        "question": "The kids are playing ______ the park.",
+        "options": ["at", "in", "on"],
+        "answer": "B"
+    },
+    {
+        "question": "He is good ______ mathematics.",
+        "options": ["at", "in", "with"],
+        "answer": "A"
     }
 ]
