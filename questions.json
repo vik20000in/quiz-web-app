@@ -1,6 +1,5 @@
 {
-    "quiz": 
-    {
+   
     "categories": [
         {
             "name": "English",
@@ -382,27 +381,4 @@
             ]
         }
     ]
-},
-"dictation": {
-    "categories": [
-        {
-            "name": "Stories",
-            "passages": [
-                {
-                    "title": "The Tortoise and the Hare",
-                    "text": "Once upon a time, there was a tortoise and a hare. The hare was very fast and always boasted about his speed. One day, the tortoise challenged the hare to a race. The hare, being overconfident, took a nap during the race, while the tortoise kept going slowly but steadily. In the end, the tortoise won the race."
-                }
-            ]
-        },
-        {
-            "name": "Science",
-            "passages": [
-                {
-                    "title": "Photosynthesis",
-                    "text": "Photosynthesis is the process by which green plants make their own food. They use sunlight, carbon dioxide, and water to produce glucose and oxygen. The chlorophyll in the leaves captures the sunlight, and the process takes place in the chloroplasts."
-                }
-            ]
-        }
-    ]
-}
 }
