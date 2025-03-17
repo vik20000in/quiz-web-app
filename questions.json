@@ -8,12 +8,20 @@
                     "questions": [
                         {
                             "question": "The cat is hiding _ the table.",
-                            "options": ["under", "over", "between"],
+                            "options": [
+                                "under",
+                                "over",
+                                "between"
+                            ],
                             "answer": "A"
                         },
                         {
                             "question": "She arrived _ the airport early in the morning.",
-                            "options": ["at", "on", "in"],
+                            "options": [
+                                "at",
+                                "on",
+                                "in"
+                            ],
                             "answer": "A"
                         },
                         {
@@ -208,4 +216,7 @@
                         }
                     ]
                 }
+            ]
         }
+    ]
+}
