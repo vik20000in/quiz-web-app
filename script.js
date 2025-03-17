@@ -141,24 +141,25 @@ function checkAnswer(selectedIndex) {
     const question = questions[currentQuestionIndex];
     const correctIndex = question.answer.charCodeAt(0) - 65;
     const feedback = document.getElementById("feedback");
-    let feedbackText = "";
-    
+
     attemptedQuestions++;
 
     if (selectedIndex === correctIndex) {
-        feedbackText = "Correct!";
+        feedback.textContent = "Correct!";
         feedback.style.color = "green";
         correctAnswers++;
+        updateScore();
+        speakText("Correct!");
+        // Automatically move to next question after 2 seconds
+        setTimeout(goToNextQuestion, 2000);
     } else {
-        feedbackText = `Wrong! Correct answer: ${question.options[correctIndex]}. Explanation: ${question.explanation}`;
+        feedback.textContent = `Wrong! Correct answer: ${question.options[correctIndex]}. Explanation: ${question.explanation}`;
         feedback.style.color = "red";
+        updateScore();
+        speakText(feedback.textContent);
+        // Show "Next Question" button
+        document.getElementById("nextButton").style.display = "inline";
     }
-    feedback.textContent = feedbackText;
-    updateScore();
-    speakText(feedbackText);
-
-    document.getElementById("nextButton").style.display = "inline";
-    if (currentQuestionIndex > 0) document.getElementById("previousButton").style.display = "inline";
 }
 
 // Voice input for answers
@@ -182,7 +183,9 @@ if (recognition) {
         if (["a", "b", "c"].includes(spokenAnswer)) {
             selectedIndex = spokenAnswer.charCodeAt(0) - 97;
         } else if (spokenAnswer === "next question") {
-            goToNextQuestion();
+            if (document.getElementById("feedback").textContent.includes("Wrong")) {
+                goToNextQuestion();
+            }
             return;
         } else {
             selectedIndex = question.options.findIndex(opt => opt.toLowerCase() === spokenAnswer);
@@ -214,7 +217,7 @@ function goToNextQuestion() {
         document.getElementById("feedback").textContent = "";
         document.getElementById("spokenAnswer").textContent = "";
         document.getElementById("nextButton").style.display = "none";
-        document.getElementById("previousButton").style.display = "inline";
+        if (currentQuestionIndex > 0) document.getElementById("previousButton").style.display = "inline";
     } else {
         endQuiz();
     }
