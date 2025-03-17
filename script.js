@@ -1,3 +1,4 @@
+let allData = {};
 let questions = [];
 let currentQuestionIndex = 0;
 let score = 0;
@@ -16,25 +17,72 @@ window.onload = function() {
             return response.json();
         })
         .then(data => {
-            console.log("Questions loaded:", data);
-            questions = data;
-            document.getElementById("startButton").addEventListener("click", () => {
-                document.getElementById("startContainer").style.display = "none";
-                startQuiz();
-            });
+            console.log("Data loaded:", data);
+            allData = data;
+            populateCategories();
         })
         .catch(error => {
             console.error("Fetch error:", error);
             alert("Failed to load questions. Using fallback data.");
-            questions = [
-                { question: "Fallback: What is 1 + 1?", options: ["2", "3", "4"], answer: "A" }
-            ];
-            document.getElementById("startButton").addEventListener("click", () => {
-                document.getElementById("startContainer").style.display = "none";
-                startQuiz();
-            });
+            allData = {
+                categories: [
+                    {
+                        name: "Fallback",
+                        subcategories: [
+                            { name: "Test", questions: [{ question: "What is 1 + 1?", options: ["2", "3", "4"], answer: "A" }] }
+                        ]
+                    }
+                ]
+            };
+            populateCategories();
         });
 };
+
+// Populate category dropdown
+function populateCategories() {
+    const categorySelect = document.getElementById("categorySelect");
+    categorySelect.innerHTML = '<option value="">Select Subject</option>';
+    allData.categories.forEach((category, index) => {
+        const option = document.createElement("option");
+        option.value = index;
+        option.textContent = category.name;
+        categorySelect.appendChild(option);
+    });
+
+    categorySelect.addEventListener("change", populateSubcategories);
+    document.getElementById("startButton").addEventListener("click", startQuizFromSelection);
+}
+
+// Populate subcategory dropdown based on category
+function populateSubcategories() {
+    const categoryIndex = document.getElementById("categorySelect").value;
+    const subcategorySelect = document.getElementById("subcategorySelect");
+    subcategorySelect.innerHTML = '<option value="">Select Chapter</option>';
+
+    if (categoryIndex !== "") {
+        const subcategories = allData.categories[categoryIndex].subcategories;
+        subcategories.forEach((subcategory, index) => {
+            const option = document.createElement("option");
+            option.value = index;
+            option.textContent = subcategory.name;
+            subcategorySelect.appendChild(option);
+        });
+    }
+}
+
+// Start the quiz based on selection
+function startQuizFromSelection() {
+    const categoryIndex = document.getElementById("categorySelect").value;
+    const subcategoryIndex = document.getElementById("subcategorySelect").value;
+    if (categoryIndex === "" || subcategoryIndex === "") {
+        alert("Please select a subject and chapter.");
+        return;
+    }
+
+    questions = allData.categories[categoryIndex].subcategories[subcategoryIndex].questions;
+    document.getElementById("startContainer").style.display = "none";
+    startQuiz();
+}
 
 // Start the quiz
 function startQuiz() {
@@ -67,7 +115,7 @@ function showQuestion() {
         optionsList.appendChild(li);
     });
 
-    // Speak question and options automatically
+    // Speak question and options
     const optionsText = question.options
         .map((option, index) => `${String.fromCharCode(65 + index)}. ${option}`)
         .join(", ");
@@ -85,8 +133,6 @@ function showQuestion() {
         speech.onend = () => console.log("Question speech finished");
         speech.onerror = (event) => console.error("Question speech error:", event.error);
         window.speechSynthesis.speak(speech);
-    } else {
-        console.error("SpeechSynthesis not supported.");
     }
 }
 
@@ -95,7 +141,7 @@ function updateScore() {
     document.getElementById("score").textContent = score;
 }
 
-// Check the user's answer (button or voice)
+// Check the user's answer
 function checkAnswer(selectedIndex) {
     const question = questions[currentQuestionIndex];
     const correctIndex = question.answer.charCodeAt(0) - 65;
@@ -129,6 +175,7 @@ function checkAnswer(selectedIndex) {
 
     setTimeout(() => {
         feedback.textContent = "";
+        document.getElementById("spokenAnswer").textContent = "";
         currentQuestionIndex++;
         if (currentQuestionIndex < questions.length) {
             showQuestion();
@@ -160,6 +207,7 @@ if (recognition) {
     recognition.onresult = (event) => {
         const spokenAnswer = event.results[0][0].transcript.trim().toLowerCase();
         console.log("Spoken answer:", spokenAnswer);
+        document.getElementById("spokenAnswer").textContent = `Heard: "${spokenAnswer}"`;
 
         const question = questions[currentQuestionIndex];
         const correctIndex = question.answer.charCodeAt(0) - 65;
@@ -190,7 +238,7 @@ if (recognition) {
 
     recognition.onerror = (event) => {
         console.error("Speech recognition error:", event.error);
-        alert("Voice input failed: " + event.error);
+        document.getElementById("spokenAnswer").textContent = `Recognition error: ${event.error}`;
     };
 
     recognition.onend = () => {
