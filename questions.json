@@ -1,84 +1,117 @@
 {
     "categories": [
         {
-            "name": "Mathematics",
-            "subcategories": [
-                {
-                    "name": "Number System",
-                    "questions": [
-                        {
-                            "question": "What is the smallest natural number?",
-                            "options": ["0", "1", "2"],
-                            "answer": "B"
-                        }
-                    ]
-                },
-                {
-                    "name": "Fractions",
-                    "questions": [
-                        {
-                            "question": "What is half of 8?",
-                            "options": ["2", "4", "6"],
-                            "answer": "B"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Science",
-            "subcategories": [
-                {
-                    "name": "Living Organisms",
-                    "questions": [
-                        {
-                            "question": "Which gas do plants release during photosynthesis?",
-                            "options": ["Oxygen", "Carbon Dioxide", "Nitrogen"],
-                            "answer": "A"
-                        }
-                    ]
-                },
-                {
-                    "name": "Motion and Measurement",
-                    "questions": [
-                        {
-                            "question": "What unit is used to measure length?",
-                            "options": ["Liter", "Meter", "Kilogram"],
-                            "answer": "B"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "name": "English",
             "subcategories": [
                 {
-                    "name": "Grammar",
+                    "name": "Prepositions",
                     "questions": [
                         {
-                            "question": "What is the past tense of 'run'?",
-                            "options": ["Ran", "Run", "Running"],
+                            "question": "The cat is hiding _ the table.",
+                            "options": ["under", "over", "between"],
                             "answer": "A"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Social Studies",
-            "subcategories": [
-                {
-                    "name": "History",
-                    "questions": [
+                        },
                         {
-                            "question": "Who was the first Prime Minister of India?",
-                            "options": ["Gandhi", "Nehru", "Patel"],
+                            "question": "She arrived _ the airport early in the morning.",
+                            "options": ["at", "on", "in"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "The book is placed _ the shelf.",
+                            "options": ["on", "in", "at"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "He sat _ his friends during the movie.",
+                            "options": ["between", "among", "beside"],
+                            "answer": "C"
+                        },
+                        {
+                            "question": "We will meet _ Monday to discuss the project.",
+                            "options": ["in", "on", "at"],
                             "answer": "B"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
-}
+                        },
+                        {
+                            "question": "The dog jumped _ the fence.",
+                            "options": ["over", "under", "through"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "She is interested _ learning new languages.",
+                            "options": ["in", "on", "about"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "They have been living here _ 2010.",
+                            "options": ["since", "for", "from"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "The kids are playing _ the park.",
+                            "options": ["at", "in", "on"],
+                            "answer": "B"
+                        },
+                        {
+                            "question": "He is good _ mathematics.",
+                            "options": ["at", "in", "with"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "The meeting will start _ 9 AM.",
+                            "options": ["in", "on", "at"],
+                            "answer": "C"
+                        },
+                        {
+                            "question": "She was born _ 1995.",
+                            "options": ["in", "on", "at"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "The pen is _ the drawer.",
+                            "options": ["in", "on", "at"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "He walked _ the street.",
+                            "options": ["across", "through", "between"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "The picture is hanging _ the wall.",
+                            "options": ["on", "in", "at"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "She is standing _ the door.",
+                            "options": ["at", "on", "in"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "The train passes _ the tunnel.",
+                            "options": ["through", "under", "over"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "He is afraid _ spiders.",
+                            "options": ["of", "from", "with"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "The shop is open _ 9 AM to 5 PM.",
+                            "options": ["from", "between", "during"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "She is married _ a doctor.",
+                            "options": ["to", "with", "by"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "The cat is sitting _ the chair.",
+                            "options": ["on", "in", "under"],
+                            "answer": "C"
+                        },
+                        {
+                            "question": "He is responsible _ the project.",
+                            "options": ["for", "to", "with"],
+                            "answer": "A"
