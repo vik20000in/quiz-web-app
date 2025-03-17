@@ -1,5 +1,7 @@
 {
-   
+  "classes": [
+    {
+      "name": "Class 5",
     "categories": [
         {
             "name": "English",
@@ -1231,4 +1233,6 @@
             ]
         }
     ]
+}
+  ]
 }
