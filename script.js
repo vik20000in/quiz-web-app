@@ -3,130 +3,97 @@ let questions = [];
 let currentQuestionIndex = 0;
 let correctAnswers = 0;
 let attemptedQuestions = 0;
-let questionHistory = [];
+let questionHistory = []; // Track questions seen in this session
 
 const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
 const recognition = SpeechRecognition ? new SpeechRecognition() : null;
 
-// Load data when the page starts
+// Fetch questions when the page loads
 window.onload = function() {
-    fetch("data.json", { cache: "no-store" })
+    fetch("questions.json", { cache: "no-store" })
         .then(response => {
             if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
             return response.json();
         })
         .then(data => {
             allData = data;
-            populateClassSelect();
+            populateCategories();
+         //   populateClass();
         })
         .catch(error => {
             console.error("Fetch error:", error);
-            alert("Failed to load data. Using fallback data.");
+            alert("Failed to load questions. Using fallback data.");
             allData = {
-                classes: {
-                    "Class 6": {
-                        categories: [
-                            {
-                                name: "Fallback",
-                                subcategories: [
-                                    {
-                                        name: "Test",
-                                        questions: [
-                                            { question: "What is 1 + 1?", options: ["2", "3", "4"], answer: "A", explanation: "Basic addition." }
-                                        ]
-                                    }
-                                ]
-                            }
+                categories: [
+                    {
+                        name: "Fallback",
+                        subcategories: [
+                            { name: "Test", questions: [{ question: "What is 1 + 1?", options: ["2", "3", "4"], answer: "A", explanation: "Basic addition." }] }
                         ]
                     }
-                }
+                ]
             };
-            populateClassSelect();
+            populateCategories();
         });
 };
 
-// Populate class selection dropdown
-function populateClassSelect() {
-    const classSelect = document.getElementById("classSelect");
-    classSelect.innerHTML = '<option value="">Select Class</option>';
-    Object.keys(allData.classes).forEach((classKey) => {
-        const option = document.createElement("option");
-        option.value = classKey;
-        option.textContent = classKey;
-        classSelect.appendChild(option);
-    });
-}
-
-// Start quiz selection process
-document.getElementById("startQuizButton").addEventListener("click", () => {
-    document.getElementById("modeSelection").style.display = "none";
-    document.getElementById("classSelection").style.display = "block";
-});
-
-// Select class and proceed to category selection
-document.getElementById("selectClassButton").addEventListener("click", () => {
-    const selectedClass = document.getElementById("classSelect").value;
-    if (selectedClass) {
-        populateQuizCategories(selectedClass);
-        document.getElementById("classSelection").style.display = "none";
-        document.getElementById("quizSelection").style.display = "block";
-    } else {
-        alert("Please select a class.");
-    }
-});
-
-// Populate quiz category dropdown based on selected class
-function populateQuizCategories(selectedClass) {
-    const quizCategorySelect = document.getElementById("quizCategorySelect");
-    quizCategorySelect.innerHTML = '<option value="">Select Subject</option>';
-    allData.classes[selectedClass].categories.forEach((category, index) => {
+// Populate category dropdown
+function populateCategories() {
+    const categorySelect = document.getElementById("categorySelect");
+    categorySelect.innerHTML = '<option value="">Select Subject</option>';
+    allData.categories.forEach((category, index) => {
         const option = document.createElement("option");
         option.value = index;
         option.textContent = category.name;
-        quizCategorySelect.appendChild(option);
+        categorySelect.appendChild(option);
     });
-    quizCategorySelect.addEventListener("change", populateQuizSubcategories);
+
+    categorySelect.addEventListener("change", populateSubcategories);
+    document.getElementById("startButton").addEventListener("click", startQuizFromSelection);
 }
 
-// Populate quiz subcategory dropdown based on selected category
-function populateQuizSubcategories() {
-    const categoryIndex = document.getElementById("quizCategorySelect").value;
-    const selectedClass = document.getElementById("classSelect").value;
-    const categories = allData.classes[selectedClass].categories;
-    const selectedCategory = categories[categoryIndex];
-    const quizSubcategorySelect = document.getElementById("quizSubcategorySelect");
-    quizSubcategorySelect.innerHTML = '<option value="">Select Chapter</option>';
+// Populate subcategory dropdown
+function populateSubcategories() {
+    const categoryIndex = document.getElementById("categorySelect").value;
+    const subcategorySelect = document.getElementById("subcategorySelect");
+    subcategorySelect.innerHTML = '<option value="">Select Chapter</option>';
+
     if (categoryIndex !== "") {
-        selectedCategory.subcategories.forEach((subcategory, index) => {
+        const subcategories = allData.categories[categoryIndex].subcategories;
+        subcategories.forEach((subcategory, index) => {
             const option = document.createElement("option");
             option.value = index;
             option.textContent = subcategory.name;
-            quizSubcategorySelect.appendChild(option);
+            subcategorySelect.appendChild(option);
         });
     }
 }
 
-// Start quiz based on user selection
-document.getElementById("startQuiz").addEventListener("click", startQuizFromSelection);
+// Shuffle array function
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
 
+// Start the quiz based on selection
 function startQuizFromSelection() {
-    const selectedClass = document.getElementById("classSelect").value;
-    const categoryIndex = document.getElementById("quizCategorySelect").value;
-    const subcategoryIndex = document.getElementById("quizSubcategorySelect").value;
-    if (selectedClass === "" || categoryIndex === "" || subcategoryIndex === "") {
-        alert("Please select a class, subject, and chapter.");
+    const categoryIndex = document.getElementById("categorySelect").value;
+    const subcategoryIndex = document.getElementById("subcategorySelect").value;
+    if (categoryIndex === "" || subcategoryIndex === "") {
+        alert("Please select a subject and chapter.");
         return;
     }
-    const categories = allData.classes[selectedClass].categories;
-    const selectedCategory = categories[categoryIndex];
-    const selectedSubcategory = selectedCategory.subcategories[subcategoryIndex];
-    questions = [...selectedSubcategory.questions];
+
+    questions = [...allData.categories[categoryIndex].subcategories[subcategoryIndex].questions];
     shuffleArray(questions);
-    document.getElementById("quizSelection").style.display = "none";
+    document.getElementById("startContainer").style.display = "none";
     startQuiz();
 }
 
-// Initialize quiz
+// Start the quiz
 function startQuiz() {
     if (questions.length === 0) {
         alert("No questions to display.");
@@ -137,16 +104,18 @@ function startQuiz() {
     currentQuestionIndex = 0;
     questionHistory = [0];
     updateScore();
+    document.getElementById("scoreContainer").style.display = "block";
     document.getElementById("quizContainer").style.display = "block";
     showQuestion();
+
     document.getElementById("exitButton").addEventListener("click", exitQuiz);
 }
 
-// Display current question
+// Display the current question
 function showQuestion() {
     const question = questions[currentQuestionIndex];
     document.getElementById("questionText").textContent = question.question;
-
+    
     const optionsList = document.getElementById("optionsList");
     optionsList.innerHTML = "";
     question.options.forEach((option, index) => {
@@ -158,19 +127,17 @@ function showQuestion() {
         optionsList.appendChild(li);
     });
 
-    const optionsText = question.options
-        .map((opt, idx) => `${String.fromCharCode(65 + idx)}. ${opt}`)
-        .join(", ");
+    const optionsText = question.options.map((opt, idx) => `${String.fromCharCode(65 + idx)}. ${opt}`).join(", ");
     const fullText = `${question.question} ${optionsText}`;
     speakText(fullText);
 }
 
-// Update score display
+// Update the score display
 function updateScore() {
     document.getElementById("score").textContent = `${correctAnswers} out of ${attemptedQuestions}`;
 }
 
-// Check user's answer
+// Check the user's answer
 function checkAnswer(selectedIndex) {
     const question = questions[currentQuestionIndex];
     const correctIndex = question.answer.charCodeAt(0) - 65;
@@ -184,80 +151,19 @@ function checkAnswer(selectedIndex) {
         correctAnswers++;
         updateScore();
         speakText("Correct!");
+        // Automatically move to next question after 2 seconds
         setTimeout(goToNextQuestion, 2000);
     } else {
         feedback.textContent = `Wrong! Correct answer: ${question.options[correctIndex]}. Explanation: ${question.explanation}`;
         feedback.style.color = "red";
         updateScore();
         speakText(feedback.textContent);
+        // Show "Next Question" button
         document.getElementById("nextButton").style.display = "inline";
     }
 }
 
-// Go to next question
-function goToNextQuestion() {
-    if (currentQuestionIndex < questions.length - 1) {
-        currentQuestionIndex++;
-        questionHistory.push(currentQuestionIndex);
-        showQuestion();
-        document.getElementById("feedback").textContent = "";
-        document.getElementById("spokenAnswer").textContent = "";
-        document.getElementById("nextButton").style.display = "none";
-        if (currentQuestionIndex > 0) document.getElementById("previousButton").style.display = "inline";
-    } else {
-        endQuiz();
-    }
-}
-
-// Go to previous question
-function goToPreviousQuestion() {
-    if (currentQuestionIndex > 0) {
-        currentQuestionIndex--;
-        showQuestion();
-        document.getElementById("feedback").textContent = "";
-        document.getElementById("spokenAnswer").textContent = "";
-        document.getElementById("nextButton").style.display = "none";
-        if (currentQuestionIndex === 0) document.getElementById("previousButton").style.display = "none";
-    }
-}
-
-// Exit quiz
-function exitQuiz() {
-    endQuiz(true);
-}
-
-// End quiz and show results
-function endQuiz(isExit = false) {
-    const finalMessage = isExit
-        ? `Quiz exited! Your score: ${correctAnswers} out of ${attemptedQuestions}`
-        : `Quiz finished! Your score: ${correctAnswers} out of ${attemptedQuestions}`;
-    alert(finalMessage);
-    speakText(finalMessage);
-    document.getElementById("quizContainer").style.display = "none";
-    document.getElementById("modeSelection").style.display = "block";
-    correctAnswers = 0;
-    attemptedQuestions = 0;
-    updateScore();
-}
-
-// Shuffle array for randomization
-function shuffleArray(array) {
-    for (let i = array.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
-    }
-    return array;
-}
-
-// Speak text using Web Speech API
-function speakText(text) {
-    const utterance = new SpeechSynthesisUtterance(text);
-    utterance.lang = "en-US";
-    utterance.rate = 0.7; // Default rate for quiz
-    window.speechSynthesis.speak(utterance);
-}
-
-// Voice input for quiz answers
+// Voice input for answers
 if (recognition) {
     recognition.lang = "en-US";
     recognition.interimResults = false;
@@ -283,7 +189,7 @@ if (recognition) {
             }
             return;
         } else {
-            selectedIndex = question.options.findIndex((opt) => opt.toLowerCase() === spokenAnswer);
+            selectedIndex = question.options.findIndex(opt => opt.toLowerCase() === spokenAnswer);
         }
 
         if (selectedIndex !== -1) {
@@ -303,6 +209,63 @@ if (recognition) {
     document.getElementById("speakAnswerButton").style.display = "none";
 }
 
-// Event listeners for navigation
+// Go to the next question
+function goToNextQuestion() {
+    if (currentQuestionIndex < questions.length - 1) {
+        currentQuestionIndex++;
+        questionHistory.push(currentQuestionIndex);
+        showQuestion();
+        document.getElementById("feedback").textContent = "";
+        document.getElementById("spokenAnswer").textContent = "";
+        document.getElementById("nextButton").style.display = "none";
+        if (currentQuestionIndex > 0) document.getElementById("previousButton").style.display = "inline";
+    } else {
+        endQuiz();
+    }
+}
+
+// Go to the previous question
+function goToPreviousQuestion() {
+    if (currentQuestionIndex > 0) {
+        currentQuestionIndex--;
+        showQuestion();
+        document.getElementById("feedback").textContent = "";
+        document.getElementById("spokenAnswer").textContent = "";
+        document.getElementById("nextButton").style.display = "none";
+        if (currentQuestionIndex === 0) document.getElementById("previousButton").style.display = "none";
+    }
+}
+
+// Exit the quiz
+function exitQuiz() {
+    endQuiz(true);
+}
+
+// End the quiz
+function endQuiz(isExit = false) {
+    const finalMessage = isExit 
+        ? `Quiz exited! Your score: ${correctAnswers} out of ${attemptedQuestions}`
+        : `Quiz finished! Your score: ${correctAnswers} out of ${attemptedQuestions}`;
+    alert(finalMessage);
+    speakText(finalMessage);
+    document.getElementById("scoreContainer").style.display = "none";
+    document.getElementById("quizContainer").style.display = "none";
+    document.getElementById("startContainer").style.display = "block";
+    correctAnswers = 0;
+    attemptedQuestions = 0;
+    updateScore();
+}
+
+// Speak text function
+function speakText(text) {
+    if (window.speechSynthesis) {
+        window.speechSynthesis.cancel();
+        const speech = new SpeechSynthesisUtterance(text);
+        speech.lang = "en-US";
+        window.speechSynthesis.speak(speech);
+    }
+}
+
+// Attach event listeners for navigation
 document.getElementById("nextButton").addEventListener("click", goToNextQuestion);
 document.getElementById("previousButton").addEventListener("click", goToPreviousQuestion);

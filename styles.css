@@ -4,15 +4,8 @@ body {
     margin: 20px auto;
     padding: 10px;
 }
-h1, h2 {
+h1 {
     text-align: center;
-}
-ul {
-    list-style: none;
-    padding: 0;
-}
-li {
-    margin: 10px 0;
 }
 button {
     padding: 10px 20px;
@@ -33,14 +26,7 @@ select {
     font-size: 16px;
     border-radius: 5px;
 }
-#feedback {
-    color: #333;
+#dictationContainer p {
     text-align: center;
-}
-#score {
-    font-weight: bold;
-}
-#spokenAnswer {
-    text-align: center;
-    margin-top: 10px;
+    font-size: 18px;
 }
