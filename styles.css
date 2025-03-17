@@ -30,3 +30,11 @@ button:hover {
     color: #333;
     text-align: center;
 }
+#scoreContainer {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+#score {
+    font-weight: bold;
+}
