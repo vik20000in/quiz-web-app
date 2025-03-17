@@ -38,3 +38,7 @@ button:hover {
 #score {
     font-weight: bold;
 }
+#startContainer {
+    text-align: center;
+    margin-top: 20px;
+}
