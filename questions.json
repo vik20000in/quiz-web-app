@@ -1,51 +1,51 @@
 [
     {
-        "question": "The cat is hiding ______ the table.",
+        "question": "The cat is hiding _ the table.",
         "options": ["under", "over", "between"],
         "answer": "A"
     },
     {
-        "question": "She arrived ______ the airport early in the morning.",
+        "question": "She arrived _ the airport early in the morning.",
         "options": ["at", "on", "in"],
         "answer": "A"
     },
     {
-        "question": "The book is placed ______ the shelf.",
+        "question": "The book is placed _ the shelf.",
         "options": ["on", "in", "at"],
         "answer": "A"
     },
     {
-        "question": "He sat ______ his friends during the movie.",
+        "question": "He sat _ his friends during the movie.",
         "options": ["between", "among", "beside"],
         "answer": "C"
     },
     {
-        "question": "We will meet ______ Monday to discuss the project.",
+        "question": "We will meet _ Monday to discuss the project.",
         "options": ["in", "on", "at"],
         "answer": "B"
     },
     {
-        "question": "The dog jumped ______ the fence.",
+        "question": "The dog jumped _ the fence.",
         "options": ["over", "under", "through"],
         "answer": "A"
     },
     {
-        "question": "She is interested ______ learning new languages.",
+        "question": "She is interested _ learning new languages.",
         "options": ["in", "on", "about"],
         "answer": "A"
     },
     {
-        "question": "They have been living here ______ 2010.",
+        "question": "They have been living here _ 2010.",
         "options": ["since", "for", "from"],
         "answer": "A"
     },
     {
-        "question": "The kids are playing ______ the park.",
+        "question": "The kids are playing _ the park.",
         "options": ["at", "in", "on"],
         "answer": "B"
     },
     {
-        "question": "He is good ______ mathematics.",
+        "question": "He is good _ mathematics.",
         "options": ["at", "in", "with"],
         "answer": "A"
     }
