@@ -4,7 +4,7 @@ let currentQuestionIndex = 0;
 // Fetch questions when the page loads
 window.onload = function() {
     console.log("Starting fetch for questions.json...");
-    fetch("questions.json", { cache: "no-store" }) // Prevent caching issues
+    fetch("questions.json", { cache: "no-store" })
         .then(response => {
             if (!response.ok) {
                 throw new Error(`HTTP error! Status: ${response.status} - ${response.statusText}`);
@@ -18,14 +18,9 @@ window.onload = function() {
         })
         .catch(error => {
             console.error("Fetch error:", error);
-            alert("Failed to load questions. Using fallback data. Check console for details.");
-            // Fallback questions for debugging
+            alert("Failed to load questions. Using fallback data.");
             questions = [
-                {
-                    question: "Fallback: What is 1 + 1?",
-                    options: ["2", "3", "4"],
-                    answer: "A"
-                }
+                { question: "Fallback: What is 1 + 1?", options: ["2", "3", "4"], answer: "A" }
             ];
             startQuiz();
         });
@@ -43,7 +38,7 @@ function startQuiz() {
     showQuestion();
 }
 
-// Display the current question
+// Display and speak the current question
 function showQuestion() {
     const question = questions[currentQuestionIndex];
     document.getElementById("questionText").textContent = question.question;
@@ -58,17 +53,36 @@ function showQuestion() {
         li.appendChild(button);
         optionsList.appendChild(li);
     });
-}
 
-// Speak the question
-document.getElementById("speakButton").addEventListener("click", () => {
-    const question = questions[currentQuestionIndex];
-    const speech = new SpeechSynthesisUtterance(question.question);
-    speech.lang = "en-US";
-    speech.onstart = () => console.log("Speech started");
-    speech.onerror = (event) => console.error("Speech error:", event.error);
-    window.speechSynthesis.speak(speech);
-});
+    // Prepare speech text with question and options
+    const optionsText = question.options
+        .map((option, index) => `${String.fromCharCode(65 + index)}. ${option}`)
+        .join(", ");
+    const fullText = `${question.question} ${optionsText}`;
+    console.log("Speaking:", fullText);
+
+    // Speak automatically
+    if (window.speechSynthesis) {
+        window.speechSynthesis.cancel(); // Clear any previous speech
+        const speech = new SpeechSynthesisUtterance(fullText);
+        speech.lang = "en-US";
+        speech.volume = 1.0;
+        speech.rate = 1.0;
+        speech.pitch = 1.0;
+
+        speech.onstart = () => console.log("Speech started");
+        speech.onend = () => console.log("Speech finished");
+        speech.onerror = (event) => {
+            console.error("Speech error:", event.error);
+            alert("Speech failed: " + event.error);
+        };
+
+        window.speechSynthesis.speak(speech);
+    } else {
+        console.error("SpeechSynthesis not supported.");
+        alert("Voice feature not supported on this device/browser.");
+    }
+}
 
 // Check the user's answer
 function checkAnswer(selectedIndex) {
