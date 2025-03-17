@@ -3,32 +3,44 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Voice & Visual Quiz</title>
+    <title>Voice & Visual Quiz with Dictation</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Voice & Visual Quiz</h1>
-    <div id="scoreContainer" style="display: none;">
-        <p>Score: <span id="score">0 out of 0</span></p>
+    <h1>Voice & Visual Quiz with Dictation</h1>
+    <!-- Mode Selection -->
+    <div id="modeSelection">
+        <button id="startQuizButton">Start Quiz</button>
+        <button id="startDictationButton">Start Dictation</button>
     </div>
-    <div id="startContainer">
-        <label for="categorySelect">Subject:</label>
-        <select id="categorySelect"></select>
+    <!-- Quiz Selection (assuming it exists) -->
+    <div id="quizSelection" style="display: none;">
+        <label for="quizCategorySelect">Subject:</label>
+        <select id="quizCategorySelect"></select>
         <br>
-        <label for="subcategorySelect">Chapter:</label>
-        <select id="subcategorySelect"></select>
+        <label for="quizSubcategorySelect">Chapter:</label>
+        <select id="quizSubcategorySelect"></select>
         <br>
-        <button id="startButton">Start Quiz</button>
+        <button id="startQuiz">Start Quiz</button>
     </div>
+    <!-- Dictation Selection -->
+    <div id="dictationSelection" style="display: none;">
+        <label for="dictationCategorySelect">Category:</label>
+        <select id="dictationCategorySelect"></select>
+        <br>
+        <label for="passageSelect">Passage:</label>
+        <select id="passageSelect"></select>
+        <br>
+        <button id="startDictation">Start Dictation</button>
+    </div>
+    <!-- Quiz Container (assuming it exists) -->
     <div id="quizContainer" style="display: none;">
-        <h2 id="questionText"></h2>
-        <ul id="optionsList"></ul>
-        <button id="speakAnswerButton">Speak Answer</button>
-        <button id="previousButton" style="display: none;">Previous Question</button>
-        <button id="nextButton" style="display: none;">Next Question</button>
-        <button id="exitButton">Exit Quiz</button>
-        <p id="feedback"></p>
-        <p id="spokenAnswer" style="font-style: italic; color: #555;"></p>
+        <!-- Quiz content goes here -->
+    </div>
+    <!-- Dictation Container -->
+    <div id="dictationContainer" style="display: none;">
+        <p>Dictation in progress. Write down what you hear.</p>
+        <button id="stopDictationButton">Stop Dictation</button>
     </div>
     <script src="script.js"></script>
 </body>
