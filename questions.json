@@ -1082,6 +1082,151 @@
                             "explanation": "'Rings every hour' tells what the subject 'the bell' does."
                         }
                     ]
+                },
+                {
+                    "name": "Degrees of Adjectives",
+                    "questions": [
+                        {
+                            "question": "Which degree of adjective is used in the sentence: 'She is a smart girl'?",
+                            "options": ["Positive degree", "Comparative degree", "Superlative degree"],
+                            "answer": "A",
+                            "explanation": "The adjective 'smart' is in its base form, representing the positive degree."
+                        },
+                        {
+                            "question": "What is the comparative form of 'fast'?",
+                            "options": ["faster", "fastest", "fastly"],
+                            "answer": "A",
+                            "explanation": "The comparative form of 'fast' is 'faster.'"
+                        },
+                        {
+                            "question": "What is the superlative form of 'small'?",
+                            "options": ["smaller", "smallest", "small"],
+                            "answer": "B",
+                            "explanation": "The superlative form of 'small' is 'smallest.'"
+                        },
+                        {
+                            "question": "Choose the correct comparative form of 'good'.",
+                            "options": ["better", "best", "more good"],
+                            "answer": "A",
+                            "explanation": "The comparative form of 'good' is 'better.'"
+                        },
+                        {
+                            "question": "Choose the correct superlative form of 'bad'.",
+                            "options": ["worse", "worst", "more bad"],
+                            "answer": "B",
+                            "explanation": "The superlative form of 'bad' is 'worst.'"
+                        },
+                        {
+                            "question": "Which sentence correctly uses the comparative degree?",
+                            "options": [
+                                "She is tall.",
+                                "She is taller than her sister.",
+                                "She is the tallest in her class."
+                            ],
+                            "answer": "B",
+                            "explanation": "'Taller than her sister' correctly uses the comparative form to compare two entities."
+                        },
+                        {
+                            "question": "Which sentence correctly uses the superlative degree?",
+                            "options": [
+                                "He is smart.",
+                                "He is smarter than his friend.",
+                                "He is the smartest student in the class."
+                            ],
+                            "answer": "C",
+                            "explanation": "'The smartest student in the class' correctly uses the superlative degree."
+                        },
+                        {
+                            "question": "What is the comparative form of the adjective 'happy'?",
+                            "options": ["happier", "happiest", "more happy"],
+                            "answer": "A",
+                            "explanation": "'Happier' is the correct comparative form of 'happy.'"
+                        },
+                        {
+                            "question": "What is the superlative form of the adjective 'long'?",
+                            "options": ["longer", "longest", "more long"],
+                            "answer": "B",
+                            "explanation": "'Longest' is the superlative form of 'long.'"
+                        },
+                        {
+                            "question": "In the sentence 'This is the most beautiful painting,' which degree of adjective is used?",
+                            "options": ["Positive", "Comparative", "Superlative"],
+                            "answer": "C",
+                            "explanation": "'Most beautiful' represents the superlative degree."
+                        },
+                        {
+                            "question": "Identify the comparative form in the sentence: 'My car is faster than yours.'",
+                            "options": ["faster", "fast", "fastest"],
+                            "answer": "A",
+                            "explanation": "'Faster' is the comparative form used to compare two objects."
+                        },
+                        {
+                            "question": "Which degree of adjective is used in the sentence 'The weather is nice today'?",
+                            "options": ["Positive", "Comparative", "Superlative"],
+                            "answer": "A",
+                            "explanation": "'Nice' is in its base form, indicating the positive degree."
+                        },
+                        {
+                            "question": "What is the superlative form of 'rich'?",
+                            "options": ["richer", "richest", "more rich"],
+                            "answer": "B",
+                            "explanation": "'Richest' is the superlative form of 'rich.'"
+                        },
+                        {
+                            "question": "Which is the correct comparative form of 'young'?",
+                            "options": ["younger", "youngest", "more young"],
+                            "answer": "A",
+                            "explanation": "'Younger' is the comparative form of 'young.'"
+                        },
+                        {
+                            "question": "What is the superlative form of 'old'?",
+                            "options": ["older", "oldest", "more old"],
+                            "answer": "B",
+                            "explanation": "'Oldest' is the superlative form of 'old.'"
+                        },
+                        {
+                            "question": "Choose the sentence that uses the positive degree of adjectives.",
+                            "options": [
+                                "She is the kindest person I know.",
+                                "She is kinder than her brother.",
+                                "She is kind."
+                            ],
+                            "answer": "C",
+                            "explanation": "The adjective 'kind' in its base form is in the positive degree."
+                        },
+                        {
+                            "question": "Choose the sentence using the comparative degree of adjectives.",
+                            "options": [
+                                "This puzzle is difficult.",
+                                "This puzzle is more difficult than the last one.",
+                                "This puzzle is the most difficult."
+                            ],
+                            "answer": "B",
+                            "explanation": "'More difficult than the last one' uses the comparative degree to compare two puzzles."
+                        },
+                        {
+                            "question": "Which sentence correctly shows the superlative degree?",
+                            "options": [
+                                "He is the best player in the team.",
+                                "He is better than his teammate.",
+                                "He is good."
+                            ],
+                            "answer": "A",
+                            "explanation": "'The best player in the team' uses the superlative degree to compare more than two items."
+                        },
+                        {
+                            "question": "Identify the degree of the adjective 'brighter' in the sentence 'The sky is brighter today than yesterday.'",
+                            "options": ["Positive", "Comparative", "Superlative"],
+                            "answer": "B",
+                            "explanation": "'Brighter' is the comparative form comparing two time periods."
+                        },
+                        {
+                            "question": "What is the correct comparative form of 'strong'?",
+                            "options": ["stronger", "strongest", "more strong"],
+                            "answer": "A",
+                            "explanation": "'Stronger' is the correct comparative form of 'strong.'"
+                        }
+                    ]
                 }
             ]
         }
