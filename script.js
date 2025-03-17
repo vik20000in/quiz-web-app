@@ -20,6 +20,18 @@ const encouragingPhrases = [
 
 // Fetch questions when the page loads
 window.onload = function() {
+    var savedTheme = localStorage.getItem('theme');
+    if (savedTheme) {
+        document.body.className = savedTheme;
+        document.getElementById('theme-select').value = savedTheme;
+    } else {
+        document.body.className = 'school';
+    }
+    document.getElementById('theme-select').addEventListener('change', function() {
+        var theme = this.value;
+        document.body.className = theme;
+        localStorage.setItem('theme', theme);
+    });
     fetch("data.json", { cache: "no-store" })
         .then(response => {
             if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);

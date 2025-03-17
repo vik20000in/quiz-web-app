@@ -1,10 +1,4 @@
-body {
-    font-family: Arial, sans-serif;
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 10px;
-    background: linear-gradient(to bottom, #e6f7ff, #ffffff);
-}
+
 
 h1, h2 {
     text-align: center;
@@ -86,4 +80,175 @@ select {
 
 #stars .filled {
     color: gold;
+}
+/* Default styles */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    color: #333;
+}
+body.plain {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 10px;
+    background: linear-gradient(to bottom, #e6f7ff, #ffffff);
+}
+/* Theme-specific styles */
+body.jungle {
+    background-color: #228B22; /* Forest Green fallback */
+    background-image: url('images/jungle-background.jpg');
+    background-size: contain;
+    background-position: center;
+    color: #FFFFFF;
+}
+
+body.space {
+    background-color: #00008B; /* Dark Blue fallback */
+    background-image: url('images/space-background.jpg');
+    background-size: contain;
+    background-position: center;
+    color: #FFFFFF;
+}
+
+body.rocket {
+    background-color: #FF4500; /* Orange Red fallback */
+    background-image: url('images/rocket-background.jpg');
+    background-size: contain;
+    background-position: center;
+    color: #FFFFFF;
+}
+
+body.sea {
+    background-color: #1E90FF; /* Dodger Blue fallback */
+    background-image: url('images/sea-background.jpg');
+    background-size: contain;
+    background-position: center;
+    color: #FFFFFF;
+}
+
+body.mountain {
+    background-color: #8B4513; /* Saddle Brown fallback */
+    background-image: url('images/mountain-background.jpg');
+    background-size: contain;
+    background-position: center;
+    color: #FFFFFF;
+}
+
+body.dinosaur {
+    background-color: #228B22; /* Forest Green fallback */
+    background-image: url('images/dinosaur-background.jpg');
+    background-size: contain;
+    background-position: center;
+    color: #FFFFFF;
+}
+
+body.school {
+    background-color: #000000; /* Black fallback */
+    background-image: url('images/school-background.jpg');
+    background-size: contain;
+    background-position: center;
+    color: #000000;
+}
+
+body.playground {
+    background-color: #FFD700; /* Gold fallback */
+    background-image: url('images/playground-background.jpg');
+    background-size: contain;
+background-repeat: no-repeat;
+    background-position: center;
+    color: #FFD700;
+}
+
+/* Quiz container */
+#quizContainer {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    color: #000000;
+}
+
+/* Question box */
+.question-box {
+    background-color: white;
+    border: 2px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    color: #000000;
+}
+
+/* Buttons */
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+body.jungle button {
+    background-color: #228B22;
+    color: white;
+}
+
+body.space button {
+    background-color: #00008B;
+    color: white;
+}
+
+body.rocket button {
+    background-color: #FF4500;
+    color: white;
+}
+
+body.sea button {
+    background-color: #1E90FF;
+    color: white;
+}
+
+body.mountain button {
+    background-color: #8B4513;
+    color: white;
+}
+
+body.dinosaur button {
+    background-color: #228B22;
+    color: white;
+}
+
+body.school button {
+    background-color: #000000;
+    color: white;
+}
+
+body.playground button {
+    background-color: #FFD700;
+    color: black;
+}
+
+/* Stars */
+#stars span {
+    color: #ccc; /* Gray for unfilled stars */
+    font-size: 24px;
+    margin: 0 5px;
+}
+
+#stars .filled {
+    color: gold; /* Gold for filled stars */
+}
+
+/* Class selection */
+#classSelection {
+    margin-bottom: 20px;
+}
+
+#classSelection select, #classSelection button {
+    margin-right: 10px;
 }
