@@ -1,0 +1,154 @@
+{
+    "questions": [
+      {
+        "question": "What is the smallest natural number?",
+        "options": ["0", "1", "2"],
+        "answer": "B",
+        "explanation": "Natural numbers start from 1 and go upwards (1, 2, 3, ...). Hence, 1 is the smallest."
+      },
+      {
+        "question": "Which of the following is not a whole number?",
+        "options": ["0", "-1", "1"],
+        "answer": "B",
+        "explanation": "Whole numbers are 0 and all positive integers (0, 1, 2, ...). -1 is a negative integer, not a whole number."
+      },
+      {
+        "question": "What is the HCF of 12 and 18?",
+        "options": ["2", "3", "6"],
+        "answer": "C",
+        "explanation": "The factors of 12 are 1, 2, 3, 4, 6, 12, and of 18 are 1, 2, 3, 6, 9, 18. The highest common factor is 6."
+      },
+      {
+        "question": "If a number is divisible by 2 and 3, it must be divisible by:",
+        "options": ["4", "6", "9"],
+        "answer": "B",
+        "explanation": "A number divisible by 2 and 3 is divisible by their least common multiple (LCM). LCM of 2 and 3 is 6."
+      },
+      {
+        "question": "How many degrees are there in a right angle?",
+        "options": ["45°", "90°", "180°"],
+        "answer": "B",
+        "explanation": "A right angle measures exactly 90 degrees."
+      },
+      {
+        "question": "What is the sum of angles in a triangle?",
+        "options": ["90°", "180°", "360°"],
+        "answer": "B",
+        "explanation": "The sum of the interior angles in any triangle is always 180 degrees."
+      },
+      {
+        "question": "What is the perimeter of a square with side length 5 cm?",
+        "options": ["10 cm", "20 cm", "25 cm"],
+        "answer": "B",
+        "explanation": "The perimeter of a square is 4 times its side length: 4 * 5 = 20 cm."
+      },
+      {
+        "question": "What is the area of a rectangle with length 6 cm and breadth 4 cm?",
+        "options": ["10 cm²", "24 cm²", "20 cm²"],
+        "answer": "B",
+        "explanation": "The area of a rectangle is length times breadth: 6 * 4 = 24 cm²."
+      },
+      {
+        "question": "In a bar graph, what does the height of the bar represent?",
+        "options": ["Frequency", "Category", "Scale"],
+        "answer": "A",
+        "explanation": "In a bar graph, the height of each bar shows the frequency (number of occurrences) of a category."
+      },
+      {
+        "question": "If a pie chart is divided into 4 equal parts, what is the angle of each part?",
+        "options": ["45°", "60°", "90°"],
+        "answer": "C",
+        "explanation": "A full circle is 360°. Divided into 4 equal parts, each part is 360° / 4 = 90°."
+      },
+      {
+        "question": "If x + 5 = 10, what is the value of x?",
+        "options": ["3", "5", "2"],
+        "answer": "B",
+        "explanation": "Solve for x: x + 5 = 10 => x = 10 - 5 = 5."
+      },
+      {
+        "question": "What is the value of 2x - 3 when x = 4?",
+        "options": ["5", "8", "11"],
+        "answer": "A",
+        "explanation": "Substitute x = 4: 2 * 4 - 3 = 8 - 3 = 5."
+      },
+      {
+        "question": "If 2:3 = x:9, what is the value of x?",
+        "options": ["6", "3", "9"],
+        "answer": "A",
+        "explanation": "Set up the proportion: 2/3 = x/9. Cross-multiply: 2 * 9 = 3 * x => 18 = 3x => x = 18 / 3 = 6."
+      },
+      {
+        "question": "If the ratio of boys to girls is 3:2 and there are 15 boys, how many girls are there?",
+        "options": ["10", "12", "15"],
+        "answer": "A",
+        "explanation": "Let the number of girls be g. Then, 3/2 = 15/g => 3g = 2 * 15 => 3g = 30 => g = 30 / 3 = 10."
+      },
+      {
+        "question": "What comes next in the sequence: 2, 4, 6, 8, ...?",
+        "options": ["9", "10", "12"],
+        "answer": "B",
+        "explanation": "The sequence increases by 2 each time (even numbers): 2, 4, 6, 8. The next is 8 + 2 = 10."
+      },
+      {
+        "question": "If all cats are animals and some animals are dogs, which is true?",
+        "options": ["All dogs are cats", "Some dogs are cats", "No conclusion"],
+        "answer": "C",
+        "explanation": "The statements don’t provide enough information to determine the relationship between dogs and cats, so no conclusion can be drawn."
+      },
+      {
+        "question": "What is the value of 25% of 200?",
+        "options": ["25", "50", "75"],
+        "answer": "B",
+        "explanation": "25% of 200 is (25 / 100) * 200 = 0.25 * 200 = 50."
+      },
+      {
+        "question": "If a car travels 60 km in 1 hour, how far will it travel in 2.5 hours?",
+        "options": ["120 km", "150 km", "180 km"],
+        "answer": "B",
+        "explanation": "Distance = speed * time = 60 km/h * 2.5 h = 150 km."
+      },
+      {
+        "question": "What is the smallest prime number?",
+        "options": ["1", "2", "3"],
+        "answer": "B",
+        "explanation": "A prime number has only two factors: 1 and itself. 1 is not prime, so 2 is the smallest prime number."
+      },
+      {
+        "question": "How many sides does a hexagon have?",
+        "options": ["4", "5", "6"],
+        "answer": "C",
+        "explanation": "A hexagon is a polygon with 6 sides."
+      },
+      {
+        "question": "If a book costs Rs. 120 after a 20% discount, what was the original price?",
+        "options": ["Rs. 140", "Rs. 150", "Rs. 160"],
+        "answer": "B",
+        "explanation": "Let the original price be x. After a 20% discount, 80% of x = 120 => 0.8x = 120 => x = 120 / 0.8 = 150."
+      },
+      {
+        "question": "What is the value of 3² + 4²?",
+        "options": ["7", "12", "25"],
+        "answer": "C",
+        "explanation": "Calculate: 3² = 9, 4² = 16, so 9 + 16 = 25."
+      },
+      {
+        "question": "If a triangle has sides 3 cm, 4 cm, and 5 cm, what type of triangle is it?",
+        "options": ["Acute", "Right", "Obtuse"],
+        "answer": "B",
+        "explanation": "Check the Pythagorean theorem: 3² + 4² = 9 + 16 = 25 = 5². This is a right-angled triangle."
+      },
+      {
+        "question": "What is the next number in the series: 1, 4, 9, 16, ...?",
+        "options": ["20", "25", "30"],
+        "answer": "B",
+        "explanation": "The series is squares of natural numbers: 1², 2², 3², 4². The next is 5² = 25."
+      },
+      {
+        "question": "If 5 pencils cost Rs. 20, how much do 8 pencils cost?",
+        "options": ["Rs. 28", "Rs. 32", "Rs. 36"],
+        "answer": "B",
+        "explanation": "Cost per pencil = 20 / 5 = Rs. 4. Cost of 8 pencils = 8 * 4 = Rs. 32."
+      }
+    ]
+  }
