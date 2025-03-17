@@ -12,6 +12,12 @@
         <p>Score: <span id="score">0</span></p>
     </div>
     <div id="startContainer">
+        <label for="categorySelect">Subject:</label>
+        <select id="categorySelect"></select>
+        <br>
+        <label for="subcategorySelect">Chapter:</label>
+        <select id="subcategorySelect"></select>
+        <br>
         <button id="startButton">Start Quiz</button>
     </div>
     <div id="quizContainer" style="display: none;">
@@ -19,6 +25,7 @@
         <ul id="optionsList"></ul>
         <button id="speakAnswerButton">Speak Answer</button>
         <p id="feedback"></p>
+        <p id="spokenAnswer" style="font-style: italic; color: #555;"></p>
     </div>
     <script src="script.js"></script>
 </body>
