@@ -4,7 +4,7 @@
             "name": "English",
             "subcategories": [
                 {
-                    "name": "Grammar",
+                    "name": "Prepositions",
                     "questions": [
                         {
                             "question": "The cat is hiding _ the table.",
@@ -115,3 +115,97 @@
                             "question": "He is responsible _ the project.",
                             "options": ["for", "to", "with"],
                             "answer": "A"
+                        },
+                        {
+                            "question": "They are waiting _ the bus stop.",
+                            "options": ["at", "in", "on"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "She is looking forward _ the holidays.",
+                            "options": ["to", "for", "with"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "The book is _ the table.",
+                            "options": ["on", "in", "at"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "He is interested _ music.",
+                            "options": ["in", "on", "at"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "She is good _ dancing.",
+                            "options": ["at", "in", "on"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "They are afraid _ the dark.",
+                            "options": ["of", "in", "at"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "The cat jumped _ the wall.",
+                            "options": ["over", "on", "in"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "He is sitting _ the chair.",
+                            "options": ["on", "in", "at"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "She is standing _ the corner.",
+                            "options": ["at", "on", "in"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "The dog is sleeping _ the bed.",
+                            "options": ["on", "in", "under"],
+                            "answer": "C"
+                        },
+                        {
+                            "question": "He is walking _ the street.",
+                            "options": ["down", "on", "in"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "She is sitting _ the table.",
+                            "options": ["at", "on", "in"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "The picture is _ the wall.",
+                            "options": ["on", "in", "at"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "He is running _ the park.",
+                            "options": ["in", "on", "at"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "She is lying _ the bed.",
+                            "options": ["on", "in", "at"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "The keys are _ the drawer.",
+                            "options": ["in", "on", "at"],
+                            "answer": "A"
+                        },
+                        {
+                            "question": "He is sitting _ his friends.",
+                            "options": ["among", "between", "with"],
+                            "answer": "B"
+                        },
+                        {
+                            "question": "She is walking _ the road.",
+                            "options": ["along", "on", "in"],
+                            "answer": "A"
+                        }
+                    ]
+                }
+        }
