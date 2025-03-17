@@ -8,5 +8,10 @@
         "question": "Which planet is known as the Red Planet?",
         "options": ["Mars", "Jupiter", "Venus"],
         "answer": "A"
+    },
+    {
+        "question": "What is 2 + 2?",
+        "options": ["3", "4", "5"],
+        "answer": "B"
     }
 ]
