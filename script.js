@@ -1,23 +1,21 @@
 let allData = {};
 let questions = [];
 let currentQuestionIndex = 0;
-let score = 0;
+let correctAnswers = 0;
+let attemptedQuestions = 0;
+let questionHistory = []; // Track questions seen in this session
 
 const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
 const recognition = SpeechRecognition ? new SpeechRecognition() : null;
 
 // Fetch questions when the page loads
 window.onload = function() {
-    console.log("Starting fetch for questions.json...");
     fetch("questions.json", { cache: "no-store" })
         .then(response => {
-            if (!response.ok) {
-                throw new Error(`HTTP error! Status: ${response.status} - ${response.statusText}`);
-            }
+            if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
             return response.json();
         })
         .then(data => {
-            console.log("Data loaded:", data);
             allData = data;
             populateCategories();
         })
@@ -29,7 +27,7 @@ window.onload = function() {
                     {
                         name: "Fallback",
                         subcategories: [
-                            { name: "Test", questions: [{ question: "What is 1 + 1?", options: ["2", "3", "4"], answer: "A" }] }
+                            { name: "Test", questions: [{ question: "What is 1 + 1?", options: ["2", "3", "4"], answer: "A", explanation: "Basic addition." }] }
                         ]
                     }
                 ]
@@ -88,7 +86,6 @@ function startQuizFromSelection() {
         return;
     }
 
-    // Get and shuffle questions
     questions = [...allData.categories[categoryIndex].subcategories[subcategoryIndex].questions];
     shuffleArray(questions);
     document.getElementById("startContainer").style.display = "none";
@@ -98,23 +95,22 @@ function startQuizFromSelection() {
 // Start the quiz
 function startQuiz() {
     if (questions.length === 0) {
-        console.warn("No questions available.");
         alert("No questions to display.");
         return;
     }
-    console.log("Starting quiz with", questions.length, "questions.");
-    score = 0;
+    correctAnswers = 0;
+    attemptedQuestions = 0;
     currentQuestionIndex = 0;
+    questionHistory = [0];
     updateScore();
     document.getElementById("scoreContainer").style.display = "block";
     document.getElementById("quizContainer").style.display = "block";
     showQuestion();
 
-    // Add exit button functionality
     document.getElementById("exitButton").addEventListener("click", exitQuiz);
 }
 
-// Display and speak the current question
+// Display the current question
 function showQuestion() {
     const question = questions[currentQuestionIndex];
     document.getElementById("questionText").textContent = question.question;
@@ -130,30 +126,14 @@ function showQuestion() {
         optionsList.appendChild(li);
     });
 
-    // Speak question and options
-    const optionsText = question.options
-        .map((option, index) => `${String.fromCharCode(65 + index)}. ${option}`)
-        .join(", ");
+    const optionsText = question.options.map((opt, idx) => `${String.fromCharCode(65 + idx)}. ${opt}`).join(", ");
     const fullText = `${question.question} ${optionsText}`;
-    console.log("Speaking:", fullText);
-
-    if (window.speechSynthesis) {
-        window.speechSynthesis.cancel();
-        const speech = new SpeechSynthesisUtterance(fullText);
-        speech.lang = "en-US";
-        speech.volume = 1.0;
-        speech.rate = 1.0;
-        speech.pitch = 1.0;
-        speech.onstart = () => console.log("Question speech started");
-        speech.onend = () => console.log("Question speech finished");
-        speech.onerror = (event) => console.error("Question speech error:", event.error);
-        window.speechSynthesis.speak(speech);
-    }
+    speakText(fullText);
 }
 
 // Update the score display
 function updateScore() {
-    document.getElementById("score").textContent = score;
+    document.getElementById("score").textContent = `${correctAnswers} out of ${attemptedQuestions}`;
 }
 
 // Check the user's answer
@@ -163,41 +143,22 @@ function checkAnswer(selectedIndex) {
     const feedback = document.getElementById("feedback");
     let feedbackText = "";
     
+    attemptedQuestions++;
+
     if (selectedIndex === correctIndex) {
         feedbackText = "Correct!";
         feedback.style.color = "green";
-        score += 1;
+        correctAnswers++;
     } else {
-        feedbackText = `Wrong! Correct answer: ${question.options[correctIndex]}`;
+        feedbackText = `Wrong! Correct answer: ${question.options[correctIndex]}. Explanation: ${question.explanation}`;
         feedback.style.color = "red";
     }
     feedback.textContent = feedbackText;
     updateScore();
+    speakText(feedbackText);
 
-    // Speak feedback
-    if (window.speechSynthesis) {
-        window.speechSynthesis.cancel();
-        const speech = new SpeechSynthesisUtterance(feedbackText);
-        speech.lang = "en-US";
-        speech.volume = 1.0;
-        speech.rate = 1.0;
-        speech.pitch = 1.0;
-        speech.onstart = () => console.log("Feedback speech started");
-        speech.onend = () => console.log("Feedback speech finished");
-        speech.onerror = (event) => console.error("Feedback speech error:", event.error);
-        window.speechSynthesis.speak(speech);
-    }
-
-    setTimeout(() => {
-        feedback.textContent = "";
-        document.getElementById("spokenAnswer").textContent = "";
-        currentQuestionIndex++;
-        if (currentQuestionIndex < questions.length) {
-            showQuestion();
-        } else {
-            endQuiz();
-        }
-    }, 3000);
+    document.getElementById("nextButton").style.display = "inline";
+    if (currentQuestionIndex > 0) document.getElementById("previousButton").style.display = "inline";
 }
 
 // Voice input for answers
@@ -208,27 +169,23 @@ if (recognition) {
 
     document.getElementById("speakAnswerButton").addEventListener("click", () => {
         recognition.start();
-        console.log("Speech recognition started...");
     });
 
     recognition.onresult = (event) => {
         const spokenAnswer = event.results[0][0].transcript.trim().toLowerCase();
-        console.log("Spoken answer:", spokenAnswer);
         document.getElementById("spokenAnswer").textContent = `Heard: "${spokenAnswer}"`;
 
         const question = questions[currentQuestionIndex];
         const correctIndex = question.answer.charCodeAt(0) - 65;
         let selectedIndex = -1;
 
-        // Check if spoken answer matches a letter (A, B, C)
-        const letter = spokenAnswer.toUpperCase();
         if (["a", "b", "c"].includes(spokenAnswer)) {
-            selectedIndex = letter.charCodeAt(0) - 97;
+            selectedIndex = spokenAnswer.charCodeAt(0) - 97;
+        } else if (spokenAnswer === "next question") {
+            goToNextQuestion();
+            return;
         } else {
-            // Check if spoken answer matches an option text
-            selectedIndex = question.options.findIndex(option => 
-                option.toLowerCase() === spokenAnswer
-            );
+            selectedIndex = question.options.findIndex(opt => opt.toLowerCase() === spokenAnswer);
         }
 
         if (selectedIndex !== -1) {
@@ -237,45 +194,74 @@ if (recognition) {
             const feedback = document.getElementById("feedback");
             feedback.textContent = "Sorry, I didn’t understand that. Try again.";
             feedback.style.color = "orange";
-            if (window.speechSynthesis) {
-                window.speechSynthesis.speak(new SpeechSynthesisUtterance(feedback.textContent));
-            }
+            speakText(feedback.textContent);
         }
     };
 
     recognition.onerror = (event) => {
-        console.error("Speech recognition error:", event.error);
         document.getElementById("spokenAnswer").textContent = `Recognition error: ${event.error}`;
     };
-
-    recognition.onend = () => {
-        console.log("Speech recognition ended.");
-    };
 } else {
-    console.error("SpeechRecognition not supported.");
     document.getElementById("speakAnswerButton").style.display = "none";
+}
+
+// Go to the next question
+function goToNextQuestion() {
+    if (currentQuestionIndex < questions.length - 1) {
+        currentQuestionIndex++;
+        questionHistory.push(currentQuestionIndex);
+        showQuestion();
+        document.getElementById("feedback").textContent = "";
+        document.getElementById("spokenAnswer").textContent = "";
+        document.getElementById("nextButton").style.display = "none";
+        document.getElementById("previousButton").style.display = "inline";
+    } else {
+        endQuiz();
+    }
+}
+
+// Go to the previous question
+function goToPreviousQuestion() {
+    if (currentQuestionIndex > 0) {
+        currentQuestionIndex--;
+        showQuestion();
+        document.getElementById("feedback").textContent = "";
+        document.getElementById("spokenAnswer").textContent = "";
+        document.getElementById("nextButton").style.display = "none";
+        if (currentQuestionIndex === 0) document.getElementById("previousButton").style.display = "none";
+    }
 }
 
 // Exit the quiz
 function exitQuiz() {
-    console.log("Exiting quiz...");
-    endQuiz(true); // Pass true to indicate exit rather than completion
+    endQuiz(true);
 }
 
-// End the quiz (either by completion or exit)
+// End the quiz
 function endQuiz(isExit = false) {
     const finalMessage = isExit 
-        ? `Quiz exited! Your score: ${score} out of ${questions.length}`
-        : `Quiz finished! Your score: ${score} out of ${questions.length}`;
+        ? `Quiz exited! Your score: ${correctAnswers} out of ${attemptedQuestions}`
+        : `Quiz finished! Your score: ${correctAnswers} out of ${attemptedQuestions}`;
     alert(finalMessage);
-    if (window.speechSynthesis) {
-        window.speechSynthesis.cancel();
-        window.speechSynthesis.speak(new SpeechSynthesisUtterance(finalMessage));
-    }
+    speakText(finalMessage);
     document.getElementById("scoreContainer").style.display = "none";
     document.getElementById("quizContainer").style.display = "none";
     document.getElementById("startContainer").style.display = "block";
-    currentQuestionIndex = 0;
-    score = 0; // Reset score for the next quiz
+    correctAnswers = 0;
+    attemptedQuestions = 0;
     updateScore();
 }
+
+// Speak text function
+function speakText(text) {
+    if (window.speechSynthesis) {
+        window.speechSynthesis.cancel();
+        const speech = new SpeechSynthesisUtterance(text);
+        speech.lang = "en-US";
+        window.speechSynthesis.speak(speech);
+    }
+}
+
+// Attach event listeners for navigation
+document.getElementById("nextButton").addEventListener("click", goToNextQuestion);
+document.getElementById("previousButton").addEventListener("click", goToPreviousQuestion);
