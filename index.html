@@ -3,33 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Voice & Visual Quiz</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Quiz Web App</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        .container { margin-top: 50px; }
+        .form-group { margin-bottom: 20px; }
+    </style>
 </head>
 <body>
-    <h1>Voice & Visual Quiz</h1>
-    <div id="scoreContainer" style="display: none;">
-        <p>Score: <span id="score">0 out of 0</span></p>
+    <div class="container">
+        <h1 class="text-center">Quiz Web App</h1>
+        <div class="form-group">
+            <label for="classSelect">Select Class:</label>
+            <select class="form-control" id="classSelect">
+                <option value="">-- Select Class --</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="categorySelect">Select Category:</label>
+            <select class="form-control" id="categorySelect" disabled>
+                <option value="">-- Select Category --</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="subcategorySelect">Select Subcategory:</label>
+            <select class="form-control" id="subcategorySelect" disabled>
+                <option value="">-- Select Subcategory --</option>
+            </select>
+        </div>
+        <button class="btn btn-primary" id="startQuiz" disabled>Start Quiz</button>
     </div>
-    <div id="startContainer">
-        <label for="categorySelect">Subject:</label>
-        <select id="categorySelect"></select>
-        <br>
-        <label for="subcategorySelect">Chapter:</label>
-        <select id="subcategorySelect"></select>
-        <br>
-        <button id="startButton">Start Quiz</button>
-    </div>
-    <div id="quizContainer" style="display: none;">
-        <h2 id="questionText"></h2>
-        <ul id="optionsList"></ul>
-        <button id="speakAnswerButton">Speak Answer</button>
-        <button id="previousButton" style="display: none;">Previous Question</button>
-        <button id="nextButton" style="display: none;">Next Question</button>
-        <button id="exitButton">Exit Quiz</button>
-        <p id="feedback"></p>
-        <p id="spokenAnswer" style="font-style: italic; color: #555;"></p>
-    </div>
-    <script src="script.js"></script>
+
+    <!-- Bootstrap dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <!-- JavaScript will be added here -->
 </body>
 </html>
