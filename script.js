@@ -10,15 +10,15 @@ const recognition = SpeechRecognition ? new SpeechRecognition() : null;
 
 // Fetch questions when the page loads
 window.onload = function() {
-    fetch("questions.json", { cache: "no-store" })
+    fetch("data.json", { cache: "no-store" })
         .then(response => {
             if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
             return response.json();
         })
         .then(data => {
             allData = data;
-            populateCategories();
-         //   populateClass();
+         //   populateCategories();
+            populateClass();
         })
         .catch(error => {
             console.error("Fetch error:", error);
@@ -37,11 +37,30 @@ window.onload = function() {
         });
 };
 
+
+// Populate Class dropdown
+function populateClass() {
+    const classSelect = document.getElementById("classSelect");
+    classSelect.innerHTML = '<option value="">Select Class</option>';
+    allData.classes.forEach((classes, index) => {
+        const option = document.createElement("option");
+        option.value = index;
+        option.textContent = classes.name;
+        classSelect.appendChild(option);
+    });
+
+    classSelect.addEventListener("change", populateCategories);
+    document.getElementById("startButton").addEventListener("click", startQuizFromSelection);
+}
+
 // Populate category dropdown
 function populateCategories() {
+    const classIndex = document.getElementById("classSelect").value;
     const categorySelect = document.getElementById("categorySelect");
     categorySelect.innerHTML = '<option value="">Select Subject</option>';
-    allData.categories.forEach((category, index) => {
+    if (classIndex !== "") {
+        const categories = allData.classes[classIndex].categories;
+        categories.forEach((category, index) => {
         const option = document.createElement("option");
         option.value = index;
         option.textContent = category.name;
@@ -51,15 +70,17 @@ function populateCategories() {
     categorySelect.addEventListener("change", populateSubcategories);
     document.getElementById("startButton").addEventListener("click", startQuizFromSelection);
 }
+}
 
 // Populate subcategory dropdown
 function populateSubcategories() {
+    const classIndex = document.getElementById("classSelect").value;
     const categoryIndex = document.getElementById("categorySelect").value;
     const subcategorySelect = document.getElementById("subcategorySelect");
     subcategorySelect.innerHTML = '<option value="">Select Chapter</option>';
 
     if (categoryIndex !== "") {
-        const subcategories = allData.categories[categoryIndex].subcategories;
+        const subcategories = allData.classes[classIndex].categories[categoryIndex].subcategories;
         subcategories.forEach((subcategory, index) => {
             const option = document.createElement("option");
             option.value = index;
@@ -80,6 +101,7 @@ function shuffleArray(array) {
 
 // Start the quiz based on selection
 function startQuizFromSelection() {
+    const classIndex = document.getElementById("classSelect").value;
     const categoryIndex = document.getElementById("categorySelect").value;
     const subcategoryIndex = document.getElementById("subcategorySelect").value;
     if (categoryIndex === "" || subcategoryIndex === "") {
@@ -87,7 +109,7 @@ function startQuizFromSelection() {
         return;
     }
 
-    questions = [...allData.categories[categoryIndex].subcategories[subcategoryIndex].questions];
+    questions = [...allData.classes[classIndex].categories[categoryIndex].subcategories[subcategoryIndex].questions];
     shuffleArray(questions);
     document.getElementById("startContainer").style.display = "none";
     startQuiz();
