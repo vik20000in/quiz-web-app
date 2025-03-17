@@ -4,9 +4,19 @@ let currentQuestionIndex = 0;
 let correctAnswers = 0;
 let attemptedQuestions = 0;
 let questionHistory = []; // Track questions seen in this session
-
+let score = 0;
 const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
 const recognition = SpeechRecognition ? new SpeechRecognition() : null;
+
+
+const encouragingPhrases = [
+
+    "Great job!",
+    "Excellent!",
+    "You're doing amazing!",
+    "Keep it up!",
+    "Wow, that's correct!"
+];
 
 // Fetch questions when the page loads
 window.onload = function() {
@@ -17,7 +27,6 @@ window.onload = function() {
         })
         .then(data => {
             allData = data;
-         //   populateCategories();
             populateClass();
         })
         .catch(error => {
@@ -33,7 +42,7 @@ window.onload = function() {
                     }
                 ]
             };
-            populateCategories();
+            populateClassSelect();
         });
 };
 
@@ -125,12 +134,43 @@ function startQuiz() {
     attemptedQuestions = 0;
     currentQuestionIndex = 0;
     questionHistory = [0];
+    score = 0; // Reset score
     updateScore();
+    generateStars();
     document.getElementById("scoreContainer").style.display = "block";
     document.getElementById("quizContainer").style.display = "block";
     showQuestion();
 
     document.getElementById("exitButton").addEventListener("click", exitQuiz);
+}
+
+
+
+// Generate stars for progress
+
+function generateStars() {
+
+    const starsContainer = document.getElementById("stars");
+
+    starsContainer.innerHTML = "";
+
+    for (let i = 0; i < questions.length; i++) {
+        const star = document.createElement("span");
+        star.textContent = "☆";
+        starsContainer.appendChild(star);
+    }
+}
+
+// Update stars based on correct answers
+function updateStars() {
+
+    const stars = document.querySelectorAll("#stars span");
+    for (let i = 0; i < correctAnswers; i++) {
+        stars[i].textContent = "★";
+        stars[i].classList.add("filled");
+        document.getElementById("score1").innerHTML =  `Quiz  score: ${correctAnswers} out of ${attemptedQuestions}`
+    }
+
 }
 
 // Display the current question
@@ -156,7 +196,7 @@ function showQuestion() {
 
 // Update the score display
 function updateScore() {
-    document.getElementById("score").textContent = `${correctAnswers} out of ${attemptedQuestions}`;
+  //  document.getElementById("score").textContent = correctAnswers;//`${correctAnswers} out of ${attemptedQuestions}`;
 }
 
 // Check the user's answer
@@ -168,16 +208,25 @@ function checkAnswer(selectedIndex) {
     attemptedQuestions++;
 
     if (selectedIndex === correctIndex) {
-        feedback.textContent = "Correct!";
+        const phrase = encouragingPhrases[Math.floor(Math.random() * encouragingPhrases.length)];
+        feedback.innerHTML = `${phrase} 😊`;
+
+        speakText(phrase);
+      //  feedback.textContent = "Correct!";
         feedback.style.color = "green";
         correctAnswers++;
         updateScore();
+         updateStars();
         speakText("Correct!");
         // Automatically move to next question after 2 seconds
         setTimeout(goToNextQuestion, 2000);
     } else {
         feedback.textContent = `Wrong! Correct answer: ${question.options[correctIndex]}. Explanation: ${question.explanation}`;
         feedback.style.color = "red";
+        feedback.innerHTML = `Oops, that's not right. The correct answer is ${question.options[correctIndex]}. Explanation: ${question.explanation} 😞`;
+
+        speakText("Oops, that's not right.");
+
         updateScore();
         speakText(feedback.textContent);
         // Show "Next Question" button
