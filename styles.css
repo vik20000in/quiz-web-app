@@ -27,6 +27,12 @@ button {
 button:hover {
     background-color: #45a049;
 }
+#exitButton {
+    background-color: #f44336; /* Red for exit */
+}
+#exitButton:hover {
+    background-color: #d32f2f;
+}
 #feedback {
     color: #333;
     text-align: center;
