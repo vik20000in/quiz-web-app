@@ -2,6 +2,9 @@ let questions = [];
 let currentQuestionIndex = 0;
 let score = 0;
 
+const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+const recognition = SpeechRecognition ? new SpeechRecognition() : null;
+
 // Fetch questions when the page loads
 window.onload = function() {
     console.log("Starting fetch for questions.json...");
@@ -15,7 +18,6 @@ window.onload = function() {
         .then(data => {
             console.log("Questions loaded:", data);
             questions = data;
-            // Wait for user to click Start instead of starting immediately
             document.getElementById("startButton").addEventListener("click", () => {
                 document.getElementById("startContainer").style.display = "none";
                 startQuiz();
@@ -93,7 +95,7 @@ function updateScore() {
     document.getElementById("score").textContent = score;
 }
 
-// Check the user's answer with voice feedback
+// Check the user's answer (button or voice)
 function checkAnswer(selectedIndex) {
     const question = questions[currentQuestionIndex];
     const correctIndex = question.answer.charCodeAt(0) - 65;
@@ -142,4 +144,59 @@ function checkAnswer(selectedIndex) {
             currentQuestionIndex = 0;
         }
     }, 3000);
+}
+
+// Voice input for answers
+if (recognition) {
+    recognition.lang = "en-US";
+    recognition.interimResults = false;
+    recognition.maxAlternatives = 1;
+
+    document.getElementById("speakAnswerButton").addEventListener("click", () => {
+        recognition.start();
+        console.log("Speech recognition started...");
+    });
+
+    recognition.onresult = (event) => {
+        const spokenAnswer = event.results[0][0].transcript.trim().toLowerCase();
+        console.log("Spoken answer:", spokenAnswer);
+
+        const question = questions[currentQuestionIndex];
+        const correctIndex = question.answer.charCodeAt(0) - 65;
+        let selectedIndex = -1;
+
+        // Check if spoken answer matches a letter (A, B, C)
+        const letter = spokenAnswer.toUpperCase();
+        if (["a", "b", "c"].includes(spokenAnswer)) {
+            selectedIndex = letter.charCodeAt(0) - 97; // 'a' -> 0, 'b' -> 1, 'c' -> 2
+        } else {
+            // Check if spoken answer matches an option text
+            selectedIndex = question.options.findIndex(option => 
+                option.toLowerCase() === spokenAnswer
+            );
+        }
+
+        if (selectedIndex !== -1) {
+            checkAnswer(selectedIndex);
+        } else {
+            const feedback = document.getElementById("feedback");
+            feedback.textContent = "Sorry, I didn’t understand that. Try again.";
+            feedback.style.color = "orange";
+            if (window.speechSynthesis) {
+                window.speechSynthesis.speak(new SpeechSynthesisUtterance(feedback.textContent));
+            }
+        }
+    };
+
+    recognition.onerror = (event) => {
+        console.error("Speech recognition error:", event.error);
+        alert("Voice input failed: " + event.error);
+    };
+
+    recognition.onend = () => {
+        console.log("Speech recognition ended.");
+    };
+} else {
+    console.error("SpeechRecognition not supported.");
+    document.getElementById("speakAnswerButton").style.display = "none";
 }
