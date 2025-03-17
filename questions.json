@@ -251,6 +251,131 @@
                             "explanation": "Add 5 to both sides: 2x = 14; then divide by 2: x = 14 ÷ 2 = 7."
                         }
                     ]
+                },
+                {
+                    "name": "Adjectives",
+                    "questions": [
+                        {
+                            "question": "Identify the adjective in the following sentence: 'The quick brown fox jumps over the lazy dog.'",
+                            "options": ["quick", "jumps", "over"],
+                            "answer": "A",
+                            "explanation": "The word 'quick' describes the noun 'fox', making it an adjective."
+                        },
+                        {
+                            "question": "Choose the sentence that uses an adjective correctly.",
+                            "options": ["She sings beautiful.", "He is a tall boy.", "They run fastly."],
+                            "answer": "B",
+                            "explanation": "The word 'tall' describes the noun 'boy', making it the correct use of an adjective."
+                        },
+                        {
+                            "question": "Which of the following words is an adjective?",
+                            "options": ["Happiness", "Quickly", "Beautiful"],
+                            "answer": "C",
+                            "explanation": "'Beautiful' describes a noun, making it an adjective."
+                        },
+                        {
+                            "question": "Fill in the blank with an appropriate adjective: 'The _ cat slept on the mat.'",
+                            "options": ["sleep", "sleepy", "sleepily"],
+                            "answer": "B",
+                            "explanation": "'Sleepy' describes the noun 'cat', fitting correctly as an adjective."
+                        },
+                        {
+                            "question": "Identify the adjective in the following sentence: 'She wore a red dress to the party.'",
+                            "options": ["wore", "red", "party"],
+                            "answer": "B",
+                            "explanation": "The word 'red' describes the noun 'dress', making it an adjective."
+                        },
+                        {
+                            "question": "Choose the correct adjective to complete the sentence: 'The movie was so _ that I watched it twice.'",
+                            "options": ["boring", "interesting", "slow"],
+                            "answer": "B",
+                            "explanation": "'Interesting' describes the noun 'movie' and explains why it was watched twice."
+                        },
+                        {
+                            "question": "Which sentence contains an adjective?",
+                            "options": ["He runs quickly.", "She is very happy.", "They are playing."],
+                            "answer": "B",
+                            "explanation": "The word 'happy' describes 'she', making it an adjective."
+                        },
+                        {
+                            "question": "Fill in the blank with the correct adjective: 'The _ sky was clear and blue.'",
+                            "options": ["cloudy", "cloudless", "clouds"],
+                            "answer": "B",
+                            "explanation": "'Cloudless' describes the sky as being without clouds."
+                        },
+                        {
+                            "question": "Identify the adjective in the sentence: 'The tall building has 20 floors.'",
+                            "options": ["building", "floors", "tall"],
+                            "answer": "C",
+                            "explanation": "The word 'tall' describes the noun 'building', making it an adjective."
+                        },
+                        {
+                            "question": "Choose the correct adjective to complete the sentence: 'She gave me a _ look.'",
+                            "options": ["quick", "quickly", "quicker"],
+                            "answer": "A",
+                            "explanation": "'Quick' describes the noun 'look', fitting correctly as an adjective."
+                        },
+                        {
+                            "question": "Which word in the sentence is an adjective? 'The children enjoyed the scary movie.'",
+                            "options": ["children", "enjoyed", "scary"],
+                            "answer": "C",
+                            "explanation": "The word 'scary' describes the noun 'movie', making it an adjective."
+                        },
+                        {
+                            "question": "Fill in the blank with an appropriate adjective: 'The _ puppy barked loudly.'",
+                            "options": ["small", "smaller", "smallest"],
+                            "answer": "A",
+                            "explanation": "'Small' describes the noun 'puppy', fitting correctly as an adjective."
+                        },
+                        {
+                            "question": "Identify the adjective in the sentence: 'She has a beautiful garden.'",
+                            "options": ["has", "beautiful", "garden"],
+                            "answer": "B",
+                            "explanation": "The word 'beautiful' describes the noun 'garden', making it an adjective."
+                        },
+                        {
+                            "question": "Choose the sentence that uses an adjective correctly.",
+                            "options": ["He is a fast runner.", "She sings sweet.", "They are happily married."],
+                            "answer": "A",
+                            "explanation": "The word 'fast' describes the noun 'runner', making it the correct use of an adjective."
+                        },
+                        {
+                            "question": "Which of the following sentences contains an adjective?",
+                            "options": ["She danced gracefully.", "He is a clever boy.", "They arrived early."],
+                            "answer": "B",
+                            "explanation": "The word 'clever' describes the noun 'boy', making it an adjective."
+                        },
+                        {
+                            "question": "Fill in the blank with the correct adjective: 'The soup is too _. I can't eat it.'",
+                            "options": ["hot", "hotter", "hotly"],
+                            "answer": "A",
+                            "explanation": "'Hot' describes the noun 'soup', fitting correctly as an adjective."
+                        },
+                        {
+                            "question": "Identify the adjective in the sentence: 'The old man walked with a cane.'",
+                            "options": ["man", "walked", "old"],
+                            "answer": "C",
+                            "explanation": "The word 'old' describes the noun 'man', making it an adjective."
+                        },
+                        {
+                            "question": "Choose the correct adjective to complete the sentence: 'She has a _ voice.'",
+                            "options": ["sweet", "sweetly", "sweeter"],
+                            "answer": "A",
+                            "explanation": "'Sweet' describes the noun 'voice', fitting correctly as an adjective."
+                        },
+                        {
+                            "question": "Which word in the sentence is an adjective? 'The bright sun shone all day.'",
+                            "options": ["bright", "sun", "shone"],
+                            "answer": "A",
+                            "explanation": "The word 'bright' describes the noun 'sun', making it an adjective."
+                        },
+                        {
+                            "question": "Fill in the blank with an appropriate adjective: 'The _ cake was delicious.'",
+                            "options": ["chocolate", "chocolaty", "chocolates"],
+                            "answer": "A",
+                            "explanation": "'Chocolate' describes the noun 'cake', fitting correctly as an adjective."
+                        }
+                    ]
                 }
             ]
         }
