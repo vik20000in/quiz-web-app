@@ -1,21 +1,29 @@
 let questions = [];
 let currentQuestionIndex = 0;
 
-// Load questions from JSON file
-function loadQuestions(event) {
-    const file = event.target.files[0];
-    const reader = new FileReader();
-    reader.onload = function(e) {
-        questions = JSON.parse(e.target.result);
-        startQuiz();
-    };
-    reader.readAsText(file);
-}
+// Fetch questions from server when the page loads
+window.onload = function() {
+    fetch("questions.json")
+        .then(response => {
+            if (!response.ok) {
+                throw new Error("Network response was not ok");
+            }
+            return response.json();
+        })
+        .then(data => {
+            questions = data;
+            startQuiz();
+        })
+        .catch(error => {
+            console.error("Error loading questions:", error);
+            alert("Failed to load questions from the server.");
+        });
+};
 
 // Start the quiz
 function startQuiz() {
     if (questions.length === 0) {
-        alert("No questions loaded. Please upload a valid JSON file.");
+        alert("No questions available.");
         return;
     }
     document.getElementById("quizContainer").style.display = "block";
@@ -67,6 +75,8 @@ function checkAnswer(selectedIndex) {
         } else {
             alert("Quiz finished!");
             document.getElementById("quizContainer").style.display = "none";
+            currentQuestionIndex = 0; // Reset for replay
+            startQuiz(); // Restart the quiz
         }
     }, 2000);
 }
