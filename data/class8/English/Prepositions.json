@@ -1,0 +1,254 @@
+{
+    "questions": [
+        {
+            "question": "Choose the correct preposition: 'She is good ___ mathematics.'",
+            "options": [
+                "in",
+                "at",
+                "on"
+            ],
+            "answer": "B",
+            "explanation": "The correct preposition is 'at'. 'She is good at mathematics.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'He is interested ___ music.'",
+            "options": [
+                "in",
+                "on",
+                "at"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'in'. 'He is interested in music.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'The cat is hiding ___ the table.'",
+            "options": [
+                "under",
+                "on",
+                "in"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'under'. 'The cat is hiding under the table.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'She arrived ___ the airport on time.'",
+            "options": [
+                "at",
+                "in",
+                "on"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'at'. 'She arrived at the airport on time.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'The book is ___ the shelf.'",
+            "options": [
+                "on",
+                "in",
+                "at"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'on'. 'The book is on the shelf.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'He is afraid ___ the dark.'",
+            "options": [
+                "of",
+                "in",
+                "at"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'of'. 'He is afraid of the dark.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'She is looking forward ___ the trip.'",
+            "options": [
+                "to",
+                "for",
+                "at"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'to'. 'She is looking forward to the trip.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'The meeting is scheduled ___ Monday.'",
+            "options": [
+                "on",
+                "in",
+                "at"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'on'. 'The meeting is scheduled on Monday.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'He is responsible ___ the project.'",
+            "options": [
+                "for",
+                "of",
+                "in"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'for'. 'He is responsible for the project.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'She is married ___ a doctor.'",
+            "options": [
+                "to",
+                "with",
+                "at"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'to'. 'She is married to a doctor.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'The train is ___ time.'",
+            "options": [
+                "on",
+                "in",
+                "at"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'on'. 'The train is on time.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'He is good ___ playing the guitar.'",
+            "options": [
+                "at",
+                "in",
+                "on"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'at'. 'He is good at playing the guitar.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'She is interested ___ learning new languages.'",
+            "options": [
+                "in",
+                "on",
+                "at"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'in'. 'She is interested in learning new languages.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'The keys are ___ the table.'",
+            "options": [
+                "on",
+                "in",
+                "at"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'on'. 'The keys are on the table.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'He is afraid ___ spiders.'",
+            "options": [
+                "of",
+                "in",
+                "at"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'of'. 'He is afraid of spiders.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'She is looking forward ___ the weekend.'",
+            "options": [
+                "to",
+                "for",
+                "at"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'to'. 'She is looking forward to the weekend.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'The meeting is scheduled ___ next week.'",
+            "options": [
+                "for",
+                "in",
+                "at"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'for'. 'The meeting is scheduled for next week.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'He is responsible ___ the team's success.'",
+            "options": [
+                "for",
+                "of",
+                "in"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'for'. 'He is responsible for the team's success.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'She is married ___ an engineer.'",
+            "options": [
+                "to",
+                "with",
+                "at"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'to'. 'She is married to an engineer.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'The bus is ___ time.'",
+            "options": [
+                "on",
+                "in",
+                "at"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'on'. 'The bus is on time.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'He is good ___ solving puzzles.'",
+            "options": [
+                "at",
+                "in",
+                "on"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'at'. 'He is good at solving puzzles.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'She is interested ___ science.'",
+            "options": [
+                "in",
+                "on",
+                "at"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'in'. 'She is interested in science.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'The book is ___ the desk.'",
+            "options": [
+                "on",
+                "in",
+                "at"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'on'. 'The book is on the desk.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'He is afraid ___ heights.'",
+            "options": [
+                "of",
+                "in",
+                "at"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'of'. 'He is afraid of heights.'"
+        },
+        {
+            "question": "Choose the correct preposition: 'She is looking forward ___ the holidays.'",
+            "options": [
+                "to",
+                "for",
+                "at"
+            ],
+            "answer": "A",
+            "explanation": "The correct preposition is 'to'. 'She is looking forward to the holidays.'"
+        }
+    ]
+}

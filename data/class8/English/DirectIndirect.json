@@ -1,0 +1,254 @@
+{
+    "questions": [
+        {
+            "question": "Change the sentence to indirect speech: 'She said, \"I am going to the market.\"'",
+            "options": [
+                "She said that she is going to the market.",
+                "She said that she was going to the market.",
+                "She said that she will go to the market."
+            ],
+            "answer": "B",
+            "explanation": "In indirect speech, present continuous changes to past continuous. 'She said that she was going to the market.'"
+        },
+        {
+            "question": "Change the sentence to direct speech: 'He told me that he had finished his homework.'",
+            "options": [
+                "He said, \"I have finished my homework.\"",
+                "He said, \"I finished my homework.\"",
+                "He said, \"I had finished my homework.\""
+            ],
+            "answer": "A",
+            "explanation": "In direct speech, past perfect changes to present perfect. 'He said, \"I have finished my homework.\"'"
+        },
+        {
+            "question": "Change the sentence to indirect speech: 'They said, \"We will come tomorrow.\"'",
+            "options": [
+                "They said that they will come tomorrow.",
+                "They said that they would come tomorrow.",
+                "They said that they would come the next day."
+            ],
+            "answer": "C",
+            "explanation": "In indirect speech, 'tomorrow' changes to 'the next day'. 'They said that they would come the next day.'"
+        },
+        {
+            "question": "Change the sentence to direct speech: 'She said that she was happy.'",
+            "options": [
+                "She said, \"I am happy.\"",
+                "She said, \"I was happy.\"",
+                "She said, \"I will be happy.\""
+            ],
+            "answer": "A",
+            "explanation": "In direct speech, past continuous changes to present continuous. 'She said, \"I am happy.\"'"
+        },
+        {
+            "question": "Change the sentence to indirect speech: 'He said, \"I have finished my work.\"'",
+            "options": [
+                "He said that he has finished his work.",
+                "He said that he had finished his work.",
+                "He said that he finished his work."
+            ],
+            "answer": "B",
+            "explanation": "In indirect speech, present perfect changes to past perfect. 'He said that he had finished his work.'"
+        },
+        {
+            "question": "Change the sentence to direct speech: 'They said that they would go to the park.'",
+            "options": [
+                "They said, \"We will go to the park.\"",
+                "They said, \"We would go to the park.\"",
+                "They said, \"We are going to the park.\""
+            ],
+            "answer": "A",
+            "explanation": "In direct speech, 'would' changes to 'will'. 'They said, \"We will go to the park.\"'"
+        },
+        {
+            "question": "Change the sentence to indirect speech: 'She said, \"I can swim.\"'",
+            "options": [
+                "She said that she can swim.",
+                "She said that she could swim.",
+                "She said that she will swim."
+            ],
+            "answer": "B",
+            "explanation": "In indirect speech, 'can' changes to 'could'. 'She said that she could swim.'"
+        },
+        {
+            "question": "Change the sentence to direct speech: 'He said that he had been working hard.'",
+            "options": [
+                "He said, \"I have been working hard.\"",
+                "He said, \"I had been working hard.\"",
+                "He said, \"I was working hard.\""
+            ],
+            "answer": "A",
+            "explanation": "In direct speech, past perfect continuous changes to present perfect continuous. 'He said, \"I have been working hard.\"'"
+        },
+        {
+            "question": "Change the sentence to indirect speech: 'They said, \"We are going to the party.\"'",
+            "options": [
+                "They said that they are going to the party.",
+                "They said that they were going to the party.",
+                "They said that they will go to the party."
+            ],
+            "answer": "B",
+            "explanation": "In indirect speech, present continuous changes to past continuous. 'They said that they were going to the party.'"
+        },
+        {
+            "question": "Change the sentence to direct speech: 'She said that she could help me.'",
+            "options": [
+                "She said, \"I can help you.\"",
+                "She said, \"I could help you.\"",
+                "She said, \"I will help you.\""
+            ],
+            "answer": "A",
+            "explanation": "In direct speech, 'could' changes to 'can'. 'She said, \"I can help you.\"'"
+        },
+        {
+            "question": "Change the sentence to indirect speech: 'He said, \"I will call you tomorrow.\"'",
+            "options": [
+                "He said that he will call me tomorrow.",
+                "He said that he would call me tomorrow.",
+                "He said that he would call me the next day."
+            ],
+            "answer": "C",
+            "explanation": "In indirect speech, 'tomorrow' changes to 'the next day'. 'He said that he would call me the next day.'"
+        },
+        {
+            "question": "Change the sentence to direct speech: 'They said that they were tired.'",
+            "options": [
+                "They said, \"We are tired.\"",
+                "They said, \"We were tired.\"",
+                "They said, \"We will be tired.\""
+            ],
+            "answer": "A",
+            "explanation": "In direct speech, past continuous changes to present continuous. 'They said, \"We are tired.\"'"
+        },
+        {
+            "question": "Change the sentence to indirect speech: 'She said, \"I have been waiting for you.\"'",
+            "options": [
+                "She said that she has been waiting for me.",
+                "She said that she had been waiting for me.",
+                "She said that she was waiting for me."
+            ],
+            "answer": "B",
+            "explanation": "In indirect speech, present perfect continuous changes to past perfect continuous. 'She said that she had been waiting for me.'"
+        },
+        {
+            "question": "Change the sentence to direct speech: 'He said that he would help me.'",
+            "options": [
+                "He said, \"I will help you.\"",
+                "He said, \"I would help you.\"",
+                "He said, \"I am helping you.\""
+            ],
+            "answer": "A",
+            "explanation": "In direct speech, 'would' changes to 'will'. 'He said, \"I will help you.\"'"
+        },
+        {
+            "question": "Change the sentence to indirect speech: 'They said, \"We have finished our work.\"'",
+            "options": [
+                "They said that they have finished their work.",
+                "They said that they had finished their work.",
+                "They said that they finished their work."
+            ],
+            "answer": "B",
+            "explanation": "In indirect speech, present perfect changes to past perfect. 'They said that they had finished their work.'"
+        },
+        {
+            "question": "Change the sentence to direct speech: 'She said that she was going to the market.'",
+            "options": [
+                "She said, \"I am going to the market.\"",
+                "She said, \"I was going to the market.\"",
+                "She said, \"I will go to the market.\""
+            ],
+            "answer": "A",
+            "explanation": "In direct speech, past continuous changes to present continuous. 'She said, \"I am going to the market.\"'"
+        },
+        {
+            "question": "Change the sentence to indirect speech: 'He said, \"I can solve the problem.\"'",
+            "options": [
+                "He said that he can solve the problem.",
+                "He said that he could solve the problem.",
+                "He said that he will solve the problem."
+            ],
+            "answer": "B",
+            "explanation": "In indirect speech, 'can' changes to 'could'. 'He said that he could solve the problem.'"
+        },
+        {
+            "question": "Change the sentence to direct speech: 'They said that they had been working hard.'",
+            "options": [
+                "They said, \"We have been working hard.\"",
+                "They said, \"We had been working hard.\"",
+                "They said, \"We were working hard.\""
+            ],
+            "answer": "A",
+            "explanation": "In direct speech, past perfect continuous changes to present perfect continuous. 'They said, \"We have been working hard.\"'"
+        },
+        {
+            "question": "Change the sentence to indirect speech: 'She said, \"I will help you.\"'",
+            "options": [
+                "She said that she will help me.",
+                "She said that she would help me.",
+                "She said that she is helping me."
+            ],
+            "answer": "B",
+            "explanation": "In indirect speech, 'will' changes to 'would'. 'She said that she would help me.'"
+        },
+        {
+            "question": "Change the sentence to direct speech: 'He said that he was tired.'",
+            "options": [
+                "He said, \"I am tired.\"",
+                "He said, \"I was tired.\"",
+                "He said, \"I will be tired.\""
+            ],
+            "answer": "A",
+            "explanation": "In direct speech, past continuous changes to present continuous. 'He said, \"I am tired.\"'"
+        },
+        {
+            "question": "Change the sentence to indirect speech: 'They said, \"We have been waiting for you.\"'",
+            "options": [
+                "They said that they have been waiting for me.",
+                "They said that they had been waiting for me.",
+                "They said that they were waiting for me."
+            ],
+            "answer": "B",
+            "explanation": "In indirect speech, present perfect continuous changes to past perfect continuous. 'They said that they had been waiting for me.'"
+        },
+        {
+            "question": "Change the sentence to direct speech: 'She said that she could help me.'",
+            "options": [
+                "She said, \"I can help you.\"",
+                "She said, \"I could help you.\"",
+                "She said, \"I will help you.\""
+            ],
+            "answer": "A",
+            "explanation": "In direct speech, 'could' changes to 'can'. 'She said, \"I can help you.\"'"
+        },
+        {
+            "question": "Change the sentence to indirect speech: 'He said, \"I have finished my work.\"'",
+            "options": [
+                "He said that he has finished his work.",
+                "He said that he had finished his work.",
+                "He said that he finished his work."
+            ],
+            "answer": "B",
+            "explanation": "In indirect speech, present perfect changes to past perfect. 'He said that he had finished his work.'"
+        },
+        {
+            "question": "Change the sentence to direct speech: 'They said that they would go to the park.'",
+            "options": [
+                "They said, \"We will go to the park.\"",
+                "They said, \"We would go to the park.\"",
+                "They said, \"We are going to the park.\""
+            ],
+            "answer": "A",
+            "explanation": "In direct speech, 'would' changes to 'will'. 'They said, \"We will go to the park.\"'"
+        },
+        {
+            "question": "Change the sentence to indirect speech: 'She said, \"I can swim.\"'",
+            "options": [
+                "She said that she can swim.",
+                "She said that she could swim.",
+                "She said that she will swim."
+            ],
+            "answer": "B",
+            "explanation": "In indirect speech, 'can' changes to 'could'. 'She said that she could swim.'"
+        }
+    ]
+}

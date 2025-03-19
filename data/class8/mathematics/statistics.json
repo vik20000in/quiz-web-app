@@ -1,0 +1,254 @@
+{
+    "questions": [
+        {
+            "question": "What is the mean of the following data set: 5, 10, 15, 20, 25?",
+            "options": [
+                "15",
+                "20",
+                "25"
+            ],
+            "answer": "A",
+            "explanation": "The mean is calculated by adding all the numbers and dividing by the count. (5+10+15+20+25)/5 = 15."
+        },
+        {
+            "question": "What is the median of the following data set: 12, 15, 14, 10, 18?",
+            "options": [
+                "12",
+                "14",
+                "15"
+            ],
+            "answer": "B",
+            "explanation": "The median is the middle number when the data set is ordered. Ordered set: 10, 12, 14, 15, 18. Median: 14."
+        },
+        {
+            "question": "What is the mode of the following data set: 7, 8, 8, 9, 10?",
+            "options": [
+                "7",
+                "8",
+                "9"
+            ],
+            "answer": "B",
+            "explanation": "The mode is the number that appears most frequently. In this set, 8 appears twice."
+        },
+        {
+            "question": "What is the range of the following data set: 22, 18, 25, 20, 19?",
+            "options": [
+                "5",
+                "7",
+                "8"
+            ],
+            "answer": "C",
+            "explanation": "The range is the difference between the highest and lowest values. 25 - 18 = 7."
+        },
+        {
+            "question": "If the mean of 6 numbers is 12, what is their total sum?",
+            "options": [
+                "60",
+                "72",
+                "84"
+            ],
+            "answer": "B",
+            "explanation": "The total sum is the mean multiplied by the number of values. 12 * 6 = 72."
+        },
+        {
+            "question": "Which of the following is a measure of central tendency?",
+            "options": [
+                "Mean",
+                "Range",
+                "Standard Deviation"
+            ],
+            "answer": "A",
+            "explanation": "Mean is a measure of central tendency, while range and standard deviation are measures of dispersion."
+        },
+        {
+            "question": "What is the median of the following data set: 5, 8, 12, 16, 20, 25?",
+            "options": [
+                "12",
+                "14",
+                "18"
+            ],
+            "answer": "B",
+            "explanation": "For an even number of values, the median is the average of the two middle numbers. (12+16)/2 = 14."
+        },
+        {
+            "question": "What is the mode of the following data set: 3, 3, 5, 7, 9, 9, 9?",
+            "options": [
+                "3",
+                "5",
+                "9"
+            ],
+            "answer": "C",
+            "explanation": "The mode is the number that appears most frequently. In this set, 9 appears three times."
+        },
+        {
+            "question": "What is the range of the following data set: 30, 25, 35, 28, 32?",
+            "options": [
+                "5",
+                "7",
+                "10"
+            ],
+            "answer": "C",
+            "explanation": "The range is the difference between the highest and lowest values. 35 - 25 = 10."
+        },
+        {
+            "question": "If the mean of 4 numbers is 18, what is their total sum?",
+            "options": [
+                "54",
+                "72",
+                "90"
+            ],
+            "answer": "B",
+            "explanation": "The total sum is the mean multiplied by the number of values. 18 * 4 = 72."
+        },
+        {
+            "question": "Which of the following is not a measure of central tendency?",
+            "options": [
+                "Mean",
+                "Median",
+                "Range"
+            ],
+            "answer": "C",
+            "explanation": "Range is a measure of dispersion, not central tendency."
+        },
+        {
+            "question": "What is the median of the following data set: 11, 13, 15, 17, 19?",
+            "options": [
+                "13",
+                "15",
+                "17"
+            ],
+            "answer": "B",
+            "explanation": "The median is the middle number when the data set is ordered. Median: 15."
+        },
+        {
+            "question": "What is the mode of the following data set: 6, 6, 8, 10, 12, 12, 12?",
+            "options": [
+                "6",
+                "8",
+                "12"
+            ],
+            "answer": "C",
+            "explanation": "The mode is the number that appears most frequently. In this set, 12 appears three times."
+        },
+        {
+            "question": "What is the range of the following data set: 45, 40, 50, 42, 48?",
+            "options": [
+                "5",
+                "8",
+                "10"
+            ],
+            "answer": "C",
+            "explanation": "The range is the difference between the highest and lowest values. 50 - 40 = 10."
+        },
+        {
+            "question": "If the mean of 5 numbers is 20, what is their total sum?",
+            "options": [
+                "80",
+                "90",
+                "100"
+            ],
+            "answer": "C",
+            "explanation": "The total sum is the mean multiplied by the number of values. 20 * 5 = 100."
+        },
+        {
+            "question": "Which of the following is a measure of dispersion?",
+            "options": [
+                "Mean",
+                "Median",
+                "Range"
+            ],
+            "answer": "C",
+            "explanation": "Range is a measure of dispersion, while mean and median are measures of central tendency."
+        },
+        {
+            "question": "What is the median of the following data set: 21, 19, 17, 15, 13?",
+            "options": [
+                "15",
+                "17",
+                "19"
+            ],
+            "answer": "B",
+            "explanation": "The median is the middle number when the data set is ordered. Ordered set: 13, 15, 17, 19, 21. Median: 17."
+        },
+        {
+            "question": "What is the mode of the following data set: 4, 4, 6, 8, 10, 10, 10?",
+            "options": [
+                "4",
+                "6",
+                "10"
+            ],
+            "answer": "C",
+            "explanation": "The mode is the number that appears most frequently. In this set, 10 appears three times."
+        },
+        {
+            "question": "What is the range of the following data set: 55, 50, 60, 52, 58?",
+            "options": [
+                "5",
+                "8",
+                "10"
+            ],
+            "answer": "C",
+            "explanation": "The range is the difference between the highest and lowest values. 60 - 50 = 10."
+        },
+        {
+            "question": "If the mean of 7 numbers is 14, what is their total sum?",
+            "options": [
+                "84",
+                "98",
+                "112"
+            ],
+            "answer": "A",
+            "explanation": "The total sum is the mean multiplied by the number of values. 14 * 7 = 98."
+        },
+        {
+            "question": "Which of the following is not a measure of dispersion?",
+            "options": [
+                "Range",
+                "Variance",
+                "Median"
+            ],
+            "answer": "C",
+            "explanation": "Median is a measure of central tendency, not dispersion."
+        },
+        {
+            "question": "What is the median of the following data set: 25, 20, 15, 10, 5?",
+            "options": [
+                "10",
+                "15",
+                "20"
+            ],
+            "answer": "B",
+            "explanation": "The median is the middle number when the data set is ordered. Ordered set: 5, 10, 15, 20, 25. Median: 15."
+        },
+        {
+            "question": "What is the mode of the following data set: 9, 9, 11, 13, 15, 15, 15?",
+            "options": [
+                "9",
+                "11",
+                "15"
+            ],
+            "answer": "C",
+            "explanation": "The mode is the number that appears most frequently. In this set, 15 appears three times."
+        },
+        {
+            "question": "What is the range of the following data set: 70, 65, 75, 68, 72?",
+            "options": [
+                "5",
+                "7",
+                "10"
+            ],
+            "answer": "C",
+            "explanation": "The range is the difference between the highest and lowest values. 75 - 65 = 10."
+        },
+        {
+            "question": "If the mean of 8 numbers is 16, what is their total sum?",
+            "options": [
+                "96",
+                "112",
+                "128"
+            ],
+            "answer": "B",
+            "explanation": "The total sum is the mean multiplied by the number of values. 16 * 8 = 128."
+        }
+    ]
+}

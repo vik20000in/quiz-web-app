@@ -9,7 +9,13 @@
                         { "name": "LinearEquations.json", "path": "class6/mathematics/LinearEquations.json" },
                         { "name": "Olympiad Math", "path": "class6/mathematics/OlympiadMath.json" },
                         { "name": "Decimal", "path": "class6/mathematics/Decimal.json" },
-                        { "name": "Fraction", "path": "class6/mathematics/Fraction.json" }
+                        { "name": "Fraction", "path": "class6/mathematics/Fraction.json" },
+                        { "name": "Multiplication1", "path": "class6/mathematics/Multiplication1.json" },
+                        { "name": "Multiplication2", "path": "class6/mathematics/Multiplication2.json" },                       
+                        { "name": "Geometry", "path": "class6/mathematics/Geometry.json" },
+                        { "name": "DataHandling", "path": "class6/mathematics/DataHandling.json" },
+                        { "name": "Time", "path": "class6/mathematics/Time.json" }
+
                     ]
                 },
                 {
@@ -30,23 +36,44 @@
                         { "name":"prepositions", "path":"class6/EnglishGrammer/prepositions.json"},
                         { "name":"pronouns", "path":"class6/EnglishGrammer/pronouns.json"},
                         { "name":"tenses", "path":"class6/EnglishGrammer/tenses.json"},
-                        { "name":"verbs", "path":"class6/EnglishGrammer/verbs.json"}
+                        { "name":"verbs", "path":"class6/EnglishGrammer/verbs.json"},
+                        { "name":"ActivePassiveVoice", "path":"class6/EnglishGrammer/ActivePassiveVoice.json"},
+                        { "name":"Punctuation ", "path":"class6/EnglishGrammer/Punctuation.json"},
+                        { "name":"EnglishOlympiad1", "path":"class6/EnglishGrammer/EnglishOlympiad1.json"}
+                       
                     ]
                 }
             ]
         },
-        "Class 7": {
+        "Class 8": {
             "categories": [
                 {
                     "name": "Mathematics",
                     "subcategories": [
-                        { "name": "Geometry", "path": "class7/mathematics/geometry.json" }
+                        { "name": "Geometry", "path": "class8/mathematics/geometry.json" },
+                        { "name": "Algebra", "path": "class8/mathematics/algebra.json" },
+                        { "name": "Statistics", "path": "class8/mathematics/statistics.json" },
+                        { "name": "Olympiad Math", "path": "class8/mathematics/olympiad_math.json" }
                     ]
                 },
                 {
                     "name": "Science",
                     "subcategories": [
-                        { "name": "Chemistry", "path": "class7/science/chemistry.json" }
+                        { "name": "Chemistry", "path": "class8/Science/chemistry.json" }
+                    ]
+                }, {
+                    "name": "English Grammer",
+                    "subcategories": [
+                        { "name": "ActivePassive", "path": "class8/English/ActivePassive.json" },
+                        { "name": "Adjectives", "path": "class8/English/Adjectives.json" },
+                        { "name": "Adverbs", "path": "class8/English/Adverbs.json" },
+                        { "name": "Conjunctions", "path": "class8/English/Conjunctions.json" },
+                        { "name": "DirectIndirect", "path": "class8/English/DirectIndirect.json" },
+                        { "name": "Prepositions", "path": "class8/English/Prepositions.json" },
+                        { "name": "Tenses", "path": "class8/English/Tenses.json" },
+                        { "name": "Verbs", "path": "class8/English/Verbs.json" },
+                        { "name": "Punctuation", "path": "class8/English/Punctuation.json" },
+                        { "name": "EnglishOlympiad", "path": "class8/English/EnglishOlympiad.json" }
                     ]
                 }
             ]

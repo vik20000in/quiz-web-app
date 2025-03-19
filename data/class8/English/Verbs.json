@@ -1,0 +1,244 @@
+{
+    "questions": [
+        {
+            "question": "Choose the correct form of the verb: 'She ___ (run) every morning.'",
+            "options": [
+                "runs",
+                "run",
+                "running"
+            ],
+            "answer": "A",
+            "explanation": "The correct form of the verb is 'runs'. 'She runs every morning.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'They ___ (eat) dinner now.'",
+            "options": [
+                "eat",
+                "eats",
+                "are eating"
+            ],
+            "answer": "C",
+            "explanation": "The correct form of the verb is 'are eating'. 'They are eating dinner now.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'He ___ (go) to the gym every day.'",
+            "options": [
+                "go",
+                "goes",
+                "going"
+            ],
+            "answer": "B",
+            "explanation": "The correct form of the verb is 'goes'. 'He goes to the gym every day.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'We ___ (watch) a movie last night.'",
+            "options": [
+                "watch",
+                "watched",
+                "watching"
+            ],
+            "answer": "B",
+            "explanation": "The correct form of the verb is 'watched'. 'We watched a movie last night.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'She ___ (write) a letter now.'",
+            "options": [
+                "write",
+                "writes",
+                "is writing"
+            ],
+            "answer": "C",
+            "explanation": "The correct form of the verb is 'is writing'. 'She is writing a letter now.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'They ___ (play) football every Saturday.'",
+            "options": [
+                "play",
+                "plays",
+                "playing"
+            ],
+            "answer": "A",
+            "explanation": "The correct form of the verb is 'play'. 'They play football every Saturday.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'He ___ (read) a book when I saw him.'",
+            "options": [
+                "read",
+                "reads",
+                "was reading"
+            ],
+            "answer": "C",
+            "explanation": "The correct form of the verb is 'was reading'. 'He was reading a book when I saw him.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'We ___ (go) to the park every Sunday.'",
+            "options": [
+                "go",
+                "goes",
+                "going"
+            ],
+            "answer": "A",
+            "explanation": "The correct form of the verb is 'go'. 'We go to the park every Sunday.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'She ___ (finish) her homework already.'",
+            "options": [
+                "finish",
+                "finishes",
+                "has finished"
+            ],
+            "answer": "C",
+            "explanation": "The correct form of the verb is 'has finished'. 'She has finished her homework already.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'They ___ (live) in this city for five years.'",
+            "options": [
+                "live",
+                "lives",
+                "have lived"
+            ],
+            "answer": "C",
+            "explanation": "The correct form of the verb is 'have lived'. 'They have lived in this city for five years.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'He ___ (cook) dinner when I arrived.'",
+            "options": [
+                "cook",
+                "cooks",
+                "was cooking"
+            ],
+            "answer": "C",
+            "explanation": "The correct form of the verb is 'was cooking'. 'He was cooking dinner when I arrived.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'I ___ (see) him last week.'",
+            "options": [
+                "see",
+                "sees",
+                "saw"
+            ],
+            "answer": "C",
+            "explanation": "The correct form of the verb is 'saw'. 'I saw him last week.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'We ___ (visit) the museum tomorrow.'",
+            "options": [
+                "visit",
+                "visits",
+                "will visit"
+            ],
+            "answer": "C",
+            "explanation": "The correct form of the verb is 'will visit'. 'We will visit the museum tomorrow.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'She ___ (run) a marathon last year.'",
+            "options": [
+                "run",
+                "runs",
+                "ran"
+            ],
+            "answer": "C",
+            "explanation": "The correct form of the verb is 'ran'. 'She ran a marathon last year.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'They ___ (play) chess now.'",
+            "options": [
+                "play",
+                "plays",
+                "are playing"
+            ],
+            "answer": "C",
+            "explanation": "The correct form of the verb is 'are playing'. 'They are playing chess now.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'He ___ (study) for the exam for two hours.'",
+            "options": [
+                "study",
+                "studies",
+                "has been studying"
+            ],
+            "answer": "C",
+            "explanation": "The correct form of the verb is 'has been studying'. 'He has been studying for the exam for two hours.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'I ___ (eat) breakfast before I left.'",
+            "options": [
+                "eat",
+                "eats",
+                "ate"
+            ],
+            "answer": "C",
+            "explanation": "The correct form of the verb is 'ate'. 'I ate breakfast before I left.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'We ___ (watch) TV when it started to rain.'",
+            "options": [
+                "watch",
+                "watches",
+                "were watching"
+            ],
+            "answer": "C",
+            "explanation": "The correct form of the verb is 'were watching'. 'We were watching TV when it started to rain.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'She ___ (finish) her homework by the time I arrived.'",
+            "options": [
+                "finish",
+                "finishes",
+                "had finished"
+            ],
+            "answer": "C",
+            "explanation": "The correct form of the verb is 'had finished'. 'She had finished her homework by the time I arrived.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'They ___ (play) football every Saturday.'",
+            "options": [
+                "play",
+                "plays",
+                "playing"
+            ],
+            "answer": "A",
+            "explanation": "The correct form of the verb is 'play'. 'They play football every Saturday.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'I ___ (read) a book when you called.'",
+            "options": [
+                "read",
+                "reads",
+                "was reading"
+            ],
+            "answer": "C",
+            "explanation": "The correct form of the verb is 'was reading'. 'I was reading a book when you called.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'She ___ (visit) her grandparents next week.'",
+            "options": [
+                "visit",
+                "visits",
+                "will visit"
+            ],
+            "answer": "C",
+            "explanation": "The correct form of the verb is 'will visit'. 'She will visit her grandparents next week.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'They ___ (live) here since 2010.'",
+            "options": [
+                "live",
+                "lives",
+                "have lived"
+            ],
+            "answer": "C",
+            "explanation": "The correct form of the verb is 'have lived'. 'They have lived here since 2010.'"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'He ___ (work) on the project for three hours.'",
+            "options": [
+                "work",
+                "works",
+                "has been working"
+            ],
+            "answer": "C",
+            "explanation": "The correct form of the verb is 'has been working'. 'He has been working on the project for three hours.'"
+        }
+    ]
+}

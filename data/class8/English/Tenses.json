@@ -1,0 +1,254 @@
+{
+    "questions": [
+        {
+            "question": "Choose the correct tense: 'She ___ (go) to school every day.'",
+            "options": [
+                "goes",
+                "went",
+                "going"
+            ],
+            "answer": "A",
+            "explanation": "The correct tense is present simple. 'She goes to school every day.'"
+        },
+        {
+            "question": "Choose the correct tense: 'They ___ (play) football yesterday.'",
+            "options": [
+                "play",
+                "played",
+                "playing"
+            ],
+            "answer": "B",
+            "explanation": "The correct tense is past simple. 'They played football yesterday.'"
+        },
+        {
+            "question": "Choose the correct tense: 'I ___ (read) a book now.'",
+            "options": [
+                "read",
+                "reads",
+                "am reading"
+            ],
+            "answer": "C",
+            "explanation": "The correct tense is present continuous. 'I am reading a book now.'"
+        },
+        {
+            "question": "Choose the correct tense: 'We ___ (visit) the museum tomorrow.'",
+            "options": [
+                "visit",
+                "visited",
+                "will visit"
+            ],
+            "answer": "C",
+            "explanation": "The correct tense is future simple. 'We will visit the museum tomorrow.'"
+        },
+        {
+            "question": "Choose the correct tense: 'He ___ (finish) his homework already.'",
+            "options": [
+                "finish",
+                "finished",
+                "has finished"
+            ],
+            "answer": "C",
+            "explanation": "The correct tense is present perfect. 'He has finished his homework already.'"
+        },
+        {
+            "question": "Choose the correct tense: 'They ___ (live) in this city for five years.'",
+            "options": [
+                "live",
+                "lived",
+                "have lived"
+            ],
+            "answer": "C",
+            "explanation": "The correct tense is present perfect. 'They have lived in this city for five years.'"
+        },
+        {
+            "question": "Choose the correct tense: 'She ___ (cook) dinner when I arrived.'",
+            "options": [
+                "cooks",
+                "was cooking",
+                "cooked"
+            ],
+            "answer": "B",
+            "explanation": "The correct tense is past continuous. 'She was cooking dinner when I arrived.'"
+        },
+        {
+            "question": "Choose the correct tense: 'I ___ (see) him last week.'",
+            "options": [
+                "see",
+                "saw",
+                "seen"
+            ],
+            "answer": "B",
+            "explanation": "The correct tense is past simple. 'I saw him last week.'"
+        },
+        {
+            "question": "Choose the correct tense: 'We ___ (go) to the park every Sunday.'",
+            "options": [
+                "go",
+                "went",
+                "going"
+            ],
+            "answer": "A",
+            "explanation": "The correct tense is present simple. 'We go to the park every Sunday.'"
+        },
+        {
+            "question": "Choose the correct tense: 'She ___ (write) a letter now.'",
+            "options": [
+                "write",
+                "writes",
+                "is writing"
+            ],
+            "answer": "C",
+            "explanation": "The correct tense is present continuous. 'She is writing a letter now.'"
+        },
+        {
+            "question": "Choose the correct tense: 'They ___ (finish) their work by tomorrow.'",
+            "options": [
+                "finish",
+                "finished",
+                "will finish"
+            ],
+            "answer": "C",
+            "explanation": "The correct tense is future simple. 'They will finish their work by tomorrow.'"
+        },
+        {
+            "question": "Choose the correct tense: 'He ___ (study) for the exam for two hours.'",
+            "options": [
+                "study",
+                "studied",
+                "has been studying"
+            ],
+            "answer": "C",
+            "explanation": "The correct tense is present perfect continuous. 'He has been studying for the exam for two hours.'"
+        },
+        {
+            "question": "Choose the correct tense: 'I ___ (eat) breakfast before I left.'",
+            "options": [
+                "eat",
+                "ate",
+                "eaten"
+            ],
+            "answer": "B",
+            "explanation": "The correct tense is past simple. 'I ate breakfast before I left.'"
+        },
+        {
+            "question": "Choose the correct tense: 'We ___ (watch) TV when it started to rain.'",
+            "options": [
+                "watch",
+                "watched",
+                "were watching"
+            ],
+            "answer": "C",
+            "explanation": "The correct tense is past continuous. 'We were watching TV when it started to rain.'"
+        },
+        {
+            "question": "Choose the correct tense: 'She ___ (finish) her homework by the time I arrived.'",
+            "options": [
+                "finish",
+                "finished",
+                "had finished"
+            ],
+            "answer": "C",
+            "explanation": "The correct tense is past perfect. 'She had finished her homework by the time I arrived.'"
+        },
+        {
+            "question": "Choose the correct tense: 'They ___ (play) football every Saturday.'",
+            "options": [
+                "play",
+                "played",
+                "playing"
+            ],
+            "answer": "A",
+            "explanation": "The correct tense is present simple. 'They play football every Saturday.'"
+        },
+        {
+            "question": "Choose the correct tense: 'I ___ (read) a book when you called.'",
+            "options": [
+                "read",
+                "was reading",
+                "reading"
+            ],
+            "answer": "B",
+            "explanation": "The correct tense is past continuous. 'I was reading a book when you called.'"
+        },
+        {
+            "question": "Choose the correct tense: 'She ___ (visit) her grandparents next week.'",
+            "options": [
+                "visit",
+                "visited",
+                "will visit"
+            ],
+            "answer": "C",
+            "explanation": "The correct tense is future simple. 'She will visit her grandparents next week.'"
+        },
+        {
+            "question": "Choose the correct tense: 'They ___ (live) here since 2010.'",
+            "options": [
+                "live",
+                "lived",
+                "have lived"
+            ],
+            "answer": "C",
+            "explanation": "The correct tense is present perfect. 'They have lived here since 2010.'"
+        },
+        {
+            "question": "Choose the correct tense: 'He ___ (work) on the project for three hours.'",
+            "options": [
+                "work",
+                "worked",
+                "has been working"
+            ],
+            "answer": "C",
+            "explanation": "The correct tense is present perfect continuous. 'He has been working on the project for three hours.'"
+        },
+        {
+            "question": "Choose the correct tense: 'I ___ (see) him yesterday.'",
+            "options": [
+                "see",
+                "saw",
+                "seen"
+            ],
+            "answer": "B",
+            "explanation": "The correct tense is past simple. 'I saw him yesterday.'"
+        },
+        {
+            "question": "Choose the correct tense: 'We ___ (go) to the beach every summer.'",
+            "options": [
+                "go",
+                "went",
+                "going"
+            ],
+            "answer": "A",
+            "explanation": "The correct tense is present simple. 'We go to the beach every summer.'"
+        },
+        {
+            "question": "Choose the correct tense: 'She ___ (write) a letter when I saw her.'",
+            "options": [
+                "write",
+                "writes",
+                "was writing"
+            ],
+            "answer": "C",
+            "explanation": "The correct tense is past continuous. 'She was writing a letter when I saw her.'"
+        },
+        {
+            "question": "Choose the correct tense: 'They ___ (finish) their work by the end of the day.'",
+            "options": [
+                "finish",
+                "finished",
+                "will finish"
+            ],
+            "answer": "C",
+            "explanation": "The correct tense is future simple. 'They will finish their work by the end of the day.'"
+        },
+        {
+            "question": "Choose the correct tense: 'He ___ (study) for the exam for three hours.'",
+            "options": [
+                "study",
+                "studied",
+                "has been studying"
+            ],
+            "answer": "C",
+            "explanation": "The correct tense is present perfect continuous. 'He has been studying for the exam for three hours.'"
+        }
+    ]
+}

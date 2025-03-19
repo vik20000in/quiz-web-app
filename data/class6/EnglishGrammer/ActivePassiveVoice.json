@@ -1,0 +1,254 @@
+{
+    "questions": [
+        {
+            "question": "Which sentence is in the active voice?",
+            "options": [
+                "The cake was eaten by the children.",
+                "The children ate the cake.",
+                "The cake is being baked."
+            ],
+            "answer": "B",
+            "explanation": "In active voice, the subject 'children' performs the action 'ate' on the object 'cake'."
+        },
+        {
+            "question": "Change this sentence to passive voice: 'The teacher explains the lesson.'",
+            "options": [
+                "The lesson is explained by the teacher.",
+                "The teacher is explained by the lesson.",
+                "The lesson explains the teacher."
+            ],
+            "answer": "A",
+            "explanation": "In passive voice, the object 'lesson' becomes the subject, and the action is done by the teacher."
+        },
+        {
+            "question": "Identify the subject in the passive voice sentence: 'The room was cleaned by Ravi.'",
+            "options": [
+                "Ravi",
+                "room",
+                "cleaned"
+            ],
+            "answer": "B",
+            "explanation": "In passive voice, the subject is 'room', which receives the action 'cleaned'."
+        },
+        {
+            "question": "Which sentence is in the passive voice?",
+            "options": [
+                "The dog chased the cat.",
+                "The cat was chased by the dog.",
+                "The cat runs fast."
+            ],
+            "answer": "B",
+            "explanation": "In passive voice, the object 'cat' becomes the subject and receives the action 'chased'."
+        },
+        {
+            "question": "Change this sentence to active voice: 'The homework was done by the students.'",
+            "options": [
+                "The students did the homework.",
+                "The homework did the students.",
+                "The students were doing homework."
+            ],
+            "answer": "A",
+            "explanation": "In active voice, the subject 'students' performs the action 'did' on the object 'homework'."
+        },
+        {
+            "question": "What is the object in the active voice sentence: 'She writes a letter.'?",
+            "options": [
+                "She",
+                "writes",
+                "letter"
+            ],
+            "answer": "C",
+            "explanation": "The object 'letter' receives the action 'writes' performed by the subject 'She'."
+        },
+        {
+            "question": "Which of these is NOT in the passive voice?",
+            "options": [
+                "The song was sung by the choir.",
+                "The choir sings the song.",
+                "The room was painted by John."
+            ],
+            "answer": "B",
+            "explanation": "The sentence 'The choir sings the song' is in active voice as the subject 'choir' performs the action."
+        },
+        {
+            "question": "Change this sentence to passive voice: 'The gardener waters the plants.'",
+            "options": [
+                "The plants are watered by the gardener.",
+                "The gardener is watered by the plants.",
+                "The plants water the gardener."
+            ],
+            "answer": "A",
+            "explanation": "In passive voice, the object 'plants' becomes the subject and receives the action 'watered'."
+        },
+        {
+            "question": "Identify the verb in the passive voice sentence: 'The book was read by Meena.'",
+            "options": [
+                "book",
+                "was read",
+                "Meena"
+            ],
+            "answer": "B",
+            "explanation": "The verb 'was read' shows the action in the passive voice sentence."
+        },
+        {
+            "question": "Which sentence is in the active voice?",
+            "options": [
+                "The match was won by our team.",
+                "Our team won the match.",
+                "The match is being played."
+            ],
+            "answer": "B",
+            "explanation": "In active voice, the subject 'team' performs the action 'won' on the object 'match'."
+        },
+        {
+            "question": "Change this sentence to active voice: 'The letter was written by Sam.'",
+            "options": [
+                "Sam wrote the letter.",
+                "The letter wrote Sam.",
+                "Sam was writing the letter."
+            ],
+            "answer": "A",
+            "explanation": "In active voice, the subject 'Sam' performs the action 'wrote' on the object 'letter'."
+        },
+        {
+            "question": "What is the subject in the active voice sentence: 'The boy kicks the ball.'?",
+            "options": [
+                "boy",
+                "kicks",
+                "ball"
+            ],
+            "answer": "A",
+            "explanation": "The subject 'boy' performs the action 'kicks' in the active voice sentence."
+        },
+        {
+            "question": "Which sentence uses passive voice?",
+            "options": [
+                "The baby drinks milk.",
+                "The milk is drunk by the baby.",
+                "The baby is drinking milk."
+            ],
+            "answer": "B",
+            "explanation": "In passive voice, the object 'milk' becomes the subject and receives the action 'drunk'."
+        },
+        {
+            "question": "Change this sentence to passive voice: 'The chef cooks the meal.'",
+            "options": [
+                "The meal is cooked by the chef.",
+                "The chef is cooked by the meal.",
+                "The meal cooks the chef."
+            ],
+            "answer": "A",
+            "explanation": "In passive voice, the object 'meal' becomes the subject and receives the action 'cooked'."
+        },
+        {
+            "question": "Identify the object in the passive voice sentence: 'The car was washed by the boys.'",
+            "options": [
+                "car",
+                "boys",
+                "washed"
+            ],
+            "answer": "A",
+            "explanation": "In passive voice, the object 'car' becomes the subject and receives the action 'washed'."
+        },
+        {
+            "question": "Which sentence is NOT in active voice?",
+            "options": [
+                "The teacher corrects the papers.",
+                "The papers are corrected by the teacher.",
+                "The students write answers."
+            ],
+            "answer": "B",
+            "explanation": "The sentence 'The papers are corrected by the teacher' is in passive voice."
+        },
+        {
+            "question": "Change this sentence to active voice: 'The house was painted by the workers.'",
+            "options": [
+                "The workers painted the house.",
+                "The house painted the workers.",
+                "The workers were painting the house."
+            ],
+            "answer": "A",
+            "explanation": "In active voice, the subject 'workers' performs the action 'painted' on the object 'house'."
+        },
+        {
+            "question": "What is the verb in the active voice sentence: 'The girl draws a picture.'?",
+            "options": [
+                "girl",
+                "draws",
+                "picture"
+            ],
+            "answer": "B",
+            "explanation": "The verb 'draws' shows the action performed by the subject 'girl'."
+        },
+        {
+            "question": "Which sentence is in passive voice?",
+            "options": [
+                "The dog barks at strangers.",
+                "Strangers bark at the dog.",
+                "The dog is barked at by strangers."
+            ],
+            "answer": "C",
+            "explanation": "In passive voice, the subject 'dog' receives the action 'barked at'."
+        },
+        {
+            "question": "Change this sentence to passive voice: 'The children play football.'",
+            "options": [
+                "Football is played by the children.",
+                "The children are played by football.",
+                "Football plays the children."
+            ],
+            "answer": "A",
+            "explanation": "In passive voice, the object 'football' becomes the subject and receives the action 'played'."
+        },
+        {
+            "question": "Identify the subject in the passive voice sentence: 'The story was told by the grandmother.'",
+            "options": [
+                "story",
+                "grandmother",
+                "told"
+            ],
+            "answer": "A",
+            "explanation": "In passive voice, the subject 'story' receives the action 'told'."
+        },
+        {
+            "question": "Which sentence is in active voice?",
+            "options": [
+                "The song was enjoyed by everyone.",
+                "Everyone enjoyed the song.",
+                "The song is being sung."
+            ],
+            "answer": "B",
+            "explanation": "In active voice, the subject 'everyone' performs the action 'enjoyed' on the object 'song'."
+        },
+        {
+            "question": "Change this sentence to active voice: 'The windows were cleaned by the maid.'",
+            "options": [
+                "The maid cleaned the windows.",
+                "The windows cleaned the maid.",
+                "The maid was cleaning the windows."
+            ],
+            "answer": "A",
+            "explanation": "In active voice, the subject 'maid' performs the action 'cleaned' on the object 'windows'."
+        },
+        {
+            "question": "What is the object in the active voice sentence: 'The boy reads a book.'?",
+            "options": [
+                "boy",
+                "reads",
+                "book"
+            ],
+            "answer": "C",
+            "explanation": "The object 'book' receives the action 'reads' performed by the subject 'boy'."
+        },
+        {
+            "question": "Which sentence is in passive voice?",
+            "options": [
+                "The farmer grows vegetables.",
+                "Vegetables are grown by the farmer.",
+                "The farmer is growing vegetables."
+            ],
+            "answer": "B",
+            "explanation": "In passive voice, the object 'vegetables' becomes the subject and receives the action 'grown'."
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "questions": [
+        {
+            "question": "What is the chemical symbol for water?",
+            "options": [
+                "H2O",
+                "O2",
+                "CO2"
+            ],
+            "answer": "A",
+            "explanation": "The chemical symbol for water is H2O."
+        },
+        {
+            "question": "What is the atomic number of carbon?",
+            "options": [
+                "6",
+                "8",
+                "12"
+            ],
+            "answer": "A",
+            "explanation": "The atomic number of carbon is 6."
+        },
+        {
+            "question": "What is the chemical formula for sodium chloride?",
+            "options": [
+                "NaCl",
+                "KCl",
+                "CaCl2"
+            ],
+            "answer": "A",
+            "explanation": "The chemical formula for sodium chloride is NaCl."
+        },
+        {
+            "question": "What is the pH value of a neutral solution?",
+            "options": [
+                "7",
+                "0",
+                "14"
+            ],
+            "answer": "A",
+            "explanation": "The pH value of a neutral solution is 7."
+        },
+        {
+            "question": "What is the chemical symbol for gold?",
+            "options": [
+                "Au",
+                "Ag",
+                "Pb"
+            ],
+            "answer": "A",
+            "explanation": "The chemical symbol for gold is Au."
+        },
+        {
+            "question": "What is the process of converting a liquid into a gas called?",
+            "options": [
+                "Condensation",
+                "Evaporation",
+                "Sublimation"
+            ],
+            "answer": "B",
+            "explanation": "The process of converting a liquid into a gas is called evaporation."
+        },
+        {
+            "question": "What is the chemical formula for carbon dioxide?",
+            "options": [
+                "CO2",
+                "CO",
+                "C2O"
+            ],
+            "answer": "A",
+            "explanation": "The chemical formula for carbon dioxide is CO2."
+        },
+        {
+            "question": "What is the atomic number of oxygen?",
+            "options": [
+                "8",
+                "6",
+                "16"
+            ],
+            "answer": "A",
+            "explanation": "The atomic number of oxygen is 8."
+        },
+        {
+            "question": "What is the chemical symbol for iron?",
+            "options": [
+                "Fe",
+                "Ir",
+                "In"
+            ],
+            "answer": "A",
+            "explanation": "The chemical symbol for iron is Fe."
+        },
+        {
+            "question": "What is the process of converting a solid directly into a gas called?",
+            "options": [
+                "Condensation",
+                "Evaporation",
+                "Sublimation"
+            ],
+            "answer": "C",
+            "explanation": "The process of converting a solid directly into a gas is called sublimation."
+        },
+        {
+            "question": "What is the chemical formula for methane?",
+            "options": [
+                "CH4",
+                "C2H6",
+                "C3H8"
+            ],
+            "answer": "A",
+            "explanation": "The chemical formula for methane is CH4."
+        },
+        {
+            "question": "What is the atomic number of hydrogen?",
+            "options": [
+                "1",
+                "2",
+                "3"
+            ],
+            "answer": "A",
+            "explanation": "The atomic number of hydrogen is 1."
+        },
+        {
+            "question": "What is the chemical symbol for silver?",
+            "options": [
+                "Ag",
+                "Au",
+                "Si"
+            ],
+            "answer": "A",
+            "explanation": "The chemical symbol for silver is Ag."
+        },
+        {
+            "question": "What is the process of converting a gas into a liquid called?",
+            "options": [
+                "Condensation",
+                "Evaporation",
+                "Sublimation"
+            ],
+            "answer": "A",
+            "explanation": "The process of converting a gas into a liquid is called condensation."
+        },
+        {
+            "question": "What is the chemical formula for ammonia?",
+            "options": [
+                "NH3",
+                "NH4",
+                "N2H4"
+            ],
+            "answer": "A",
+            "explanation": "The chemical formula for ammonia is NH3."
+        },
+        {
+            "question": "What is the atomic number of nitrogen?",
+            "options": [
+                "7",
+                "5",
+                "14"
+            ],
+            "answer": "A",
+            "explanation": "The atomic number of nitrogen is 7."
+        },
+        {
+            "question": "What is the chemical symbol for lead?",
+            "options": [
+                "Pb",
+                "Li",
+                "Pt"
+            ],
+            "answer": "A",
+            "explanation": "The chemical symbol for lead is Pb."
+        },
+        {
+            "question": "What is the process of converting a liquid into a solid called?",
+            "options": [
+                "Condensation",
+                "Freezing",
+                "Sublimation"
+            ],
+            "answer": "B",
+            "explanation": "The process of converting a liquid into a solid is called freezing."
+        },
+        {
+            "question": "What is the chemical formula for sulfuric acid?",
+            "options": [
+                "H2SO4",
+                "HCl",
+                "HNO3"
+            ],
+            "answer": "A",
+            "explanation": "The chemical formula for sulfuric acid is H2SO4."
+        },
+        {
+            "question": "What is the atomic number of helium?",
+            "options": [
+                "2",
+                "4",
+                "6"
+            ],
+            "answer": "A",
+            "explanation": "The atomic number of helium is 2."
+        },
+        {
+            "question": "What is the chemical symbol for potassium?",
+            "options": [
+                "K",
+                "P",
+                "Pt"
+            ],
+            "answer": "A",
+            "explanation": "The chemical symbol for potassium is K."
+        },
+        {
+            "question": "What is the process of converting a solid into a liquid called?",
+            "options": [
+                "Condensation",
+                "Melting",
+                "Sublimation"
+            ],
+            "answer": "B",
+            "explanation": "The process of converting a solid into a liquid is called melting."
+        },
+        {
+            "question": "What is the chemical formula for hydrochloric acid?",
+            "options": [
+                "HCl",
+                "H2SO4",
+                "HNO3"
+            ],
+            "answer": "A",
+            "explanation": "The chemical formula for hydrochloric acid is HCl."
+        },
+        {
+            "question": "What is the atomic number of neon?",
+            "options": [
+                "10",
+                "8",
+                "12"
+            ],
+            "answer": "A",
+            "explanation": "The atomic number of neon is 10."
+        },
+        {
+            "question": "What is the chemical symbol for calcium?",
+            "options": [
+                "Ca",
+                "C",
+                "Cl"
+            ],
+            "answer": "A",
+            "explanation": "The chemical symbol for calcium is Ca."
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "questions": [
+        {
+            "question": "Change the sentence to passive voice: 'The cat chased the mouse.'",
+            "options": [
+                "The mouse was chased by the cat.",
+                "The mouse is chased by the cat.",
+                "The mouse has been chased by the cat."
+            ],
+            "answer": "A",
+            "explanation": "In passive voice, the object of the active sentence becomes the subject. 'The mouse was chased by the cat.'"
+        },
+        {
+            "question": "Change the sentence to active voice: 'The cake was baked by the chef.'",
+            "options": [
+                "The chef bakes the cake.",
+                "The chef baked the cake.",
+                "The chef has baked the cake."
+            ],
+            "answer": "B",
+            "explanation": "In active voice, the subject performs the action. 'The chef baked the cake.'"
+        },
+        {
+            "question": "Change the sentence to passive voice: 'She will write a letter.'",
+            "options": [
+                "A letter will be written by her.",
+                "A letter is written by her.",
+                "A letter was written by her."
+            ],
+            "answer": "A",
+            "explanation": "In passive voice, the object of the active sentence becomes the subject. 'A letter will be written by her.'"
+        },
+        {
+            "question": "Change the sentence to active voice: 'The homework was completed by the student.'",
+            "options": [
+                "The student completes the homework.",
+                "The student has completed the homework.",
+                "The student completed the homework."
+            ],
+            "answer": "C",
+            "explanation": "In active voice, the subject performs the action. 'The student completed the homework.'"
+        },
+        {
+            "question": "Change the sentence to passive voice: 'They are building a house.'",
+            "options": [
+                "A house is being built by them.",
+                "A house was being built by them.",
+                "A house has been built by them."
+            ],
+            "answer": "A",
+            "explanation": "In passive voice, the object of the active sentence becomes the subject. 'A house is being built by them.'"
+        },
+        {
+            "question": "Change the sentence to active voice: 'The song was sung by the choir.'",
+            "options": [
+                "The choir sings the song.",
+                "The choir has sung the song.",
+                "The choir sang the song."
+            ],
+            "answer": "C",
+            "explanation": "In active voice, the subject performs the action. 'The choir sang the song.'"
+        },
+        {
+            "question": "Change the sentence to passive voice: 'The teacher is explaining the lesson.'",
+            "options": [
+                "The lesson is explained by the teacher.",
+                "The lesson is being explained by the teacher.",
+                "The lesson was explained by the teacher."
+            ],
+            "answer": "B",
+            "explanation": "In passive voice, the object of the active sentence becomes the subject. 'The lesson is being explained by the teacher.'"
+        },
+        {
+            "question": "Change the sentence to active voice: 'The book was read by the child.'",
+            "options": [
+                "The child reads the book.",
+                "The child has read the book.",
+                "The child read the book."
+            ],
+            "answer": "C",
+            "explanation": "In active voice, the subject performs the action. 'The child read the book.'"
+        },
+        {
+            "question": "Change the sentence to passive voice: 'The gardener waters the plants.'",
+            "options": [
+                "The plants are watered by the gardener.",
+                "The plants were watered by the gardener.",
+                "The plants have been watered by the gardener."
+            ],
+            "answer": "A",
+            "explanation": "In passive voice, the object of the active sentence becomes the subject. 'The plants are watered by the gardener.'"
+        },
+        {
+            "question": "Change the sentence to active voice: 'The letter was written by John.'",
+            "options": [
+                "John writes the letter.",
+                "John has written the letter.",
+                "John wrote the letter."
+            ],
+            "answer": "C",
+            "explanation": "In active voice, the subject performs the action. 'John wrote the letter.'"
+        },
+        {
+            "question": "Change the sentence to passive voice: 'The chef is preparing the meal.'",
+            "options": [
+                "The meal is prepared by the chef.",
+                "The meal is being prepared by the chef.",
+                "The meal was prepared by the chef."
+            ],
+            "answer": "B",
+            "explanation": "In passive voice, the object of the active sentence becomes the subject. 'The meal is being prepared by the chef.'"
+        },
+        {
+            "question": "Change the sentence to active voice: 'The car was repaired by the mechanic.'",
+            "options": [
+                "The mechanic repairs the car.",
+                "The mechanic has repaired the car.",
+                "The mechanic repaired the car."
+            ],
+            "answer": "C",
+            "explanation": "In active voice, the subject performs the action. 'The mechanic repaired the car.'"
+        },
+        {
+            "question": "Change the sentence to passive voice: 'The artist painted the picture.'",
+            "options": [
+                "The picture is painted by the artist.",
+                "The picture was painted by the artist.",
+                "The picture has been painted by the artist."
+            ],
+            "answer": "B",
+            "explanation": "In passive voice, the object of the active sentence becomes the subject. 'The picture was painted by the artist.'"
+        },
+        {
+            "question": "Change the sentence to active voice: 'The movie was directed by the filmmaker.'",
+            "options": [
+                "The filmmaker directs the movie.",
+                "The filmmaker has directed the movie.",
+                "The filmmaker directed the movie."
+            ],
+            "answer": "C",
+            "explanation": "In active voice, the subject performs the action. 'The filmmaker directed the movie.'"
+        },
+        {
+            "question": "Change the sentence to passive voice: 'The scientist discovered the cure.'",
+            "options": [
+                "The cure is discovered by the scientist.",
+                "The cure was discovered by the scientist.",
+                "The cure has been discovered by the scientist."
+            ],
+            "answer": "B",
+            "explanation": "In passive voice, the object of the active sentence becomes the subject. 'The cure was discovered by the scientist.'"
+        },
+        {
+            "question": "Change the sentence to active voice: 'The poem was written by the poet.'",
+            "options": [
+                "The poet writes the poem.",
+                "The poet has written the poem.",
+                "The poet wrote the poem."
+            ],
+            "answer": "C",
+            "explanation": "In active voice, the subject performs the action. 'The poet wrote the poem.'"
+        },
+        {
+            "question": "Change the sentence to passive voice: 'The manager will review the report.'",
+            "options": [
+                "The report will be reviewed by the manager.",
+                "The report is reviewed by the manager.",
+                "The report has been reviewed by the manager."
+            ],
+            "answer": "A",
+            "explanation": "In passive voice, the object of the active sentence becomes the subject. 'The report will be reviewed by the manager.'"
+        },
+        {
+            "question": "Change the sentence to active voice: 'The song was composed by the musician.'",
+            "options": [
+                "The musician composes the song.",
+                "The musician has composed the song.",
+                "The musician composed the song."
+            ],
+            "answer": "C",
+            "explanation": "In active voice, the subject performs the action. 'The musician composed the song.'"
+        },
+        {
+            "question": "Change the sentence to passive voice: 'The children are playing the game.'",
+            "options": [
+                "The game is played by the children.",
+                "The game is being played by the children.",
+                "The game was played by the children."
+            ],
+            "answer": "B",
+            "explanation": "In passive voice, the object of the active sentence becomes the subject. 'The game is being played by the children.'"
+        },
+        {
+            "question": "Change the sentence to active voice: 'The story was told by the grandmother.'",
+            "options": [
+                "The grandmother tells the story.",
+                "The grandmother has told the story.",
+                "The grandmother told the story."
+            ],
+            "answer": "C",
+            "explanation": "In active voice, the subject performs the action. 'The grandmother told the story.'"
+        },
+        {
+            "question": "Change the sentence to passive voice: 'The police caught the thief.'",
+            "options": [
+                "The thief is caught by the police.",
+                "The thief was caught by the police.",
+                "The thief has been caught by the police."
+            ],
+            "answer": "B",
+            "explanation": "In passive voice, the object of the active sentence becomes the subject. 'The thief was caught by the police.'"
+        },
+        {
+            "question": "Change the sentence to active voice: 'The flowers were arranged by the florist.'",
+            "options": [
+                "The florist arranges the flowers.",
+                "The florist has arranged the flowers.",
+                "The florist arranged the flowers."
+            ],
+            "answer": "C",
+            "explanation": "In active voice, the subject performs the action. 'The florist arranged the flowers.'"
+        },
+        {
+            "question": "Change the sentence to passive voice: 'The students are reading the book.'",
+            "options": [
+                "The book is read by the students.",
+                "The book is being read by the students.",
+                "The book was read by the students."
+            ],
+            "answer": "B",
+            "explanation": "In passive voice, the object of the active sentence becomes the subject. 'The book is being read by the students.'"
+        },
+        {
+            "question": "Change the sentence to active voice: 'The cake was eaten by the children.'",
+            "options": [
+                "The children eat the cake.",
+                "The children have eaten the cake.",
+                "The children ate the cake."
+            ],
+            "answer": "C",
+            "explanation": "In active voice, the subject performs the action. 'The children ate the cake.'"
+        },
+        {
+            "question": "Change the sentence to passive voice: 'The mechanic fixed the car.'",
+            "options": [
+                "The car is fixed by the mechanic.",
+                "The car was fixed by the mechanic.",
+                "The car has been fixed by the mechanic."
+            ],
+            "answer": "B",
+            "explanation": "In passive voice, the object of the active sentence becomes the subject. 'The car was fixed by the mechanic.'"
+        }
+    ]
+}

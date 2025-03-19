@@ -1,0 +1,254 @@
+{
+    "questions": [
+        {
+            "question": "Choose the correct spelling:",
+            "options": [
+                "Beautifull",
+                "Beautiful",
+                "Beutifull"
+            ],
+            "answer": "B",
+            "explanation": "The correct spelling is 'Beautiful'."
+        },
+        {
+            "question": "What is the opposite of 'happy'?",
+            "options": [
+                "Sad",
+                "Angry",
+                "Excited"
+            ],
+            "answer": "A",
+            "explanation": "'Sad' is the opposite of 'happy'."
+        },
+        {
+            "question": "Fill in the blank: 'The cat ___ on the mat.'",
+            "options": [
+                "sit",
+                "sits",
+                "sitting"
+            ],
+            "answer": "B",
+            "explanation": "The singular subject 'cat' takes the verb 'sits'."
+        },
+        {
+            "question": "Which word is a noun?",
+            "options": [
+                "Run",
+                "Fast",
+                "Book"
+            ],
+            "answer": "C",
+            "explanation": "'Book' is a noun, a naming word for a thing."
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": [
+                "She go to school.",
+                "She goes to school.",
+                "She going to school."
+            ],
+            "answer": "B",
+            "explanation": "'She goes to school' is grammatically correct."
+        },
+        {
+            "question": "What is the plural of 'child'?",
+            "options": [
+                "Childs",
+                "Children",
+                "Childes"
+            ],
+            "answer": "B",
+            "explanation": "The plural of 'child' is 'children'."
+        },
+        {
+            "question": "Which word means the same as 'big'?",
+            "options": [
+                "Small",
+                "Large",
+                "Tiny"
+            ],
+            "answer": "B",
+            "explanation": "'Large' means the same as 'big'."
+        },
+        {
+            "question": "Add the correct punctuation: 'Where is your bag'",
+            "options": [
+                "Where is your bag.",
+                "Where is your bag?",
+                "Where is your bag!"
+            ],
+            "answer": "B",
+            "explanation": "A question mark (?) is used for questions."
+        },
+        {
+            "question": "Which word is an adjective?",
+            "options": [
+                "Dog",
+                "Bark",
+                "Soft"
+            ],
+            "answer": "C",
+            "explanation": "'Soft' describes a noun and is an adjective."
+        },
+        {
+            "question": "Fill in the blank: 'I ___ playing football.'",
+            "options": [
+                "am",
+                "is",
+                "are"
+            ],
+            "answer": "A",
+            "explanation": "'I' takes 'am' in the present continuous tense: 'I am playing football.'"
+        },
+        {
+            "question": "Choose the correct word: 'The sun ___ in the east.'",
+            "options": [
+                "rise",
+                "rises",
+                "rising"
+            ],
+            "answer": "B",
+            "explanation": "The singular subject 'sun' takes 'rises'."
+        },
+        {
+            "question": "What is the past tense of 'run'?",
+            "options": [
+                "Ran",
+                "Runned",
+                "Running"
+            ],
+            "answer": "A",
+            "explanation": "The past tense of 'run' is 'ran'."
+        },
+        {
+            "question": "Which sentence is in the passive voice?",
+            "options": [
+                "The dog chased the cat.",
+                "The cat was chased by the dog.",
+                "The cat runs away."
+            ],
+            "answer": "B",
+            "explanation": "In passive voice, the object 'cat' receives the action 'was chased'."
+        },
+        {
+            "question": "Choose the correct article: '___ apple is red.'",
+            "options": [
+                "A",
+                "An",
+                "The"
+            ],
+            "answer": "B",
+            "explanation": "'An' is used before a word starting with a vowel sound: 'An apple is red.'"
+        },
+        {
+            "question": "Which word is a verb?",
+            "options": [
+                "Table",
+                "Jump",
+                "Blue"
+            ],
+            "answer": "B",
+            "explanation": "'Jump' is a verb, an action word."
+        },
+        {
+            "question": "What does 'quickly' describe?",
+            "options": [
+                "A noun",
+                "A verb",
+                "An adjective"
+            ],
+            "answer": "B",
+            "explanation": "'Quickly' is an adverb that describes a verb, e.g., 'She runs quickly.'"
+        },
+        {
+            "question": "Fill in the blank: 'They ___ happy yesterday.'",
+            "options": [
+                "was",
+                "were",
+                "are"
+            ],
+            "answer": "B",
+            "explanation": "The plural subject 'they' takes 'were' in the past tense."
+        },
+        {
+            "question": "Which word is a synonym of 'cold'?",
+            "options": [
+                "Hot",
+                "Chilly",
+                "Warm"
+            ],
+            "answer": "B",
+            "explanation": "'Chilly' means the same as 'cold'."
+        },
+        {
+            "question": "Choose the correct punctuation: 'Wow That was fun'",
+            "options": [
+                "Wow! That was fun!",
+                "Wow, That was fun.",
+                "Wow? That was fun?"
+            ],
+            "answer": "A",
+            "explanation": "An exclamation mark (!) shows excitement: 'Wow! That was fun!'"
+        },
+        {
+            "question": "What is the plural of 'box'?",
+            "options": [
+                "Boxs",
+                "Boxes",
+                "Boxies"
+            ],
+            "answer": "B",
+            "explanation": "The plural of 'box' is 'boxes'."
+        },
+        {
+            "question": "Which sentence uses quotation marks correctly?",
+            "options": [
+                "She said, I am tired.",
+                "She said, 'I am tired.'",
+                "She said 'I am tired'."
+            ],
+            "answer": "B",
+            "explanation": "Quotation marks ('') enclose spoken words: 'She said, \"I am tired.\"'"
+        },
+        {
+            "question": "Fill in the blank: 'He ___ to school every day.'",
+            "options": [
+                "go",
+                "goes",
+                "going"
+            ],
+            "answer": "B",
+            "explanation": "The singular subject 'he' takes 'goes'."
+        },
+        {
+            "question": "Which word is an antonym of 'tall'?",
+            "options": [
+                "High",
+                "Short",
+                "Long"
+            ],
+            "answer": "B",
+            "explanation": "'Short' is the opposite of 'tall'."
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": [
+                "The boys plays football.",
+                "The boys play football.",
+                "The boys playing football."
+            ],
+            "answer": "B",
+            "explanation": "The plural subject 'boys' takes 'play': 'The boys play football.'"
+        },
+        {
+            "question": "What is the meaning of 'brave'?",
+            "options": [
+                "Afraid",
+                "Courageous",
+                "Weak"
+            ],
+            "answer": "B",
+            "explanation": "'Brave' means 'courageous'."
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "questions": [
+        {
+            "question": "What is the sum of the interior angles of a triangle?",
+            "options": [
+                "90 degrees",
+                "180 degrees",
+                "360 degrees"
+            ],
+            "answer": "B",
+            "explanation": "The sum of the interior angles of a triangle is always 180 degrees."
+        },
+        {
+            "question": "Which of the following is a property of all parallelograms?",
+            "options": [
+                "Opposite sides are equal",
+                "All angles are right angles",
+                "All sides are equal"
+            ],
+            "answer": "A",
+            "explanation": "In a parallelogram, opposite sides are equal and parallel."
+        },
+        {
+            "question": "What is the name of a polygon with eight sides?",
+            "options": [
+                "Hexagon",
+                "Octagon",
+                "Decagon"
+            ],
+            "answer": "B",
+            "explanation": "A polygon with eight sides is called an octagon."
+        },
+        {
+            "question": "Which of the following shapes has exactly one pair of parallel sides?",
+            "options": [
+                "Square",
+                "Rectangle",
+                "Trapezium"
+            ],
+            "answer": "C",
+            "explanation": "A trapezium has exactly one pair of parallel sides."
+        },
+        {
+            "question": "What is the measure of each interior angle of a regular hexagon?",
+            "options": [
+                "120 degrees",
+                "135 degrees",
+                "150 degrees"
+            ],
+            "answer": "A",
+            "explanation": "Each interior angle of a regular hexagon measures 120 degrees."
+        },
+        {
+            "question": "Which of the following is a property of a rhombus?",
+            "options": [
+                "All sides are equal",
+                "All angles are right angles",
+                "Diagonals are equal"
+            ],
+            "answer": "A",
+            "explanation": "In a rhombus, all sides are equal in length."
+        },
+        {
+            "question": "What is the name of a three-dimensional shape with six congruent square faces?",
+            "options": [
+                "Cube",
+                "Cuboid",
+                "Pyramid"
+            ],
+            "answer": "A",
+            "explanation": "A three-dimensional shape with six congruent square faces is called a cube."
+        },
+        {
+            "question": "Which of the following is true for all rectangles?",
+            "options": [
+                "All sides are equal",
+                "Opposite sides are equal and parallel",
+                "Diagonals are perpendicular"
+            ],
+            "answer": "B",
+            "explanation": "In a rectangle, opposite sides are equal and parallel."
+        },
+        {
+            "question": "What is the perimeter of a square with side length 5 cm?",
+            "options": [
+                "10 cm",
+                "20 cm",
+                "25 cm"
+            ],
+            "answer": "B",
+            "explanation": "The perimeter of a square is 4 times the side length, so 4 * 5 cm = 20 cm."
+        },
+        {
+            "question": "Which of the following shapes has all sides and angles equal?",
+            "options": [
+                "Rectangle",
+                "Square",
+                "Rhombus"
+            ],
+            "answer": "B",
+            "explanation": "A square has all sides and angles equal."
+        },
+        {
+            "question": "What is the area of a triangle with base 6 cm and height 4 cm?",
+            "options": [
+                "12 cm²",
+                "24 cm²",
+                "10 cm²"
+            ],
+            "answer": "A",
+            "explanation": "The area of a triangle is 1/2 * base * height, so 1/2 * 6 cm * 4 cm = 12 cm²."
+        },
+        {
+            "question": "Which of the following is a property of a kite?",
+            "options": [
+                "All sides are equal",
+                "Two pairs of adjacent sides are equal",
+                "Diagonals are equal"
+            ],
+            "answer": "B",
+            "explanation": "In a kite, two pairs of adjacent sides are equal."
+        },
+        {
+            "question": "What is the name of a polygon with five sides?",
+            "options": [
+                "Pentagon",
+                "Hexagon",
+                "Heptagon"
+            ],
+            "answer": "A",
+            "explanation": "A polygon with five sides is called a pentagon."
+        },
+        {
+            "question": "Which of the following is true for all circles?",
+            "options": [
+                "All radii are equal",
+                "All diameters are equal",
+                "All chords are equal"
+            ],
+            "answer": "A",
+            "explanation": "In a circle, all radii are equal in length."
+        },
+        {
+            "question": "What is the measure of each exterior angle of a regular pentagon?",
+            "options": [
+                "60 degrees",
+                "72 degrees",
+                "90 degrees"
+            ],
+            "answer": "B",
+            "explanation": "Each exterior angle of a regular pentagon measures 72 degrees."
+        },
+        {
+            "question": "Which of the following shapes has diagonals that bisect each other at right angles?",
+            "options": [
+                "Rectangle",
+                "Rhombus",
+                "Parallelogram"
+            ],
+            "answer": "B",
+            "explanation": "In a rhombus, the diagonals bisect each other at right angles."
+        },
+        {
+            "question": "What is the name of a three-dimensional shape with a circular base and a single vertex?",
+            "options": [
+                "Cylinder",
+                "Cone",
+                "Sphere"
+            ],
+            "answer": "B",
+            "explanation": "A three-dimensional shape with a circular base and a single vertex is called a cone."
+        },
+        {
+            "question": "Which of the following is a property of an isosceles triangle?",
+            "options": [
+                "All sides are equal",
+                "Two sides are equal",
+                "No sides are equal"
+            ],
+            "answer": "B",
+            "explanation": "In an isosceles triangle, two sides are equal in length."
+        },
+        {
+            "question": "What is the perimeter of an equilateral triangle with side length 7 cm?",
+            "options": [
+                "14 cm",
+                "21 cm",
+                "28 cm"
+            ],
+            "answer": "B",
+            "explanation": "The perimeter of an equilateral triangle is 3 times the side length, so 3 * 7 cm = 21 cm."
+        },
+        {
+            "question": "Which of the following shapes has all angles equal to 90 degrees?",
+            "options": [
+                "Rectangle",
+                "Rhombus",
+                "Trapezium"
+            ],
+            "answer": "A",
+            "explanation": "In a rectangle, all angles are equal to 90 degrees."
+        },
+        {
+            "question": "What is the area of a square with side length 8 cm?",
+            "options": [
+                "16 cm²",
+                "32 cm²",
+                "64 cm²"
+            ],
+            "answer": "C",
+            "explanation": "The area of a square is side length squared, so 8 cm * 8 cm = 64 cm²."
+        },
+        {
+            "question": "Which of the following is true for all parallelograms?",
+            "options": [
+                "Diagonals are equal",
+                "Opposite angles are equal",
+                "All sides are equal"
+            ],
+            "answer": "B",
+            "explanation": "In a parallelogram, opposite angles are equal."
+        },
+        {
+            "question": "What is the name of a polygon with six sides?",
+            "options": [
+                "Pentagon",
+                "Hexagon",
+                "Heptagon"
+            ],
+            "answer": "B",
+            "explanation": "A polygon with six sides is called a hexagon."
+        },
+        {
+            "question": "Which of the following shapes has all sides and angles equal?",
+            "options": [
+                "Rectangle",
+                "Square",
+                "Rhombus"
+            ],
+            "answer": "B",
+            "explanation": "A square has all sides and angles equal."
+        },
+        {
+            "question": "What is the measure of each interior angle of a regular pentagon?",
+            "options": [
+                "108 degrees",
+                "120 degrees",
+                "135 degrees"
+            ],
+            "answer": "A",
+            "explanation": "Each interior angle of a regular pentagon measures 108 degrees."
+        }
+    ]
+}

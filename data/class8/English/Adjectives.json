@@ -1,0 +1,254 @@
+{
+    "questions": [
+        {
+            "question": "Identify the adjective in the following sentence: 'The quick brown fox jumps over the lazy dog.'",
+            "options": [
+                "quick",
+                "jumps",
+                "over"
+            ],
+            "answer": "A",
+            "explanation": "The word 'quick' describes the noun 'fox', making it an adjective."
+        },
+        {
+            "question": "Which word is an adjective in the sentence: 'She wore a beautiful dress.'?",
+            "options": [
+                "wore",
+                "beautiful",
+                "dress"
+            ],
+            "answer": "B",
+            "explanation": "The word 'beautiful' describes the noun 'dress', making it an adjective."
+        },
+        {
+            "question": "Identify the adjective in the following sentence: 'The tall man walked slowly.'",
+            "options": [
+                "tall",
+                "walked",
+                "slowly"
+            ],
+            "answer": "A",
+            "explanation": "The word 'tall' describes the noun 'man', making it an adjective."
+        },
+        {
+            "question": "Which word is an adjective in the sentence: 'The red apple is on the table.'?",
+            "options": [
+                "red",
+                "apple",
+                "table"
+            ],
+            "answer": "A",
+            "explanation": "The word 'red' describes the noun 'apple', making it an adjective."
+        },
+        {
+            "question": "Identify the adjective in the following sentence: 'The old man walked with a cane.'",
+            "options": [
+                "old",
+                "walked",
+                "cane"
+            ],
+            "answer": "A",
+            "explanation": "The word 'old' describes the noun 'man', making it an adjective."
+        },
+        {
+            "question": "Which word is an adjective in the sentence: 'The blue sky is clear today.'?",
+            "options": [
+                "blue",
+                "sky",
+                "clear"
+            ],
+            "answer": "A",
+            "explanation": "The word 'blue' describes the noun 'sky', making it an adjective."
+        },
+        {
+            "question": "Identify the adjective in the following sentence: 'The small dog barked loudly.'",
+            "options": [
+                "small",
+                "barked",
+                "loudly"
+            ],
+            "answer": "A",
+            "explanation": "The word 'small' describes the noun 'dog', making it an adjective."
+        },
+        {
+            "question": "Which word is an adjective in the sentence: 'The delicious cake was eaten quickly.'?",
+            "options": [
+                "delicious",
+                "cake",
+                "quickly"
+            ],
+            "answer": "A",
+            "explanation": "The word 'delicious' describes the noun 'cake', making it an adjective."
+        },
+        {
+            "question": "Identify the adjective in the following sentence: 'The young girl sang beautifully.'",
+            "options": [
+                "young",
+                "sang",
+                "beautifully"
+            ],
+            "answer": "A",
+            "explanation": "The word 'young' describes the noun 'girl', making it an adjective."
+        },
+        {
+            "question": "Which word is an adjective in the sentence: 'The bright sun shone all day.'?",
+            "options": [
+                "bright",
+                "sun",
+                "shone"
+            ],
+            "answer": "A",
+            "explanation": "The word 'bright' describes the noun 'sun', making it an adjective."
+        },
+        {
+            "question": "Identify the adjective in the following sentence: 'The happy child played in the park.'",
+            "options": [
+                "happy",
+                "played",
+                "park"
+            ],
+            "answer": "A",
+            "explanation": "The word 'happy' describes the noun 'child', making it an adjective."
+        },
+        {
+            "question": "Which word is an adjective in the sentence: 'The large elephant walked slowly.'?",
+            "options": [
+                "large",
+                "elephant",
+                "walked"
+            ],
+            "answer": "A",
+            "explanation": "The word 'large' describes the noun 'elephant', making it an adjective."
+        },
+        {
+            "question": "Identify the adjective in the following sentence: 'The cold wind blew all night.'",
+            "options": [
+                "cold",
+                "wind",
+                "blew"
+            ],
+            "answer": "A",
+            "explanation": "The word 'cold' describes the noun 'wind', making it an adjective."
+        },
+        {
+            "question": "Which word is an adjective in the sentence: 'The tall tree stood in the forest.'?",
+            "options": [
+                "tall",
+                "tree",
+                "forest"
+            ],
+            "answer": "A",
+            "explanation": "The word 'tall' describes the noun 'tree', making it an adjective."
+        },
+        {
+            "question": "Identify the adjective in the following sentence: 'The fast car zoomed down the road.'",
+            "options": [
+                "fast",
+                "car",
+                "zoomed"
+            ],
+            "answer": "A",
+            "explanation": "The word 'fast' describes the noun 'car', making it an adjective."
+        },
+        {
+            "question": "Which word is an adjective in the sentence: 'The old house was haunted.'?",
+            "options": [
+                "old",
+                "house",
+                "haunted"
+            ],
+            "answer": "A",
+            "explanation": "The word 'old' describes the noun 'house', making it an adjective."
+        },
+        {
+            "question": "Identify the adjective in the following sentence: 'The sweet candy was delicious.'",
+            "options": [
+                "sweet",
+                "candy",
+                "delicious"
+            ],
+            "answer": "A",
+            "explanation": "The word 'sweet' describes the noun 'candy', making it an adjective."
+        },
+        {
+            "question": "Which word is an adjective in the sentence: 'The bright light shone in the room.'?",
+            "options": [
+                "bright",
+                "light",
+                "shone"
+            ],
+            "answer": "A",
+            "explanation": "The word 'bright' describes the noun 'light', making it an adjective."
+        },
+        {
+            "question": "Identify the adjective in the following sentence: 'The young boy ran quickly.'",
+            "options": [
+                "young",
+                "boy",
+                "quickly"
+            ],
+            "answer": "A",
+            "explanation": "The word 'young' describes the noun 'boy', making it an adjective."
+        },
+        {
+            "question": "Which word is an adjective in the sentence: 'The large dog barked loudly.'?",
+            "options": [
+                "large",
+                "dog",
+                "barked"
+            ],
+            "answer": "A",
+            "explanation": "The word 'large' describes the noun 'dog', making it an adjective."
+        },
+        {
+            "question": "Identify the adjective in the following sentence: 'The cold water was refreshing.'",
+            "options": [
+                "cold",
+                "water",
+                "refreshing"
+            ],
+            "answer": "A",
+            "explanation": "The word 'cold' describes the noun 'water', making it an adjective."
+        },
+        {
+            "question": "Which word is an adjective in the sentence: 'The tall building stood in the city.'?",
+            "options": [
+                "tall",
+                "building",
+                "city"
+            ],
+            "answer": "A",
+            "explanation": "The word 'tall' describes the noun 'building', making it an adjective."
+        },
+        {
+            "question": "Identify the adjective in the following sentence: 'The fast runner won the race.'",
+            "options": [
+                "fast",
+                "runner",
+                "won"
+            ],
+            "answer": "A",
+            "explanation": "The word 'fast' describes the noun 'runner', making it an adjective."
+        },
+        {
+            "question": "Which word is an adjective in the sentence: 'The old man walked with a cane.'?",
+            "options": [
+                "old",
+                "man",
+                "cane"
+            ],
+            "answer": "A",
+            "explanation": "The word 'old' describes the noun 'man', making it an adjective."
+        },
+        {
+            "question": "Identify the adjective in the following sentence: 'The sweet fruit was delicious.'",
+            "options": [
+                "sweet",
+                "fruit",
+                "delicious"
+            ],
+            "answer": "A",
+            "explanation": "The word 'sweet' describes the noun 'fruit', making it an adjective."
+        }
+    ]
+}

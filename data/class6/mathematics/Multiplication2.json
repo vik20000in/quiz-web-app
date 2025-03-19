@@ -1,0 +1,254 @@
+{
+    "questions": [
+        {
+            "question": "What is 21 × 22?",
+            "options": [
+                "462",
+                "452",
+                "472"
+            ],
+            "answer": "A",
+            "explanation": "21 × 22 = 462."
+        },
+        {
+            "question": "Multiply 23 by 25.",
+            "options": [
+                "565",
+                "575",
+                "585"
+            ],
+            "answer": "B",
+            "explanation": "23 × 25 = 575."
+        },
+        {
+            "question": "What is the product of 24 and 21?",
+            "options": [
+                "494",
+                "504",
+                "514"
+            ],
+            "answer": "B",
+            "explanation": "24 × 21 = 504."
+        },
+        {
+            "question": "If a pen costs ₹22, how much do 23 pens cost?",
+            "options": [
+                "₹496",
+                "₹506",
+                "₹516"
+            ],
+            "answer": "B",
+            "explanation": "23 pens × ₹22 per pen = ₹506."
+        },
+        {
+            "question": "What is 25 × 26?",
+            "options": [
+                "640",
+                "650",
+                "660"
+            ],
+            "answer": "B",
+            "explanation": "25 × 26 = 650."
+        },
+        {
+            "question": "Multiply 27 by 21.",
+            "options": [
+                "557",
+                "567",
+                "577"
+            ],
+            "answer": "B",
+            "explanation": "27 × 21 = 567."
+        },
+        {
+            "question": "What is 28 × 23?",
+            "options": [
+                "634",
+                "644",
+                "654"
+            ],
+            "answer": "B",
+            "explanation": "28 × 23 = 644."
+        },
+        {
+            "question": "A shop sells 24 notebooks at ₹25 each. What is the total cost?",
+            "options": [
+                "₹580",
+                "₹600",
+                "₹620"
+            ],
+            "answer": "B",
+            "explanation": "24 notebooks × ₹25 per notebook = ₹600."
+        },
+        {
+            "question": "What is 29 × 22?",
+            "options": [
+                "628",
+                "638",
+                "648"
+            ],
+            "answer": "B",
+            "explanation": "29 × 22 = 638."
+        },
+        {
+            "question": "Multiply 30 by 21.",
+            "options": [
+                "610",
+                "620",
+                "630"
+            ],
+            "answer": "C",
+            "explanation": "30 × 21 = 630."
+        },
+        {
+            "question": "If one ticket costs ₹26, how much do 22 tickets cost?",
+            "options": [
+                "₹562",
+                "₹572",
+                "₹582"
+            ],
+            "answer": "B",
+            "explanation": "22 tickets × ₹26 per ticket = ₹572."
+        },
+        {
+            "question": "What is 23 × 27?",
+            "options": [
+                "611",
+                "621",
+                "631"
+            ],
+            "answer": "B",
+            "explanation": "23 × 27 = 621."
+        },
+        {
+            "question": "What is the product of 25 and 29?",
+            "options": [
+                "715",
+                "725",
+                "735"
+            ],
+            "answer": "B",
+            "explanation": "25 × 29 = 725."
+        },
+        {
+            "question": "Multiply 21 by 28.",
+            "options": [
+                "578",
+                "588",
+                "598"
+            ],
+            "answer": "B",
+            "explanation": "21 × 28 = 588."
+        },
+        {
+            "question": "A child buys 26 candies at ₹22 each. What is the total cost?",
+            "options": [
+                "₹562",
+                "₹572",
+                "₹582"
+            ],
+            "answer": "B",
+            "explanation": "26 candies × ₹22 per candy = ₹572."
+        },
+        {
+            "question": "What is 22 × 30?",
+            "options": [
+                "650",
+                "660",
+                "670"
+            ],
+            "answer": "B",
+            "explanation": "22 × 30 = 660."
+        },
+        {
+            "question": "Multiply 24 by 28.",
+            "options": [
+                "662",
+                "672",
+                "682"
+            ],
+            "answer": "B",
+            "explanation": "24 × 28 = 672."
+        },
+        {
+            "question": "If a dozen eggs cost ₹21 per dozen, how much do 25 dozen eggs cost?",
+            "options": [
+                "₹515",
+                "₹525",
+                "₹535"
+            ],
+            "answer": "B",
+            "explanation": "25 dozen × ₹21 per dozen = ₹525 (1 dozen = 12 eggs)."
+        },
+        {
+            "question": "What is 26 × 27?",
+            "options": [
+                "692",
+                "702",
+                "712"
+            ],
+            "answer": "B",
+            "explanation": "26 × 27 = 702."
+        },
+        {
+            "question": "What is the product of 28 and 29?",
+            "options": [
+                "802",
+                "812",
+                "822"
+            ],
+            "answer": "B",
+            "explanation": "28 × 29 = 812."
+        },
+        {
+            "question": "A shop sells 23 bottles at ₹24 each. What is the total cost?",
+            "options": [
+                "₹542",
+                "₹552",
+                "₹562"
+            ],
+            "answer": "B",
+            "explanation": "23 bottles × ₹24 per bottle = ₹552."
+        },
+        {
+            "question": "Multiply 30 by 25.",
+            "options": [
+                "740",
+                "750",
+                "760"
+            ],
+            "answer": "B",
+            "explanation": "30 × 25 = 750."
+        },
+        {
+            "question": "What is 27 × 29?",
+            "options": [
+                "773",
+                "783",
+                "793"
+            ],
+            "answer": "B",
+            "explanation": "27 × 29 = 783."
+        },
+        {
+            "question": "If a bag has 21 chocolates and costs ₹26 per bag, how much do 21 bags cost?",
+            "options": [
+                "₹536",
+                "₹546",
+                "₹556"
+            ],
+            "answer": "B",
+            "explanation": "21 bags × ₹26 per bag = ₹546."
+        },
+        {
+            "question": "What is 25 × 30?",
+            "options": [
+                "740",
+                "750",
+                "760"
+            ],
+            "answer": "B",
+            "explanation": "25 × 30 = 750."
+        }
+    ]
+}

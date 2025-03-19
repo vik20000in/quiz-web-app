@@ -1,0 +1,244 @@
+{
+    "questions": [
+        {
+            "question": "Choose the correct synonym: 'Happy'",
+            "options": [
+                "Sad",
+                "Joyful",
+                "Angry"
+            ],
+            "answer": "B",
+            "explanation": "The correct synonym for 'Happy' is 'Joyful'."
+        },
+        {
+            "question": "Choose the correct antonym: 'Brave'",
+            "options": [
+                "Cowardly",
+                "Strong",
+                "Fearless"
+            ],
+            "answer": "A",
+            "explanation": "The correct antonym for 'Brave' is 'Cowardly'."
+        },
+        {
+            "question": "Choose the correct synonym: 'Beautiful'",
+            "options": [
+                "Ugly",
+                "Pretty",
+                "Dull"
+            ],
+            "answer": "B",
+            "explanation": "The correct synonym for 'Beautiful' is 'Pretty'."
+        },
+        {
+            "question": "Choose the correct antonym: 'Generous'",
+            "options": [
+                "Selfish",
+                "Kind",
+                "Helpful"
+            ],
+            "answer": "A",
+            "explanation": "The correct antonym for 'Generous' is 'Selfish'."
+        },
+        {
+            "question": "Choose the correct synonym: 'Quick'",
+            "options": [
+                "Slow",
+                "Fast",
+                "Lazy"
+            ],
+            "answer": "B",
+            "explanation": "The correct synonym for 'Quick' is 'Fast'."
+        },
+        {
+            "question": "Choose the correct antonym: 'Honest'",
+            "options": [
+                "Dishonest",
+                "Truthful",
+                "Loyal"
+            ],
+            "answer": "A",
+            "explanation": "The correct antonym for 'Honest' is 'Dishonest'."
+        },
+        {
+            "question": "Choose the correct synonym: 'Difficult'",
+            "options": [
+                "Easy",
+                "Hard",
+                "Simple"
+            ],
+            "answer": "B",
+            "explanation": "The correct synonym for 'Difficult' is 'Hard'."
+        },
+        {
+            "question": "Choose the correct antonym: 'Weak'",
+            "options": [
+                "Strong",
+                "Feeble",
+                "Tired"
+            ],
+            "answer": "A",
+            "explanation": "The correct antonym for 'Weak' is 'Strong'."
+        },
+        {
+            "question": "Choose the correct synonym: 'Intelligent'",
+            "options": [
+                "Smart",
+                "Dull",
+                "Foolish"
+            ],
+            "answer": "A",
+            "explanation": "The correct synonym for 'Intelligent' is 'Smart'."
+        },
+        {
+            "question": "Choose the correct antonym: 'Polite'",
+            "options": [
+                "Rude",
+                "Kind",
+                "Gentle"
+            ],
+            "answer": "A",
+            "explanation": "The correct antonym for 'Polite' is 'Rude'."
+        },
+        {
+            "question": "Choose the correct synonym: 'Quiet'",
+            "options": [
+                "Noisy",
+                "Silent",
+                "Loud"
+            ],
+            "answer": "B",
+            "explanation": "The correct synonym for 'Quiet' is 'Silent'."
+        },
+        {
+            "question": "Choose the correct antonym: 'Happy'",
+            "options": [
+                "Sad",
+                "Joyful",
+                "Angry"
+            ],
+            "answer": "A",
+            "explanation": "The correct antonym for 'Happy' is 'Sad'."
+        },
+        {
+            "question": "Choose the correct synonym: 'Brave'",
+            "options": [
+                "Cowardly",
+                "Strong",
+                "Fearless"
+            ],
+            "answer": "C",
+            "explanation": "The correct synonym for 'Brave' is 'Fearless'."
+        },
+        {
+            "question": "Choose the correct antonym: 'Beautiful'",
+            "options": [
+                "Ugly",
+                "Pretty",
+                "Dull"
+            ],
+            "answer": "A",
+            "explanation": "The correct antonym for 'Beautiful' is 'Ugly'."
+        },
+        {
+            "question": "Choose the correct synonym: 'Generous'",
+            "options": [
+                "Selfish",
+                "Kind",
+                "Helpful"
+            ],
+            "answer": "B",
+            "explanation": "The correct synonym for 'Generous' is 'Kind'."
+        },
+        {
+            "question": "Choose the correct antonym: 'Quick'",
+            "options": [
+                "Slow",
+                "Fast",
+                "Lazy"
+            ],
+            "answer": "A",
+            "explanation": "The correct antonym for 'Quick' is 'Slow'."
+        },
+        {
+            "question": "Choose the correct synonym: 'Honest'",
+            "options": [
+                "Dishonest",
+                "Truthful",
+                "Loyal"
+            ],
+            "answer": "B",
+            "explanation": "The correct synonym for 'Honest' is 'Truthful'."
+        },
+        {
+            "question": "Choose the correct antonym: 'Difficult'",
+            "options": [
+                "Easy",
+                "Hard",
+                "Simple"
+            ],
+            "answer": "A",
+            "explanation": "The correct antonym for 'Difficult' is 'Easy'."
+        },
+        {
+            "question": "Choose the correct synonym: 'Weak'",
+            "options": [
+                "Strong",
+                "Feeble",
+                "Tired"
+            ],
+            "answer": "B",
+            "explanation": "The correct synonym for 'Weak' is 'Feeble'."
+        },
+        {
+            "question": "Choose the correct antonym: 'Intelligent'",
+            "options": [
+                "Smart",
+                "Dull",
+                "Foolish"
+            ],
+            "answer": "B",
+            "explanation": "The correct antonym for 'Intelligent' is 'Dull'."
+        },
+        {
+            "question": "Choose the correct synonym: 'Polite'",
+            "options": [
+                "Rude",
+                "Kind",
+                "Gentle"
+            ],
+            "answer": "C",
+            "explanation": "The correct synonym for 'Polite' is 'Gentle'."
+        },
+        {
+            "question": "Choose the correct antonym: 'Quiet'",
+            "options": [
+                "Noisy",
+                "Silent",
+                "Loud"
+            ],
+            "answer": "A",
+            "explanation": "The correct antonym for 'Quiet' is 'Noisy'."
+        },
+        {
+            "question": "Choose the correct synonym: 'Happy'",
+            "options": [
+                "Sad",
+                "Joyful",
+                "Angry"
+            ],
+            "answer": "B",
+            "explanation": "The correct synonym for 'Happy' is 'Joyful'."
+        },
+        {
+            "question": "Choose the correct antonym: 'Brave'",
+            "options": [
+                "Cowardly",
+                "Strong",
+                "Fearless"
+            ],
+            "answer": "A",
+            "explanation": "The correct antonym for 'Brave' is 'Cowardly'."
+        }
+    ]
+}

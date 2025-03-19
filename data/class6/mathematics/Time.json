@@ -1,0 +1,244 @@
+{
+    "questions": [
+        {
+            "question": "How many seconds are there in an hour?",
+            "options": [
+                "3600",
+                "1800",
+                "7200"
+            ],
+            "answer": "A",
+            "explanation": "There are 60 seconds in a minute and 60 minutes in an hour. 60 * 60 = 3600 seconds."
+        },
+        {
+            "question": "What is the time 3 hours after 10:00 AM?",
+            "options": [
+                "1:00 PM",
+                "12:00 PM",
+                "2:00 PM"
+            ],
+            "answer": "B",
+            "explanation": "3 hours after 10:00 AM is 1:00 PM."
+        },
+        {
+            "question": "How many minutes are there in a day?",
+            "options": [
+                "1440",
+                "720",
+                "2880"
+            ],
+            "answer": "A",
+            "explanation": "There are 60 minutes in an hour and 24 hours in a day. 60 * 24 = 1440 minutes."
+        },
+        {
+            "question": "What is the time 45 minutes before 6:00 PM?",
+            "options": [
+                "5:15 PM",
+                "5:30 PM",
+                "5:45 PM"
+            ],
+            "answer": "B",
+            "explanation": "45 minutes before 6:00 PM is 5:15 PM."
+        },
+        {
+            "question": "How many hours are there in a week?",
+            "options": [
+                "168",
+                "144",
+                "192"
+            ],
+            "answer": "A",
+            "explanation": "There are 24 hours in a day and 7 days in a week. 24 * 7 = 168 hours."
+        },
+        {
+            "question": "What is the time 2 hours and 30 minutes after 8:00 AM?",
+            "options": [
+                "10:30 AM",
+                "10:00 AM",
+                "11:00 AM"
+            ],
+            "answer": "A",
+            "explanation": "2 hours and 30 minutes after 8:00 AM is 10:30 AM."
+        },
+        {
+            "question": "How many days are there in a leap year?",
+            "options": [
+                "365",
+                "366",
+                "367"
+            ],
+            "answer": "B",
+            "explanation": "A leap year has 366 days."
+        },
+        {
+            "question": "What is the time 15 minutes before 9:00 AM?",
+            "options": [
+                "8:45 AM",
+                "8:30 AM",
+                "8:15 AM"
+            ],
+            "answer": "A",
+            "explanation": "15 minutes before 9:00 AM is 8:45 AM."
+        },
+        {
+            "question": "How many weeks are there in a year?",
+            "options": [
+                "52",
+                "50",
+                "54"
+            ],
+            "answer": "A",
+            "explanation": "There are 52 weeks in a year."
+        },
+        {
+            "question": "What is the time 1 hour and 45 minutes after 3:00 PM?",
+            "options": [
+                "4:45 PM",
+                "4:30 PM",
+                "5:00 PM"
+            ],
+            "answer": "A",
+            "explanation": "1 hour and 45 minutes after 3:00 PM is 4:45 PM."
+        },
+        {
+            "question": "How many months have 31 days?",
+            "options": [
+                "6",
+                "7",
+                "8"
+            ],
+            "answer": "B",
+            "explanation": "There are 7 months with 31 days: January, March, May, July, August, October, and December."
+        },
+        {
+            "question": "What is the time 30 minutes before 12:00 PM?",
+            "options": [
+                "11:30 AM",
+                "11:00 AM",
+                "12:30 PM"
+            ],
+            "answer": "A",
+            "explanation": "30 minutes before 12:00 PM is 11:30 AM."
+        },
+        {
+            "question": "How many days are there in the month of February in a leap year?",
+            "options": [
+                "28",
+                "29",
+                "30"
+            ],
+            "answer": "B",
+            "explanation": "In a leap year, February has 29 days."
+        },
+        {
+            "question": "What is the time 2 hours before 5:00 PM?",
+            "options": [
+                "3:00 PM",
+                "2:00 PM",
+                "4:00 PM"
+            ],
+            "answer": "A",
+            "explanation": "2 hours before 5:00 PM is 3:00 PM."
+        },
+        {
+            "question": "How many seconds are there in a minute?",
+            "options": [
+                "30",
+                "60",
+                "90"
+            ],
+            "answer": "B",
+            "explanation": "There are 60 seconds in a minute."
+        },
+        {
+            "question": "What is the time 1 hour and 15 minutes after 7:00 AM?",
+            "options": [
+                "8:15 AM",
+                "8:00 AM",
+                "7:45 AM"
+            ],
+            "answer": "A",
+            "explanation": "1 hour and 15 minutes after 7:00 AM is 8:15 AM."
+        },
+        {
+            "question": "How many hours are there in a day?",
+            "options": [
+                "12",
+                "24",
+                "36"
+            ],
+            "answer": "B",
+            "explanation": "There are 24 hours in a day."
+        },
+        {
+            "question": "What is the time 20 minutes before 4:00 PM?",
+            "options": [
+                "3:40 PM",
+                "3:30 PM",
+                "3:20 PM"
+            ],
+            "answer": "A",
+            "explanation": "20 minutes before 4:00 PM is 3:40 PM."
+        },
+        {
+            "question": "How many days are there in the month of November?",
+            "options": [
+                "30",
+                "31",
+                "28"
+            ],
+            "answer": "A",
+            "explanation": "November has 30 days."
+        },
+        {
+            "question": "What is the time 3 hours and 15 minutes after 1:00 PM?",
+            "options": [
+                "4:15 PM",
+                "4:00 PM",
+                "3:45 PM"
+            ],
+            "answer": "A",
+            "explanation": "3 hours and 15 minutes after 1:00 PM is 4:15 PM."
+        },
+        {
+            "question": "How many days are there in a non-leap year?",
+            "options": [
+                "365",
+                "366",
+                "364"
+            ],
+            "answer": "A",
+            "explanation": "A non-leap year has 365 days."
+        },
+        {
+            "question": "What is the time 1 hour and 30 minutes before 6:00 PM?",
+            "options": [
+                "4:30 PM",
+                "5:00 PM",
+                "4:00 PM"
+            ],
+            "answer": "A",
+            "explanation": "1 hour and 30 minutes before 6:00 PM is 4:30 PM."
+        },
+        {
+            "question": "How many months have 30 days?",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
+            "answer": "A",
+            "explanation": "There are 4 months with 30 days: April, June, September, and November."
+        },
+        {
+            "question": "What is the time 45 minutes after 11:00 AM?",
+            "options": [
+                "11:45 AM",
+                "12:00 PM",
+                "12:15 PM"
+            ],
+            "answer": "A",
+            "explanation": "45 minutes after 11:00 AM is 11:45 AM."
+        }
+    ]
+}
