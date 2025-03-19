@@ -1,254 +1,254 @@
 {
     "questions": [
         {
-            "question": "What is 11 × 12?",
+            "question": "What is 11 * 11?",
             "options": [
-                "132",
-                "122",
-                "144"
+                "121",
+                "131",
+                "141"
             ],
             "answer": "A",
-            "explanation": "11 × 12 = 132."
+            "explanation": "11 * 11 = 121."
         },
         {
-            "question": "Multiply 13 by 15.",
+            "question": "What is 12 * 12?",
             "options": [
-                "185",
-                "195",
-                "205"
-            ],
-            "answer": "B",
-            "explanation": "13 × 15 = 195."
-        },
-        {
-            "question": "What is the product of 14 and 11?",
-            "options": [
-                "154",
+                "134",
                 "144",
-                "164"
-            ],
-            "answer": "A",
-            "explanation": "14 × 11 = 154."
-        },
-        {
-            "question": "If a book costs ₹12, how much do 15 books cost?",
-            "options": [
-                "₹180",
-                "₹160",
-                "₹200"
-            ],
-            "answer": "A",
-            "explanation": "15 books × ₹12 per book = ₹180."
-        },
-        {
-            "question": "What is 16 × 13?",
-            "options": [
-                "198",
-                "208",
-                "218"
+                "154"
             ],
             "answer": "B",
-            "explanation": "16 × 13 = 208."
+            "explanation": "12 * 12 = 144."
         },
         {
-            "question": "Multiply 17 by 11.",
+            "question": "What is 13 * 13?",
             "options": [
-                "177",
-                "187",
-                "197"
+                "159",
+                "169",
+                "179"
             ],
             "answer": "B",
-            "explanation": "17 × 11 = 187."
+            "explanation": "13 * 13 = 169."
         },
         {
-            "question": "What is 18 × 14?",
+            "question": "What is 14 * 14?",
             "options": [
-                "242",
-                "252",
-                "262"
+                "186",
+                "196",
+                "206"
             ],
             "answer": "B",
-            "explanation": "18 × 14 = 252."
+            "explanation": "14 * 14 = 196."
         },
         {
-            "question": "A shop sells 12 pens at ₹15 each. What is the total cost?",
-            "options": [
-                "₹160",
-                "₹180",
-                "₹200"
-            ],
-            "answer": "B",
-            "explanation": "12 pens × ₹15 per pen = ₹180."
-        },
-        {
-            "question": "What is 19 × 13?",
-            "options": [
-                "237",
-                "247",
-                "257"
-            ],
-            "answer": "B",
-            "explanation": "19 × 13 = 247."
-        },
-        {
-            "question": "Multiply 20 by 11.",
-            "options": [
-                "210",
-                "220",
-                "230"
-            ],
-            "answer": "B",
-            "explanation": "20 × 11 = 220."
-        },
-        {
-            "question": "If one ticket costs ₹14, how much do 16 tickets cost?",
-            "options": [
-                "₹224",
-                "₹210",
-                "₹240"
-            ],
-            "answer": "A",
-            "explanation": "16 tickets × ₹14 per ticket = ₹224."
-        },
-        {
-            "question": "What is 15 × 15?",
+            "question": "What is 15 * 15?",
             "options": [
                 "215",
                 "225",
                 "235"
             ],
             "answer": "B",
-            "explanation": "15 × 15 = 225."
+            "explanation": "15 * 15 = 225."
         },
         {
-            "question": "What is the product of 12 and 17?",
+            "question": "What is 16 * 16?",
             "options": [
-                "194",
-                "204",
-                "214"
+                "236",
+                "246",
+                "256"
+            ],
+            "answer": "C",
+            "explanation": "16 * 16 = 256."
+        },
+        {
+            "question": "What is 17 * 17?",
+            "options": [
+                "279",
+                "289",
+                "299"
             ],
             "answer": "B",
-            "explanation": "12 × 17 = 204."
+            "explanation": "17 * 17 = 289."
         },
         {
-            "question": "Multiply 13 by 18.",
+            "question": "What is 18 * 18?",
             "options": [
-                "224",
-                "234",
-                "244"
+                "314",
+                "324",
+                "334"
             ],
             "answer": "B",
-            "explanation": "13 × 18 = 234."
+            "explanation": "18 * 18 = 324."
         },
         {
-            "question": "A child buys 11 chocolates at ₹20 each. What is the total cost?",
+            "question": "What is 19 * 19?",
             "options": [
-                "₹200",
-                "₹220",
-                "₹240"
+                "351",
+                "361",
+                "371"
             ],
             "answer": "B",
-            "explanation": "11 chocolates × ₹20 per chocolate = ₹220."
+            "explanation": "19 * 19 = 361."
         },
         {
-            "question": "What is 14 × 19?",
+            "question": "What is 11 * 12?",
             "options": [
-                "256",
-                "266",
-                "276"
+                "121",
+                "132",
+                "143"
             ],
             "answer": "B",
-            "explanation": "14 × 19 = 266."
+            "explanation": "11 * 12 = 132."
         },
         {
-            "question": "Multiply 16 by 17.",
+            "question": "What is 12 * 13?",
             "options": [
-                "272",
+                "146",
+                "156",
+                "166"
+            ],
+            "answer": "B",
+            "explanation": "12 * 13 = 156."
+        },
+        {
+            "question": "What is 13 * 14?",
+            "options": [
+                "172",
+                "182",
+                "192"
+            ],
+            "answer": "B",
+            "explanation": "13 * 14 = 182."
+        },
+        {
+            "question": "What is 14 * 15?",
+            "options": [
+                "200",
+                "210",
+                "220"
+            ],
+            "answer": "B",
+            "explanation": "14 * 15 = 210."
+        },
+        {
+            "question": "What is 15 * 16?",
+            "options": [
+                "230",
+                "240",
+                "250"
+            ],
+            "answer": "B",
+            "explanation": "15 * 16 = 240."
+        },
+        {
+            "question": "What is 16 * 17?",
+            "options": [
                 "262",
+                "272",
                 "282"
             ],
-            "answer": "A",
-            "explanation": "16 × 17 = 272."
+            "answer": "B",
+            "explanation": "16 * 17 = 272."
         },
         {
-            "question": "If a dozen eggs cost ₹18 per dozen, how much do 13 dozen eggs cost?",
+            "question": "What is 17 * 18?",
             "options": [
-                "₹224",
-                "₹234",
-                "₹244"
+                "296",
+                "306",
+                "316"
             ],
             "answer": "B",
-            "explanation": "13 dozen × ₹18 per dozen = ₹234 (1 dozen = 12 eggs)."
+            "explanation": "17 * 18 = 306."
         },
         {
-            "question": "What is 18 × 12?",
+            "question": "What is 18 * 19?",
             "options": [
-                "206",
-                "216",
-                "226"
+                "332",
+                "342",
+                "352"
             ],
             "answer": "B",
-            "explanation": "18 × 12 = 216."
+            "explanation": "18 * 19 = 342."
         },
         {
-            "question": "What is the product of 19 and 15?",
+            "question": "What is 11 * 13?",
             "options": [
-                "275",
-                "285",
-                "295"
+                "132",
+                "143",
+                "153"
             ],
             "answer": "B",
-            "explanation": "19 × 15 = 285."
+            "explanation": "11 * 13 = 143."
         },
         {
-            "question": "A shop sells 14 bottles at ₹16 each. What is the total cost?",
+            "question": "What is 12 * 14?",
             "options": [
-                "₹224",
-                "₹210",
-                "₹240"
-            ],
-            "answer": "A",
-            "explanation": "14 bottles × ₹16 per bottle = ₹224."
-        },
-        {
-            "question": "Multiply 20 by 18.",
-            "options": [
-                "340",
-                "360",
-                "380"
+                "158",
+                "168",
+                "178"
             ],
             "answer": "B",
-            "explanation": "20 × 18 = 360."
+            "explanation": "12 * 14 = 168."
         },
         {
-            "question": "What is 17 × 19?",
+            "question": "What is 13 * 15?",
+            "options": [
+                "185",
+                "195",
+                "205"
+            ],
+            "answer": "B",
+            "explanation": "13 * 15 = 195."
+        },
+        {
+            "question": "What is 14 * 16?",
+            "options": [
+                "214",
+                "224",
+                "234"
+            ],
+            "answer": "B",
+            "explanation": "14 * 16 = 224."
+        },
+        {
+            "question": "What is 15 * 17?",
+            "options": [
+                "245",
+                "255",
+                "265"
+            ],
+            "answer": "B",
+            "explanation": "15 * 17 = 255."
+        },
+        {
+            "question": "What is 16 * 18?",
+            "options": [
+                "278",
+                "288",
+                "298"
+            ],
+            "answer": "B",
+            "explanation": "16 * 18 = 288."
+        },
+        {
+            "question": "What is 17 * 19?",
             "options": [
                 "313",
                 "323",
                 "333"
             ],
             "answer": "B",
-            "explanation": "17 × 19 = 323."
+            "explanation": "17 * 19 = 323."
         },
         {
-            "question": "If a bag has 11 candies and costs ₹13 per bag, how much do 11 bags cost?",
+            "question": "What is 11 * 14?",
             "options": [
-                "₹133",
-                "₹143",
-                "₹153"
+                "144",
+                "154",
+                "164"
             ],
             "answer": "B",
-            "explanation": "11 bags × ₹13 per bag = ₹143."
-        },
-        {
-            "question": "What is 15 × 20?",
-            "options": [
-                "290",
-                "300",
-                "310"
-            ],
-            "answer": "B",
-            "explanation": "15 × 20 = 300."
+            "explanation": "11 * 14 = 154."
         }
     ]
 }
