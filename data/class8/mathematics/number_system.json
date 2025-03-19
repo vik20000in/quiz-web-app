@@ -1,0 +1,294 @@
+{
+    "questions": [
+        {
+            "question": "What is the value of the digit 7 in the number 7,654?",
+            "options": [
+                "7",
+                "70",
+                "7000"
+            ],
+            "answer": "C",
+            "explanation": "The value of the digit 7 in the number 7,654 is 7000."
+        },
+        {
+            "question": "What is the place value of 5 in the number 5,432?",
+            "options": [
+                "5",
+                "500",
+                "5000"
+            ],
+            "answer": "C",
+            "explanation": "The place value of 5 in the number 5,432 is 5000."
+        },
+        {
+            "question": "What is the face value of 3 in the number 3,210?",
+            "options": [
+                "3",
+                "30",
+                "300"
+            ],
+            "answer": "A",
+            "explanation": "The face value of 3 in the number 3,210 is 3."
+        },
+        {
+            "question": "What is the value of the digit 6 in the number 6,789?",
+            "options": [
+                "6",
+                "60",
+                "6000"
+            ],
+            "answer": "C",
+            "explanation": "The value of the digit 6 in the number 6,789 is 6000."
+        },
+        {
+            "question": "What is the place value of 4 in the number 4,321?",
+            "options": [
+                "4",
+                "40",
+                "4000"
+            ],
+            "answer": "C",
+            "explanation": "The place value of 4 in the number 4,321 is 4000."
+        },
+        {
+            "question": "What is the face value of 2 in the number 2,345?",
+            "options": [
+                "2",
+                "20",
+                "200"
+            ],
+            "answer": "A",
+            "explanation": "The face value of 2 in the number 2,345 is 2."
+        },
+        {
+            "question": "What is the value of the digit 8 in the number 8,765?",
+            "options": [
+                "8",
+                "80",
+                "8000"
+            ],
+            "answer": "C",
+            "explanation": "The value of the digit 8 in the number 8,765 is 8000."
+        },
+        {
+            "question": "What is the place value of 3 in the number 3,456?",
+            "options": [
+                "3",
+                "30",
+                "3000"
+            ],
+            "answer": "C",
+            "explanation": "The place value of 3 in the number 3,456 is 3000."
+        },
+        {
+            "question": "What is the face value of 1 in the number 1,234?",
+            "options": [
+                "1",
+                "10",
+                "100"
+            ],
+            "answer": "A",
+            "explanation": "The face value of 1 in the number 1,234 is 1."
+        },
+        {
+            "question": "What is the value of the digit 9 in the number 9,876?",
+            "options": [
+                "9",
+                "90",
+                "9000"
+            ],
+            "answer": "C",
+            "explanation": "The value of the digit 9 in the number 9,876 is 9000."
+        },
+        {
+            "question": "What is the place value of 2 in the number 2,345?",
+            "options": [
+                "2",
+                "20",
+                "2000"
+            ],
+            "answer": "C",
+            "explanation": "The place value of 2 in the number 2,345 is 2000."
+        },
+        {
+            "question": "What is the face value of 4 in the number 4,567?",
+            "options": [
+                "4",
+                "40",
+                "400"
+            ],
+            "answer": "A",
+            "explanation": "The face value of 4 in the number 4,567 is 4."
+        },
+        {
+            "question": "What is the value of the digit 5 in the number 5,678?",
+            "options": [
+                "5",
+                "50",
+                "5000"
+            ],
+            "answer": "C",
+            "explanation": "The value of the digit 5 in the number 5,678 is 5000."
+        },
+        {
+            "question": "What is the place value of 1 in the number 1,234?",
+            "options": [
+                "1",
+                "10",
+                "1000"
+            ],
+            "answer": "C",
+            "explanation": "The place value of 1 in the number 1,234 is 1000."
+        },
+        {
+            "question": "What is the face value of 6 in the number 6,789?",
+            "options": [
+                "6",
+                "60",
+                "600"
+            ],
+            "answer": "A",
+            "explanation": "The face value of 6 in the number 6,789 is 6."
+        },
+        {
+            "question": "What is the value of the digit 7 in the number 7,890?",
+            "options": [
+                "7",
+                "70",
+                "7000"
+            ],
+            "answer": "C",
+            "explanation": "The value of the digit 7 in the number 7,890 is 7000."
+        },
+        {
+            "question": "What is the place value of 5 in the number 5,678?",
+            "options": [
+                "5",
+                "50",
+                "5000"
+            ],
+            "answer": "C",
+            "explanation": "The place value of 5 in the number 5,678 is 5000."
+        },
+        {
+            "question": "What is the face value of 3 in the number 3,456?",
+            "options": [
+                "3",
+                "30",
+                "300"
+            ],
+            "answer": "A",
+            "explanation": "The face value of 3 in the number 3,456 is 3."
+        },
+        {
+            "question": "What is the value of the digit 4 in the number 4,567?",
+            "options": [
+                "4",
+                "40",
+                "4000"
+            ],
+            "answer": "C",
+            "explanation": "The value of the digit 4 in the number 4,567 is 4000."
+        },
+        {
+            "question": "What is the place value of 6 in the number 6,789?",
+            "options": [
+                "6",
+                "60",
+                "6000"
+            ],
+            "answer": "C",
+            "explanation": "The place value of 6 in the number 6,789 is 6000."
+        },
+        {
+            "question": "What is the face value of 2 in the number 2,345?",
+            "options": [
+                "2",
+                "20",
+                "200"
+            ],
+            "answer": "A",
+            "explanation": "The face value of 2 in the number 2,345 is 2."
+        },
+        {
+            "question": "What is the value of the digit 8 in the number 8,765?",
+            "options": [
+                "8",
+                "80",
+                "8000"
+            ],
+            "answer": "C",
+            "explanation": "The value of the digit 8 in the number 8,765 is 8000."
+        },
+        {
+            "question": "What is the place value of 3 in the number 3,456?",
+            "options": [
+                "3",
+                "30",
+                "3000"
+            ],
+            "answer": "C",
+            "explanation": "The place value of 3 in the number 3,456 is 3000."
+        },
+        {
+            "question": "What is the face value of 1 in the number 1,234?",
+            "options": [
+                "1",
+                "10",
+                "100"
+            ],
+            "answer": "A",
+            "explanation": "The face value of 1 in the number 1,234 is 1."
+        },
+        {
+            "question": "What is the value of the digit 9 in the number 9,876?",
+            "options": [
+                "9",
+                "90",
+                "9000"
+            ],
+            "answer": "C",
+            "explanation": "The value of the digit 9 in the number 9,876 is 9000."
+        },
+        {
+            "question": "What is the place value of 2 in the number 2,345?",
+            "options": [
+                "2",
+                "20",
+                "2000"
+            ],
+            "answer": "C",
+            "explanation": "The place value of 2 in the number 2,345 is 2000."
+        },
+        {
+            "question": "What is the face value of 4 in the number 4,567?",
+            "options": [
+                "4",
+                "40",
+                "400"
+            ],
+            "answer": "A",
+            "explanation": "The face value of 4 in the number 4,567 is 4."
+        },
+        {
+            "question": "What is the value of the digit 5 in the number 5,678?",
+            "options": [
+                "5",
+                "50",
+                "5000"
+            ],
+            "answer": "C",
+            "explanation": "The value of the digit 5 in the number 5,678 is 5000."
+        },
+        {
+            "question": "What is the place value of 1 in the number 1,234?",
+            "options": [
+                "1",
+                "10",
+                "1000"
+            ],
+            "answer": "C",
+            "explanation": "The place value of 1 in the number 1,234 is 1000."
+        }
+    ]
+}

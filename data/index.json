@@ -14,7 +14,9 @@
                         { "name": "Multiplication2", "path": "class6/mathematics/Multiplication2.json" },                       
                         { "name": "Geometry", "path": "class6/mathematics/Geometry.json" },
                         { "name": "DataHandling", "path": "class6/mathematics/DataHandling.json" },
-                        { "name": "Time", "path": "class6/mathematics/Time.json" }
+                        { "name": "Time", "path": "class6/mathematics/Time.json" },
+                        { "name": "Division", "path": "class6/mathematics/Division.json" }
+                       
 
                     ]
                 },
@@ -53,7 +55,11 @@
                         { "name": "Geometry", "path": "class8/mathematics/geometry.json" },
                         { "name": "Algebra", "path": "class8/mathematics/algebra.json" },
                         { "name": "Statistics", "path": "class8/mathematics/statistics.json" },
-                        { "name": "Olympiad Math", "path": "class8/mathematics/olympiad_math.json" }
+                        { "name": "Olympiad Math", "path": "class8/mathematics/olympiad_math.json" },                     
+                        { "name": "Number SystNem", "path": "class8/mathematics/number_system.json" },
+                        { "name": "LinearEquations", "path": "class8/mathematics/LinearEquations.json" },                
+                        { "name": "DataHandling", "path": "class8/mathematics/DataHandling.json" },
+                        { "name": "Division", "path": "class8/mathematics/Division.json" }
                     ]
                 },
                 {

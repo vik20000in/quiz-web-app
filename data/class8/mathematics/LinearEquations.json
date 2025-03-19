@@ -1,0 +1,294 @@
+{
+    "questions": [
+        {
+            "question": "Solve for x: 2x + 3 = 7",
+            "options": [
+                "x = 1",
+                "x = 2",
+                "x = 3"
+            ],
+            "answer": "B",
+            "explanation": "2x + 3 = 7 => 2x = 4 => x = 2."
+        },
+        {
+            "question": "Solve for x: 3x - 5 = 10",
+            "options": [
+                "x = 3",
+                "x = 5",
+                "x = 7"
+            ],
+            "answer": "C",
+            "explanation": "3x - 5 = 10 => 3x = 15 => x = 5."
+        },
+        {
+            "question": "Solve for x: 4x + 2 = 18",
+            "options": [
+                "x = 3",
+                "x = 4",
+                "x = 5"
+            ],
+            "answer": "C",
+            "explanation": "4x + 2 = 18 => 4x = 16 => x = 4."
+        },
+        {
+            "question": "Solve for x: 5x - 7 = 18",
+            "options": [
+                "x = 4",
+                "x = 5",
+                "x = 6"
+            ],
+            "answer": "C",
+            "explanation": "5x - 7 = 18 => 5x = 25 => x = 5."
+        },
+        {
+            "question": "Solve for x: 6x + 3 = 21",
+            "options": [
+                "x = 2",
+                "x = 3",
+                "x = 4"
+            ],
+            "answer": "C",
+            "explanation": "6x + 3 = 21 => 6x = 18 => x = 3."
+        },
+        {
+            "question": "Solve for x: 7x - 4 = 24",
+            "options": [
+                "x = 3",
+                "x = 4",
+                "x = 5"
+            ],
+            "answer": "C",
+            "explanation": "7x - 4 = 24 => 7x = 28 => x = 4."
+        },
+        {
+            "question": "Solve for x: 8x + 5 = 37",
+            "options": [
+                "x = 3",
+                "x = 4",
+                "x = 5"
+            ],
+            "answer": "C",
+            "explanation": "8x + 5 = 37 => 8x = 32 => x = 4."
+        },
+        {
+            "question": "Solve for x: 9x - 6 = 27",
+            "options": [
+                "x = 3",
+                "x = 4",
+                "x = 5"
+            ],
+            "answer": "C",
+            "explanation": "9x - 6 = 27 => 9x = 33 => x = 3."
+        },
+        {
+            "question": "Solve for x: 10x + 7 = 57",
+            "options": [
+                "x = 4",
+                "x = 5",
+                "x = 6"
+            ],
+            "answer": "C",
+            "explanation": "10x + 7 = 57 => 10x = 50 => x = 5."
+        },
+        {
+            "question": "Solve for x: 11x - 8 = 33",
+            "options": [
+                "x = 3",
+                "x = 4",
+                "x = 5"
+            ],
+            "answer": "C",
+            "explanation": "11x - 8 = 33 => 11x = 41 => x = 3."
+        },
+        {
+            "question": "Solve for x: 12x + 9 = 81",
+            "options": [
+                "x = 5",
+                "x = 6",
+                "x = 7"
+            ],
+            "answer": "C",
+            "explanation": "12x + 9 = 81 => 12x = 72 => x = 6."
+        },
+        {
+            "question": "Solve for x: 13x - 10 = 53",
+            "options": [
+                "x = 4",
+                "x = 5",
+                "x = 6"
+            ],
+            "answer": "C",
+            "explanation": "13x - 10 = 53 => 13x = 63 => x = 5."
+        },
+        {
+            "question": "Solve for x: 14x + 11 = 85",
+            "options": [
+                "x = 5",
+                "x = 6",
+                "x = 7"
+            ],
+            "answer": "C",
+            "explanation": "14x + 11 = 85 => 14x = 74 => x = 6."
+        },
+        {
+            "question": "Solve for x: 15x - 12 = 63",
+            "options": [
+                "x = 4",
+                "x = 5",
+                "x = 6"
+            ],
+            "answer": "C",
+            "explanation": "15x - 12 = 63 => 15x = 75 => x = 5."
+        },
+        {
+            "question": "Solve for x: 16x + 13 = 109",
+            "options": [
+                "x = 6",
+                "x = 7",
+                "x = 8"
+            ],
+            "answer": "C",
+            "explanation": "16x + 13 = 109 => 16x = 96 => x = 6."
+        },
+        {
+            "question": "Solve for x: 17x - 14 = 85",
+            "options": [
+                "x = 5",
+                "x = 6",
+                "x = 7"
+            ],
+            "answer": "C",
+            "explanation": "17x - 14 = 85 => 17x = 99 => x = 5."
+        },
+        {
+            "question": "Solve for x: 18x + 15 = 141",
+            "options": [
+                "x = 6",
+                "x = 7",
+                "x = 8"
+            ],
+            "answer": "C",
+            "explanation": "18x + 15 = 141 => 18x = 126 => x = 7."
+        },
+        {
+            "question": "Solve for x: 19x - 16 = 103",
+            "options": [
+                "x = 6",
+                "x = 7",
+                "x = 8"
+            ],
+            "answer": "C",
+            "explanation": "19x - 16 = 103 => 19x = 119 => x = 6."
+        },
+        {
+            "question": "Solve for x: 20x + 17 = 157",
+            "options": [
+                "x = 7",
+                "x = 8",
+                "x = 9"
+            ],
+            "answer": "C",
+            "explanation": "20x + 17 = 157 => 20x = 140 => x = 7."
+        },
+        {
+            "question": "Solve for x: 21x - 18 = 123",
+            "options": [
+                "x = 6",
+                "x = 7",
+                "x = 8"
+            ],
+            "answer": "C",
+            "explanation": "21x - 18 = 123 => 21x = 141 => x = 6."
+        },
+        {
+            "question": "Solve for x: 22x + 19 = 197",
+            "options": [
+                "x = 8",
+                "x = 9",
+                "x = 10"
+            ],
+            "answer": "C",
+            "explanation": "22x + 19 = 197 => 22x = 178 => x = 8."
+        },
+        {
+            "question": "Solve for x: 23x - 20 = 149",
+            "options": [
+                "x = 7",
+                "x = 8",
+                "x = 9"
+            ],
+            "answer": "C",
+            "explanation": "23x - 20 = 149 => 23x = 169 => x = 7."
+        },
+        {
+            "question": "Solve for x: 24x + 21 = 225",
+            "options": [
+                "x = 8",
+                "x = 9",
+                "x = 10"
+            ],
+            "answer": "C",
+            "explanation": "24x + 21 = 225 => 24x = 204 => x = 8."
+        },
+        {
+            "question": "Solve for x: 25x - 22 = 178",
+            "options": [
+                "x = 7",
+                "x = 8",
+                "x = 9"
+            ],
+            "answer": "C",
+            "explanation": "25x - 22 = 178 => 25x = 200 => x = 8."
+        },
+        {
+            "question": "Solve for x: 26x + 23 = 299",
+            "options": [
+                "x = 10",
+                "x = 11",
+                "x = 12"
+            ],
+            "answer": "C",
+            "explanation": "26x + 23 = 299 => 26x = 276 => x = 10."
+        },
+        {
+            "question": "Solve for x: 27x - 24 = 216",
+            "options": [
+                "x = 8",
+                "x = 9",
+                "x = 10"
+            ],
+            "answer": "C",
+            "explanation": "27x - 24 = 216 => 27x = 240 => x = 8."
+        },
+        {
+            "question": "Solve for x: 28x + 25 = 305",
+            "options": [
+                "x = 9",
+                "x = 10",
+                "x = 11"
+            ],
+            "answer": "C",
+            "explanation": "28x + 25 = 305 => 28x = 280 => x = 10."
+        },
+        {
+            "question": "Solve for x: 29x - 26 = 233",
+            "options": [
+                "x = 8",
+                "x = 9",
+                "x = 10"
+            ],
+            "answer": "C",
+            "explanation": "29x - 26 = 233 => 29x = 259 => x = 8."
+        },
+        {
+            "question": "Solve for x: 30x + 27 = 327",
+            "options": [
+                "x = 9",
+                "x = 10",
+                "x = 11"
+            ],
+            "answer": "C",
+            "explanation": "30x + 27 = 327 => 30x = 300 => x = 10."
+        }
+    ]
+}
