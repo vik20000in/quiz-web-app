@@ -65,7 +65,10 @@
                 {
                     "name": "Science",
                     "subcategories": [
-                        { "name": "Chemistry", "path": "class8/Science/chemistry.json" }
+                        { "name": "Chemistry", "path": "class8/Science/chemistry.json" },
+                        { "name": "Physics", "path": "class8/Science/physics.json" },
+                        { "name": "Biology", "path": "class8/Science/biology.json" },
+                        { "name": "Olympiad Science", "path": "class8/Science/olympiad_science.json" }
                     ]
                 }, {
                     "name": "English Grammer",

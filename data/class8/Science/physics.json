@@ -1,0 +1,294 @@
+{
+    "questions": [
+        {
+            "question": "What is the unit of force?",
+            "options": [
+                "Newton",
+                "Joule",
+                "Watt"
+            ],
+            "answer": "A",
+            "explanation": "The unit of force is Newton."
+        },
+        {
+            "question": "What is the speed of light in vacuum?",
+            "options": [
+                "3 x 10^8 m/s",
+                "3 x 10^6 m/s",
+                "3 x 10^4 m/s"
+            ],
+            "answer": "A",
+            "explanation": "The speed of light in vacuum is 3 x 10^8 m/s."
+        },
+        {
+            "question": "What is the formula for calculating work done?",
+            "options": [
+                "Work = Force x Distance",
+                "Work = Mass x Acceleration",
+                "Work = Power x Time"
+            ],
+            "answer": "A",
+            "explanation": "The formula for calculating work done is Work = Force x Distance."
+        },
+        {
+            "question": "What is the unit of power?",
+            "options": [
+                "Watt",
+                "Joule",
+                "Newton"
+            ],
+            "answer": "A",
+            "explanation": "The unit of power is Watt."
+        },
+        {
+            "question": "What is the formula for calculating kinetic energy?",
+            "options": [
+                "KE = 1/2 mv^2",
+                "KE = mv^2",
+                "KE = 1/2 mv"
+            ],
+            "answer": "A",
+            "explanation": "The formula for calculating kinetic energy is KE = 1/2 mv^2."
+        },
+        {
+            "question": "What is the unit of electric current?",
+            "options": [
+                "Ampere",
+                "Volt",
+                "Ohm"
+            ],
+            "answer": "A",
+            "explanation": "The unit of electric current is Ampere."
+        },
+        {
+            "question": "What is the formula for calculating potential energy?",
+            "options": [
+                "PE = mgh",
+                "PE = mg",
+                "PE = mh"
+            ],
+            "answer": "A",
+            "explanation": "The formula for calculating potential energy is PE = mgh."
+        },
+        {
+            "question": "What is the unit of frequency?",
+            "options": [
+                "Hertz",
+                "Watt",
+                "Joule"
+            ],
+            "answer": "A",
+            "explanation": "The unit of frequency is Hertz."
+        },
+        {
+            "question": "What is the formula for calculating pressure?",
+            "options": [
+                "Pressure = Force / Area",
+                "Pressure = Force x Area",
+                "Pressure = Mass / Volume"
+            ],
+            "answer": "A",
+            "explanation": "The formula for calculating pressure is Pressure = Force / Area."
+        },
+        {
+            "question": "What is the unit of energy?",
+            "options": [
+                "Joule",
+                "Newton",
+                "Watt"
+            ],
+            "answer": "A",
+            "explanation": "The unit of energy is Joule."
+        },
+        {
+            "question": "What is the formula for calculating acceleration?",
+            "options": [
+                "Acceleration = Change in Velocity / Time",
+                "Acceleration = Velocity / Time",
+                "Acceleration = Distance / Time"
+            ],
+            "answer": "A",
+            "explanation": "The formula for calculating acceleration is Acceleration = Change in Velocity / Time."
+        },
+        {
+            "question": "What is the unit of resistance?",
+            "options": [
+                "Ohm",
+                "Volt",
+                "Ampere"
+            ],
+            "answer": "A",
+            "explanation": "The unit of resistance is Ohm."
+        },
+        {
+            "question": "What is the formula for calculating density?",
+            "options": [
+                "Density = Mass / Volume",
+                "Density = Mass x Volume",
+                "Density = Volume / Mass"
+            ],
+            "answer": "A",
+            "explanation": "The formula for calculating density is Density = Mass / Volume."
+        },
+        {
+            "question": "What is the unit of temperature?",
+            "options": [
+                "Kelvin",
+                "Joule",
+                "Watt"
+            ],
+            "answer": "A",
+            "explanation": "The unit of temperature is Kelvin."
+        },
+        {
+            "question": "What is the formula for calculating momentum?",
+            "options": [
+                "Momentum = Mass x Velocity",
+                "Momentum = Mass / Velocity",
+                "Momentum = Velocity / Mass"
+            ],
+            "answer": "A",
+            "explanation": "The formula for calculating momentum is Momentum = Mass x Velocity."
+        },
+        {
+            "question": "What is the unit of charge?",
+            "options": [
+                "Coulomb",
+                "Volt",
+                "Ampere"
+            ],
+            "answer": "A",
+            "explanation": "The unit of charge is Coulomb."
+        },
+        {
+            "question": "What is the formula for calculating voltage?",
+            "options": [
+                "Voltage = Current x Resistance",
+                "Voltage = Current / Resistance",
+                "Voltage = Resistance / Current"
+            ],
+            "answer": "A",
+            "explanation": "The formula for calculating voltage is Voltage = Current x Resistance."
+        },
+        {
+            "question": "What is the unit of magnetic field strength?",
+            "options": [
+                "Tesla",
+                "Joule",
+                "Watt"
+            ],
+            "answer": "A",
+            "explanation": "The unit of magnetic field strength is Tesla."
+        },
+        {
+            "question": "What is the formula for calculating gravitational force?",
+            "options": [
+                "F = G (m1m2) / r^2",
+                "F = G (m1 + m2) / r^2",
+                "F = G (m1 - m2) / r^2"
+            ],
+            "answer": "A",
+            "explanation": "The formula for calculating gravitational force is F = G (m1m2) / r^2."
+        },
+        {
+            "question": "What is the unit of luminous intensity?",
+            "options": [
+                "Candela",
+                "Lumen",
+                "Lux"
+            ],
+            "answer": "A",
+            "explanation": "The unit of luminous intensity is Candela."
+        },
+        {
+            "question": "What is the formula for calculating power?",
+            "options": [
+                "Power = Work / Time",
+                "Power = Work x Time",
+                "Power = Work + Time"
+            ],
+            "answer": "A",
+            "explanation": "The formula for calculating power is Power = Work / Time."
+        },
+        {
+            "question": "What is the unit of inductance?",
+            "options": [
+                "Henry",
+                "Farad",
+                "Ohm"
+            ],
+            "answer": "A",
+            "explanation": "The unit of inductance is Henry."
+        },
+        {
+            "question": "What is the formula for calculating capacitance?",
+            "options": [
+                "Capacitance = Charge / Voltage",
+                "Capacitance = Charge x Voltage",
+                "Capacitance = Voltage / Charge"
+            ],
+            "answer": "A",
+            "explanation": "The formula for calculating capacitance is Capacitance = Charge / Voltage."
+        },
+        {
+            "question": "What is the unit of electric field strength?",
+            "options": [
+                "Volt per meter",
+                "Newton per meter",
+                "Joule per meter"
+            ],
+            "answer": "A",
+            "explanation": "The unit of electric field strength is Volt per meter."
+        },
+        {
+            "question": "What is the formula for calculating mechanical advantage?",
+            "options": [
+                "Mechanical Advantage = Output Force / Input Force",
+                "Mechanical Advantage = Input Force / Output Force",
+                "Mechanical Advantage = Output Force x Input Force"
+            ],
+            "answer": "A",
+            "explanation": "The formula for calculating mechanical advantage is Mechanical Advantage = Output Force / Input Force."
+        },
+        {
+            "question": "What is the unit of angular velocity?",
+            "options": [
+                "Radian per second",
+                "Meter per second",
+                "Joule per second"
+            ],
+            "answer": "A",
+            "explanation": "The unit of angular velocity is Radian per second."
+        },
+        {
+            "question": "What is the formula for calculating torque?",
+            "options": [
+                "Torque = Force x Distance",
+                "Torque = Force / Distance",
+                "Torque = Distance / Force"
+            ],
+            "answer": "A",
+            "explanation": "The formula for calculating torque is Torque = Force x Distance."
+        },
+        {
+            "question": "What is the unit of electric potential?",
+            "options": [
+                "Volt",
+                "Watt",
+                "Joule"
+            ],
+            "answer": "A",
+            "explanation": "The unit of electric potential is Volt."
+        },
+        {
+            "question": "What is the formula for calculating efficiency?",
+            "options": [
+                "Efficiency = (Output Energy / Input Energy) x 100",
+                "Efficiency = (Input Energy / Output Energy) x 100",
+                "Efficiency = (Output Energy + Input Energy) x 100"
+            ],
+            "answer": "A",
+            "explanation": "The formula for calculating efficiency is Efficiency = (Output Energy / Input Energy) x 100."
+        }
+    ]
+}

@@ -1,0 +1,294 @@
+{
+    "questions": [
+        {
+            "question": "What is the basic unit of life?",
+            "options": [
+                "Cell",
+                "Tissue",
+                "Organ"
+            ],
+            "answer": "A",
+            "explanation": "The basic unit of life is the cell."
+        },
+        {
+            "question": "What is the process by which plants make their own food?",
+            "options": [
+                "Respiration",
+                "Photosynthesis",
+                "Digestion"
+            ],
+            "answer": "B",
+            "explanation": "Plants make their own food through the process of photosynthesis."
+        },
+        {
+            "question": "What is the powerhouse of the cell?",
+            "options": [
+                "Nucleus",
+                "Mitochondria",
+                "Ribosome"
+            ],
+            "answer": "B",
+            "explanation": "The mitochondria is known as the powerhouse of the cell."
+        },
+        {
+            "question": "What is the green pigment in plants that absorbs light energy?",
+            "options": [
+                "Chlorophyll",
+                "Carotene",
+                "Xanthophyll"
+            ],
+            "answer": "A",
+            "explanation": "Chlorophyll is the green pigment in plants that absorbs light energy."
+        },
+        {
+            "question": "What is the process by which cells divide to form new cells?",
+            "options": [
+                "Meiosis",
+                "Mitosis",
+                "Fission"
+            ],
+            "answer": "B",
+            "explanation": "Mitosis is the process by which cells divide to form new cells."
+        },
+        {
+            "question": "What is the function of the nucleus in a cell?",
+            "options": [
+                "Control center",
+                "Energy production",
+                "Protein synthesis"
+            ],
+            "answer": "A",
+            "explanation": "The nucleus functions as the control center of the cell."
+        },
+        {
+            "question": "What is the process by which organisms break down food to release energy?",
+            "options": [
+                "Photosynthesis",
+                "Respiration",
+                "Digestion"
+            ],
+            "answer": "B",
+            "explanation": "Respiration is the process by which organisms break down food to release energy."
+        },
+        {
+            "question": "What is the outer layer of a plant cell called?",
+            "options": [
+                "Cell membrane",
+                "Cell wall",
+                "Cytoplasm"
+            ],
+            "answer": "B",
+            "explanation": "The outer layer of a plant cell is called the cell wall."
+        },
+        {
+            "question": "What is the process by which plants lose water through their leaves?",
+            "options": [
+                "Transpiration",
+                "Respiration",
+                "Photosynthesis"
+            ],
+            "answer": "A",
+            "explanation": "Transpiration is the process by which plants lose water through their leaves."
+        },
+        {
+            "question": "What is the main function of red blood cells?",
+            "options": [
+                "Transport oxygen",
+                "Fight infections",
+                "Clot blood"
+            ],
+            "answer": "A",
+            "explanation": "The main function of red blood cells is to transport oxygen."
+        },
+        {
+            "question": "What is the process by which plants convert carbon dioxide and water into glucose and oxygen?",
+            "options": [
+                "Respiration",
+                "Photosynthesis",
+                "Digestion"
+            ],
+            "answer": "B",
+            "explanation": "Photosynthesis is the process by which plants convert carbon dioxide and water into glucose and oxygen."
+        },
+        {
+            "question": "What is the function of the ribosome in a cell?",
+            "options": [
+                "Protein synthesis",
+                "Energy production",
+                "Control center"
+            ],
+            "answer": "A",
+            "explanation": "The ribosome functions in protein synthesis."
+        },
+        {
+            "question": "What is the process by which organisms produce offspring?",
+            "options": [
+                "Respiration",
+                "Reproduction",
+                "Digestion"
+            ],
+            "answer": "B",
+            "explanation": "Reproduction is the process by which organisms produce offspring."
+        },
+        {
+            "question": "What is the main function of white blood cells?",
+            "options": [
+                "Transport oxygen",
+                "Fight infections",
+                "Clot blood"
+            ],
+            "answer": "B",
+            "explanation": "The main function of white blood cells is to fight infections."
+        },
+        {
+            "question": "What is the process by which cells take in nutrients and expel waste?",
+            "options": [
+                "Respiration",
+                "Digestion",
+                "Excretion"
+            ],
+            "answer": "C",
+            "explanation": "Excretion is the process by which cells take in nutrients and expel waste."
+        },
+        {
+            "question": "What is the function of the chloroplast in a plant cell?",
+            "options": [
+                "Energy production",
+                "Photosynthesis",
+                "Protein synthesis"
+            ],
+            "answer": "B",
+            "explanation": "The chloroplast functions in photosynthesis."
+        },
+        {
+            "question": "What is the process by which plants absorb water and minerals from the soil?",
+            "options": [
+                "Transpiration",
+                "Respiration",
+                "Absorption"
+            ],
+            "answer": "C",
+            "explanation": "Absorption is the process by which plants absorb water and minerals from the soil."
+        },
+        {
+            "question": "What is the main function of platelets in the blood?",
+            "options": [
+                "Transport oxygen",
+                "Fight infections",
+                "Clot blood"
+            ],
+            "answer": "C",
+            "explanation": "The main function of platelets in the blood is to clot blood."
+        },
+        {
+            "question": "What is the process by which plants convert light energy into chemical energy?",
+            "options": [
+                "Respiration",
+                "Photosynthesis",
+                "Digestion"
+            ],
+            "answer": "B",
+            "explanation": "Photosynthesis is the process by which plants convert light energy into chemical energy."
+        },
+        {
+            "question": "What is the function of the mitochondria in a cell?",
+            "options": [
+                "Energy production",
+                "Protein synthesis",
+                "Control center"
+            ],
+            "answer": "A",
+            "explanation": "The mitochondria functions in energy production."
+        },
+        {
+            "question": "What is the process by which cells release energy from glucose?",
+            "options": [
+                "Photosynthesis",
+                "Respiration",
+                "Digestion"
+            ],
+            "answer": "B",
+            "explanation": "Respiration is the process by which cells release energy from glucose."
+        },
+        {
+            "question": "What is the main function of the cell membrane?",
+            "options": [
+                "Control center",
+                "Energy production",
+                "Regulate what enters and leaves the cell"
+            ],
+            "answer": "C",
+            "explanation": "The main function of the cell membrane is to regulate what enters and leaves the cell."
+        },
+        {
+            "question": "What is the process by which plants produce oxygen?",
+            "options": [
+                "Respiration",
+                "Photosynthesis",
+                "Digestion"
+            ],
+            "answer": "B",
+            "explanation": "Photosynthesis is the process by which plants produce oxygen."
+        },
+        {
+            "question": "What is the function of the vacuole in a plant cell?",
+            "options": [
+                "Store nutrients and waste products",
+                "Energy production",
+                "Protein synthesis"
+            ],
+            "answer": "A",
+            "explanation": "The vacuole functions to store nutrients and waste products."
+        },
+        {
+            "question": "What is the process by which plants take in carbon dioxide?",
+            "options": [
+                "Transpiration",
+                "Respiration",
+                "Photosynthesis"
+            ],
+            "answer": "C",
+            "explanation": "Photosynthesis is the process by which plants take in carbon dioxide."
+        },
+        {
+            "question": "What is the main function of the cytoplasm in a cell?",
+            "options": [
+                "Control center",
+                "Energy production",
+                "Support and suspend organelles"
+            ],
+            "answer": "C",
+            "explanation": "The main function of the cytoplasm is to support and suspend organelles."
+        },
+        {
+            "question": "What is the process by which plants convert glucose into energy?",
+            "options": [
+                "Respiration",
+                "Photosynthesis",
+                "Digestion"
+            ],
+            "answer": "A",
+            "explanation": "Respiration is the process by which plants convert glucose into energy."
+        },
+        {
+            "question": "What is the function of the endoplasmic reticulum in a cell?",
+            "options": [
+                "Protein synthesis",
+                "Energy production",
+                "Control center"
+            ],
+            "answer": "A",
+            "explanation": "The endoplasmic reticulum functions in protein synthesis."
+        },
+        {
+            "question": "What is the process by which plants release water vapor?",
+            "options": [
+                "Transpiration",
+                "Respiration",
+                "Photosynthesis"
+            ],
+            "answer": "A",
+            "explanation": "Transpiration is the process by which plants release water vapor."
+        }
+    ]
+}
