@@ -1,0 +1,304 @@
+{
+    "questions": [
+        {
+            "question": "What is the past tense of the verb 'go'?",
+            "options": [
+                "goed",
+                "went",
+                "gone"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'go' is 'went'."
+        },
+        {
+            "question": "What is the past tense of the verb 'eat'?",
+            "options": [
+                "eated",
+                "ate",
+                "eaten"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'eat' is 'ate'."
+        },
+        {
+            "question": "What is the past tense of the verb 'see'?",
+            "options": [
+                "saw",
+                "seen",
+                "seed"
+            ],
+            "answer": "A",
+            "explanation": "The past tense of 'see' is 'saw'."
+        },
+        {
+            "question": "What is the past tense of the verb 'run'?",
+            "options": [
+                "runned",
+                "ran",
+                "running"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'run' is 'ran'."
+        },
+        {
+            "question": "What is the past tense of the verb 'write'?",
+            "options": [
+                "writed",
+                "wrote",
+                "written"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'write' is 'wrote'."
+        },
+        {
+            "question": "What is the past tense of the verb 'drink'?",
+            "options": [
+                "drank",
+                "drunk",
+                "drinked"
+            ],
+            "answer": "A",
+            "explanation": "The past tense of 'drink' is 'drank'."
+        },
+        {
+            "question": "What is the past tense of the verb 'sing'?",
+            "options": [
+                "sang",
+                "sung",
+                "singed"
+            ],
+            "answer": "A",
+            "explanation": "The past tense of 'sing' is 'sang'."
+        },
+        {
+            "question": "What is the past tense of the verb 'swim'?",
+            "options": [
+                "swam",
+                "swum",
+                "swimmed"
+            ],
+            "answer": "A",
+            "explanation": "The past tense of 'swim' is 'swam'."
+        },
+        {
+            "question": "What is the past tense of the verb 'begin'?",
+            "options": [
+                "began",
+                "begun",
+                "begined"
+            ],
+            "answer": "A",
+            "explanation": "The past tense of 'begin' is 'began'."
+        },
+        {
+            "question": "What is the past tense of the verb 'come'?",
+            "options": [
+                "comed",
+                "came",
+                "coming"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'come' is 'came'."
+        },
+        {
+            "question": "What is the past tense of the verb 'buy'?",
+            "options": [
+                "buyed",
+                "bought",
+                "buying"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'buy' is 'bought'."
+        },
+        {
+            "question": "What is the past tense of the verb 'catch'?",
+            "options": [
+                "catched",
+                "caught",
+                "catching"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'catch' is 'caught'."
+        },
+        {
+            "question": "What is the past tense of the verb 'choose'?",
+            "options": [
+                "choosed",
+                "chose",
+                "choosen"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'choose' is 'chose'."
+        },
+        {
+            "question": "What is the past tense of the verb 'do'?",
+            "options": [
+                "doed",
+                "did",
+                "done"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'do' is 'did'."
+        },
+        {
+            "question": "What is the past tense of the verb 'draw'?",
+            "options": [
+                "drawed",
+                "drew",
+                "drawn"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'draw' is 'drew'."
+        },
+        {
+            "question": "What is the past tense of the verb 'drive'?",
+            "options": [
+                "drived",
+                "drove",
+                "driven"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'drive' is 'drove'."
+        },
+        {
+            "question": "What is the past tense of the verb 'fall'?",
+            "options": [
+                "falled",
+                "fell",
+                "fallen"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'fall' is 'fell'."
+        },
+        {
+            "question": "What is the past tense of the verb 'feel'?",
+            "options": [
+                "feeled",
+                "felt",
+                "feeling"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'feel' is 'felt'."
+        },
+        {
+            "question": "What is the past tense of the verb 'find'?",
+            "options": [
+                "finded",
+                "found",
+                "finding"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'find' is 'found'."
+        },
+        {
+            "question": "What is the past tense of the verb 'fly'?",
+            "options": [
+                "flyed",
+                "flew",
+                "flown"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'fly' is 'flew'."
+        },
+        {
+            "question": "What is the past tense of the verb 'forget'?",
+            "options": [
+                "forgeted",
+                "forgot",
+                "forgotten"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'forget' is 'forgot'."
+        },
+        {
+            "question": "What is the past tense of the verb 'give'?",
+            "options": [
+                "gived",
+                "gave",
+                "given"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'give' is 'gave'."
+        },
+        {
+            "question": "What is the past tense of the verb 'grow'?",
+            "options": [
+                "growed",
+                "grew",
+                "grown"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'grow' is 'grew'."
+        },
+        {
+            "question": "What is the past tense of the verb 'have'?",
+            "options": [
+                "haved",
+                "had",
+                "having"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'have' is 'had'."
+        },
+        {
+            "question": "What is the past tense of the verb 'hear'?",
+            "options": [
+                "heared",
+                "heard",
+                "hearing"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'hear' is 'heard'."
+        },
+        {
+            "question": "What is the past tense of the verb 'know'?",
+            "options": [
+                "knowed",
+                "knew",
+                "known"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'know' is 'knew'."
+        },
+        {
+            "question": "What is the past tense of the verb 'leave'?",
+            "options": [
+                "leaved",
+                "left",
+                "leaving"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'leave' is 'left'."
+        },
+        {
+            "question": "What is the past tense of the verb 'make'?",
+            "options": [
+                "maked",
+                "made",
+                "making"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'make' is 'made'."
+        },
+        {
+            "question": "What is the past tense of the verb 'meet'?",
+            "options": [
+                "meet",
+                "met",
+                "meeting"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'meet' is 'met'."
+        },
+        {
+            "question": "What is the past tense of the verb 'read'?",
+            "options": [
+                "readed",
+                "read",
+                "reading"
+            ],
+            "answer": "B",
+            "explanation": "The past tense of 'read' is 'read'."
+        }
+    ]
+}

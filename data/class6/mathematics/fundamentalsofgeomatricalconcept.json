@@ -1,0 +1,294 @@
+{
+    "questions": [
+        {
+            "question": "What is the sum of the angles in a triangle?",
+            "options": [
+                "180 degrees",
+                "90 degrees",
+                "360 degrees"
+            ],
+            "answer": "A",
+            "explanation": "The sum of the angles in a triangle is 180 degrees."
+        },
+        {
+            "question": "What is the name of a polygon with 4 sides?",
+            "options": [
+                "Triangle",
+                "Quadrilateral",
+                "Pentagon"
+            ],
+            "answer": "B",
+            "explanation": "A polygon with 4 sides is called a quadrilateral."
+        },
+        {
+            "question": "What is the name of a polygon with 5 sides?",
+            "options": [
+                "Hexagon",
+                "Pentagon",
+                "Octagon"
+            ],
+            "answer": "B",
+            "explanation": "A polygon with 5 sides is called a pentagon."
+        },
+        {
+            "question": "What is the name of a polygon with 6 sides?",
+            "options": [
+                "Hexagon",
+                "Pentagon",
+                "Octagon"
+            ],
+            "answer": "A",
+            "explanation": "A polygon with 6 sides is called a hexagon."
+        },
+        {
+            "question": "What is the name of a polygon with 8 sides?",
+            "options": [
+                "Hexagon",
+                "Pentagon",
+                "Octagon"
+            ],
+            "answer": "C",
+            "explanation": "A polygon with 8 sides is called an octagon."
+        },
+        {
+            "question": "What is the name of a 3-dimensional shape with 6 faces, all of which are rectangles?",
+            "options": [
+                "Cube",
+                "Cuboid",
+                "Sphere"
+            ],
+            "answer": "B",
+            "explanation": "A 3-dimensional shape with 6 faces, all of which are rectangles, is called a cuboid."
+        },
+        {
+            "question": "What is the name of a 3-dimensional shape with 6 faces, all of which are squares?",
+            "options": [
+                "Cube",
+                "Cuboid",
+                "Sphere"
+            ],
+            "answer": "A",
+            "explanation": "A 3-dimensional shape with 6 faces, all of which are squares, is called a cube."
+        },
+        {
+            "question": "What is the name of a 3-dimensional shape with a circular base and a single vertex?",
+            "options": [
+                "Cylinder",
+                "Cone",
+                "Sphere"
+            ],
+            "answer": "B",
+            "explanation": "A 3-dimensional shape with a circular base and a single vertex is called a cone."
+        },
+        {
+            "question": "What is the name of a 3-dimensional shape with two parallel circular bases?",
+            "options": [
+                "Cylinder",
+                "Cone",
+                "Sphere"
+            ],
+            "answer": "A",
+            "explanation": "A 3-dimensional shape with two parallel circular bases is called a cylinder."
+        },
+        {
+            "question": "What is the name of a 3-dimensional shape with no faces, edges, or vertices?",
+            "options": [
+                "Cube",
+                "Cuboid",
+                "Sphere"
+            ],
+            "answer": "C",
+            "explanation": "A 3-dimensional shape with no faces, edges, or vertices is called a sphere."
+        },
+        {
+            "question": "What is the name of a triangle with all sides of different lengths?",
+            "options": [
+                "Equilateral triangle",
+                "Isosceles triangle",
+                "Scalene triangle"
+            ],
+            "answer": "C",
+            "explanation": "A triangle with all sides of different lengths is called a scalene triangle."
+        },
+        {
+            "question": "What is the name of a triangle with two sides of equal length?",
+            "options": [
+                "Equilateral triangle",
+                "Isosceles triangle",
+                "Scalene triangle"
+            ],
+            "answer": "B",
+            "explanation": "A triangle with two sides of equal length is called an isosceles triangle."
+        },
+        {
+            "question": "What is the name of a triangle with all sides of equal length?",
+            "options": [
+                "Equilateral triangle",
+                "Isosceles triangle",
+                "Scalene triangle"
+            ],
+            "answer": "A",
+            "explanation": "A triangle with all sides of equal length is called an equilateral triangle."
+        },
+        {
+            "question": "What is the name of a quadrilateral with opposite sides parallel and equal in length?",
+            "options": [
+                "Square",
+                "Rectangle",
+                "Parallelogram"
+            ],
+            "answer": "C",
+            "explanation": "A quadrilateral with opposite sides parallel and equal in length is called a parallelogram."
+        },
+        {
+            "question": "What is the name of a quadrilateral with all sides equal in length and all angles equal?",
+            "options": [
+                "Square",
+                "Rectangle",
+                "Parallelogram"
+            ],
+            "answer": "A",
+            "explanation": "A quadrilateral with all sides equal in length and all angles equal is called a square."
+        },
+        {
+            "question": "What is the name of a quadrilateral with opposite sides equal in length and all angles equal?",
+            "options": [
+                "Square",
+                "Rectangle",
+                "Parallelogram"
+            ],
+            "answer": "B",
+            "explanation": "A quadrilateral with opposite sides equal in length and all angles equal is called a rectangle."
+        },
+        {
+            "question": "What is the name of a quadrilateral with only one pair of parallel sides?",
+            "options": [
+                "Square",
+                "Rectangle",
+                "Trapezium"
+            ],
+            "answer": "C",
+            "explanation": "A quadrilateral with only one pair of parallel sides is called a trapezium."
+        },
+        {
+            "question": "What is the name of a quadrilateral with all sides equal in length but no right angles?",
+            "options": [
+                "Square",
+                "Rhombus",
+                "Rectangle"
+            ],
+            "answer": "B",
+            "explanation": "A quadrilateral with all sides equal in length but no right angles is called a rhombus."
+        },
+        {
+            "question": "What is the name of a line segment that joins two points on a circle?",
+            "options": [
+                "Radius",
+                "Diameter",
+                "Chord"
+            ],
+            "answer": "C",
+            "explanation": "A line segment that joins two points on a circle is called a chord."
+        },
+        {
+            "question": "What is the name of a line segment that passes through the center of a circle and has its endpoints on the circle?",
+            "options": [
+                "Radius",
+                "Diameter",
+                "Chord"
+            ],
+            "answer": "B",
+            "explanation": "A line segment that passes through the center of a circle and has its endpoints on the circle is called a diameter."
+        },
+        {
+            "question": "What is the name of a line segment that joins the center of a circle to any point on the circle?",
+            "options": [
+                "Radius",
+                "Diameter",
+                "Chord"
+            ],
+            "answer": "A",
+            "explanation": "A line segment that joins the center of a circle to any point on the circle is called a radius."
+        },
+        {
+            "question": "What is the name of a part of a circle's circumference?",
+            "options": [
+                "Arc",
+                "Sector",
+                "Segment"
+            ],
+            "answer": "A",
+            "explanation": "A part of a circle's circumference is called an arc."
+        },
+        {
+            "question": "What is the name of a region bounded by two radii and an arc of a circle?",
+            "options": [
+                "Arc",
+                "Sector",
+                "Segment"
+            ],
+            "answer": "B",
+            "explanation": "A region bounded by two radii and an arc of a circle is called a sector."
+        },
+        {
+            "question": "What is the name of a region bounded by a chord and an arc of a circle?",
+            "options": [
+                "Arc",
+                "Sector",
+                "Segment"
+            ],
+            "answer": "C",
+            "explanation": "A region bounded by a chord and an arc of a circle is called a segment."
+        },
+        {
+            "question": "What is the name of a straight line that touches a circle at exactly one point?",
+            "options": [
+                "Radius",
+                "Tangent",
+                "Chord"
+            ],
+            "answer": "B",
+            "explanation": "A straight line that touches a circle at exactly one point is called a tangent."
+        },
+        {
+            "question": "What is the name of a straight line that intersects a circle at two points?",
+            "options": [
+                "Radius",
+                "Tangent",
+                "Secant"
+            ],
+            "answer": "C",
+            "explanation": "A straight line that intersects a circle at two points is called a secant."
+        },
+        {
+            "question": "What is the name of a polygon with 7 sides?",
+            "options": [
+                "Hexagon",
+                "Heptagon",
+                "Octagon"
+            ],
+            "answer": "B",
+            "explanation": "A polygon with 7 sides is called a heptagon."
+        },
+        {
+            "question": "What is the name of a polygon with 10 sides?",
+            "options": [
+                "Decagon",
+                "Nonagon",
+                "Hexagon"
+            ],
+            "answer": "A",
+            "explanation": "A polygon with 10 sides is called a decagon."
+        },
+        {
+            "question": "What is the name of a polygon with 12 sides?",
+            "options": [
+                "Dodecagon",
+                "Decagon",
+                "Hexagon"
+            ],
+            "answer": "A",
+            "explanation": "A polygon with 12 sides is called a dodecagon."
+        }
+    ]
+}

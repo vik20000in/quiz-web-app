@@ -15,8 +15,16 @@
                         { "name": "Geometry", "path": "class6/mathematics/Geometry.json" },
                         { "name": "DataHandling", "path": "class6/mathematics/DataHandling.json" },
                         { "name": "Time", "path": "class6/mathematics/Time.json" },
-                        { "name": "Division", "path": "class6/mathematics/Division.json" }
-                       
+                        { "name": "Division", "path": "class6/mathematics/Division.json" },
+                        {"name":"integersnegitivenumber", "path":"class6/mathematics/integersnegitivenumber.json"},
+                        {"name":"playing with number", "path":"class6/mathematics/playingwithnumber.json"},                        
+                        {"name":"sets", "path":"class6/mathematics/sets.json"},                        
+                        { "name": "Ratio", "path": "class6/mathematics/Ratio.json" },
+                        { "name": "fundamentals of alzebra", "path": "class6/mathematics/fundamentalsofalzebra.json" },
+                        { "name": "fundamentalsofgeomatricalconcept", "path": "class6/mathematics/fundamentalsofgeomatricalconcept.json" },
+                        { "name": "Angles", "path": "class6/mathematics/Angles.json" },
+                        { "name": "meanandmedian", "path": "class6/mathematics/meanandmedian.json" }
+                        
 
                     ]
                 },
@@ -41,8 +49,11 @@
                         { "name":"verbs", "path":"class6/EnglishGrammer/verbs.json"},
                         { "name":"ActivePassiveVoice", "path":"class6/EnglishGrammer/ActivePassiveVoice.json"},
                         { "name":"Punctuation ", "path":"class6/EnglishGrammer/Punctuation.json"},
-                        { "name":"EnglishOlympiad1", "path":"class6/EnglishGrammer/EnglishOlympiad1.json"}
-                       
+                        { "name":"EnglishOlympiad1", "path":"class6/EnglishGrammer/EnglishOlympiad1.json"},
+                        { "name":"articles", "path":"class6/EnglishGrammer/articles.json"},
+                        { "name":"subjectandPredicate", "path":"class6/EnglishGrammer/subjectandPredicate.json"},
+                        { "name":"verbfiniteandinfinite", "path":"class6/EnglishGrammer/verbfiniteandinfinite.json"},
+                        { "name":"verbthepasttense", "path":"class6/EnglishGrammer/verbthepasttense.json"}                        
                     ]
                 }
             ]

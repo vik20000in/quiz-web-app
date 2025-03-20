@@ -1,0 +1,304 @@
+{
+    "questions": [
+        {
+            "question": "Identify the subject in the sentence: 'The cat is sleeping on the mat.'",
+            "options": [
+                "The cat",
+                "is sleeping",
+                "on the mat"
+            ],
+            "answer": "A",
+            "explanation": "The subject of the sentence is 'The cat'."
+        },
+        {
+            "question": "Identify the predicate in the sentence: 'The dog barked loudly.'",
+            "options": [
+                "The dog",
+                "barked loudly",
+                "loudly"
+            ],
+            "answer": "B",
+            "explanation": "The predicate of the sentence is 'barked loudly'."
+        },
+        {
+            "question": "Identify the subject in the sentence: 'The children are playing in the park.'",
+            "options": [
+                "The children",
+                "are playing",
+                "in the park"
+            ],
+            "answer": "A",
+            "explanation": "The subject of the sentence is 'The children'."
+        },
+        {
+            "question": "Identify the predicate in the sentence: 'The birds are singing.'",
+            "options": [
+                "The birds",
+                "are singing",
+                "singing"
+            ],
+            "answer": "B",
+            "explanation": "The predicate of the sentence is 'are singing'."
+        },
+        {
+            "question": "Identify the subject in the sentence: 'The sun rises in the east.'",
+            "options": [
+                "The sun",
+                "rises",
+                "in the east"
+            ],
+            "answer": "A",
+            "explanation": "The subject of the sentence is 'The sun'."
+        },
+        {
+            "question": "Identify the predicate in the sentence: 'The stars are shining brightly.'",
+            "options": [
+                "The stars",
+                "are shining brightly",
+                "brightly"
+            ],
+            "answer": "B",
+            "explanation": "The predicate of the sentence is 'are shining brightly'."
+        },
+        {
+            "question": "Identify the subject in the sentence: 'The teacher is explaining the lesson.'",
+            "options": [
+                "The teacher",
+                "is explaining",
+                "the lesson"
+            ],
+            "answer": "A",
+            "explanation": "The subject of the sentence is 'The teacher'."
+        },
+        {
+            "question": "Identify the predicate in the sentence: 'The students are listening attentively.'",
+            "options": [
+                "The students",
+                "are listening attentively",
+                "attentively"
+            ],
+            "answer": "B",
+            "explanation": "The predicate of the sentence is 'are listening attentively'."
+        },
+        {
+            "question": "Identify the subject in the sentence: 'The flowers are blooming.'",
+            "options": [
+                "The flowers",
+                "are blooming",
+                "blooming"
+            ],
+            "answer": "A",
+            "explanation": "The subject of the sentence is 'The flowers'."
+        },
+        {
+            "question": "Identify the predicate in the sentence: 'The baby is crying.'",
+            "options": [
+                "The baby",
+                "is crying",
+                "crying"
+            ],
+            "answer": "B",
+            "explanation": "The predicate of the sentence is 'is crying'."
+        },
+        {
+            "question": "Identify the subject in the sentence: 'The car is parked in the garage.'",
+            "options": [
+                "The car",
+                "is parked",
+                "in the garage"
+            ],
+            "answer": "A",
+            "explanation": "The subject of the sentence is 'The car'."
+        },
+        {
+            "question": "Identify the predicate in the sentence: 'The cake is delicious.'",
+            "options": [
+                "The cake",
+                "is delicious",
+                "delicious"
+            ],
+            "answer": "B",
+            "explanation": "The predicate of the sentence is 'is delicious'."
+        },
+        {
+            "question": "Identify the subject in the sentence: 'The book is on the table.'",
+            "options": [
+                "The book",
+                "is on the table",
+                "on the table"
+            ],
+            "answer": "A",
+            "explanation": "The subject of the sentence is 'The book'."
+        },
+        {
+            "question": "Identify the predicate in the sentence: 'The cat chased the mouse.'",
+            "options": [
+                "The cat",
+                "chased the mouse",
+                "the mouse"
+            ],
+            "answer": "B",
+            "explanation": "The predicate of the sentence is 'chased the mouse'."
+        },
+        {
+            "question": "Identify the subject in the sentence: 'The dog is barking.'",
+            "options": [
+                "The dog",
+                "is barking",
+                "barking"
+            ],
+            "answer": "A",
+            "explanation": "The subject of the sentence is 'The dog'."
+        },
+        {
+            "question": "Identify the predicate in the sentence: 'The children are playing.'",
+            "options": [
+                "The children",
+                "are playing",
+                "playing"
+            ],
+            "answer": "B",
+            "explanation": "The predicate of the sentence is 'are playing'."
+        },
+        {
+            "question": "Identify the subject in the sentence: 'The birds are flying.'",
+            "options": [
+                "The birds",
+                "are flying",
+                "flying"
+            ],
+            "answer": "A",
+            "explanation": "The subject of the sentence is 'The birds'."
+        },
+        {
+            "question": "Identify the predicate in the sentence: 'The sun is shining.'",
+            "options": [
+                "The sun",
+                "is shining",
+                "shining"
+            ],
+            "answer": "B",
+            "explanation": "The predicate of the sentence is 'is shining'."
+        },
+        {
+            "question": "Identify the subject in the sentence: 'The stars are twinkling.'",
+            "options": [
+                "The stars",
+                "are twinkling",
+                "twinkling"
+            ],
+            "answer": "A",
+            "explanation": "The subject of the sentence is 'The stars'."
+        },
+        {
+            "question": "Identify the predicate in the sentence: 'The moon is bright.'",
+            "options": [
+                "The moon",
+                "is bright",
+                "bright"
+            ],
+            "answer": "B",
+            "explanation": "The predicate of the sentence is 'is bright'."
+        },
+        {
+            "question": "Identify the subject in the sentence: 'The flowers are beautiful.'",
+            "options": [
+                "The flowers",
+                "are beautiful",
+                "beautiful"
+            ],
+            "answer": "A",
+            "explanation": "The subject of the sentence is 'The flowers'."
+        },
+        {
+            "question": "Identify the predicate in the sentence: 'The tree is tall.'",
+            "options": [
+                "The tree",
+                "is tall",
+                "tall"
+            ],
+            "answer": "B",
+            "explanation": "The predicate of the sentence is 'is tall'."
+        },
+        {
+            "question": "Identify the subject in the sentence: 'The river is flowing.'",
+            "options": [
+                "The river",
+                "is flowing",
+                "flowing"
+            ],
+            "answer": "A",
+            "explanation": "The subject of the sentence is 'The river'."
+        },
+        {
+            "question": "Identify the predicate in the sentence: 'The wind is blowing.'",
+            "options": [
+                "The wind",
+                "is blowing",
+                "blowing"
+            ],
+            "answer": "B",
+            "explanation": "The predicate of the sentence is 'is blowing'."
+        },
+        {
+            "question": "Identify the subject in the sentence: 'The rain is falling.'",
+            "options": [
+                "The rain",
+                "is falling",
+                "falling"
+            ],
+            "answer": "A",
+            "explanation": "The subject of the sentence is 'The rain'."
+        },
+        {
+            "question": "Identify the predicate in the sentence: 'The snow is melting.'",
+            "options": [
+                "The snow",
+                "is melting",
+                "melting"
+            ],
+            "answer": "B",
+            "explanation": "The predicate of the sentence is 'is melting'."
+        },
+        {
+            "question": "Identify the subject in the sentence: 'The fire is burning.'",
+            "options": [
+                "The fire",
+                "is burning",
+                "burning"
+            ],
+            "answer": "A",
+            "explanation": "The subject of the sentence is 'The fire'."
+        },
+        {
+            "question": "Identify the predicate in the sentence: 'The ice is cold.'",
+            "options": [
+                "The ice",
+                "is cold",
+                "cold"
+            ],
+            "answer": "B",
+            "explanation": "The predicate of the sentence is 'is cold'."
+        },
+        {
+            "question": "Identify the subject in the sentence: 'The water is clear.'",
+            "options": [
+                "The water",
+                "is clear",
+                "clear"
+            ],
+            "answer": "A",
+            "explanation": "The subject of the sentence is 'The water'."
+        },
+        {
+            "question": "Identify the predicate in the sentence: 'The sky is blue.'",
+            "options": [
+                "The sky",
+                "is blue",
+                "blue"
+            ],
+            "answer": "B",
+            "explanation": "The predicate of the sentence is 'is blue'."
+        }
+    ]
+}

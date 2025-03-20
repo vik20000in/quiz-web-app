@@ -1,0 +1,294 @@
+{
+    "questions": [
+        {
+            "question": "Which article is used before a word that starts with a vowel sound?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "B",
+            "explanation": "The article 'an' is used before a word that starts with a vowel sound."
+        },
+        {
+            "question": "Which article is used before a word that starts with a consonant sound?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "A",
+            "explanation": "The article 'a' is used before a word that starts with a consonant sound."
+        },
+        {
+            "question": "Which article is used to refer to something specific?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "C",
+            "explanation": "The article 'the' is used to refer to something specific."
+        },
+        {
+            "question": "Which article is used in the sentence: 'I saw ___ elephant at the zoo'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "B",
+            "explanation": "The correct sentence is 'I saw an elephant at the zoo'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'She bought ___ apple from the market'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "B",
+            "explanation": "The correct sentence is 'She bought an apple from the market'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'He is ___ doctor'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "A",
+            "explanation": "The correct sentence is 'He is a doctor'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'They went to ___ park'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "A",
+            "explanation": "The correct sentence is 'They went to a park'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'She is reading ___ book'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "A",
+            "explanation": "The correct sentence is 'She is reading a book'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'He found ___ old coin'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "B",
+            "explanation": "The correct sentence is 'He found an old coin'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'She has ___ unique talent'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "A",
+            "explanation": "The correct sentence is 'She has a unique talent'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'He is ___ honest man'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "B",
+            "explanation": "The correct sentence is 'He is an honest man'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'They visited ___ Eiffel Tower'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "C",
+            "explanation": "The correct sentence is 'They visited the Eiffel Tower'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'She has ___ cat and ___ dog'?",
+            "options": [
+                "a, an",
+                "an, a",
+                "a, a"
+            ],
+            "answer": "C",
+            "explanation": "The correct sentence is 'She has a cat and a dog'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'He is ___ best player in the team'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "C",
+            "explanation": "The correct sentence is 'He is the best player in the team'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'She bought ___ umbrella'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "B",
+            "explanation": "The correct sentence is 'She bought an umbrella'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'He is ___ engineer'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "B",
+            "explanation": "The correct sentence is 'He is an engineer'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'They went to ___ beach'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "A",
+            "explanation": "The correct sentence is 'They went to a beach'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'She is ___ artist'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "B",
+            "explanation": "The correct sentence is 'She is an artist'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'He has ___ idea'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "A",
+            "explanation": "The correct sentence is 'He has a idea'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'They saw ___ movie'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "A",
+            "explanation": "The correct sentence is 'They saw a movie'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'She is ___ teacher'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "A",
+            "explanation": "The correct sentence is 'She is a teacher'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'He is ___ actor'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "B",
+            "explanation": "The correct sentence is 'He is an actor'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'They went to ___ restaurant'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "A",
+            "explanation": "The correct sentence is 'They went to a restaurant'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'She has ___ orange'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "B",
+            "explanation": "The correct sentence is 'She has an orange'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'He is ___ student'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "A",
+            "explanation": "The correct sentence is 'He is a student'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'They visited ___ museum'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "A",
+            "explanation": "The correct sentence is 'They visited a museum'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'She has ___ apple'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "B",
+            "explanation": "The correct sentence is 'She has an apple'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'He is ___ pilot'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "B",
+            "explanation": "The correct sentence is 'He is an pilot'."
+        },
+        {
+            "question": "Which article is used in the sentence: 'They went to ___ zoo'?",
+            "options": [
+                "a",
+                "an",
+                "the"
+            ],
+            "answer": "A",
+            "explanation": "The correct sentence is 'They went to a zoo'."
+        }
+    ]
+}
