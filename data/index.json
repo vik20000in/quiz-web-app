@@ -15,7 +15,7 @@
                         { "name": "Geometry", "path": "class6/mathematics/Geometry.json" },
                         { "name": "DataHandling", "path": "class6/mathematics/DataHandling.json" },
                         { "name": "Time", "path": "class6/mathematics/Time.json" },
-                        { "name": "Division", "path": "class6/mathematics/Division.json" },
+                        { "name": "Division", "path": "class6/mathematics/division.json" },
                         {"name":"integersnegitivenumber", "path":"class6/mathematics/integersnegitivenumber.json"},
                         {"name":"playing with number", "path":"class6/mathematics/playingwithnumber.json"},                        
                         {"name":"sets", "path":"class6/mathematics/sets.json"},                        

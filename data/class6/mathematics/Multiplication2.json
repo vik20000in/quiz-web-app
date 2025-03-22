@@ -1,504 +1,104 @@
 {
     "questions": [
         {
-            "question": "What is 21 × 22?",
+            "question": "What is 21 multiplied by 14?",
             "options": [
-                "462",
-                "452",
-                "472"
+                "294",
+                "284",
+                "274"
             ],
             "answer": "A",
-            "explanation": "21 × 22 = 462."
+            "explanation": "21 multiplied by 14 is 294."
         },
         {
-            "question": "Multiply 23 by 25.",
+            "question": "What is 32 multiplied by 23?",
             "options": [
-                "565",
-                "575",
-                "585"
-            ],
-            "answer": "B",
-            "explanation": "23 × 25 = 575."
-        },
-        {
-            "question": "What is the product of 24 and 21?",
-            "options": [
-                "494",
-                "504",
-                "514"
-            ],
-            "answer": "B",
-            "explanation": "24 × 21 = 504."
-        },
-        {
-            "question": "If a pen costs ₹22, how much do 23 pens cost?",
-            "options": [
-                "₹496",
-                "₹506",
-                "₹516"
-            ],
-            "answer": "B",
-            "explanation": "23 pens × ₹22 per pen = ₹506."
-        },
-        {
-            "question": "What is 25 × 26?",
-            "options": [
-                "640",
-                "650",
-                "660"
-            ],
-            "answer": "B",
-            "explanation": "25 × 26 = 650."
-        },
-        {
-            "question": "Multiply 27 by 21.",
-            "options": [
-                "557",
-                "567",
-                "577"
-            ],
-            "answer": "B",
-            "explanation": "27 × 21 = 567."
-        },
-        {
-            "question": "What is 28 × 23?",
-            "options": [
-                "634",
-                "644",
-                "654"
-            ],
-            "answer": "B",
-            "explanation": "28 × 23 = 644."
-        },
-        {
-            "question": "A shop sells 24 notebooks at ₹25 each. What is the total cost?",
-            "options": [
-                "₹580",
-                "₹600",
-                "₹620"
-            ],
-            "answer": "B",
-            "explanation": "24 notebooks × ₹25 per notebook = ₹600."
-        },
-        {
-            "question": "What is 29 × 22?",
-            "options": [
-                "628",
-                "638",
-                "648"
-            ],
-            "answer": "B",
-            "explanation": "29 × 22 = 638."
-        },
-        {
-            "question": "Multiply 30 by 21.",
-            "options": [
-                "610",
-                "620",
-                "630"
-            ],
-            "answer": "C",
-            "explanation": "30 × 21 = 630."
-        },
-        {
-            "question": "If one ticket costs ₹26, how much do 22 tickets cost?",
-            "options": [
-                "₹562",
-                "₹572",
-                "₹582"
-            ],
-            "answer": "B",
-            "explanation": "22 tickets × ₹26 per ticket = ₹572."
-        },
-        {
-            "question": "What is 23 × 27?",
-            "options": [
-                "611",
-                "621",
-                "631"
-            ],
-            "answer": "B",
-            "explanation": "23 × 27 = 621."
-        },
-        {
-            "question": "What is the product of 25 and 29?",
-            "options": [
-                "715",
-                "725",
-                "735"
-            ],
-            "answer": "B",
-            "explanation": "25 × 29 = 725."
-        },
-        {
-            "question": "Multiply 21 by 28.",
-            "options": [
-                "578",
-                "588",
-                "598"
-            ],
-            "answer": "B",
-            "explanation": "21 × 28 = 588."
-        },
-        {
-            "question": "A child buys 26 candies at ₹22 each. What is the total cost?",
-            "options": [
-                "₹562",
-                "₹572",
-                "₹582"
-            ],
-            "answer": "B",
-            "explanation": "26 candies × ₹22 per candy = ₹572."
-        },
-        {
-            "question": "What is 22 × 30?",
-            "options": [
-                "650",
-                "660",
-                "670"
-            ],
-            "answer": "B",
-            "explanation": "22 × 30 = 660."
-        },
-        {
-            "question": "Multiply 24 by 28.",
-            "options": [
-                "662",
-                "672",
-                "682"
-            ],
-            "answer": "B",
-            "explanation": "24 × 28 = 672."
-        },
-        {
-            "question": "If a dozen eggs cost ₹21 per dozen, how much do 25 dozen eggs cost?",
-            "options": [
-                "₹515",
-                "₹525",
-                "₹535"
-            ],
-            "answer": "B",
-            "explanation": "25 dozen × ₹21 per dozen = ₹525 (1 dozen = 12 eggs)."
-        },
-        {
-            "question": "What is 26 × 27?",
-            "options": [
-                "692",
-                "702",
-                "712"
-            ],
-            "answer": "B",
-            "explanation": "26 × 27 = 702."
-        },
-        {
-            "question": "What is the product of 28 and 29?",
-            "options": [
-                "802",
-                "812",
-                "822"
-            ],
-            "answer": "B",
-            "explanation": "28 × 29 = 812."
-        },
-        {
-            "question": "A shop sells 23 bottles at ₹24 each. What is the total cost?",
-            "options": [
-                "₹542",
-                "₹552",
-                "₹562"
-            ],
-            "answer": "B",
-            "explanation": "23 bottles × ₹24 per bottle = ₹552."
-        },
-        {
-            "question": "Multiply 30 by 25.",
-            "options": [
-                "740",
-                "750",
-                "760"
-            ],
-            "answer": "B",
-            "explanation": "30 × 25 = 750."
-        },
-        {
-            "question": "What is 27 × 29?",
-            "options": [
-                "773",
-                "783",
-                "793"
-            ],
-            "answer": "B",
-            "explanation": "27 × 29 = 783."
-        },
-        {
-            "question": "If a bag has 21 chocolates and costs ₹26 per bag, how much do 21 bags cost?",
-            "options": [
-                "₹536",
-                "₹546",
-                "₹556"
-            ],
-            "answer": "B",
-            "explanation": "21 bags × ₹26 per bag = ₹546."
-        },
-        {
-            "question": "What is 25 × 30?",
-            "options": [
-                "740",
-                "750",
-                "760"
-            ],
-            "answer": "B",
-            "explanation": "25 × 30 = 750."
-        },
-        {
-            "question": "What is 21 * 21?",
-            "options": [
-                "441",
-                "451",
-                "461"
+                "736",
+                "726",
+                "716"
             ],
             "answer": "A",
-            "explanation": "21 * 21 = 441."
+            "explanation": "32 multiplied by 23 is 736."
         },
         {
-            "question": "What is 22 * 22?",
+            "question": "What is 45 multiplied by 34?",
             "options": [
-                "464",
-                "484",
-                "504"
-            ],
-            "answer": "B",
-            "explanation": "22 * 22 = 484."
-        },
-        {
-            "question": "What is 23 * 23?",
-            "options": [
-                "519",
-                "529",
-                "539"
-            ],
-            "answer": "B",
-            "explanation": "23 * 23 = 529."
-        },
-        {
-            "question": "What is 24 * 24?",
-            "options": [
-                "556",
-                "576",
-                "596"
-            ],
-            "answer": "B",
-            "explanation": "24 * 24 = 576."
-        },
-        {
-            "question": "What is 25 * 25?",
-            "options": [
-                "615",
-                "625",
-                "635"
-            ],
-            "answer": "B",
-            "explanation": "25 * 25 = 625."
-        },
-        {
-            "question": "What is 26 * 26?",
-            "options": [
-                "656",
-                "676",
-                "696"
-            ],
-            "answer": "B",
-            "explanation": "26 * 26 = 676."
-        },
-        {
-            "question": "What is 27 * 27?",
-            "options": [
-                "729",
-                "739",
-                "749"
+                "1530",
+                "1540",
+                "1550"
             ],
             "answer": "A",
-            "explanation": "27 * 27 = 729."
+            "explanation": "45 multiplied by 34 is 1530."
         },
         {
-            "question": "What is 28 * 28?",
+            "question": "What is 56 multiplied by 47?",
             "options": [
-                "764",
-                "784",
-                "804"
-            ],
-            "answer": "B",
-            "explanation": "28 * 28 = 784."
-        },
-        {
-            "question": "What is 29 * 29?",
-            "options": [
-                "821",
-                "841",
-                "861"
-            ],
-            "answer": "B",
-            "explanation": "29 * 29 = 841."
-        },
-        {
-            "question": "What is 30 * 30?",
-            "options": [
-                "900",
-                "910",
-                "920"
+                "2632",
+                "2642",
+                "2652"
             ],
             "answer": "A",
-            "explanation": "30 * 30 = 900."
+            "explanation": "56 multiplied by 47 is 2632."
         },
         {
-            "question": "What is 31 * 31?",
+            "question": "What is 67 multiplied by 58?",
             "options": [
-                "931",
-                "951",
-                "961"
+                "3886",
+                "3896",
+                "3906"
             ],
-            "answer": "C",
-            "explanation": "31 * 31 = 961."
+            "answer": "A",
+            "explanation": "67 multiplied by 58 is 3886."
         },
         {
-            "question": "What is 32 * 32?",
+            "question": "What is 78 multiplied by 69?",
             "options": [
-                "984",
-                "1004",
-                "1024"
+                "5382",
+                "5392",
+                "5402"
             ],
-            "answer": "C",
-            "explanation": "32 * 32 = 1024."
+            "answer": "A",
+            "explanation": "78 multiplied by 69 is 5382."
         },
         {
-            "question": "What is 33 * 33?",
+            "question": "What is 89 multiplied by 72?",
             "options": [
-                "1059",
-                "1079",
-                "1089"
+                "6408",
+                "6418",
+                "6428"
             ],
-            "answer": "C",
-            "explanation": "33 * 33 = 1089."
+            "answer": "A",
+            "explanation": "89 multiplied by 72 is 6408."
         },
         {
-            "question": "What is 34 * 34?",
+            "question": "What is 91 multiplied by 83?",
             "options": [
-                "1126",
-                "1146",
-                "1156"
+                "7553",
+                "7563",
+                "7573"
             ],
-            "answer": "C",
-            "explanation": "34 * 34 = 1156."
+            "answer": "A",
+            "explanation": "91 multiplied by 83 is 7553."
         },
         {
-            "question": "What is 35 * 35?",
+            "question": "What is 34 multiplied by 45?",
             "options": [
-                "1205",
-                "1225",
-                "1245"
+                "1530",
+                "1540",
+                "1550"
             ],
-            "answer": "B",
-            "explanation": "35 * 35 = 1225."
+            "answer": "A",
+            "explanation": "34 multiplied by 45 is 1530."
         },
         {
-            "question": "What is 36 * 36?",
+            "question": "What is 23 multiplied by 56?",
             "options": [
-                "1266",
-                "1286",
-                "1296"
+                "1288",
+                "1298",
+                "1308"
             ],
-            "answer": "C",
-            "explanation": "36 * 36 = 1296."
-        },
-        {
-            "question": "What is 37 * 37?",
-            "options": [
-                "1339",
-                "1359",
-                "1369"
-            ],
-            "answer": "C",
-            "explanation": "37 * 37 = 1369."
-        },
-        {
-            "question": "What is 38 * 38?",
-            "options": [
-                "1424",
-                "1444",
-                "1464"
-            ],
-            "answer": "B",
-            "explanation": "38 * 38 = 1444."
-        },
-        {
-            "question": "What is 39 * 39?",
-            "options": [
-                "1501",
-                "1521",
-                "1541"
-            ],
-            "answer": "B",
-            "explanation": "39 * 39 = 1521."
-        },
-        {
-            "question": "What is 21 * 22?",
-            "options": [
-                "441",
-                "462",
-                "483"
-            ],
-            "answer": "B",
-            "explanation": "21 * 22 = 462."
-        },
-        {
-            "question": "What is 22 * 23?",
-            "options": [
-                "486",
-                "506",
-                "526"
-            ],
-            "answer": "B",
-            "explanation": "22 * 23 = 506."
-        },
-        {
-            "question": "What is 23 * 24?",
-            "options": [
-                "532",
-                "552",
-                "572"
-            ],
-            "answer": "B",
-            "explanation": "23 * 24 = 552."
-        },
-        {
-            "question": "What is 24 * 25?",
-            "options": [
-                "580",
-                "600",
-                "620"
-            ],
-            "answer": "B",
-            "explanation": "24 * 25 = 600."
-        },
-        {
-            "question": "What is 25 * 26?",
-            "options": [
-                "625",
-                "650",
-                "675"
-            ],
-            "answer": "B",
-            "explanation": "25 * 26 = 650."
-        },
-        {
-            "question": "What is 26 * 27?",
-            "options": [
-                "682",
-                "702",
-                "722"
-            ],
-            "answer": "B",
-            "explanation": "26 * 27 = 702."
+            "answer": "A",
+            "explanation": "23 multiplied by 56 is 1288."
         }
     ]
 }

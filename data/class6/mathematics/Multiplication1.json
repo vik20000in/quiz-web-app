@@ -1,246 +1,6 @@
 {
     "questions": [
         {
-            "question": "What is 11 * 11?",
-            "options": [
-                "121",
-                "131",
-                "141"
-            ],
-            "answer": "A",
-            "explanation": "11 * 11 = 121."
-        },
-        {
-            "question": "What is 12 * 12?",
-            "options": [
-                "134",
-                "144",
-                "154"
-            ],
-            "answer": "B",
-            "explanation": "12 * 12 = 144."
-        },
-        {
-            "question": "What is 13 * 13?",
-            "options": [
-                "159",
-                "169",
-                "179"
-            ],
-            "answer": "B",
-            "explanation": "13 * 13 = 169."
-        },
-        {
-            "question": "What is 14 * 14?",
-            "options": [
-                "186",
-                "196",
-                "206"
-            ],
-            "answer": "B",
-            "explanation": "14 * 14 = 196."
-        },
-        {
-            "question": "What is 15 * 15?",
-            "options": [
-                "215",
-                "225",
-                "235"
-            ],
-            "answer": "B",
-            "explanation": "15 * 15 = 225."
-        },
-        {
-            "question": "What is 16 * 16?",
-            "options": [
-                "236",
-                "246",
-                "256"
-            ],
-            "answer": "C",
-            "explanation": "16 * 16 = 256."
-        },
-        {
-            "question": "What is 17 * 17?",
-            "options": [
-                "279",
-                "289",
-                "299"
-            ],
-            "answer": "B",
-            "explanation": "17 * 17 = 289."
-        },
-        {
-            "question": "What is 18 * 18?",
-            "options": [
-                "314",
-                "324",
-                "334"
-            ],
-            "answer": "B",
-            "explanation": "18 * 18 = 324."
-        },
-        {
-            "question": "What is 19 * 19?",
-            "options": [
-                "351",
-                "361",
-                "371"
-            ],
-            "answer": "B",
-            "explanation": "19 * 19 = 361."
-        },
-        {
-            "question": "What is 11 * 12?",
-            "options": [
-                "121",
-                "132",
-                "143"
-            ],
-            "answer": "B",
-            "explanation": "11 * 12 = 132."
-        },
-        {
-            "question": "What is 12 * 13?",
-            "options": [
-                "146",
-                "156",
-                "166"
-            ],
-            "answer": "B",
-            "explanation": "12 * 13 = 156."
-        },
-        {
-            "question": "What is 13 * 14?",
-            "options": [
-                "172",
-                "182",
-                "192"
-            ],
-            "answer": "B",
-            "explanation": "13 * 14 = 182."
-        },
-        {
-            "question": "What is 14 * 15?",
-            "options": [
-                "200",
-                "210",
-                "220"
-            ],
-            "answer": "B",
-            "explanation": "14 * 15 = 210."
-        },
-        {
-            "question": "What is 15 * 16?",
-            "options": [
-                "230",
-                "240",
-                "250"
-            ],
-            "answer": "B",
-            "explanation": "15 * 16 = 240."
-        },
-        {
-            "question": "What is 16 * 17?",
-            "options": [
-                "262",
-                "272",
-                "282"
-            ],
-            "answer": "B",
-            "explanation": "16 * 17 = 272."
-        },
-        {
-            "question": "What is 17 * 18?",
-            "options": [
-                "296",
-                "306",
-                "316"
-            ],
-            "answer": "B",
-            "explanation": "17 * 18 = 306."
-        },
-        {
-            "question": "What is 18 * 19?",
-            "options": [
-                "332",
-                "342",
-                "352"
-            ],
-            "answer": "B",
-            "explanation": "18 * 19 = 342."
-        },
-        {
-            "question": "What is 11 * 13?",
-            "options": [
-                "132",
-                "143",
-                "153"
-            ],
-            "answer": "B",
-            "explanation": "11 * 13 = 143."
-        },
-        {
-            "question": "What is 12 * 14?",
-            "options": [
-                "158",
-                "168",
-                "178"
-            ],
-            "answer": "B",
-            "explanation": "12 * 14 = 168."
-        },
-        {
-            "question": "What is 13 * 15?",
-            "options": [
-                "185",
-                "195",
-                "205"
-            ],
-            "answer": "B",
-            "explanation": "13 * 15 = 195."
-        },
-        {
-            "question": "What is 14 * 16?",
-            "options": [
-                "214",
-                "224",
-                "234"
-            ],
-            "answer": "B",
-            "explanation": "14 * 16 = 224."
-        },
-        {
-            "question": "What is 15 * 17?",
-            "options": [
-                "245",
-                "255",
-                "265"
-            ],
-            "answer": "B",
-            "explanation": "15 * 17 = 255."
-        },
-        {
-            "question": "What is 16 * 18?",
-            "options": [
-                "278",
-                "288",
-                "298"
-            ],
-            "answer": "B",
-            "explanation": "16 * 18 = 288."
-        },
-        {
-            "question": "What is 17 * 19?",
-            "options": [
-                "313",
-                "323",
-                "333"
-            ],
-            "answer": "B",
-            "explanation": "17 * 19 = 323."
-        },
-        {
             "question": "What is 11 * 14?",
             "options": [
                 "144",
@@ -249,6 +9,106 @@
             ],
             "answer": "B",
             "explanation": "11 * 14 = 154."
+        },
+        {
+            "question": "What is 12 multiplied by 15?",
+            "options": [
+                "180",
+                "190",
+                "200"
+            ],
+            "answer": "A",
+            "explanation": "12 multiplied by 15 is 180."
+        },
+        {
+            "question": "What is 23 multiplied by 19?",
+            "options": [
+                "437",
+                "447",
+                "457"
+            ],
+            "answer": "B",
+            "explanation": "23 multiplied by 19 is 437."
+        },
+        {
+            "question": "What is 34 multiplied by 21?",
+            "options": [
+                "714",
+                "724",
+                "734"
+            ],
+            "answer": "A",
+            "explanation": "34 multiplied by 21 is 714."
+        },
+        {
+            "question": "What is 45 multiplied by 32?",
+            "options": [
+                "1440",
+                "1450",
+                "1460"
+            ],
+            "answer": "A",
+            "explanation": "45 multiplied by 32 is 1440."
+        },
+        {
+            "question": "What is 56 multiplied by 43?",
+            "options": [
+                "2408",
+                "2418",
+                "2428"
+            ],
+            "answer": "A",
+            "explanation": "56 multiplied by 43 is 2408."
+        },
+        {
+            "question": "What is 67 multiplied by 54?",
+            "options": [
+                "3618",
+                "3628",
+                "3638"
+            ],
+            "answer": "A",
+            "explanation": "67 multiplied by 54 is 3618."
+        },
+        {
+            "question": "What is 78 multiplied by 65?",
+            "options": [
+                "5070",
+                "5080",
+                "5090"
+            ],
+            "answer": "A",
+            "explanation": "78 multiplied by 65 is 5070."
+        },
+        {
+            "question": "What is 89 multiplied by 76?",
+            "options": [
+                "6764",
+                "6774",
+                "6784"
+            ],
+            "answer": "A",
+            "explanation": "89 multiplied by 76 is 6764."
+        },
+        {
+            "question": "What is 91 multiplied by 82?",
+            "options": [
+                "7462",
+                "7472",
+                "7482"
+            ],
+            "answer": "A",
+            "explanation": "91 multiplied by 82 is 7462."
+        },
+        {
+            "question": "What is 34 multiplied by 56?",
+            "options": [
+                "1904",
+                "1914",
+                "1924"
+            ],
+            "answer": "A",
+            "explanation": "34 multiplied by 56 is 1904."
         }
     ]
 }
