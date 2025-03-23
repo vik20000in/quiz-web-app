@@ -1,294 +1,104 @@
 {
     "questions": [
         {
-            "question": "What is the value of x in the equation x + 5 = 10?",
+            "question": "What is the value of x in the equation 2x + 3 = 11?",
             "options": [
-                "3",
-                "5",
-                "10"
+                "x = 4",
+                "x = 5",
+                "x = 6"
+            ],
+            "answer": "A",
+            "explanation": "2x + 3 = 11 => 2x = 11 - 3 => 2x = 8 => x = 8 / 2 => x = 4."
+        },
+        {
+            "question": "What is the value of y in the equation 3y - 7 = 8?",
+            "options": [
+                "y = 3",
+                "y = 5",
+                "y = 7"
             ],
             "answer": "B",
-            "explanation": "x + 5 = 10 => x = 10 - 5 => x = 5."
+            "explanation": "3y - 7 = 8 => 3y = 8 + 7 => 3y = 15 => y = 15 / 3 => y = 5."
         },
         {
-            "question": "What is the value of y in the equation 2y = 8?",
+            "question": "What is the value of z in the equation 4z + 5 = 21?",
             "options": [
-                "2",
-                "4",
-                "8"
+                "z = 3",
+                "z = 4",
+                "z = 5"
+            ],
+            "answer": "A",
+            "explanation": "4z + 5 = 21 => 4z = 21 - 5 => 4z = 16 => z = 16 / 4 => z = 4."
+        },
+        {
+            "question": "What is the value of x in the equation 5x - 9 = 16?",
+            "options": [
+                "x = 4",
+                "x = 5",
+                "x = 6"
             ],
             "answer": "B",
-            "explanation": "2y = 8 => y = 8 / 2 => y = 4."
+            "explanation": "5x - 9 = 16 => 5x = 16 + 9 => 5x = 25 => x = 25 / 5 => x = 5."
         },
         {
-            "question": "What is the value of z in the equation z - 3 = 7?",
+            "question": "What is the value of y in the equation 6y + 2 = 20?",
             "options": [
-                "3",
-                "7",
-                "10"
+                "y = 2",
+                "y = 3",
+                "y = 4"
             ],
             "answer": "C",
-            "explanation": "z - 3 = 7 => z = 7 + 3 => z = 10."
+            "explanation": "6y + 2 = 20 => 6y = 20 - 2 => 6y = 18 => y = 18 / 6 => y = 3."
         },
         {
-            "question": "What is the value of a in the equation 3a = 15?",
+            "question": "What is the value of z in the equation 7z - 4 = 24?",
             "options": [
-                "3",
-                "5",
-                "15"
+                "z = 3",
+                "z = 4",
+                "z = 5"
+            ],
+            "answer": "C",
+            "explanation": "7z - 4 = 24 => 7z = 24 + 4 => 7z = 28 => z = 28 / 7 => z = 4."
+        },
+        {
+            "question": "What is the value of x in the equation 8x + 6 = 38?",
+            "options": [
+                "x = 4",
+                "x = 5",
+                "x = 6"
+            ],
+            "answer": "A",
+            "explanation": "8x + 6 = 38 => 8x = 38 - 6 => 8x = 32 => x = 32 / 8 => x = 4."
+        },
+        {
+            "question": "What is the value of y in the equation 9y - 3 = 24?",
+            "options": [
+                "y = 2",
+                "y = 3",
+                "y = 4"
+            ],
+            "answer": "C",
+            "explanation": "9y - 3 = 24 => 9y = 24 + 3 => 9y = 27 => y = 27 / 9 => y = 3."
+        },
+        {
+            "question": "What is the value of z in the equation 10z + 7 = 57?",
+            "options": [
+                "z = 4",
+                "z = 5",
+                "z = 6"
             ],
             "answer": "B",
-            "explanation": "3a = 15 => a = 15 / 3 => a = 5."
+            "explanation": "10z + 7 = 57 => 10z = 57 - 7 => 10z = 50 => z = 50 / 10 => z = 5."
         },
         {
-            "question": "What is the value of b in the equation b / 2 = 6?",
+            "question": "What is the value of x in the equation 11x - 8 = 33?",
             "options": [
-                "3",
-                "6",
-                "12"
+                "x = 3",
+                "x = 4",
+                "x = 5"
             ],
             "answer": "C",
-            "explanation": "b / 2 = 6 => b = 6 * 2 => b = 12."
-        },
-        {
-            "question": "What is the value of c in the equation c + 7 = 14?",
-            "options": [
-                "7",
-                "14",
-                "21"
-            ],
-            "answer": "A",
-            "explanation": "c + 7 = 14 => c = 14 - 7 => c = 7."
-        },
-        {
-            "question": "What is the value of d in the equation 4d = 20?",
-            "options": [
-                "4",
-                "5",
-                "20"
-            ],
-            "answer": "B",
-            "explanation": "4d = 20 => d = 20 / 4 => d = 5."
-        },
-        {
-            "question": "What is the value of e in the equation e - 5 = 10?",
-            "options": [
-                "5",
-                "10",
-                "15"
-            ],
-            "answer": "C",
-            "explanation": "e - 5 = 10 => e = 10 + 5 => e = 15."
-        },
-        {
-            "question": "What is the value of f in the equation 5f = 25?",
-            "options": [
-                "5",
-                "10",
-                "25"
-            ],
-            "answer": "A",
-            "explanation": "5f = 25 => f = 25 / 5 => f = 5."
-        },
-        {
-            "question": "What is the value of g in the equation g / 3 = 9?",
-            "options": [
-                "3",
-                "9",
-                "27"
-            ],
-            "answer": "C",
-            "explanation": "g / 3 = 9 => g = 9 * 3 => g = 27."
-        },
-        {
-            "question": "What is the value of h in the equation h + 8 = 16?",
-            "options": [
-                "8",
-                "16",
-                "24"
-            ],
-            "answer": "A",
-            "explanation": "h + 8 = 16 => h = 16 - 8 => h = 8."
-        },
-        {
-            "question": "What is the value of i in the equation 6i = 36?",
-            "options": [
-                "6",
-                "12",
-                "36"
-            ],
-            "answer": "A",
-            "explanation": "6i = 36 => i = 36 / 6 => i = 6."
-        },
-        {
-            "question": "What is the value of j in the equation j - 9 = 18?",
-            "options": [
-                "9",
-                "18",
-                "27"
-            ],
-            "answer": "C",
-            "explanation": "j - 9 = 18 => j = 18 + 9 => j = 27."
-        },
-        {
-            "question": "What is the value of k in the equation 7k = 49?",
-            "options": [
-                "7",
-                "14",
-                "49"
-            ],
-            "answer": "A",
-            "explanation": "7k = 49 => k = 49 / 7 => k = 7."
-        },
-        {
-            "question": "What is the value of l in the equation l / 4 = 8?",
-            "options": [
-                "4",
-                "8",
-                "32"
-            ],
-            "answer": "C",
-            "explanation": "l / 4 = 8 => l = 8 * 4 => l = 32."
-        },
-        {
-            "question": "What is the value of m in the equation m + 10 = 20?",
-            "options": [
-                "10",
-                "20",
-                "30"
-            ],
-            "answer": "A",
-            "explanation": "m + 10 = 20 => m = 20 - 10 => m = 10."
-        },
-        {
-            "question": "What is the value of n in the equation 8n = 64?",
-            "options": [
-                "8",
-                "16",
-                "64"
-            ],
-            "answer": "A",
-            "explanation": "8n = 64 => n = 64 / 8 => n = 8."
-        },
-        {
-            "question": "What is the value of o in the equation o - 11 = 22?",
-            "options": [
-                "11",
-                "22",
-                "33"
-            ],
-            "answer": "C",
-            "explanation": "o - 11 = 22 => o = 22 + 11 => o = 33."
-        },
-        {
-            "question": "What is the value of p in the equation 9p = 81?",
-            "options": [
-                "9",
-                "18",
-                "81"
-            ],
-            "answer": "A",
-            "explanation": "9p = 81 => p = 81 / 9 => p = 9."
-        },
-        {
-            "question": "What is the value of q in the equation q / 5 = 10?",
-            "options": [
-                "5",
-                "10",
-                "50"
-            ],
-            "answer": "C",
-            "explanation": "q / 5 = 10 => q = 10 * 5 => q = 50."
-        },
-        {
-            "question": "What is the value of r in the equation r + 12 = 24?",
-            "options": [
-                "12",
-                "24",
-                "36"
-            ],
-            "answer": "A",
-            "explanation": "r + 12 = 24 => r = 24 - 12 => r = 12."
-        },
-        {
-            "question": "What is the value of s in the equation 10s = 100?",
-            "options": [
-                "10",
-                "20",
-                "100"
-            ],
-            "answer": "A",
-            "explanation": "10s = 100 => s = 100 / 10 => s = 10."
-        },
-        {
-            "question": "What is the value of t in the equation t - 13 = 26?",
-            "options": [
-                "13",
-                "26",
-                "39"
-            ],
-            "answer": "C",
-            "explanation": "t - 13 = 26 => t = 26 + 13 => t = 39."
-        },
-        {
-            "question": "What is the value of u in the equation 11u = 121?",
-            "options": [
-                "11",
-                "22",
-                "121"
-            ],
-            "answer": "A",
-            "explanation": "11u = 121 => u = 121 / 11 => u = 11."
-        },
-        {
-            "question": "What is the value of v in the equation v / 6 = 12?",
-            "options": [
-                "6",
-                "12",
-                "72"
-            ],
-            "answer": "C",
-            "explanation": "v / 6 = 12 => v = 12 * 6 => v = 72."
-        },
-        {
-            "question": "What is the value of w in the equation w + 14 = 28?",
-            "options": [
-                "14",
-                "28",
-                "42"
-            ],
-            "answer": "A",
-            "explanation": "w + 14 = 28 => w = 28 - 14 => w = 14."
-        },
-        {
-            "question": "What is the value of x in the equation 12x = 144?",
-            "options": [
-                "12",
-                "24",
-                "144"
-            ],
-            "answer": "A",
-            "explanation": "12x = 144 => x = 144 / 12 => x = 12."
-        },
-        {
-            "question": "What is the value of y in the equation y - 15 = 30?",
-            "options": [
-                "15",
-                "30",
-                "45"
-            ],
-            "answer": "C",
-            "explanation": "y - 15 = 30 => y = 30 + 15 => y = 45."
-        },
-        {
-            "question": "What is the value of z in the equation 13z = 169?",
-            "options": [
-                "13",
-                "26",
-                "169"
-            ],
-            "answer": "A",
-            "explanation": "13z = 169 => z = 169 / 13 => z = 13."
+            "explanation": "11x - 8 = 33 => 11x = 33 + 8 => 11x = 41 => x = 41 / 11 => x = 3."
         }
     ]
 }

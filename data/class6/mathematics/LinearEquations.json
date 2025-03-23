@@ -1,196 +1,6 @@
 {
     "questions": [
-        {
-            "question": "Solve for x: x + 5 = 12",
-            "options": [
-                "5",
-                "7",
-                "12"
-            ],
-            "answer": "B",
-            "explanation": "Subtract 5 from both sides: x = 12 - 5 = 7."
-        },
-        {
-            "question": "Solve for x: 2x = 16",
-            "options": [
-                "8",
-                "6",
-                "10"
-            ],
-            "answer": "A",
-            "explanation": "Divide both sides by 2: x = 16 ÷ 2 = 8."
-        },
-        {
-            "question": "Solve for x: x - 3 = 7",
-            "options": [
-                "10",
-                "4",
-                "5"
-            ],
-            "answer": "A",
-            "explanation": "Add 3 to both sides: x = 7 + 3 = 10."
-        },
-        {
-            "question": "Solve for x: 3x = 9",
-            "options": [
-                "1",
-                "2",
-                "3"
-            ],
-            "answer": "C",
-            "explanation": "Divide both sides by 3: x = 9 ÷ 3 = 3."
-        },
-        {
-            "question": "Solve for x: x ÷ 4 = 5",
-            "options": [
-                "20",
-                "9",
-                "12"
-            ],
-            "answer": "A",
-            "explanation": "Multiply both sides by 4: x = 5 × 4 = 20."
-        },
-        {
-            "question": "Solve for x: 5x + 2 = 17",
-            "options": [
-                "3",
-                "5",
-                "2"
-            ],
-            "answer": "A",
-            "explanation": "Subtract 2 from both sides: 5x = 15; then divide by 5: x = 15 ÷ 5 = 3."
-        },
-        {
-            "question": "Solve for x: 4x - 8 = 0",
-            "options": [
-                "2",
-                "4",
-                "8"
-            ],
-            "answer": "A",
-            "explanation": "Add 8 to both sides: 4x = 8; then divide by 4: x = 8 ÷ 4 = 2."
-        },
-        {
-            "question": "Solve for x: x + 7 = 14",
-            "options": [
-                "5",
-                "7",
-                "8"
-            ],
-            "answer": "C",
-            "explanation": "Subtract 7 from both sides: x = 14 - 7 = 7."
-        },
-        {
-            "question": "Solve for x: 6x = 36",
-            "options": [
-                "5",
-                "6",
-                "7"
-            ],
-            "answer": "B",
-            "explanation": "Divide both sides by 6: x = 36 ÷ 6 = 6."
-        },
-        {
-            "question": "Solve for x: x - 9 = 0",
-            "options": [
-                "9",
-                "8",
-                "7"
-            ],
-            "answer": "A",
-            "explanation": "Add 9 to both sides: x = 0 + 9 = 9."
-        },
-        {
-            "question": "Solve for x: 7x = 49",
-            "options": [
-                "5",
-                "6",
-                "7"
-            ],
-            "answer": "C",
-            "explanation": "Divide both sides by 7: x = 49 ÷ 7 = 7."
-        },
-        {
-            "question": "Solve for x: x ÷ 5 = 6",
-            "options": [
-                "30",
-                "25",
-                "20"
-            ],
-            "answer": "A",
-            "explanation": "Multiply both sides by 5: x = 6 × 5 = 30."
-        },
-        {
-            "question": "Solve for x: 8x - 16 = 0",
-            "options": [
-                "1",
-                "2",
-                "3"
-            ],
-            "answer": "B",
-            "explanation": "Add 16 to both sides: 8x = 16; then divide by 8: x = 16 ÷ 8 = 2."
-        },
-        {
-            "question": "Solve for x: x + 10 = 20",
-            "options": [
-                "5",
-                "10",
-                "15"
-            ],
-            "answer": "B",
-            "explanation": "Subtract 10 from both sides: x = 20 - 10 = 10."
-        },
-        {
-            "question": "Solve for x: 9x = 81",
-            "options": [
-                "7",
-                "8",
-                "9"
-            ],
-            "answer": "C",
-            "explanation": "Divide both sides by 9: x = 81 ÷ 9 = 9."
-        },
-        {
-            "question": "Solve for x: x - 4 = 10",
-            "options": [
-                "12",
-                "14",
-                "16"
-            ],
-            "answer": "B",
-            "explanation": "Add 4 to both sides: x = 10 + 4 = 14."
-        },
-        {
-            "question": "Solve for x: 10x = 100",
-            "options": [
-                "5",
-                "10",
-                "15"
-            ],
-            "answer": "B",
-            "explanation": "Divide both sides by 10: x = 100 ÷ 10 = 10."
-        },
-        {
-            "question": "Solve for x: x ÷ 2 = 8",
-            "options": [
-                "14",
-                "16",
-                "18"
-            ],
-            "answer": "B",
-            "explanation": "Multiply both sides by 2: x = 8 × 2 = 16."
-        },
-        {
-            "question": "Solve for x: 3x + 9 = 0",
-            "options": [
-                "-3",
-                "3",
-                "0"
-            ],
-            "answer": "A",
-            "explanation": "Subtract 9 from both sides: 3x = -9; then divide by 3: x = -9 ÷ 3 = -3."
-        },
-        {
+           {
             "question": "Solve for x: 2x - 5 = 9",
             "options": [
                 "5",
@@ -199,6 +9,106 @@
             ],
             "answer": "C",
             "explanation": "Add 5 to both sides: 2x = 14; then divide by 2: x = 14 ÷ 2 = 7."
+        },
+        {
+            "question": "Solve for x: 2x + 3 = 11",
+            "options": [
+                "x = 4",
+                "x = 5",
+                "x = 6"
+            ],
+            "answer": "A",
+            "explanation": "2x + 3 = 11 => 2x = 11 - 3 => 2x = 8 => x = 8 / 2 => x = 4."
+        },
+        {
+            "question": "Solve for y: 3y - 7 = 8",
+            "options": [
+                "y = 3",
+                "y = 5",
+                "y = 7"
+            ],
+            "answer": "B",
+            "explanation": "3y - 7 = 8 => 3y = 8 + 7 => 3y = 15 => y = 15 / 3 => y = 5."
+        },
+        {
+            "question": "Solve for z: 4z + 5 = 21",
+            "options": [
+                "z = 3",
+                "z = 4",
+                "z = 5"
+            ],
+            "answer": "A",
+            "explanation": "4z + 5 = 21 => 4z = 21 - 5 => 4z = 16 => z = 16 / 4 => z = 4."
+        },
+        {
+            "question": "Solve for x: 5x - 9 = 16",
+            "options": [
+                "x = 4",
+                "x = 5",
+                "x = 6"
+            ],
+            "answer": "B",
+            "explanation": "5x - 9 = 16 => 5x = 16 + 9 => 5x = 25 => x = 25 / 5 => x = 5."
+        },
+        {
+            "question": "Solve for y: 6y + 2 = 20",
+            "options": [
+                "y = 2",
+                "y = 3",
+                "y = 4"
+            ],
+            "answer": "C",
+            "explanation": "6y + 2 = 20 => 6y = 20 - 2 => 6y = 18 => y = 18 / 6 => y = 3."
+        },
+        {
+            "question": "Solve for z: 7z - 4 = 24",
+            "options": [
+                "z = 3",
+                "z = 4",
+                "z = 5"
+            ],
+            "answer": "C",
+            "explanation": "7z - 4 = 24 => 7z = 24 + 4 => 7z = 28 => z = 28 / 7 => z = 4."
+        },
+        {
+            "question": "Solve for x: 8x + 6 = 38",
+            "options": [
+                "x = 4",
+                "x = 5",
+                "x = 6"
+            ],
+            "answer": "A",
+            "explanation": "8x + 6 = 38 => 8x = 38 - 6 => 8x = 32 => x = 32 / 8 => x = 4."
+        },
+        {
+            "question": "Solve for y: 9y - 3 = 24",
+            "options": [
+                "y = 2",
+                "y = 3",
+                "y = 4"
+            ],
+            "answer": "C",
+            "explanation": "9y - 3 = 24 => 9y = 24 + 3 => 9y = 27 => y = 27 / 9 => y = 3."
+        },
+        {
+            "question": "Solve for z: 10z + 7 = 57",
+            "options": [
+                "z = 4",
+                "z = 5",
+                "z = 6"
+            ],
+            "answer": "B",
+            "explanation": "10z + 7 = 57 => 10z = 57 - 7 => 10z = 50 => z = 50 / 10 => z = 5."
+        },
+        {
+            "question": "Solve for x: 11x - 8 = 33",
+            "options": [
+                "x = 3",
+                "x = 4",
+                "x = 5"
+            ],
+            "answer": "C",
+            "explanation": "11x - 8 = 33 => 11x = 33 + 8 => 11x = 41 => x = 41 / 11 => x = 3."
         }
     ]
-  }
+}
