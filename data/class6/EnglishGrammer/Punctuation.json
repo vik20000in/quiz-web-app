@@ -3,252 +3,151 @@
         {
             "question": "Which punctuation mark is used at the end of a statement?",
             "options": [
-                "Question mark (?)",
-                "Full stop (.)",
-                "Exclamation mark (!)"
+            "Question mark (?)",
+            "Full stop (.)",
+            "Exclamation mark (!)"
             ],
             "answer": "B",
             "explanation": "A full stop (.) is used at the end of a sentence that states a fact or idea."
         },
         {
-            "question": "What is missing in this sentence: 'I like to play football'",
+            "question": "Which punctuation mark is used to show possession?",
             "options": [
-                "Full stop",
-                "Comma",
-                "Question mark"
-            ],
-            "answer": "A",
-            "explanation": "The sentence is a statement and needs a full stop at the end: 'I like to play football.'"
-        },
-        {
-            "question": "Which sentence uses a question mark correctly?",
-            "options": [
-                "What is your name.",
-                "What is your name?",
-                "What is your name!"
+            "Comma (,)",
+            "Apostrophe (')",
+            "Colon (:)"
             ],
             "answer": "B",
-            "explanation": "A question mark (?) is used at the end of a sentence that asks something."
+            "explanation": "An apostrophe (') is used to show possession, as in 'John's book'."
         },
         {
-            "question": "Add the correct punctuation: 'Wow That was amazing'",
+            "question": "Which punctuation mark is used to separate items in a list?",
             "options": [
-                "Wow! That was amazing.",
-                "Wow, That was amazing.",
-                "Wow? That was amazing."
+            "Comma (,)",
+            "Semicolon (;)",
+            "Colon (:)"
             ],
             "answer": "A",
-            "explanation": "An exclamation mark (!) shows excitement or surprise: 'Wow! That was amazing.'"
+            "explanation": "A comma (,) is used to separate items in a list."
         },
         {
-            "question": "Where should a comma be placed: 'I bought apples bananas and oranges.'",
+            "question": "Which punctuation mark is used to indicate a question?",
             "options": [
-                "I bought apples, bananas and oranges.",
-                "I bought apples bananas, and oranges.",
-                "I bought, apples bananas and oranges."
-            ],
-            "answer": "A",
-            "explanation": "A comma separates items in a list: 'I bought apples, bananas and oranges.'"
-        },
-        {
-            "question": "Which sentence uses quotation marks correctly?",
-            "options": [
-                "She said, I am happy.",
-                "She said, 'I am happy.'",
-                "She said 'I am happy'."
+            "Full stop (.)",
+            "Question mark (?)",
+            "Exclamation mark (!)"
             ],
             "answer": "B",
-            "explanation": "Quotation marks (' ') enclose exact words spoken: 'She said, \"I am happy.\"'"
+            "explanation": "A question mark (?) is used at the end of a sentence to indicate a question."
         },
         {
-            "question": "What is missing in this sentence: 'Ravis book is on the table.'",
+            "question": "Which punctuation mark is used to indicate a strong feeling or emotion?",
             "options": [
-                "Full stop",
-                "Apostrophe",
-                "Comma"
-            ],
-            "answer": "B",
-            "explanation": "An apostrophe is needed to show possession: 'Ravi's book is on the table.'"
-        },
-        {
-            "question": "Which punctuation mark shows excitement?",
-            "options": [
-                "Full stop (.)",
-                "Question mark (?)",
-                "Exclamation mark (!)"
+            "Comma (,)",
+            "Full stop (.)",
+            "Exclamation mark (!)"
             ],
             "answer": "C",
-            "explanation": "An exclamation mark (!) is used to show excitement or strong feelings."
+            "explanation": "An exclamation mark (!) is used to indicate a strong feeling or emotion."
         },
         {
-            "question": "Add the correct punctuation: 'Where are you going'",
+            "question": "Which punctuation mark is used to introduce a list or explanation?",
             "options": [
-                "Where are you going.",
-                "Where are you going?",
-                "Where are you going!"
+            "Colon (:)",
+            "Semicolon (;)",
+            "Comma (,)"
+            ],
+            "answer": "A",
+            "explanation": "A colon (:) is used to introduce a list or explanation."
+        },
+        {
+            "question": "Which punctuation mark is used to join two independent clauses?",
+            "options": [
+            "Comma (,)",
+            "Semicolon (;)",
+            "Colon (:)"
             ],
             "answer": "B",
-            "explanation": "A question mark (?) is needed for a question: 'Where are you going?'"
+            "explanation": "A semicolon (;) is used to join two independent clauses."
         },
         {
-            "question": "Which sentence uses a comma correctly?",
+            "question": "Which punctuation mark is used to indicate a pause or break in a sentence?",
             "options": [
-                "I like cricket, and football.",
-                "I like, cricket and football.",
-                "I like cricket and, football."
+            "Comma (,)",
+            "Full stop (.)",
+            "Colon (:)"
             ],
             "answer": "A",
-            "explanation": "A comma separates two parts of a sentence joined by 'and': 'I like cricket, and football.'"
+            "explanation": "A comma (,) is used to indicate a pause or break in a sentence."
         },
         {
-            "question": "What is missing in this sentence: 'Its a sunny day.'",
+            "question": "Which punctuation mark is used to enclose direct speech or a quotation?",
             "options": [
-                "Apostrophe",
-                "Full stop",
-                "Comma"
+            "Quotation marks (\"\")",
+            "Apostrophe (')",
+            "Comma (,)"
             ],
             "answer": "A",
-            "explanation": "An apostrophe is needed for 'It is': 'It's a sunny day.'"
+            "explanation": "Quotation marks (\"\") are used to enclose direct speech or a quotation."
         },
         {
-            "question": "Which sentence is punctuated correctly?",
+            "question": "Which punctuation mark is used to indicate omitted text?",
             "options": [
-                "Hurray, we won the match!",
-                "Hurray we won the match.",
-                "Hurray we won, the match!"
+            "Ellipsis (...)",
+            "Dash (-)",
+            "Comma (,)"
             ],
             "answer": "A",
-            "explanation": "A comma after 'Hurray' and an exclamation mark at the end show excitement: 'Hurray, we won the match!'"
+            "explanation": "An ellipsis (...) is used to indicate omitted text."
         },
         {
-            "question": "Add the correct punctuation: 'He asked When will you come'",
+            "question": "Which punctuation mark is used to separate clauses in a complex sentence?",
             "options": [
-                "He asked, 'When will you come?'",
-                "He asked 'When will you come.'",
-                "He asked, When will you come?"
+            "Comma (,)",
+            "Semicolon (;)",
+            "Colon (:)"
             ],
             "answer": "A",
-            "explanation": "Quotation marks enclose the spoken words, and a question mark is used: 'He asked, \"When will you come?\"'"
+            "explanation": "A comma (,) is used to separate clauses in a complex sentence."
         },
         {
-            "question": "Where should a full stop be placed: 'The cat is sleeping'",
+            "question": "Which punctuation mark is used to indicate a range or connection between two things?",
             "options": [
-                "The cat is sleeping.",
-                "The cat. is sleeping",
-                "The cat is. sleeping"
+            "Dash (-)",
+            "Colon (:)",
+            "Semicolon (;)"
             ],
             "answer": "A",
-            "explanation": "A full stop goes at the end of a statement: 'The cat is sleeping.'"
+            "explanation": "A dash (-) is used to indicate a range or connection between two things."
         },
         {
-            "question": "Which sentence uses an apostrophe correctly?",
+            "question": "Which punctuation mark is used to indicate a parenthetical element?",
             "options": [
-                "The dogs tail is wagging.",
-                "The dog's tail is wagging.",
-                "The dogs' tail is wagging."
-            ],
-            "answer": "B",
-            "explanation": "An apostrophe shows possession for one dog: 'The dog's tail is wagging.'"
-        },
-        {
-            "question": "What punctuation is needed: 'Ouch That hurts'",
-            "options": [
-                "Ouch! That hurts!",
-                "Ouch, That hurts.",
-                "Ouch? That hurts?"
+            "Parentheses (())",
+            "Comma (,)",
+            "Colon (:)"
             ],
             "answer": "A",
-            "explanation": "Exclamation marks show pain and surprise: 'Ouch! That hurts!'"
+            "explanation": "Parentheses (()) are used to indicate a parenthetical element."
         },
         {
-            "question": "Which sentence uses a comma in a list correctly?",
+            "question": "Which punctuation mark is used to separate hours and minutes in time?",
             "options": [
-                "I need pencils, erasers, and books.",
-                "I need pencils erasers, and books.",
-                "I need pencils, erasers and, books."
+            "Colon (:)",
+            "Semicolon (;)",
+            "Comma (,)"
             ],
             "answer": "A",
-            "explanation": "Commas separate items in a list: 'I need pencils, erasers, and books.'"
+            "explanation": "A colon (:) is used to separate hours and minutes in time."
         },
         {
-            "question": "Add the correct punctuation: 'She shouted Help me'",
+            "question": "Which punctuation mark is used to indicate a break in thought or a change in tone?",
             "options": [
-                "She shouted, 'Help me!'",
-                "She shouted 'Help me.'",
-                "She shouted, Help me!"
+            "Dash (-)",
+            "Comma (,)",
+            "Semicolon (;)"
             ],
             "answer": "A",
-            "explanation": "Quotation marks enclose the spoken words, and an exclamation mark shows urgency: 'She shouted, \"Help me!\"'"
-        },
-        {
-            "question": "What is missing in this sentence: 'The boys shoes are dirty.'",
-            "options": [
-                "Apostrophe",
-                "Comma",
-                "Question mark"
-            ],
-            "answer": "A",
-            "explanation": "An apostrophe is needed for possession: 'The boy's shoes are dirty.'"
-        },
-        {
-            "question": "Which sentence is punctuated correctly?",
-            "options": [
-                "Are you ready?",
-                "Are you ready.",
-                "Are you, ready?"
-            ],
-            "answer": "A",
-            "explanation": "A question mark is used for a question: 'Are you ready?'"
-        },
-        {
-            "question": "Add the correct punctuation: 'I cant find my bag'",
-            "options": [
-                "I can't find my bag.",
-                "I cant, find my bag.",
-                "I cant find my bag?"
-            ],
-            "answer": "A",
-            "explanation": "An apostrophe is needed for 'cannot', and a full stop ends the statement: 'I can't find my bag.'"
-        },
-        {
-            "question": "Which sentence uses quotation marks correctly?",
-            "options": [
-                "He said, 'I will come tomorrow.'",
-                "He said I will come tomorrow.",
-                "He said 'I will come tomorrow'."
-            ],
-            "answer": "A",
-            "explanation": "Quotation marks enclose the exact words spoken: 'He said, \"I will come tomorrow.\"'"
-        },
-        {
-            "question": "What punctuation is needed: 'Look at the sky Its beautiful'",
-            "options": [
-                "Look at the sky. It's beautiful.",
-                "Look at the sky, Its beautiful.",
-                "Look at the sky It's beautiful?"
-            ],
-            "answer": "A",
-            "explanation": "A full stop separates two statements, and an apostrophe is used for 'It is': 'Look at the sky. It's beautiful.'"
-        },
-        {
-            "question": "Which sentence uses an exclamation mark correctly?",
-            "options": [
-                "What a lovely day!",
-                "What a lovely day?",
-                "What a lovely day."
-            ],
-            "answer": "A",
-            "explanation": "An exclamation mark shows excitement or joy: 'What a lovely day!'"
-        },
-        {
-            "question": "Add the correct punctuation: 'My friends house is big'",
-            "options": [
-                "My friend's house is big.",
-                "My friends, house is big.",
-                "My friends house is big?"
-            ],
-            "answer": "A",
-            "explanation": "An apostrophe shows possession, and a full stop ends the sentence: 'My friend's house is big.'"
+            "explanation": "A dash (-) is used to indicate a break in thought or a change in tone."
+ } ]
         }
-    ]
-}

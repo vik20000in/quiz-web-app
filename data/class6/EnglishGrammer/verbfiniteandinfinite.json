@@ -11,274 +11,250 @@
             "explanation": "The finite verb in the sentence is 'plays'."
         },
         {
-            "question": "Identify the infinite verb in the sentence: 'He likes to swim.'",
+            "question": "Identify the infinite verb in the sentence: 'To run is fun.'",
             "options": [
-                "He",
-                "likes",
-                "to swim"
+                "To",
+                "run",
+                "is",
+                "fun"
             ],
-            "answer": "C",
+            "answer": "B",
+            "explanation": "The infinite verb in the sentence is 'run'."
+        },
+        {
+            "question": "Identify the finite verb in the sentence: 'He wants to eat pizza.'",
+            "options": [
+                "wants",
+                "to eat",
+                "pizza"
+            ],
+            "answer": "A",
+            "explanation": "The finite verb in the sentence is 'wants'."
+        },
+        {
+            "question": "Identify the infinite verb in the sentence: 'She likes to swim.'",
+            "options": [
+                "likes",
+                "to swim",
+                "swim"
+            ],
+            "answer": "B",
             "explanation": "The infinite verb in the sentence is 'to swim'."
         },
         {
-            "question": "Identify the finite verb in the sentence: 'They are running fast.'",
+            "question": "Identify the finite verb in the sentence: 'They are going to the market.'",
             "options": [
-                "They",
-                "are running",
-                "fast"
+                "are",
+                "going",
+                "market"
+            ],
+            "answer": "A",
+            "explanation": "The finite verb in the sentence is 'are'."
+        },
+        {
+            "question": "Identify the infinite verb in the sentence: 'To read books is his hobby.'",
+            "options": [
+                "To",
+                "read",
+                "books",
+                "is"
             ],
             "answer": "B",
-            "explanation": "The finite verb in the sentence is 'are running'."
+            "explanation": "The infinite verb in the sentence is 'read'."
         },
         {
-            "question": "Identify the infinite verb in the sentence: 'She wants to dance.'",
+            "question": "Identify the finite verb in the sentence: 'She has to finish her homework.'",
             "options": [
-                "She",
-                "wants",
-                "to dance"
+                "has",
+                "to finish",
+                "homework"
             ],
-            "answer": "C",
-            "explanation": "The infinite verb in the sentence is 'to dance'."
+            "answer": "A",
+            "explanation": "The finite verb in the sentence is 'has'."
         },
         {
-            "question": "Identify the finite verb in the sentence: 'He is reading a book.'",
+            "question": "Identify the infinite verb in the sentence: 'He decided to go home.'",
             "options": [
-                "He",
-                "is reading",
-                "book"
+                "decided",
+                "to go",
+                "home"
             ],
             "answer": "B",
-            "explanation": "The finite verb in the sentence is 'is reading'."
+            "explanation": "The infinite verb in the sentence is 'to go'."
         },
         {
-            "question": "Identify the infinite verb in the sentence: 'They love to play football.'",
+            "question": "Identify the finite verb in the sentence: 'They will travel to Paris.'",
             "options": [
-                "They",
-                "love",
-                "to play"
+                "will",
+                "travel",
+                "Paris"
             ],
-            "answer": "C",
+            "answer": "A",
+            "explanation": "The finite verb in the sentence is 'will'."
+        },
+        {
+            "question": "Identify the infinite verb in the sentence: 'To dance is her passion.'",
+            "options": [
+                "To",
+                "dance",
+                "is",
+                "passion"
+            ],
+            "answer": "B",
+            "explanation": "The infinite verb in the sentence is 'dance'."
+        },
+        {
+            "question": "Identify the finite verb in the sentence: 'She can sing beautifully.'",
+            "options": [
+                "can",
+                "sing",
+                "beautifully"
+            ],
+            "answer": "A",
+            "explanation": "The finite verb in the sentence is 'can'."
+        },
+        {
+            "question": "Identify the infinite verb in the sentence: 'He loves to play football.'",
+            "options": [
+                "loves",
+                "to play",
+                "football"
+            ],
+            "answer": "B",
             "explanation": "The infinite verb in the sentence is 'to play'."
         },
         {
-            "question": "Identify the finite verb in the sentence: 'She is cooking dinner.'",
+            "question": "Identify the finite verb in the sentence: 'They are planning a trip.'",
             "options": [
-                "She",
-                "is cooking",
-                "dinner"
+                "are",
+                "planning",
+                "trip"
+            ],
+            "answer": "A",
+            "explanation": "The finite verb in the sentence is 'are'."
+        },
+        {
+            "question": "Identify the infinite verb in the sentence: 'To write a novel is his dream.'",
+            "options": [
+                "To",
+                "write",
+                "novel",
+                "is"
             ],
             "answer": "B",
-            "explanation": "The finite verb in the sentence is 'is cooking'."
+            "explanation": "The infinite verb in the sentence is 'write'."
         },
         {
-            "question": "Identify the infinite verb in the sentence: 'He likes to read books.'",
+            "question": "Identify the finite verb in the sentence: 'She must complete the task.'",
             "options": [
-                "He",
-                "likes",
-                "to read"
+                "must",
+                "complete",
+                "task"
             ],
-            "answer": "C",
-            "explanation": "The infinite verb in the sentence is 'to read'."
+            "answer": "A",
+            "explanation": "The finite verb in the sentence is 'must'."
         },
         {
-            "question": "Identify the finite verb in the sentence: 'They are playing in the park.'",
+            "question": "Identify the infinite verb in the sentence: 'He wants to learn French.'",
             "options": [
-                "They",
-                "are playing",
-                "park"
-            ],
-            "answer": "B",
-            "explanation": "The finite verb in the sentence is 'are playing'."
-        },
-        {
-            "question": "Identify the infinite verb in the sentence: 'She wants to sing.'",
-            "options": [
-                "She",
                 "wants",
-                "to sing"
-            ],
-            "answer": "C",
-            "explanation": "The infinite verb in the sentence is 'to sing'."
-        },
-        {
-            "question": "Identify the finite verb in the sentence: 'He is writing a letter.'",
-            "options": [
-                "He",
-                "is writing",
-                "letter"
+                "to learn",
+                "French"
             ],
             "answer": "B",
-            "explanation": "The finite verb in the sentence is 'is writing'."
+            "explanation": "The infinite verb in the sentence is 'to learn'."
         },
         {
-            "question": "Identify the infinite verb in the sentence: 'They love to travel.'",
+            "question": "Identify the finite verb in the sentence: 'They have to leave early.'",
             "options": [
-                "They",
-                "love",
-                "to travel"
+                "have",
+                "to leave",
+                "early"
             ],
-            "answer": "C",
-            "explanation": "The infinite verb in the sentence is 'to travel'."
+            "answer": "A",
+            "explanation": "The finite verb in the sentence is 'have'."
         },
         {
-            "question": "Identify the finite verb in the sentence: 'She is painting a picture.'",
+            "question": "Identify the infinite verb in the sentence: 'To cook is her favorite activity.'",
             "options": [
-                "She",
-                "is painting",
-                "picture"
+                "To",
+                "cook",
+                "is",
+                "activity"
             ],
             "answer": "B",
-            "explanation": "The finite verb in the sentence is 'is painting'."
+            "explanation": "The infinite verb in the sentence is 'cook'."
+        },
+        {
+            "question": "Identify the finite verb in the sentence: 'She should study for the exam.'",
+            "options": [
+                "should",
+                "study",
+                "exam"
+            ],
+            "answer": "A",
+            "explanation": "The finite verb in the sentence is 'should'."
         },
         {
             "question": "Identify the infinite verb in the sentence: 'He likes to draw.'",
             "options": [
-                "He",
                 "likes",
-                "to draw"
+                "to draw",
+                "draw"
             ],
-            "answer": "C",
+            "answer": "B",
             "explanation": "The infinite verb in the sentence is 'to draw'."
         },
         {
-            "question": "Identify the finite verb in the sentence: 'They are watching a movie.'",
+            "question": "Identify the finite verb in the sentence: 'They are going to the park.'",
             "options": [
-                "They",
-                "are watching",
-                "movie"
+                "are",
+                "going",
+                "park"
             ],
-            "answer": "B",
-            "explanation": "The finite verb in the sentence is 'are watching'."
+            "answer": "A",
+            "explanation": "The finite verb in the sentence is 'are'."
         },
         {
-            "question": "Identify the infinite verb in the sentence: 'She wants to write.'",
+            "question": "Identify the infinite verb in the sentence: 'To sing is her talent.'",
             "options": [
-                "She",
+                "To",
+                "sing",
+                "is",
+                "talent"
+            ],
+            "answer": "B",
+            "explanation": "The infinite verb in the sentence is 'sing'."
+        },
+        {
+            "question": "Identify the finite verb in the sentence: 'She can dance well.'",
+            "options": [
+                "can",
+                "dance",
+                "well"
+            ],
+            "answer": "A",
+            "explanation": "The finite verb in the sentence is 'can'."
+        },
+        {
+            "question": "Identify the infinite verb in the sentence: 'He wants to travel the world.'",
+            "options": [
                 "wants",
-                "to write"
-            ],
-            "answer": "C",
-            "explanation": "The infinite verb in the sentence is 'to write'."
-        },
-        {
-            "question": "Identify the finite verb in the sentence: 'He is playing the guitar.'",
-            "options": [
-                "He",
-                "is playing",
-                "guitar"
+                "to travel",
+                "world"
             ],
             "answer": "B",
-            "explanation": "The finite verb in the sentence is 'is playing'."
+            "explanation": "The infinite verb in the sentence is 'to travel'."
         },
         {
-            "question": "Identify the infinite verb in the sentence: 'They love to dance.'",
+            "question": "Identify the finite verb in the sentence: 'They will visit the museum.'",
             "options": [
-                "They",
-                "love",
-                "to dance"
+                "will",
+                "visit",
+                "museum"
             ],
-            "answer": "C",
-            "explanation": "The infinite verb in the sentence is 'to dance'."
-        },
-        {
-            "question": "Identify the finite verb in the sentence: 'She is reading a novel.'",
-            "options": [
-                "She",
-                "is reading",
-                "novel"
-            ],
-            "answer": "B",
-            "explanation": "The finite verb in the sentence is 'is reading'."
-        },
-        {
-            "question": "Identify the infinite verb in the sentence: 'He likes to cook.'",
-            "options": [
-                "He",
-                "likes",
-                "to cook"
-            ],
-            "answer": "C",
-            "explanation": "The infinite verb in the sentence is 'to cook'."
-        },
-        {
-            "question": "Identify the finite verb in the sentence: 'They are singing a song.'",
-            "options": [
-                "They",
-                "are singing",
-                "song"
-            ],
-            "answer": "B",
-            "explanation": "The finite verb in the sentence is 'are singing'."
-        },
-        {
-            "question": "Identify the infinite verb in the sentence: 'She wants to learn.'",
-            "options": [
-                "She",
-                "wants",
-                "to learn"
-            ],
-            "answer": "C",
-            "explanation": "The infinite verb in the sentence is 'to learn'."
-        },
-        {
-            "question": "Identify the finite verb in the sentence: 'He is drawing a picture.'",
-            "options": [
-                "He",
-                "is drawing",
-                "picture"
-            ],
-            "answer": "B",
-            "explanation": "The finite verb in the sentence is 'is drawing'."
-        },
-        {
-            "question": "Identify the infinite verb in the sentence: 'They love to read.'",
-            "options": [
-                "They",
-                "love",
-                "to read"
-            ],
-            "answer": "C",
-            "explanation": "The infinite verb in the sentence is 'to read'."
-        },
-        {
-            "question": "Identify the finite verb in the sentence: 'She is playing the piano.'",
-            "options": [
-                "She",
-                "is playing",
-                "piano"
-            ],
-            "answer": "B",
-            "explanation": "The finite verb in the sentence is 'is playing'."
-        },
-        {
-            "question": "Identify the infinite verb in the sentence: 'He likes to swim.'",
-            "options": [
-                "He",
-                "likes",
-                "to swim"
-            ],
-            "answer": "C",
-            "explanation": "The infinite verb in the sentence is 'to swim'."
-        },
-        {
-            "question": "Identify the finite verb in the sentence: 'They are running fast.'",
-            "options": [
-                "They",
-                "are running",
-                "fast"
-            ],
-            "answer": "B",
-            "explanation": "The finite verb in the sentence is 'are running'."
-        },
-        {
-            "question": "Identify the infinite verb in the sentence: 'She wants to dance.'",
-            "options": [
-                "She",
-                "wants",
-                "to dance"
-            ],
-            "answer": "C",
-            "explanation": "The infinite verb in the sentence is 'to dance'."
+            "answer": "A",
+            "explanation": "The finite verb in the sentence is 'will'."
         }
     ]
 }
