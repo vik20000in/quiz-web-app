@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "Which river was central to Egyptian civilization?",
+            "options": [
+                "Tigris",
+                "Nile",
+                "Euphrates"
+            ],
+            "answer": "B",
+            "explanation": "The Nile River was central to Egyptian civilization, providing water and fertile soil."
+        },
+        {
+            "question": "What were the Egyptian pyramids primarily used for?",
+            "options": [
+                "Living quarters",
+                "Tombs for pharaohs",
+                "Storage facilities"
+            ],
+            "answer": "B",
+            "explanation": "Pyramids were built as tombs for pharaohs and their consorts during the Old and Middle Kingdom periods."
+        },
+        {
+            "question": "Who was the ruler of ancient Egypt called?",
+            "options": [
+                "Emperor",
+                "King",
+                "Pharaoh"
+            ],
+            "answer": "C",
+            "explanation": "The ruler of ancient Egypt was called a Pharaoh."
+        },
+        {
+            "question": "What was the Egyptian writing system called?",
+            "options": [
+                "Hieroglyphics",
+                "Cuneiform",
+                "Sanskrit"
+            ],
+            "answer": "A",
+            "explanation": "Hieroglyphics was the writing system used in ancient Egypt."
+        },
+        {
+            "question": "Which material was used by Egyptians to write on?",
+            "options": [
+                "Paper",
+                "Papyrus",
+                "Palm leaves"
+            ],
+            "answer": "B",
+            "explanation": "Egyptians wrote on papyrus, made from the papyrus plant that grew along the Nile."
+        },
+        {
+            "question": "What was the Great Sphinx built to be?",
+            "options": [
+                "A temple",
+                "A guardian statue",
+                "A palace"
+            ],
+            "answer": "B",
+            "explanation": "The Great Sphinx was built as a guardian statue with a lion's body and human head."
+        },
+        {
+            "question": "Which stone helped decipher hieroglyphics?",
+            "options": [
+                "Rosetta Stone",
+                "Philosopher's Stone",
+                "Sun Stone"
+            ],
+            "answer": "A",
+            "explanation": "The Rosetta Stone helped scholars decipher Egyptian hieroglyphics."
+        },
+        {
+            "question": "What was the process of mummification used for?",
+            "options": [
+                "Preserving bodies",
+                "Making medicine",
+                "Religious ceremonies"
+            ],
+            "answer": "A",
+            "explanation": "Mummification was used to preserve bodies for the afterlife."
+        },
+        {
+            "question": "Who was the sun god in ancient Egypt?",
+            "options": [
+                "Osiris",
+                "Ra",
+                "Anubis"
+            ],
+            "answer": "B",
+            "explanation": "Ra was the ancient Egyptian sun god."
+        },
+        {
+            "question": "What shape were most Egyptian pyramids?",
+            "options": [
+                "Square-based",
+                "Triangle-based",
+                "Circle-based"
+            ],
+            "answer": "A",
+            "explanation": "Most Egyptian pyramids had a square base with triangular sides meeting at a point."
+        }
+    ]
+}

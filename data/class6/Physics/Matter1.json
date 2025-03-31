@@ -1,0 +1,254 @@
+{
+    "questions": [
+        {
+            "question": "What is matter made up of?",
+            "options": [
+                "Tiny particles",
+                "Only liquids",
+                "Only gases"
+            ],
+            "answer": "A",
+            "explanation": "Matter is made up of tiny particles that are too small to be seen with naked eyes."
+        },
+        {
+            "question": "Which force holds the particles of matter together?",
+            "options": [
+                "Gravitational force",
+                "Magnetic force",
+                "Force of attraction between particles"
+            ],
+            "answer": "C",
+            "explanation": "The particles of matter are held together by the force of attraction between them."
+        },
+        {
+            "question": "What property of matter allows it to diffuse?",
+            "options": [
+                "Particles of matter are always in motion",
+                "Particles of matter have fixed positions",
+                "Particles of matter have no movement"
+            ],
+            "answer": "A",
+            "explanation": "Particles of matter are always in motion, which allows matter to diffuse."
+        },
+        {
+            "question": "Which state of matter has the strongest force of attraction between particles?",
+            "options": [
+                "Solid",
+                "Liquid",
+                "Gas"
+            ],
+            "answer": "A",
+            "explanation": "Solids have the strongest force of attraction between particles, making them rigid."
+        },
+        {
+            "question": "What happens to the speed of particles when temperature increases?",
+            "options": [
+                "Increases",
+                "Decreases",
+                "Remains the same"
+            ],
+            "answer": "A",
+            "explanation": "When temperature increases, the speed of particles increases."
+        },
+        {
+            "question": "What is the process of changing from solid to liquid called?",
+            "options": [
+                "Freezing",
+                "Melting",
+                "Condensation"
+            ],
+            "answer": "B",
+            "explanation": "The process of changing from solid to liquid is called melting."
+        },
+        {
+            "question": "Which state of matter has particles arranged in a fixed pattern?",
+            "options": [
+                "Solid",
+                "Liquid",
+                "Gas"
+            ],
+            "answer": "A",
+            "explanation": "Solid particles are arranged in a fixed pattern or regular arrangement."
+        },
+        {
+            "question": "What is the space between particles called?",
+            "options": [
+                "Intermolecular space",
+                "Vacuum",
+                "Air gap"
+            ],
+            "answer": "A",
+            "explanation": "The space between particles is called intermolecular space."
+        },
+        {
+            "question": "Which process shows that particles of matter are in continuous motion?",
+            "options": [
+                "Diffusion",
+                "Freezing",
+                "Melting"
+            ],
+            "answer": "A",
+            "explanation": "Diffusion shows that particles of matter are in continuous motion."
+        },
+        {
+            "question": "What happens to intermolecular space when matter is heated?",
+            "options": [
+                "Increases",
+                "Decreases",
+                "Remains same"
+            ],
+            "answer": "A",
+            "explanation": "When matter is heated, intermolecular space increases due to increased particle movement."
+        },
+        {
+            "question": "Which state of matter has the least intermolecular force?",
+            "options": [
+                "Solid",
+                "Liquid",
+                "Gas"
+            ],
+            "answer": "C",
+            "explanation": "Gases have the least intermolecular force between their particles."
+        },
+        {
+            "question": "What property allows liquids to flow?",
+            "options": [
+                "Fixed shape",
+                "Fluidity",
+                "Compression"
+            ],
+            "answer": "B",
+            "explanation": "Fluidity is the property that allows liquids to flow."
+        },
+        {
+            "question": "What happens during evaporation?",
+            "options": [
+                "Liquid changes to gas",
+                "Gas changes to liquid",
+                "Solid changes to liquid"
+            ],
+            "answer": "A",
+            "explanation": "During evaporation, liquid changes to gas state."
+        },
+        {
+            "question": "Which state of matter has a definite volume but no definite shape?",
+            "options": [
+                "Solid",
+                "Liquid",
+                "Gas"
+            ],
+            "answer": "B",
+            "explanation": "Liquids have a definite volume but take the shape of their container."
+        },
+        {
+            "question": "What is sublimation?",
+            "options": [
+                "Solid directly changes to gas",
+                "Liquid changes to solid",
+                "Gas changes to liquid"
+            ],
+            "answer": "A",
+            "explanation": "Sublimation is the process where a solid directly changes to gas state."
+        },
+        {
+            "question": "Which factor affects the rate of diffusion?",
+            "options": [
+                "Temperature",
+                "Color",
+                "Shape"
+            ],
+            "answer": "A",
+            "explanation": "Temperature affects the rate of diffusion - higher temperature means faster diffusion."
+        },
+        {
+            "question": "What is condensation?",
+            "options": [
+                "Gas to liquid",
+                "Liquid to gas",
+                "Solid to liquid"
+            ],
+            "answer": "A",
+            "explanation": "Condensation is the process where gas changes to liquid state."
+        },
+        {
+            "question": "Which state of matter can be compressed easily?",
+            "options": [
+                "Solid",
+                "Liquid",
+                "Gas"
+            ],
+            "answer": "C",
+            "explanation": "Gases can be compressed easily due to large intermolecular spaces."
+        },
+        {
+            "question": "What happens to particles during freezing?",
+            "options": [
+                "Gain energy",
+                "Lose energy",
+                "No change in energy"
+            ],
+            "answer": "B",
+            "explanation": "During freezing, particles lose energy and come closer together."
+        },
+        {
+            "question": "Which process shows conversion of water vapor to water?",
+            "options": [
+                "Evaporation",
+                "Condensation",
+                "Melting"
+            ],
+            "answer": "B",
+            "explanation": "Condensation shows the conversion of water vapor (gas) to water (liquid)."
+        },
+        {
+            "question": "What is the arrangement of particles in gases?",
+            "options": [
+                "Random and far apart",
+                "Fixed and close",
+                "Ordered and separate"
+            ],
+            "answer": "A",
+            "explanation": "In gases, particles are arranged randomly and are far apart."
+        },
+        {
+            "question": "Which state of matter has particles vibrating at fixed positions?",
+            "options": [
+                "Solid",
+                "Liquid",
+                "Gas"
+            ],
+            "answer": "A",
+            "explanation": "In solids, particles vibrate at their fixed positions."
+        },
+        {
+            "question": "What happens to the movement of particles when temperature decreases?",
+            "options": [
+                "Increases",
+                "Decreases",
+                "Remains same"
+            ],
+            "answer": "B",
+            "explanation": "When temperature decreases, the movement of particles decreases."
+        },
+        {
+            "question": "Which process requires heat energy?",
+            "options": [
+                "Melting",
+                "Freezing",
+                "Condensation"
+            ],
+            "answer": "A",
+            "explanation": "Melting requires heat energy to convert solid to liquid."
+        },
+        {
+            "question": "What determines the state of matter?",
+            "options": [
+                "Force between particles",
+                "Color of matter",
+                "Weight of matter"
+            ],
+            "answer": "A",
+            "explanation": "The force between particles determines the state of matter."
+        }
+    ]
+}

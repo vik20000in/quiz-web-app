@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is a globe?",
+            "options": [
+                "A flat map of the Earth",
+                "A spherical model of the Earth",
+                "A picture of the Earth"
+            ],
+            "answer": "B",
+            "explanation": "A globe is a spherical model that represents the Earth in its true shape."
+        },
+        {
+            "question": "What are the imaginary lines running from North to South pole called?",
+            "options": [
+                "Parallels",
+                "Meridians",
+                "Equator"
+            ],
+            "answer": "B",
+            "explanation": "Meridians are imaginary lines running from the North Pole to the South Pole."
+        },
+        {
+            "question": "What is the value of the Prime Meridian in degrees?",
+            "options": [
+                "0°",
+                "90°",
+                "180°"
+            ],
+            "answer": "A",
+            "explanation": "The Prime Meridian is at 0° longitude."
+        },
+        {
+            "question": "What are parallels of latitude?",
+            "options": [
+                "Lines running North to South",
+                "Lines running East to West",
+                "Lines running diagonally"
+            ],
+            "answer": "B",
+            "explanation": "Parallels are imaginary circles running parallel to the equator from East to West."
+        },
+        {
+            "question": "What is the value of the Equator in degrees?",
+            "options": [
+                "0°",
+                "90°",
+                "180°"
+            ],
+            "answer": "A",
+            "explanation": "The Equator is at 0° latitude."
+        },
+        {
+            "question": "Which hemispheres are created by the Equator?",
+            "options": [
+                "Eastern and Western",
+                "Northern and Southern",
+                "Upper and Lower"
+            ],
+            "answer": "B",
+            "explanation": "The Equator divides Earth into Northern and Southern hemispheres."
+        },
+        {
+            "question": "What is the maximum value of latitude?",
+            "options": [
+                "90 degrees",
+                "180 degrees",
+                "360 degrees"
+            ],
+            "answer": "A",
+            "explanation": "The maximum value of latitude is 90 degrees (at the poles)."
+        },
+        {
+            "question": "What is the maximum value of longitude?",
+            "options": [
+                "90 degrees",
+                "180 degrees",
+                "360 degrees"
+            ],
+            "answer": "B",
+            "explanation": "The maximum value of longitude is 180 degrees (East or West)."
+        },
+        {
+            "question": "Which line of latitude is also known as the Tropic of Cancer?",
+            "options": [
+                "23.5°N",
+                "23.5°S",
+                "66.5°N"
+            ],
+            "answer": "A",
+            "explanation": "The Tropic of Cancer is located at 23.5°N latitude."
+        },
+        {
+            "question": "Which line of latitude is also known as the Tropic of Capricorn?",
+            "options": [
+                "23.5°N",
+                "23.5°S",
+                "66.5°S"
+            ],
+            "answer": "B",
+            "explanation": "The Tropic of Capricorn is located at 23.5°S latitude."
+        }
+    ]
+}

@@ -24,15 +24,30 @@
                         { "name": "fundamentalsofgeomatricalconcept", "path": "class6/mathematics/fundamentalsofgeomatricalconcept.json" },
                         { "name": "Angles", "path": "class6/mathematics/Angles.json" },
                         { "name": "meanandmedian", "path": "class6/mathematics/meanandmedian.json" }
-                        
-
                     ]
                 },
                 {
                     "name": "Science",
                     "subcategories": [
                         { "name": "Living Organisms", "path": "class6/Science/living_organisms.json" }
-                      
+                    ]
+                },
+                {
+                    "name": "Physics",
+                    "subcategories": [
+                        { "name": "Matter1", "path": "class6/Physics/Matter1.json" }
+                    ]
+                },
+                {
+                    "name": "Biology",
+                    "subcategories": [
+                        { "name": "The Leaf", "path": "class6/Biology/TheLeaf.json" }
+                    ]
+                },
+                {
+                    "name": "Chemistry",
+                    "subcategories": [
+                        { "name": "Introduction to Chemistry", "path": "class6/Chemistry/IntroductionToChemistry.json" }
                     ]
                 },
                 {
@@ -54,6 +69,24 @@
                         { "name":"subjectandPredicate", "path":"class6/EnglishGrammer/subjectandPredicate.json"},
                         { "name":"verbfiniteandinfinite", "path":"class6/EnglishGrammer/verbfiniteandinfinite.json"},
                         { "name":"verbthepasttense", "path":"class6/EnglishGrammer/verbthepasttense.json"}                        
+                    ]
+                },
+                {
+                    "name": "Geography",
+                    "subcategories": [
+                        { "name": "Mapping the Earth", "path": "class6/Geography/MappingTheEarth.json" }
+                    ]
+                },
+                {
+                    "name": "Computer",
+                    "subcategories": [
+                        { "name": "Categories of Computer Languages", "path": "class6/Computer/CategoriesOfComputerLanguages.json" }
+                    ]
+                },
+                {
+                    "name": "History",
+                    "subcategories": [
+                        { "name": "The Egyptian Civilization", "path": "class6/History/TheEgyptianCivilization.json" }
                     ]
                 }
             ]
@@ -81,7 +114,8 @@
                         { "name": "Biology", "path": "class8/Science/biology.json" },
                         { "name": "Olympiad Science", "path": "class8/Science/olympiad_science.json" }
                     ]
-                }, {
+                }, 
+                {
                     "name": "English Grammer",
                     "subcategories": [
                         { "name": "ActivePassive", "path": "class8/English/ActivePassive.json" },

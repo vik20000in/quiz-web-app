@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the study of matter and its properties called?",
+            "options": [
+                "Biology",
+                "Chemistry",
+                "Physics"
+            ],
+            "answer": "B",
+            "explanation": "Chemistry is the study of matter, its properties, structure, and changes it undergoes."
+        },
+        {
+            "question": "Which of these is a pure substance?",
+            "options": [
+                "Milk",
+                "Pure Water",
+                "Air"
+            ],
+            "answer": "B",
+            "explanation": "Pure water (H2O) is a pure substance as it contains only one type of molecule."
+        },
+        {
+            "question": "What is the smallest unit of matter?",
+            "options": [
+                "Atom",
+                "Molecule",
+                "Cell"
+            ],
+            "answer": "A",
+            "explanation": "An atom is the smallest unit of matter that retains the properties of an element."
+        },
+        {
+            "question": "What is a mixture?",
+            "options": [
+                "A pure substance",
+                "Two or more substances combined",
+                "A single element"
+            ],
+            "answer": "B",
+            "explanation": "A mixture is a combination of two or more substances where no chemical reaction occurs."
+        },
+        {
+            "question": "Which is an example of a physical change?",
+            "options": [
+                "Rusting of iron",
+                "Burning of paper",
+                "Ice melting"
+            ],
+            "answer": "C",
+            "explanation": "Ice melting is a physical change as no new substance is formed."
+        },
+        {
+            "question": "What is a chemical change?",
+            "options": [
+                "Change in shape only",
+                "Formation of new substance",
+                "Change in size only"
+            ],
+            "answer": "B",
+            "explanation": "A chemical change results in the formation of new substances with different properties."
+        },
+        {
+            "question": "Which is an example of a chemical change?",
+            "options": [
+                "Cutting paper",
+                "Rusting of iron",
+                "Breaking glass"
+            ],
+            "answer": "B",
+            "explanation": "Rusting of iron is a chemical change as it forms a new substance (iron oxide)."
+        },
+        {
+            "question": "What is a solution?",
+            "options": [
+                "A pure substance",
+                "A homogeneous mixture",
+                "An element"
+            ],
+            "answer": "B",
+            "explanation": "A solution is a homogeneous mixture of two or more substances."
+        },
+        {
+            "question": "What is the solvent in salt water?",
+            "options": [
+                "Salt",
+                "Water",
+                "Both"
+            ],
+            "answer": "B",
+            "explanation": "In salt water, water is the solvent that dissolves the salt (solute)."
+        },
+        {
+            "question": "Which state of matter has a definite volume but no definite shape?",
+            "options": [
+                "Solid",
+                "Liquid",
+                "Gas"
+            ],
+            "answer": "B",
+            "explanation": "Liquids have a definite volume but take the shape of their container."
+        }
+    ]
+}

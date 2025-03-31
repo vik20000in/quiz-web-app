@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is a computer language?",
+            "options": [
+                "A way for computers to communicate with each other",
+                "A set of instructions for computers to follow",
+                "A language that computers use to process data"
+            ],
+            "answer": "B",
+            "explanation": "A computer language is a set of instructions that tells a computer what to do."
+        },
+        {
+            "question": "Which generation of computer language is Machine Language?",
+            "options": [
+                "First Generation",
+                "Second Generation",
+                "Third Generation"
+            ],
+            "answer": "A",
+            "explanation": "Machine Language is a First Generation Language (1GL) that uses binary code (0s and 1s)."
+        },
+        {
+            "question": "What are Assembly Languages classified as?",
+            "options": [
+                "First Generation Languages",
+                "Second Generation Languages",
+                "Third Generation Languages"
+            ],
+            "answer": "B",
+            "explanation": "Assembly Languages are Second Generation Languages (2GL) that use mnemonics instead of binary code."
+        },
+        {
+            "question": "Which of these is a High-Level Language?",
+            "options": [
+                "Machine Language",
+                "Assembly Language",
+                "Python"
+            ],
+            "answer": "C",
+            "explanation": "Python is a High-Level Language (3GL) that uses English-like commands."
+        },
+        {
+            "question": "What type of language is closest to human language?",
+            "options": [
+                "Machine Language",
+                "Assembly Language",
+                "High-Level Language"
+            ],
+            "answer": "C",
+            "explanation": "High-Level Languages are closest to human language as they use English-like commands."
+        },
+        {
+            "question": "Which language uses only 0s and 1s?",
+            "options": [
+                "Machine Language",
+                "Assembly Language",
+                "BASIC"
+            ],
+            "answer": "A",
+            "explanation": "Machine Language uses only binary digits (0s and 1s)."
+        },
+        {
+            "question": "What is the main advantage of High-Level Languages?",
+            "options": [
+                "Faster execution",
+                "Easier to learn and use",
+                "Direct hardware control"
+            ],
+            "answer": "B",
+            "explanation": "High-Level Languages are easier to learn and use because they are similar to English."
+        },
+        {
+            "question": "Which language needs to be translated by an Assembler?",
+            "options": [
+                "Machine Language",
+                "Assembly Language",
+                "Python"
+            ],
+            "answer": "B",
+            "explanation": "Assembly Language needs to be translated into machine code by an Assembler."
+        },
+        {
+            "question": "What converts High-Level Language to Machine Language?",
+            "options": [
+                "Assembler",
+                "Compiler",
+                "Translator"
+            ],
+            "answer": "B",
+            "explanation": "A Compiler converts High-Level Language programs into Machine Language."
+        },
+        {
+            "question": "Which is NOT a High-Level Programming Language?",
+            "options": [
+                "Python",
+                "Java",
+                "Assembly"
+            ],
+            "answer": "C",
+            "explanation": "Assembly is a Low-Level Language (2GL), not a High-Level Language."
+        }
+    ]
+}

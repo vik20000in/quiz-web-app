@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the main function of leaves?",
+            "options": [
+                "Photosynthesis",
+                "Absorption of water",
+                "Storage of food"
+            ],
+            "answer": "A",
+            "explanation": "The main function of leaves is photosynthesis - the process of making food using sunlight."
+        },
+        {
+            "question": "Which part of the leaf contains chlorophyll?",
+            "options": [
+                "Epidermis",
+                "Mesophyll",
+                "Veins"
+            ],
+            "answer": "B",
+            "explanation": "The mesophyll cells contain chlorophyll which gives leaves their green color."
+        },
+        {
+            "question": "What are tiny pores in leaves called?",
+            "options": [
+                "Stomata",
+                "Veins",
+                "Cells"
+            ],
+            "answer": "A",
+            "explanation": "Stomata are tiny pores in leaves that allow gas exchange."
+        },
+        {
+            "question": "Which of these is a function of leaf veins?",
+            "options": [
+                "Transport of water and minerals",
+                "Storage of food",
+                "Gas exchange"
+            ],
+            "answer": "A",
+            "explanation": "Veins transport water and minerals throughout the leaf."
+        },
+        {
+            "question": "What is the waxy protective layer on a leaf called?",
+            "options": [
+                "Cuticle",
+                "Epidermis",
+                "Mesophyll"
+            ],
+            "answer": "A",
+            "explanation": "The cuticle is a waxy layer that protects the leaf and prevents water loss."
+        },
+        {
+            "question": "Which cells control the opening and closing of stomata?",
+            "options": [
+                "Guard cells",
+                "Epidermal cells",
+                "Mesophyll cells"
+            ],
+            "answer": "A",
+            "explanation": "Guard cells control the opening and closing of stomata."
+        },
+        {
+            "question": "What type of venation do grass leaves have?",
+            "options": [
+                "Parallel venation",
+                "Reticulate venation",
+                "Pinnate venation"
+            ],
+            "answer": "A",
+            "explanation": "Grass leaves have parallel venation where veins run parallel to each other."
+        },
+        {
+            "question": "What is the importance of stomata?",
+            "options": [
+                "Gas exchange and transpiration",
+                "Food storage",
+                "Support to leaf"
+            ],
+            "answer": "A",
+            "explanation": "Stomata allow gas exchange and water vapor release through transpiration."
+        },
+        {
+            "question": "Where is most photosynthesis carried out in a leaf?",
+            "options": [
+                "Palisade mesophyll",
+                "Epidermis",
+                "Veins"
+            ],
+            "answer": "A",
+            "explanation": "Most photosynthesis occurs in the palisade mesophyll layer."
+        },
+        {
+            "question": "What gas do leaves take in during photosynthesis?",
+            "options": [
+                "Carbon dioxide",
+                "Oxygen",
+                "Nitrogen"
+            ],
+            "answer": "A",
+            "explanation": "Leaves take in carbon dioxide during photosynthesis."
+        }
+    ]
+}
