@@ -332,12 +332,12 @@ body.playground button {
 
 /* Theme-specific feedback styles */
 body.jungle #feedback-animation.animate-correct {
-    background-image: url('images/jungle/happy-monkey.jpg');
+    background-image: url('images/happy-monkey.jpg');
     animation: jungle-correct 1s ease-in-out;
 }
 
 body.jungle #feedback-animation.animate-incorrect {
-    background-image: url('images/jungle/sad-parrot.jpg');
+    background-image: url('images/sad-parrot.jpg');
     animation: jungle-incorrect 1s ease-in-out;
 }
 
