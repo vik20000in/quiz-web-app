@@ -298,14 +298,47 @@ body.playground button {
         transform: translate(-50%, -50%) scale(1);
     }
 }
+/* Jungle Correct Animation: Swinging Motion */
+@keyframes jungle-correct {
+    0% {
+        transform: translate(-50%, -50%) rotate(0deg);
+    }
+    25% {
+        transform: translate(-50%, -50%) rotate(-15deg);
+    }
+    75% {
+        transform: translate(-50%, -50%) rotate(15deg);
+    }
+    100% {
+        transform: translate(-50%, -50%) rotate(0deg);
+    }
+}
+
+/* Jungle Incorrect Animation: Gentle Shake */
+@keyframes jungle-incorrect {
+    0% {
+        transform: translate(-50%, -50%) translateX(0);
+    }
+    25% {
+        transform: translate(-50%, -50%) translateX(-10px);
+    }
+    75% {
+        transform: translate(-50%, -50%) translateX(10px);
+    }
+    100% {
+        transform: translate(-50%, -50%) translateX(0);
+    }
+}
 
 /* Theme-specific feedback styles */
 body.jungle #feedback-animation.animate-correct {
-    background-image: url('images/jungle-correct.png'); /* e.g., a happy monkey */
+    background-image: url('images/jungle/happy-monkey.jpg');
+    animation: jungle-correct 1s ease-in-out;
 }
 
 body.jungle #feedback-animation.animate-incorrect {
-    background-image: url('images/jungle-incorrect.png'); /* e.g., a sad parrot */
+    background-image: url('images/jungle/sad-parrot.jpg');
+    animation: jungle-incorrect 1s ease-in-out;
 }
 
 body.space #feedback-animation.animate-correct {
