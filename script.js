@@ -224,6 +224,13 @@ function showQuestion() {
     const optionsText = question.options.map((opt, idx) => `${String.fromCharCode(65 + idx)}. ${opt}`).join(", ");
     const fullText = `${question.question} ${optionsText}`;
     speakText(fullText);
+
+    // Add animation for question
+    const quizContainer = document.getElementById("quizContainer");
+    quizContainer.classList.add("animate-question");
+    setTimeout(() => {
+        quizContainer.classList.remove("animate-question");
+    }, 500); // Matches 0.5s animation duration
 }
 
 // Update the score display
@@ -236,35 +243,49 @@ function checkAnswer(selectedIndex) {
     const question = questions[currentQuestionIndex];
     const correctIndex = question.answer.charCodeAt(0) - 65;
     const feedback = document.getElementById("feedback");
+    const feedbackAnimation = document.getElementById("feedback-animation");
 
     attemptedQuestions++;
 
     if (selectedIndex === correctIndex) {
         const phrase = encouragingPhrases[Math.floor(Math.random() * encouragingPhrases.length)];
         feedback.innerHTML = `${phrase} 😊`;
-
         speakText(phrase);
-      //  feedback.textContent = "Correct!";
         feedback.style.color = "green";
         correctAnswers++;
         updateScore();
-         updateStars();
+        updateStars();
         speakText("Correct!");
+
+        // Animate correct answer
+        feedbackAnimation.style.display = "block";
+        feedbackAnimation.classList.add("animate-correct");
+        setTimeout(() => {
+            feedbackAnimation.classList.remove("animate-correct");
+            feedbackAnimation.style.display = "none";
+        }, 1000); // Matches 1s animation duration
+
         // Automatically move to next question after 2 seconds
         setTimeout(goToNextQuestion, 2000);
     } else {
-        feedback.textContent = `Wrong! Correct answer: ${question.options[correctIndex]}. Explanation: ${question.explanation}`;
-        feedback.style.color = "red";
         feedback.innerHTML = `Oops, that's not right. The correct answer is ${question.options[correctIndex]}. Explanation: ${question.explanation} 😞`;
-
+        feedback.style.color = "red";
         speakText("Oops, that's not right.");
-
         updateScore();
         speakText(feedback.textContent);
+
+        // Animate incorrect answer
+        feedbackAnimation.style.display = "block";
+        feedbackAnimation.classList.add("animate-incorrect");
+        setTimeout(() => {
+            feedbackAnimation.classList.remove("animate-incorrect");
+            feedbackAnimation.style.display = "none";
+        }, 1000); // Matches 1s animation duration
+
         // Show "Next Question" button
         document.getElementById("nextButton").style.display = "inline";
     }
-}
+}   
 
 // Voice input for answers
 if (recognition) {

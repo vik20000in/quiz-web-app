@@ -252,3 +252,114 @@ body.playground button {
 #classSelection select, #classSelection button {
     margin-right: 10px;
 }
+#feedback-animation {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: none;
+}
+#quizContainer.animate-question {
+    animation: questionSlideIn 0.5s ease-in-out;
+}
+
+@keyframes questionSlideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+/* Base feedback animation */
+#feedback-animation.animate-correct,
+#feedback-animation.animate-incorrect {
+    display: block;
+    animation: feedbackPop 1s ease-in-out;
+}
+
+@keyframes feedbackPop {
+    0% {
+        opacity: 0;
+        transform: translate(-50%, -50%) scale(0.5);
+    }
+    50% {
+        opacity: 1;
+        transform: translate(-50%, -50%) scale(1.2);
+    }
+    100% {
+        opacity: 1;
+        transform: translate(-50%, -50%) scale(1);
+    }
+}
+
+/* Theme-specific feedback styles */
+body.jungle #feedback-animation.animate-correct {
+    background-image: url('images/jungle-correct.png'); /* e.g., a happy monkey */
+}
+
+body.jungle #feedback-animation.animate-incorrect {
+    background-image: url('images/jungle-incorrect.png'); /* e.g., a sad parrot */
+}
+
+body.space #feedback-animation.animate-correct {
+    background-image: url('images/space/space_correct.jpg'); /* e.g., a twinkling star */
+}
+
+body.space #feedback-animation.animate-incorrect {
+    background-image: url('images/space/space_fail.jpg'); /* e.g., a fading asteroid */
+}
+
+body.rocket #feedback-animation.animate-correct {
+    background-image: url('images/rocket-correct.png'); /* e.g., a rocket blasting off */
+}
+
+body.rocket #feedback-animation.animate-incorrect {
+    background-image: url('images/rocket-incorrect.png'); /* e.g., a stalled rocket */
+}
+
+body.sea #feedback-animation.animate-correct {
+    background-image: url('images/sea-correct.jpg'); /* e.g., a jumping fish */
+}
+
+body.sea #feedback-animation.animate-incorrect {
+    background-image: url('images/sea-incorrect.jpg'); /* e.g., a sinking anchor */
+}
+
+body.mountain #feedback-animation.animate-correct {
+    background-image: url('images/mountain-correct.png'); /* e.g., a flying bird */
+}
+
+body.mountain #feedback-animation.animate-incorrect {
+    background-image: url('images/mountain-incorrect.png'); /* e.g., a falling rock */
+}
+
+body.dinosaur #feedback-animation.animate-correct {
+    background-image: url('images/dinosaur-correct.png'); /* e.g., a roaring dino */
+}
+
+body.dinosaur #feedback-animation.animate-incorrect {
+    background-image: url('images/dinosaur-incorrect.png'); /* e.g., a sleeping dino */
+}
+
+body.school #feedback-animation.animate-correct {
+    background-image: url('images/school-correct.png'); /* e.g., a gold star */
+}
+
+body.school #feedback-animation.animate-incorrect {
+    background-image: url('images/school-incorrect.png'); /* e.g., a red X */
+}
+
+body.playground #feedback-animation.animate-correct {
+    background-image: url('images/playground-correct.png'); /* e.g., a bouncing ball */
+}
+
+body.playground #feedback-animation.animate-incorrect {
+    background-image: url('images/playground-incorrect.png'); /* e.g., a deflated ball */
+}
