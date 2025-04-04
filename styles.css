@@ -329,7 +329,80 @@ body.playground button {
         transform: translate(-50%, -50%) translateX(0);
     }
 }
+/* Space Theme */
+@keyframes space-correct {
+    0% {
+        transform: scale(1);
+        opacity: 1;
+    }
+    50% {
+        transform: scale(1.2);
+        opacity: 0.8;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
 
+@keyframes space-incorrect {
+    0% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(20px);
+        opacity: 0.5;
+    }
+}
+
+body.space #feedback-animation.animate-correct {
+    background-image: url('images/space-correct.png'); /* e.g., twinkling star */
+    animation: space-correct 1s ease-in-out;
+}
+
+body.space #feedback-animation.animate-incorrect {
+    background-image: url('images/space-incorrect.png'); /* e.g., fading asteroid */
+    animation: space-incorrect 1s ease-in-out;
+}
+
+/* Sea Theme */
+@keyframes sea-correct {
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-15px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
+@keyframes sea-incorrect {
+    0% {
+        transform: rotate(0deg);
+    }
+    25% {
+        transform: rotate(-5deg);
+    }
+    75% {
+        transform: rotate(5deg);
+    }
+    100% {
+        transform: rotate(0deg);
+    }
+}
+
+body.sea #feedback-animation.animate-correct {
+    background-image: url('images/sea-correct.jpg'); /* e.g., jumping fish */
+    animation: sea-correct 2s ease-in-out;
+}
+
+body.sea #feedback-animation.animate-incorrect {
+    background-image: url('images/sea-incorrect.jpg'); /* e.g., sinking anchor */
+    animation: sea-incorrect 2s ease-in-out;
+}
 /* Theme-specific feedback styles */
 body.jungle #feedback-animation.animate-correct {
     background-image: url('images/happy-monkey.jpg');
@@ -338,7 +411,7 @@ body.jungle #feedback-animation.animate-correct {
 
 body.jungle #feedback-animation.animate-incorrect {
     background-image: url('images/sad-parrot.jpg');
-    animation: jungle-incorrect 1s ease-in-out;
+    animation: jungle-incorrect 1s linear;
 }
 
 body.space #feedback-animation.animate-correct {
