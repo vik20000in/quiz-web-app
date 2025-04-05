@@ -88,6 +88,12 @@
                     "subcategories": [
                         { "name": "The Egyptian Civilization", "path": "class6/History/TheEgyptianCivilization.json" }
                     ]
+                },
+                {
+                    "name": "Hindi",
+                    "subcategories": [
+                        { "name": "Dhan ki Khoj", "path": "class6/Hindi/DhanKiKhoj.json" }
+                    ]
                 }
             ]
         },
