@@ -27,15 +27,11 @@
                     ]
                 },
                 {
-                    "name": "Science",
-                    "subcategories": [
-                        { "name": "Living Organisms", "path": "class6/Science/living_organisms.json" }
-                    ]
-                },
-                {
                     "name": "Physics",
                     "subcategories": [
-                        { "name": "Matter1", "path": "class6/Physics/Matter1.json" }
+                        { "name": "Matter1", "path": "class6/Physics/Matter1.json" },   
+                        {"name": "Physical quantities", "path": "class6/Physics/PhysicaPhysicalQuantityAndMeasurementlQuantities.json"}
+                       
                     ]
                 },
                 {
@@ -86,7 +82,9 @@
                 {
                     "name": "History",
                     "subcategories": [
-                        { "name": "The Egyptian Civilization", "path": "class6/History/TheEgyptianCivilization.json" }
+                        { "name": "The Egyptian Civilization", "path": "class6/History/TheEgyptianCivilization.json" },
+                        { "name": "The Egyptian Civilization 1", "path": "class6/History/TheEgyptianCivilization1.json" }
+
                     ]
                 },
                 {

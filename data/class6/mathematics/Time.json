@@ -1,236 +1,6 @@
 {
     "questions": [
         {
-            "question": "How many seconds are there in an hour?",
-            "options": [
-                "3600",
-                "1800",
-                "7200"
-            ],
-            "answer": "A",
-            "explanation": "There are 60 seconds in a minute and 60 minutes in an hour. 60 * 60 = 3600 seconds."
-        },
-        {
-            "question": "What is the time 3 hours after 10:00 AM?",
-            "options": [
-                "1:00 PM",
-                "12:00 PM",
-                "2:00 PM"
-            ],
-            "answer": "B",
-            "explanation": "3 hours after 10:00 AM is 1:00 PM."
-        },
-        {
-            "question": "How many minutes are there in a day?",
-            "options": [
-                "1440",
-                "720",
-                "2880"
-            ],
-            "answer": "A",
-            "explanation": "There are 60 minutes in an hour and 24 hours in a day. 60 * 24 = 1440 minutes."
-        },
-        {
-            "question": "What is the time 45 minutes before 6:00 PM?",
-            "options": [
-                "5:15 PM",
-                "5:30 PM",
-                "5:45 PM"
-            ],
-            "answer": "B",
-            "explanation": "45 minutes before 6:00 PM is 5:15 PM."
-        },
-        {
-            "question": "How many hours are there in a week?",
-            "options": [
-                "168",
-                "144",
-                "192"
-            ],
-            "answer": "A",
-            "explanation": "There are 24 hours in a day and 7 days in a week. 24 * 7 = 168 hours."
-        },
-        {
-            "question": "What is the time 2 hours and 30 minutes after 8:00 AM?",
-            "options": [
-                "10:30 AM",
-                "10:00 AM",
-                "11:00 AM"
-            ],
-            "answer": "A",
-            "explanation": "2 hours and 30 minutes after 8:00 AM is 10:30 AM."
-        },
-        {
-            "question": "How many days are there in a leap year?",
-            "options": [
-                "365",
-                "366",
-                "367"
-            ],
-            "answer": "B",
-            "explanation": "A leap year has 366 days."
-        },
-        {
-            "question": "What is the time 15 minutes before 9:00 AM?",
-            "options": [
-                "8:45 AM",
-                "8:30 AM",
-                "8:15 AM"
-            ],
-            "answer": "A",
-            "explanation": "15 minutes before 9:00 AM is 8:45 AM."
-        },
-        {
-            "question": "How many weeks are there in a year?",
-            "options": [
-                "52",
-                "50",
-                "54"
-            ],
-            "answer": "A",
-            "explanation": "There are 52 weeks in a year."
-        },
-        {
-            "question": "What is the time 1 hour and 45 minutes after 3:00 PM?",
-            "options": [
-                "4:45 PM",
-                "4:30 PM",
-                "5:00 PM"
-            ],
-            "answer": "A",
-            "explanation": "1 hour and 45 minutes after 3:00 PM is 4:45 PM."
-        },
-        {
-            "question": "How many months have 31 days?",
-            "options": [
-                "6",
-                "7",
-                "8"
-            ],
-            "answer": "B",
-            "explanation": "There are 7 months with 31 days: January, March, May, July, August, October, and December."
-        },
-        {
-            "question": "What is the time 30 minutes before 12:00 PM?",
-            "options": [
-                "11:30 AM",
-                "11:00 AM",
-                "12:30 PM"
-            ],
-            "answer": "A",
-            "explanation": "30 minutes before 12:00 PM is 11:30 AM."
-        },
-        {
-            "question": "How many days are there in the month of February in a leap year?",
-            "options": [
-                "28",
-                "29",
-                "30"
-            ],
-            "answer": "B",
-            "explanation": "In a leap year, February has 29 days."
-        },
-        {
-            "question": "What is the time 2 hours before 5:00 PM?",
-            "options": [
-                "3:00 PM",
-                "2:00 PM",
-                "4:00 PM"
-            ],
-            "answer": "A",
-            "explanation": "2 hours before 5:00 PM is 3:00 PM."
-        },
-        {
-            "question": "How many seconds are there in a minute?",
-            "options": [
-                "30",
-                "60",
-                "90"
-            ],
-            "answer": "B",
-            "explanation": "There are 60 seconds in a minute."
-        },
-        {
-            "question": "What is the time 1 hour and 15 minutes after 7:00 AM?",
-            "options": [
-                "8:15 AM",
-                "8:00 AM",
-                "7:45 AM"
-            ],
-            "answer": "A",
-            "explanation": "1 hour and 15 minutes after 7:00 AM is 8:15 AM."
-        },
-        {
-            "question": "How many hours are there in a day?",
-            "options": [
-                "12",
-                "24",
-                "36"
-            ],
-            "answer": "B",
-            "explanation": "There are 24 hours in a day."
-        },
-        {
-            "question": "What is the time 20 minutes before 4:00 PM?",
-            "options": [
-                "3:40 PM",
-                "3:30 PM",
-                "3:20 PM"
-            ],
-            "answer": "A",
-            "explanation": "20 minutes before 4:00 PM is 3:40 PM."
-        },
-        {
-            "question": "How many days are there in the month of November?",
-            "options": [
-                "30",
-                "31",
-                "28"
-            ],
-            "answer": "A",
-            "explanation": "November has 30 days."
-        },
-        {
-            "question": "What is the time 3 hours and 15 minutes after 1:00 PM?",
-            "options": [
-                "4:15 PM",
-                "4:00 PM",
-                "3:45 PM"
-            ],
-            "answer": "A",
-            "explanation": "3 hours and 15 minutes after 1:00 PM is 4:15 PM."
-        },
-        {
-            "question": "How many days are there in a non-leap year?",
-            "options": [
-                "365",
-                "366",
-                "364"
-            ],
-            "answer": "A",
-            "explanation": "A non-leap year has 365 days."
-        },
-        {
-            "question": "What is the time 1 hour and 30 minutes before 6:00 PM?",
-            "options": [
-                "4:30 PM",
-                "5:00 PM",
-                "4:00 PM"
-            ],
-            "answer": "A",
-            "explanation": "1 hour and 30 minutes before 6:00 PM is 4:30 PM."
-        },
-        {
-            "question": "How many months have 30 days?",
-            "options": [
-                "4",
-                "5",
-                "6"
-            ],
-            "answer": "A",
-            "explanation": "There are 4 months with 30 days: April, June, September, and November."
-        },
-        {
             "question": "What is the time 45 minutes after 11:00 AM?",
             "options": [
                 "11:45 AM",
@@ -239,6 +9,296 @@
             ],
             "answer": "A",
             "explanation": "45 minutes after 11:00 AM is 11:45 AM."
+        },
+        {
+            "question": "If a train travels 120 km in 2 hours, what is its speed in km/h?",
+            "options": [
+                "60",
+                "70",
+                "80"
+            ],
+            "answer": "A",
+            "explanation": "Speed = Distance / Time = 120 / 2 = 60 km/h."
+        },
+        {
+            "question": "A car travels at a speed of 50 km/h for 3 hours. How far does it travel?",
+            "options": [
+                "150 km",
+                "140 km",
+                "160 km"
+            ],
+            "answer": "A",
+            "explanation": "Distance = Speed × Time = 50 × 3 = 150 km."
+        },
+        {
+            "question": "If a cyclist covers 45 km in 3 hours, what is their speed in km/h?",
+            "options": [
+                "15",
+                "20",
+                "25"
+            ],
+            "answer": "A",
+            "explanation": "Speed = Distance / Time = 45 / 3 = 15 km/h."
+        },
+        {
+            "question": "A bus travels 240 km in 4 hours. What is its speed in km/h?",
+            "options": [
+                "60",
+                "70",
+                "80"
+            ],
+            "answer": "A",
+            "explanation": "Speed = Distance / Time = 240 / 4 = 60 km/h."
+        },
+        {
+            "question": "If a person walks at a speed of 5 km/h for 2 hours, how far do they walk?",
+            "options": [
+                "10 km",
+                "12 km",
+                "15 km"
+            ],
+            "answer": "A",
+            "explanation": "Distance = Speed × Time = 5 × 2 = 10 km."
+        },
+        {
+            "question": "A train travels 300 km in 5 hours. What is its speed in km/h?",
+            "options": [
+                "60",
+                "50",
+                "70"
+            ],
+            "answer": "B",
+            "explanation": "Speed = Distance / Time = 300 / 5 = 60 km/h."
+        },
+        {
+            "question": "If a car travels at 80 km/h for 2.5 hours, how far does it travel?",
+            "options": [
+                "200 km",
+                "180 km",
+                "220 km"
+            ],
+            "answer": "A",
+            "explanation": "Distance = Speed × Time = 80 × 2.5 = 200 km."
+        },
+        {
+            "question": "A person runs 12 km in 1.5 hours. What is their speed in km/h?",
+            "options": [
+                "8",
+                "10",
+                "12"
+            ],
+            "answer": "A",
+            "explanation": "Speed = Distance / Time = 12 / 1.5 = 8 km/h."
+        },
+        {
+            "question": "If a train travels at 90 km/h for 4 hours, how far does it travel?",
+            "options": [
+                "360 km",
+                "400 km",
+                "450 km"
+            ],
+            "answer": "A",
+            "explanation": "Distance = Speed × Time = 90 × 4 = 360 km."
+        },
+        {
+            "question": "A cyclist covers 30 km in 2 hours. What is their speed in km/h?",
+            "options": [
+                "15",
+                "20",
+                "25"
+            ],
+            "answer": "A",
+            "explanation": "Speed = Distance / Time = 30 / 2 = 15 km/h."
+        },
+        {
+            "question": "If a car travels 240 km in 3 hours, what is its speed in km/h?",
+            "options": [
+                "80",
+                "70",
+                "90"
+            ],
+            "answer": "A",
+            "explanation": "Speed = Distance / Time = 240 / 3 = 80 km/h."
+        },
+        {
+            "question": "A bus travels at 60 km/h for 6 hours. How far does it travel?",
+            "options": [
+                "360 km",
+                "400 km",
+                "420 km"
+            ],
+            "answer": "A",
+            "explanation": "Distance = Speed × Time = 60 × 6 = 360 km."
+        },
+        {
+            "question": "If a person walks 18 km in 3 hours, what is their speed in km/h?",
+            "options": [
+                "6",
+                "5",
+                "7"
+            ],
+            "answer": "A",
+            "explanation": "Speed = Distance / Time = 18 / 3 = 6 km/h."
+        },
+        {
+            "question": "A train travels 500 km in 5 hours. What is its speed in km/h?",
+            "options": [
+                "100",
+                "90",
+                "110"
+            ],
+            "answer": "A",
+            "explanation": "Speed = Distance / Time = 500 / 5 = 100 km/h."
+        },
+        {
+            "question": "If a car travels at 70 km/h for 4 hours, how far does it travel?",
+            "options": [
+                "280 km",
+                "300 km",
+                "320 km"
+            ],
+            "answer": "A",
+            "explanation": "Distance = Speed × Time = 70 × 4 = 280 km."
+        },
+        {
+            "question": "A cyclist covers 40 km in 2.5 hours. What is their speed in km/h?",
+            "options": [
+                "16",
+                "15",
+                "18"
+            ],
+            "answer": "A",
+            "explanation": "Speed = Distance / Time = 40 / 2.5 = 16 km/h."
+        },
+        {
+            "question": "If a train travels at 120 km/h for 3 hours, how far does it travel?",
+            "options": [
+                "360 km",
+                "400 km",
+                "420 km"
+            ],
+            "answer": "A",
+            "explanation": "Distance = Speed × Time = 120 × 3 = 360 km."
+        },
+        {
+            "question": "A person runs 15 km in 2 hours. What is their speed in km/h?",
+            "options": [
+                "7.5",
+                "8",
+                "6.5"
+            ],
+            "answer": "A",
+            "explanation": "Speed = Distance / Time = 15 / 2 = 7.5 km/h."
+        },
+        {
+            "question": "If a car travels 300 km in 5 hours, what is its speed in km/h?",
+            "options": [
+                "60",
+                "70",
+                "80"
+            ],
+            "answer": "A",
+            "explanation": "Speed = Distance / Time = 300 / 5 = 60 km/h."
+        },
+        {
+            "question": "A bus travels at 90 km/h for 3.5 hours. How far does it travel?",
+            "options": [
+                "315 km",
+                "320 km",
+                "330 km"
+            ],
+            "answer": "A",
+            "explanation": "Distance = Speed × Time = 90 × 3.5 = 315 km."
+        },
+        {
+            "question": "If a cyclist covers 25 km in 1.5 hours, what is their speed in km/h?",
+            "options": [
+                "16.67",
+                "15",
+                "18"
+            ],
+            "answer": "A",
+            "explanation": "Speed = Distance / Time = 25 / 1.5 ≈ 16.67 km/h."
+        },
+        {
+            "question": "A train travels 600 km in 6 hours. What is its speed in km/h?",
+            "options": [
+                "100",
+                "90",
+                "110"
+            ],
+            "answer": "A",
+            "explanation": "Speed = Distance / Time = 600 / 6 = 100 km/h."
+        },
+        {
+            "question": "If a car travels at 75 km/h for 4 hours, how far does it travel?",
+            "options": [
+                "300 km",
+                "320 km",
+                "350 km"
+            ],
+            "answer": "A",
+            "explanation": "Distance = Speed × Time = 75 × 4 = 300 km."
+        },
+        {
+            "question": "A cyclist covers 50 km in 2 hours. What is their speed in km/h?",
+            "options": [
+                "25",
+                "20",
+                "30"
+            ],
+            "answer": "A",
+            "explanation": "Speed = Distance / Time = 50 / 2 = 25 km/h."
+        },
+        {
+            "question": "If a train travels at 110 km/h for 5 hours, how far does it travel?",
+            "options": [
+                "550 km",
+                "500 km",
+                "600 km"
+            ],
+            "answer": "A",
+            "explanation": "Distance = Speed × Time = 110 × 5 = 550 km."
+        },
+        {
+            "question": "A person walks 21 km in 3 hours. What is their speed in km/h?",
+            "options": [
+                "7",
+                "6",
+                "8"
+            ],
+            "answer": "A",
+            "explanation": "Speed = Distance / Time = 21 / 3 = 7 km/h."
+        },
+        {
+            "question": "If a car travels 400 km in 5 hours, what is its speed in km/h?",
+            "options": [
+                "80",
+                "70",
+                "90"
+            ],
+            "answer": "A",
+            "explanation": "Speed = Distance / Time = 400 / 5 = 80 km/h."
+        },
+        {
+            "question": "A bus travels at 100 km/h for 3 hours. How far does it travel?",
+            "options": [
+                "300 km",
+                "320 km",
+                "350 km"
+            ],
+            "answer": "A",
+            "explanation": "Distance = Speed × Time = 100 × 3 = 300 km."
+        },
+        {
+            "question": "If a cyclist covers 60 km in 2.5 hours, what is their speed in km/h?",
+            "options": [
+                "24",
+                "25",
+                "26"
+            ],
+            "answer": "A",
+            "explanation": "Speed = Distance / Time = 60 / 2.5 = 24 km/h."
         }
     ]
 }

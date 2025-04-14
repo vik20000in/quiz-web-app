@@ -1,0 +1,294 @@
+{
+    "questions": [
+        {
+            "question": "What river was the lifeline of the Egyptian civilization?",
+            "options": [
+                "Nile",
+                "Amazon",
+                "Tigris"
+            ],
+            "answer": "A",
+            "explanation": "The Nile River was the lifeline of the Egyptian civilization, providing water and fertile soil."
+        },
+        {
+            "question": "What was the writing system used by ancient Egyptians?",
+            "options": [
+                "Hieroglyphics",
+                "Cuneiform",
+                "Sanskrit"
+            ],
+            "answer": "A",
+            "explanation": "The ancient Egyptians used hieroglyphics as their writing system."
+        },
+        {
+            "question": "What were the massive tombs built for Egyptian pharaohs called?",
+            "options": [
+                "Pyramids",
+                "Ziggurats",
+                "Temples"
+            ],
+            "answer": "A",
+            "explanation": "The pyramids were massive tombs built for Egyptian pharaohs."
+        },
+        {
+            "question": "Who was the sun god in ancient Egyptian religion?",
+            "options": [
+                "Ra",
+                "Osiris",
+                "Anubis"
+            ],
+            "answer": "A",
+            "explanation": "Ra was the sun god in ancient Egyptian religion."
+        },
+        {
+            "question": "What material did Egyptians use to write on?",
+            "options": [
+                "Papyrus",
+                "Clay tablets",
+                "Animal skins"
+            ],
+            "answer": "A",
+            "explanation": "The Egyptians used papyrus, made from the papyrus plant, to write on."
+        },
+        {
+            "question": "Which pharaoh is known for building the Great Pyramid of Giza?",
+            "options": [
+                "Khufu",
+                "Tutankhamun",
+                "Ramses II"
+            ],
+            "answer": "A",
+            "explanation": "Pharaoh Khufu is known for building the Great Pyramid of Giza."
+        },
+        {
+            "question": "What was the purpose of mummification in ancient Egypt?",
+            "options": [
+                "To preserve the body for the afterlife",
+                "To prevent disease",
+                "To honor the gods"
+            ],
+            "answer": "A",
+            "explanation": "Mummification was done to preserve the body for the afterlife."
+        },
+        {
+            "question": "What was the title of the ruler of ancient Egypt?",
+            "options": [
+                "Pharaoh",
+                "King",
+                "Emperor"
+            ],
+            "answer": "A",
+            "explanation": "The ruler of ancient Egypt was called a pharaoh."
+        },
+        {
+            "question": "What was the Rosetta Stone used for?",
+            "options": [
+                "Deciphering hieroglyphics",
+                "Building pyramids",
+                "Recording laws"
+            ],
+            "answer": "A",
+            "explanation": "The Rosetta Stone was used to decipher hieroglyphics."
+        },
+        {
+            "question": "Which god was associated with the afterlife in Egyptian mythology?",
+            "options": [
+                "Osiris",
+                "Ra",
+                "Horus"
+            ],
+            "answer": "A",
+            "explanation": "Osiris was the god associated with the afterlife in Egyptian mythology."
+        },
+        {
+            "question": "What was the capital of ancient Egypt during the Old Kingdom?",
+            "options": [
+                "Memphis",
+                "Thebes",
+                "Alexandria"
+            ],
+            "answer": "A",
+            "explanation": "Memphis was the capital of ancient Egypt during the Old Kingdom."
+        },
+        {
+            "question": "What was the primary purpose of the pyramids?",
+            "options": [
+                "Tombs for pharaohs",
+                "Temples for gods",
+                "Storage for grain"
+            ],
+            "answer": "A",
+            "explanation": "The primary purpose of the pyramids was to serve as tombs for pharaohs."
+        },
+        {
+            "question": "What was the name of the Egyptian queen who ruled as a pharaoh?",
+            "options": [
+                "Hatshepsut",
+                "Cleopatra",
+                "Nefertiti"
+            ],
+            "answer": "A",
+            "explanation": "Hatshepsut was an Egyptian queen who ruled as a pharaoh."
+        },
+        {
+            "question": "What was the Book of the Dead?",
+            "options": [
+                "A guide for the afterlife",
+                "A record of laws",
+                "A history of Egypt"
+            ],
+            "answer": "A",
+            "explanation": "The Book of the Dead was a guide for the afterlife."
+        },
+        {
+            "question": "What was the primary building material used for constructing pyramids?",
+            "options": [
+                "Limestone",
+                "Granite",
+                "Marble"
+            ],
+            "answer": "A",
+            "explanation": "Limestone was the primary building material used for constructing pyramids."
+        },
+        {
+            "question": "What was the role of the vizier in ancient Egypt?",
+            "options": [
+                "Chief advisor to the pharaoh",
+                "Priest of the temple",
+                "Commander of the army"
+            ],
+            "answer": "A",
+            "explanation": "The vizier was the chief advisor to the pharaoh."
+        },
+        {
+            "question": "What was the significance of the Nile River's annual flooding?",
+            "options": [
+                "It provided fertile soil for farming",
+                "It destroyed crops",
+                "It created new trade routes"
+            ],
+            "answer": "A",
+            "explanation": "The Nile River's annual flooding provided fertile soil for farming."
+        },
+        {
+            "question": "What was the name of the ancient Egyptian writing tool?",
+            "options": [
+                "Reed pen",
+                "Quill",
+                "Chisel"
+            ],
+            "answer": "A",
+            "explanation": "The ancient Egyptians used a reed pen for writing."
+        },
+        {
+            "question": "What was the purpose of the Sphinx in ancient Egypt?",
+            "options": [
+                "To guard the pyramids",
+                "To serve as a temple",
+                "To store treasures"
+            ],
+            "answer": "A",
+            "explanation": "The Sphinx was built to guard the pyramids."
+        },
+        {
+            "question": "What was the name of the ancient Egyptian sun disk god?",
+            "options": [
+                "Aten",
+                "Ra",
+                "Horus"
+            ],
+            "answer": "A",
+            "explanation": "Aten was the ancient Egyptian sun disk god."
+        },
+        {
+            "question": "What was the primary occupation of most ancient Egyptians?",
+            "options": [
+                "Farming",
+                "Trading",
+                "Craftsmanship"
+            ],
+            "answer": "A",
+            "explanation": "Most ancient Egyptians were farmers."
+        },
+        {
+            "question": "What was the name of the ceremonial crown worn by pharaohs?",
+            "options": [
+                "Pschent",
+                "Diadem",
+                "Tiara"
+            ],
+            "answer": "A",
+            "explanation": "The Pschent was the ceremonial crown worn by pharaohs."
+        },
+        {
+            "question": "What was the name of the ancient Egyptian goddess of love and beauty?",
+            "options": [
+                "Hathor",
+                "Isis",
+                "Nephthys"
+            ],
+            "answer": "A",
+            "explanation": "Hathor was the ancient Egyptian goddess of love and beauty."
+        },
+        {
+            "question": "What was the name of the ancient Egyptian god of mummification?",
+            "options": [
+                "Anubis",
+                "Osiris",
+                "Horus"
+            ],
+            "answer": "A",
+            "explanation": "Anubis was the ancient Egyptian god of mummification."
+        },
+        {
+            "question": "What was the name of the ancient Egyptian goddess of magic and motherhood?",
+            "options": [
+                "Isis",
+                "Hathor",
+                "Nephthys"
+            ],
+            "answer": "A",
+            "explanation": "Isis was the ancient Egyptian goddess of magic and motherhood."
+        },
+        {
+            "question": "What was the name of the ancient Egyptian god of chaos?",
+            "options": [
+                "Set",
+                "Osiris",
+                "Ra"
+            ],
+            "answer": "A",
+            "explanation": "Set was the ancient Egyptian god of chaos."
+        },
+        {
+            "question": "What was the name of the ancient Egyptian god of the sky?",
+            "options": [
+                "Horus",
+                "Ra",
+                "Anubis"
+            ],
+            "answer": "A",
+            "explanation": "Horus was the ancient Egyptian god of the sky."
+        },
+        {
+            "question": "What was the name of the ancient Egyptian goddess of truth and justice?",
+            "options": [
+                "Ma'at",
+                "Isis",
+                "Hathor"
+            ],
+            "answer": "A",
+            "explanation": "Ma'at was the ancient Egyptian goddess of truth and justice."
+        },
+        {
+            "question": "What was the name of the ancient Egyptian god of the underworld?",
+            "options": [
+                "Osiris",
+                "Anubis",
+                "Set"
+            ],
+            "answer": "A",
+            "explanation": "Osiris was the ancient Egyptian god of the underworld."
+        }
+    ]
+}

@@ -1,114 +1,295 @@
 {
     "questions": [
+   
         {
-            "question": "What is 11 * 14?",
+            "question": "What is 123 * 45?",
             "options": [
-                "144",
-                "154",
-                "164"
-            ],
-            "answer": "B",
-            "explanation": "11 * 14 = 154."
-        },
-        {
-            "question": "What is 12 multiplied by 15?",
-            "options": [
-                "180",
-                "190",
-                "200"
+                "5535",
+                "5530",
+                "5545"
             ],
             "answer": "A",
-            "explanation": "12 multiplied by 15 is 180."
+            "explanation": "123 * 45 = 5535."
         },
         {
-            "question": "What is 23 multiplied by 19?",
+            "question": "What is 234 * 56?",
             "options": [
-                "437",
-                "447",
-                "457"
-            ],
-            "answer": "B",
-            "explanation": "23 multiplied by 19 is 437."
-        },
-        {
-            "question": "What is 34 multiplied by 21?",
-            "options": [
-                "714",
-                "724",
-                "734"
+                "13104",
+                "13094",
+                "13114"
             ],
             "answer": "A",
-            "explanation": "34 multiplied by 21 is 714."
+            "explanation": "234 * 56 = 13104."
         },
         {
-            "question": "What is 45 multiplied by 32?",
+            "question": "What is 345 * 67?",
             "options": [
-                "1440",
-                "1450",
-                "1460"
+                "23115",
+                "23105",
+                "23125"
             ],
             "answer": "A",
-            "explanation": "45 multiplied by 32 is 1440."
+            "explanation": "345 * 67 = 23115."
         },
         {
-            "question": "What is 56 multiplied by 43?",
+            "question": "What is 456 * 78?",
             "options": [
-                "2408",
-                "2418",
-                "2428"
+                "35568",
+                "35558",
+                "35578"
             ],
             "answer": "A",
-            "explanation": "56 multiplied by 43 is 2408."
+            "explanation": "456 * 78 = 35568."
         },
         {
-            "question": "What is 67 multiplied by 54?",
+            "question": "What is 567 * 89?",
             "options": [
-                "3618",
-                "3628",
-                "3638"
+                "50463",
+                "50453",
+                "50473"
             ],
             "answer": "A",
-            "explanation": "67 multiplied by 54 is 3618."
+            "explanation": "567 * 89 = 50463."
         },
         {
-            "question": "What is 78 multiplied by 65?",
+            "question": "What is 678 * 90?",
             "options": [
-                "5070",
-                "5080",
-                "5090"
+                "61020",
+                "61010",
+                "61030"
             ],
             "answer": "A",
-            "explanation": "78 multiplied by 65 is 5070."
+            "explanation": "678 * 90 = 61020."
         },
         {
-            "question": "What is 89 multiplied by 76?",
+            "question": "What is 789 * 12?",
             "options": [
-                "6764",
-                "6774",
-                "6784"
+                "9468",
+                "9458",
+                "9478"
             ],
             "answer": "A",
-            "explanation": "89 multiplied by 76 is 6764."
+            "explanation": "789 * 12 = 9468."
         },
         {
-            "question": "What is 91 multiplied by 82?",
+            "question": "What is 890 * 23?",
             "options": [
-                "7462",
-                "7472",
-                "7482"
+                "20470",
+                "20460",
+                "20480"
             ],
             "answer": "A",
-            "explanation": "91 multiplied by 82 is 7462."
+            "explanation": "890 * 23 = 20470."
         },
         {
-            "question": "What is 34 multiplied by 56?",
+            "question": "What is 901 * 34?",
             "options": [
-                "1904",
-                "1914",
-                "1924"
+                "30634",
+                "30624",
+                "30644"
             ],
             "answer": "A",
-            "explanation": "34 multiplied by 56 is 1904."
+            "explanation": "901 * 34 = 30634."
+        },
+        {
+            "question": "What is 1234 * 45?",
+            "options": [
+                "55530",
+                "55520",
+                "55540"
+            ],
+            "answer": "A",
+            "explanation": "1234 * 45 = 55530."
+        },
+        {
+            "question": "What is 2345 * 56?",
+            "options": [
+                "131320",
+                "131310",
+                "131330"
+            ],
+            "answer": "A",
+            "explanation": "2345 * 56 = 131320."
+        },
+        {
+            "question": "What is 3456 * 67?",
+            "options": [
+                "231552",
+                "231542",
+                "231562"
+            ],
+            "answer": "A",
+            "explanation": "3456 * 67 = 231552."
+        },
+        {
+            "question": "What is 4567 * 78?",
+            "options": [
+                "356226",
+                "356216",
+                "356236"
+            ],
+            "answer": "A",
+            "explanation": "4567 * 78 = 356226."
+        },
+        {
+            "question": "What is 5678 * 89?",
+            "options": [
+                "505342",
+                "505332",
+                "505352"
+            ],
+            "answer": "A",
+            "explanation": "5678 * 89 = 505342."
+        },
+        {
+            "question": "What is 6789 * 90?",
+            "options": [
+                "611010",
+                "611000",
+                "611020"
+            ],
+            "answer": "A",
+            "explanation": "6789 * 90 = 611010."
+        },
+        {
+            "question": "What is 7890 * 12?",
+            "options": [
+                "94680",
+                "94670",
+                "94690"
+            ],
+            "answer": "A",
+            "explanation": "7890 * 12 = 94680."
+        },
+        {
+            "question": "What is 8901 * 23?",
+            "options": [
+                "204723",
+                "204713",
+                "204733"
+            ],
+            "answer": "A",
+            "explanation": "8901 * 23 = 204723."
+        },
+        {
+            "question": "What is 9012 * 34?",
+            "options": [
+                "306408",
+                "306398",
+                "306418"
+            ],
+            "answer": "A",
+            "explanation": "9012 * 34 = 306408."
+        },
+        {
+            "question": "What is 12345 * 45?",
+            "options": [
+                "555525",
+                "555515",
+                "555535"
+            ],
+            "answer": "A",
+            "explanation": "12345 * 45 = 555525."
+        },
+        {
+            "question": "What is 23456 * 56?",
+            "options": [
+                "1313536",
+                "1313526",
+                "1313546"
+            ],
+            "answer": "A",
+            "explanation": "23456 * 56 = 1313536."
+        },
+        {
+            "question": "What is 34567 * 67?",
+            "options": [
+                "2315989",
+                "2315979",
+                "2315999"
+            ],
+            "answer": "A",
+            "explanation": "34567 * 67 = 2315989."
+        },
+        {
+            "question": "What is 45678 * 78?",
+            "options": [
+                "3562884",
+                "3562874",
+                "3562894"
+            ],
+            "answer": "A",
+            "explanation": "45678 * 78 = 3562884."
+        },
+        {
+            "question": "What is 56789 * 89?",
+            "options": [
+                "5054221",
+                "5054211",
+                "5054231"
+            ],
+            "answer": "A",
+            "explanation": "56789 * 89 = 5054221."
+        },
+        {
+            "question": "What is 67890 * 90?",
+            "options": [
+                "6110100",
+                "6110090",
+                "6110110"
+            ],
+            "answer": "A",
+            "explanation": "67890 * 90 = 6110100."
+        },
+        {
+            "question": "What is 78901 * 12?",
+            "options": [
+                "946812",
+                "946802",
+                "946822"
+            ],
+            "answer": "A",
+            "explanation": "78901 * 12 = 946812."
+        },
+        {
+            "question": "What is 89012 * 23?",
+            "options": [
+                "2047286",
+                "2047276",
+                "2047296"
+            ],
+            "answer": "A",
+            "explanation": "89012 * 23 = 2047286."
+        },
+        {
+            "question": "What is 90123 * 34?",
+            "options": [
+                "3064182",
+                "3064172",
+                "3064192"
+            ],
+            "answer": "A",
+            "explanation": "90123 * 34 = 3064182."
+        },
+        {
+            "question": "What is 123456 * 45?",
+            "options": [
+                "5555520",
+                "5555510",
+                "5555530"
+            ],
+            "answer": "A",
+            "explanation": "123456 * 45 = 5555520."
+        },
+        {
+            "question": "What is 234567 * 56?",
+            "options": [
+                "13135752",
+                "13135742",
+                "13135762"
+            ],
+            "answer": "A",
+            "explanation": "234567 * 56 = 13135752."
         }
     ]
 }

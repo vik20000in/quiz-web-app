@@ -1,154 +1,294 @@
 {
     "questions": [
         {
-            "question": "Solve for x: 2x + 5 = 15",
-            "options": ["5", "10", "15"],
+            "question": "Solve for x: 3x + 7 = 25",
+            "options": [
+                "6",
+                "7",
+                "8"
+            ],
             "answer": "A",
-            "explanation": "Subtract 5 from both sides and divide by 2: x = (15 - 5) / 2 = 5."
+            "explanation": "3x + 7 = 25 => 3x = 18 => x = 6."
         },
         {
-            "question": "If 3x = 12, what is the value of x?",
-            "options": ["2", "3", "4"],
+            "question": "Solve for y: 5y - 9 = 16",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
             "answer": "C",
-            "explanation": "Divide both sides by 3: x = 12 / 3 = 4."
+            "explanation": "5y - 9 = 16 => 5y = 25 => y = 5."
         },
         {
-            "question": "Solve for x: x - 7 = 10",
-            "options": ["17", "3", "7"],
+            "question": "If 2x - 3 = 7, what is the value of x?",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
             "answer": "A",
-            "explanation": "Add 7 to both sides: x = 10 + 7 = 17."
+            "explanation": "2x - 3 = 7 => 2x = 10 => x = 5."
         },
         {
-            "question": "What is the solution to 5x = 25?",
-            "options": ["1", "5", "10"],
+            "question": "Solve for x: 4x + 5 = 2x + 15",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
             "answer": "B",
-            "explanation": "Divide both sides by 5: x = 25 / 5 = 5."
+            "explanation": "4x + 5 = 2x + 15 => 2x = 10 => x = 5."
         },
         {
-            "question": "Solve for x: 4x + 3 = 19",
-            "options": ["4", "5", "6"],
-            "answer": "B",
-            "explanation": "Subtract 3 from both sides and divide by 4: x = (19 - 3) / 4 = 4."
-        },
-        {
-            "question": "If 2x - 4 = 10, what is x?",
-            "options": ["6", "7", "8"],
+            "question": "If 3x + 4 = 2x + 9, find x.",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
             "answer": "A",
-            "explanation": "Add 4 to both sides and divide by 2: x = (10 + 4) / 2 = 6."
+            "explanation": "3x + 4 = 2x + 9 => x = 5."
         },
         {
-            "question": "Solve for x: x/2 = 8",
-            "options": ["4", "8", "16"],
+            "question": "Solve for y: 7y - 4 = 3y + 12",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
             "answer": "C",
-            "explanation": "Multiply both sides by 2: x = 8 * 2 = 16."
+            "explanation": "7y - 4 = 3y + 12 => 4y = 16 => y = 4."
         },
         {
-            "question": "What is the value of x in 3x + 6 = 15?",
-            "options": ["3", "4", "5"],
+            "question": "If 5x - 3 = 2x + 12, find x.",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
+            "answer": "B",
+            "explanation": "5x - 3 = 2x + 12 => 3x = 15 => x = 5."
+        },
+        {
+            "question": "Solve for x: 6x + 2 = 4x + 10",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
+            "answer": "C",
+            "explanation": "6x + 2 = 4x + 10 => 2x = 8 => x = 4."
+        },
+        {
+            "question": "If 8x - 5 = 3x + 15, find x.",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
             "answer": "A",
-            "explanation": "Subtract 6 from both sides and divide by 3: x = (15 - 6) / 3 = 3."
+            "explanation": "8x - 5 = 3x + 15 => 5x = 20 => x = 4."
         },
         {
-            "question": "Solve for x: 7x = 49",
-            "options": ["5", "6", "7"],
+            "question": "Solve for y: 9y + 3 = 6y + 18",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
+            "answer": "B",
+            "explanation": "9y + 3 = 6y + 18 => 3y = 15 => y = 5."
+        },
+        {
+            "question": "If 10x - 7 = 3x + 14, find x.",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
             "answer": "C",
-            "explanation": "Divide both sides by 7: x = 49 / 7 = 7."
+            "explanation": "10x - 7 = 3x + 14 => 7x = 21 => x = 3."
         },
         {
-            "question": "If x + 9 = 20, what is x?",
-            "options": ["9", "10", "11"],
-            "answer": "C",
-            "explanation": "Subtract 9 from both sides: x = 20 - 9 = 11."
-        },
-        {
-            "question": "Solve for x: 6x - 2 = 16",
-            "options": ["2", "3", "4"],
-            "answer": "C",
-            "explanation": "Add 2 to both sides and divide by 6: x = (16 + 2) / 6 = 3."
-        },
-        {
-            "question": "What is the solution to x/3 = 9?",
-            "options": ["27", "18", "9"],
+            "question": "Solve for x: 12x + 4 = 8x + 20",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
             "answer": "A",
-            "explanation": "Multiply both sides by 3: x = 9 * 3 = 27."
+            "explanation": "12x + 4 = 8x + 20 => 4x = 16 => x = 4."
         },
         {
-            "question": "Solve for x: 5x + 10 = 35",
-            "options": ["3", "4", "5"],
+            "question": "If 15x - 9 = 6x + 18, find x.",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
             "answer": "B",
-            "explanation": "Subtract 10 from both sides and divide by 5: x = (35 - 10) / 5 = 5."
+            "explanation": "15x - 9 = 6x + 18 => 9x = 27 => x = 3."
         },
         {
-            "question": "If 4x = 32, what is x?",
-            "options": ["6", "7", "8"],
+            "question": "Solve for y: 18y + 6 = 12y + 24",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
             "answer": "C",
-            "explanation": "Divide both sides by 4: x = 32 / 4 = 8."
+            "explanation": "18y + 6 = 12y + 24 => 6y = 18 => y = 3."
         },
         {
-            "question": "Solve for x: x - 5 = 15",
-            "options": ["10", "15", "20"],
-            "answer": "C",
-            "explanation": "Add 5 to both sides: x = 15 + 5 = 20."
+            "question": "If 20x - 8 = 10x + 32, find x.",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
+            "answer": "A",
+            "explanation": "20x - 8 = 10x + 32 => 10x = 40 => x = 4."
         },
         {
-            "question": "What is the value of x in 2x + 3 = 11?",
-            "options": ["3", "4", "5"],
+            "question": "Solve for x: 25x + 10 = 15x + 50",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
             "answer": "B",
-            "explanation": "Subtract 3 from both sides and divide by 2: x = (11 - 3) / 2 = 4."
+            "explanation": "25x + 10 = 15x + 50 => 10x = 40 => x = 4."
         },
         {
-            "question": "Solve for x: 3x - 9 = 0",
-            "options": ["2", "3", "4"],
+            "question": "If 30x - 12 = 20x + 48, find x.",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
+            "answer": "C",
+            "explanation": "30x - 12 = 20x + 48 => 10x = 60 => x = 6."
+        },
+        {
+            "question": "Solve for y: 35y + 14 = 25y + 64",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
+            "answer": "A",
+            "explanation": "35y + 14 = 25y + 64 => 10y = 50 => y = 5."
+        },
+        {
+            "question": "If 40x - 16 = 30x + 64, find x.",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
             "answer": "B",
-            "explanation": "Add 9 to both sides and divide by 3: x = 9 / 3 = 3."
+            "explanation": "40x - 16 = 30x + 64 => 10x = 80 => x = 8."
         },
         {
-            "question": "If x/4 = 5, what is x?",
-            "options": ["10", "15", "20"],
+            "question": "Solve for x: 45x + 18 = 35x + 78",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
             "answer": "C",
-            "explanation": "Multiply both sides by 4: x = 5 * 4 = 20."
+            "explanation": "45x + 18 = 35x + 78 => 10x = 60 => x = 6."
         },
         {
-            "question": "Solve for x: 7x + 2 = 30",
-            "options": ["3", "4", "5"],
-            "answer": "C",
-            "explanation": "Subtract 2 from both sides and divide by 7: x = (30 - 2) / 7 = 4."
+            "question": "If 50x - 20 = 40x + 80, find x.",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
+            "answer": "A",
+            "explanation": "50x - 20 = 40x + 80 => 10x = 100 => x = 10."
         },
         {
-            "question": "What is the solution to 8x = 64?",
-            "options": ["6", "7", "8"],
-            "answer": "C",
-            "explanation": "Divide both sides by 8: x = 64 / 8 = 8."
-        },
-        {
-            "question": "Solve for x: x + 12 = 25",
-            "options": ["10", "11", "13"],
-            "answer": "C",
-            "explanation": "Subtract 12 from both sides: x = 25 - 12 = 13."
-        },
-        {
-            "question": "If 9x = 81, what is x?",
-            "options": ["8", "9", "10"],
+            "question": "Solve for y: 55y + 22 = 45y + 102",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
             "answer": "B",
-            "explanation": "Divide both sides by 9: x = 81 / 9 = 9."
+            "explanation": "55y + 22 = 45y + 102 => 10y = 80 => y = 8."
         },
         {
-            "question": "Solve for x: 10x - 5 = 45",
-            "options": ["4", "5", "6"],
+            "question": "If 60x - 24 = 50x + 96, find x.",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
             "answer": "C",
-            "explanation": "Add 5 to both sides and divide by 10: x = (45 + 5) / 10 = 5."
+            "explanation": "60x - 24 = 50x + 96 => 10x = 120 => x = 12."
         },
         {
-            "question": "What is the value of x in x/5 = 6?",
-            "options": ["25", "30", "35"],
+            "question": "Solve for x: 65x + 26 = 55x + 126",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
+            "answer": "A",
+            "explanation": "65x + 26 = 55x + 126 => 10x = 100 => x = 10."
+        },
+        {
+            "question": "If 70x - 28 = 60x + 112, find x.",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
             "answer": "B",
-            "explanation": "Multiply both sides by 5: x = 6 * 5 = 30."
+            "explanation": "70x - 28 = 60x + 112 => 10x = 140 => x = 14."
         },
         {
-            "question": "Solve for x: 2x + 8 = 20",
-            "options": ["4", "5", "6"],
+            "question": "Solve for y: 75y + 30 = 65y + 150",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
             "answer": "C",
-            "explanation": "Subtract 8 from both sides and divide by 2: x = (20 - 8) / 2 = 6."
+            "explanation": "75y + 30 = 65y + 150 => 10y = 120 => y = 12."
+        },
+        {
+            "question": "If 80x - 32 = 70x + 128, find x.",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
+            "answer": "A",
+            "explanation": "80x - 32 = 70x + 128 => 10x = 160 => x = 16."
+        },
+        {
+            "question": "Solve for x: 85x + 34 = 75x + 174",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
+            "answer": "B",
+            "explanation": "85x + 34 = 75x + 174 => 10x = 140 => x = 14."
+        },
+        {
+            "question": "If 90x - 36 = 80x + 144, find x.",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
+            "answer": "C",
+            "explanation": "90x - 36 = 80x + 144 => 10x = 180 => x = 18."
         }
     ]
 }

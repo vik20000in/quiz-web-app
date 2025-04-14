@@ -11,244 +11,294 @@
             "explanation": "Matter is made up of tiny particles that are too small to be seen with naked eyes."
         },
         {
-            "question": "Which force holds the particles of matter together?",
+            "question": "What is the smallest unit of matter?",
             "options": [
-                "Gravitational force",
-                "Magnetic force",
-                "Force of attraction between particles"
-            ],
-            "answer": "C",
-            "explanation": "The particles of matter are held together by the force of attraction between them."
-        },
-        {
-            "question": "What property of matter allows it to diffuse?",
-            "options": [
-                "Particles of matter are always in motion",
-                "Particles of matter have fixed positions",
-                "Particles of matter have no movement"
+                "Atom",
+                "Molecule",
+                "Electron"
             ],
             "answer": "A",
-            "explanation": "Particles of matter are always in motion, which allows matter to diffuse."
+            "explanation": "The smallest unit of matter is an atom."
         },
         {
-            "question": "Which state of matter has the strongest force of attraction between particles?",
+            "question": "Which state of matter has a definite shape and volume?",
             "options": [
                 "Solid",
                 "Liquid",
                 "Gas"
             ],
             "answer": "A",
-            "explanation": "Solids have the strongest force of attraction between particles, making them rigid."
+            "explanation": "Solids have a definite shape and volume."
         },
         {
-            "question": "What happens to the speed of particles when temperature increases?",
+            "question": "What is the process of changing a solid directly into a gas called?",
             "options": [
-                "Increases",
-                "Decreases",
-                "Remains the same"
+                "Sublimation",
+                "Condensation",
+                "Evaporation"
             ],
             "answer": "A",
-            "explanation": "When temperature increases, the speed of particles increases."
+            "explanation": "The process of changing a solid directly into a gas is called sublimation."
         },
         {
-            "question": "What is the process of changing from solid to liquid called?",
+            "question": "Which state of matter has particles that are far apart and move freely?",
+            "options": [
+                "Gas",
+                "Solid",
+                "Liquid"
+            ],
+            "answer": "A",
+            "explanation": "In gases, particles are far apart and move freely."
+        },
+        {
+            "question": "What is the process of changing a liquid into a gas called?",
+            "options": [
+                "Evaporation",
+                "Freezing",
+                "Condensation"
+            ],
+            "answer": "A",
+            "explanation": "The process of changing a liquid into a gas is called evaporation."
+        },
+        {
+            "question": "What is the process of changing a gas into a liquid called?",
+            "options": [
+                "Condensation",
+                "Sublimation",
+                "Melting"
+            ],
+            "answer": "A",
+            "explanation": "The process of changing a gas into a liquid is called condensation."
+        },
+        {
+            "question": "Which state of matter takes the shape of its container but has a definite volume?",
+            "options": [
+                "Liquid",
+                "Solid",
+                "Gas"
+            ],
+            "answer": "A",
+            "explanation": "Liquids take the shape of their container but have a definite volume."
+        },
+        {
+            "question": "What is the process of changing a liquid into a solid called?",
+            "options": [
+                "Freezing",
+                "Melting",
+                "Evaporation"
+            ],
+            "answer": "A",
+            "explanation": "The process of changing a liquid into a solid is called freezing."
+        },
+        {
+            "question": "What is the process of changing a solid into a liquid called?",
+            "options": [
+                "Melting",
+                "Freezing",
+                "Condensation"
+            ],
+            "answer": "A",
+            "explanation": "The process of changing a solid into a liquid is called melting."
+        },
+        {
+            "question": "Which state of matter has the highest energy?",
+            "options": [
+                "Gas",
+                "Solid",
+                "Liquid"
+            ],
+            "answer": "A",
+            "explanation": "Gases have the highest energy among the three states of matter."
+        },
+        {
+            "question": "What is the term for the amount of space an object occupies?",
+            "options": [
+                "Volume",
+                "Mass",
+                "Density"
+            ],
+            "answer": "A",
+            "explanation": "The amount of space an object occupies is called its volume."
+        },
+        {
+            "question": "What is the term for the amount of matter in an object?",
+            "options": [
+                "Mass",
+                "Volume",
+                "Density"
+            ],
+            "answer": "A",
+            "explanation": "The amount of matter in an object is called its mass."
+        },
+        {
+            "question": "What is the term for the mass per unit volume of a substance?",
+            "options": [
+                "Density",
+                "Mass",
+                "Volume"
+            ],
+            "answer": "A",
+            "explanation": "Density is the mass per unit volume of a substance."
+        },
+        {
+            "question": "What is the boiling point of water at sea level?",
+            "options": [
+                "100°C",
+                "0°C",
+                "50°C"
+            ],
+            "answer": "A",
+            "explanation": "The boiling point of water at sea level is 100°C."
+        },
+        {
+            "question": "What is the freezing point of water at sea level?",
+            "options": [
+                "0°C",
+                "100°C",
+                "50°C"
+            ],
+            "answer": "A",
+            "explanation": "The freezing point of water at sea level is 0°C."
+        },
+        {
+            "question": "What is the term for the upward force exerted by a fluid on an object?",
+            "options": [
+                "Buoyancy",
+                "Gravity",
+                "Friction"
+            ],
+            "answer": "A",
+            "explanation": "The upward force exerted by a fluid on an object is called buoyancy."
+        },
+        {
+            "question": "What is the term for the resistance of a liquid to flow?",
+            "options": [
+                "Viscosity",
+                "Density",
+                "Buoyancy"
+            ],
+            "answer": "A",
+            "explanation": "The resistance of a liquid to flow is called viscosity."
+        },
+        {
+            "question": "What is the term for the force that holds particles together in a solid?",
+            "options": [
+                "Intermolecular force",
+                "Gravity",
+                "Buoyancy"
+            ],
+            "answer": "A",
+            "explanation": "The force that holds particles together in a solid is called intermolecular force."
+        },
+        {
+            "question": "What is the term for the spreading of particles from an area of high concentration to low concentration?",
+            "options": [
+                "Diffusion",
+                "Osmosis",
+                "Evaporation"
+            ],
+            "answer": "A",
+            "explanation": "The spreading of particles from an area of high concentration to low concentration is called diffusion."
+        },
+        {
+            "question": "What is the term for the process by which plants release water vapor into the air?",
+            "options": [
+                "Transpiration",
+                "Evaporation",
+                "Condensation"
+            ],
+            "answer": "A",
+            "explanation": "The process by which plants release water vapor into the air is called transpiration."
+        },
+        {
+            "question": "What is the term for the process by which a liquid changes into a gas at its surface?",
+            "options": [
+                "Evaporation",
+                "Boiling",
+                "Condensation"
+            ],
+            "answer": "A",
+            "explanation": "The process by which a liquid changes into a gas at its surface is called evaporation."
+        },
+        {
+            "question": "What is the term for the process by which a gas changes directly into a solid?",
+            "options": [
+                "Deposition",
+                "Sublimation",
+                "Condensation"
+            ],
+            "answer": "A",
+            "explanation": "The process by which a gas changes directly into a solid is called deposition."
+        },
+        {
+            "question": "What is the term for the process by which a liquid changes into a solid?",
             "options": [
                 "Freezing",
                 "Melting",
                 "Condensation"
             ],
-            "answer": "B",
-            "explanation": "The process of changing from solid to liquid is called melting."
-        },
-        {
-            "question": "Which state of matter has particles arranged in a fixed pattern?",
-            "options": [
-                "Solid",
-                "Liquid",
-                "Gas"
-            ],
             "answer": "A",
-            "explanation": "Solid particles are arranged in a fixed pattern or regular arrangement."
+            "explanation": "The process by which a liquid changes into a solid is called freezing."
         },
         {
-            "question": "What is the space between particles called?",
+            "question": "What is the term for the process by which a solid changes into a liquid?",
             "options": [
-                "Intermolecular space",
-                "Vacuum",
-                "Air gap"
-            ],
-            "answer": "A",
-            "explanation": "The space between particles is called intermolecular space."
-        },
-        {
-            "question": "Which process shows that particles of matter are in continuous motion?",
-            "options": [
-                "Diffusion",
+                "Melting",
                 "Freezing",
-                "Melting"
+                "Condensation"
             ],
             "answer": "A",
-            "explanation": "Diffusion shows that particles of matter are in continuous motion."
+            "explanation": "The process by which a solid changes into a liquid is called melting."
         },
         {
-            "question": "What happens to intermolecular space when matter is heated?",
+            "question": "What is the term for the process by which a gas changes into a liquid?",
             "options": [
-                "Increases",
-                "Decreases",
-                "Remains same"
+                "Condensation",
+                "Evaporation",
+                "Sublimation"
             ],
             "answer": "A",
-            "explanation": "When matter is heated, intermolecular space increases due to increased particle movement."
+            "explanation": "The process by which a gas changes into a liquid is called condensation."
         },
         {
-            "question": "Which state of matter has the least intermolecular force?",
-            "options": [
-                "Solid",
-                "Liquid",
-                "Gas"
-            ],
-            "answer": "C",
-            "explanation": "Gases have the least intermolecular force between their particles."
-        },
-        {
-            "question": "What property allows liquids to flow?",
-            "options": [
-                "Fixed shape",
-                "Fluidity",
-                "Compression"
-            ],
-            "answer": "B",
-            "explanation": "Fluidity is the property that allows liquids to flow."
-        },
-        {
-            "question": "What happens during evaporation?",
-            "options": [
-                "Liquid changes to gas",
-                "Gas changes to liquid",
-                "Solid changes to liquid"
-            ],
-            "answer": "A",
-            "explanation": "During evaporation, liquid changes to gas state."
-        },
-        {
-            "question": "Which state of matter has a definite volume but no definite shape?",
-            "options": [
-                "Solid",
-                "Liquid",
-                "Gas"
-            ],
-            "answer": "B",
-            "explanation": "Liquids have a definite volume but take the shape of their container."
-        },
-        {
-            "question": "What is sublimation?",
-            "options": [
-                "Solid directly changes to gas",
-                "Liquid changes to solid",
-                "Gas changes to liquid"
-            ],
-            "answer": "A",
-            "explanation": "Sublimation is the process where a solid directly changes to gas state."
-        },
-        {
-            "question": "Which factor affects the rate of diffusion?",
-            "options": [
-                "Temperature",
-                "Color",
-                "Shape"
-            ],
-            "answer": "A",
-            "explanation": "Temperature affects the rate of diffusion - higher temperature means faster diffusion."
-        },
-        {
-            "question": "What is condensation?",
-            "options": [
-                "Gas to liquid",
-                "Liquid to gas",
-                "Solid to liquid"
-            ],
-            "answer": "A",
-            "explanation": "Condensation is the process where gas changes to liquid state."
-        },
-        {
-            "question": "Which state of matter can be compressed easily?",
-            "options": [
-                "Solid",
-                "Liquid",
-                "Gas"
-            ],
-            "answer": "C",
-            "explanation": "Gases can be compressed easily due to large intermolecular spaces."
-        },
-        {
-            "question": "What happens to particles during freezing?",
-            "options": [
-                "Gain energy",
-                "Lose energy",
-                "No change in energy"
-            ],
-            "answer": "B",
-            "explanation": "During freezing, particles lose energy and come closer together."
-        },
-        {
-            "question": "Which process shows conversion of water vapor to water?",
+            "question": "What is the term for the process by which a liquid changes into a gas?",
             "options": [
                 "Evaporation",
                 "Condensation",
-                "Melting"
-            ],
-            "answer": "B",
-            "explanation": "Condensation shows the conversion of water vapor (gas) to water (liquid)."
-        },
-        {
-            "question": "What is the arrangement of particles in gases?",
-            "options": [
-                "Random and far apart",
-                "Fixed and close",
-                "Ordered and separate"
+                "Freezing"
             ],
             "answer": "A",
-            "explanation": "In gases, particles are arranged randomly and are far apart."
+            "explanation": "The process by which a liquid changes into a gas is called evaporation."
         },
         {
-            "question": "Which state of matter has particles vibrating at fixed positions?",
+            "question": "What is the term for the process by which a solid changes directly into a gas?",
             "options": [
-                "Solid",
-                "Liquid",
-                "Gas"
+                "Sublimation",
+                "Condensation",
+                "Evaporation"
             ],
             "answer": "A",
-            "explanation": "In solids, particles vibrate at their fixed positions."
+            "explanation": "The process by which a solid changes directly into a gas is called sublimation."
         },
         {
-            "question": "What happens to the movement of particles when temperature decreases?",
+            "question": "What is the term for the amount of matter in an object?",
             "options": [
-                "Increases",
-                "Decreases",
-                "Remains same"
-            ],
-            "answer": "B",
-            "explanation": "When temperature decreases, the movement of particles decreases."
-        },
-        {
-            "question": "Which process requires heat energy?",
-            "options": [
-                "Melting",
-                "Freezing",
-                "Condensation"
+                "Mass",
+                "Volume",
+                "Density"
             ],
             "answer": "A",
-            "explanation": "Melting requires heat energy to convert solid to liquid."
+            "explanation": "The amount of matter in an object is called its mass."
         },
         {
-            "question": "What determines the state of matter?",
+            "question": "What is the term for the amount of space an object occupies?",
             "options": [
-                "Force between particles",
-                "Color of matter",
-                "Weight of matter"
+                "Volume",
+                "Mass",
+                "Density"
             ],
             "answer": "A",
-            "explanation": "The force between particles determines the state of matter."
+            "explanation": "The amount of space an object occupies is called its volume."
         }
     ]
 }

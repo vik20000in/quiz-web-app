@@ -1,0 +1,304 @@
+{
+    "questions": [
+        {
+            "question": "What is the SI unit of length?",
+            "options": [
+                "Meter",
+                "Kilometer",
+                "Centimeter"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of length is the meter."
+        },
+        {
+            "question": "What is the SI unit of mass?",
+            "options": [
+                "Kilogram",
+                "Gram",
+                "Milligram"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of mass is the kilogram."
+        },
+        {
+            "question": "What is the SI unit of time?",
+            "options": [
+                "Second",
+                "Minute",
+                "Hour"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of time is the second."
+        },
+        {
+            "question": "What is the SI unit of temperature?",
+            "options": [
+                "Kelvin",
+                "Celsius",
+                "Fahrenheit"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of temperature is the Kelvin."
+        },
+        {
+            "question": "What is the SI unit of electric current?",
+            "options": [
+                "Ampere",
+                "Volt",
+                "Ohm"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of electric current is the ampere."
+        },
+        {
+            "question": "What is the SI unit of luminous intensity?",
+            "options": [
+                "Candela",
+                "Lumen",
+                "Lux"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of luminous intensity is the candela."
+        },
+        {
+            "question": "What is the SI unit of amount of substance?",
+            "options": [
+                "Mole",
+                "Gram",
+                "Kilogram"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of amount of substance is the mole."
+        },
+        {
+            "question": "What is the SI unit of force?",
+            "options": [
+                "Newton",
+                "Joule",
+                "Watt"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of force is the newton."
+        },
+        {
+            "question": "What is the SI unit of energy?",
+            "options": [
+                "Joule",
+                "Watt",
+                "Newton"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of energy is the joule."
+        },
+        {
+            "question": "What is the SI unit of power?",
+            "options": [
+                "Watt",
+                "Joule",
+                "Newton"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of power is the watt."
+        },
+        {
+            "question": "What is the SI unit of pressure?",
+            "options": [
+                "Pascal",
+                "Bar",
+                "Atmosphere"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of pressure is the pascal."
+        },
+        {
+            "question": "What is the SI unit of frequency?",
+            "options": [
+                "Hertz",
+                "Cycle",
+                "Wave"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of frequency is the hertz."
+        },
+        {
+            "question": "What is the SI unit of charge?",
+            "options": [
+                "Coulomb",
+                "Ampere",
+                "Volt"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of charge is the coulomb."
+        },
+        {
+            "question": "What is the SI unit of resistance?",
+            "options": [
+                "Ohm",
+                "Volt",
+                "Ampere"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of resistance is the ohm."
+        },
+        {
+            "question": "What is the SI unit of work?",
+            "options": [
+                "Joule",
+                "Newton",
+                "Watt"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of work is the joule."
+        },
+        {
+            "question": "What is the SI unit of velocity?",
+            "options": [
+                "Meter per second",
+                "Kilometer per hour",
+                "Miles per hour"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of velocity is meter per second."
+        },
+        {
+            "question": "What is the SI unit of acceleration?",
+            "options": [
+                "Meter per second squared",
+                "Kilometer per hour squared",
+                "Miles per hour squared"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of acceleration is meter per second squared."
+        },
+        {
+            "question": "What is the SI unit of density?",
+            "options": [
+                "Kilogram per cubic meter",
+                "Gram per cubic centimeter",
+                "Kilogram per liter"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of density is kilogram per cubic meter."
+        },
+        {
+            "question": "What is the SI unit of area?",
+            "options": [
+                "Square meter",
+                "Square kilometer",
+                "Square centimeter"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of area is the square meter."
+        },
+        {
+            "question": "What is the SI unit of volume?",
+            "options": [
+                "Cubic meter",
+                "Liter",
+                "Milliliter"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of volume is the cubic meter."
+        },
+        {
+            "question": "What is the SI unit of momentum?",
+            "options": [
+                "Kilogram meter per second",
+                "Newton second",
+                "Joule second"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of momentum is kilogram meter per second."
+        },
+        {
+            "question": "What is the SI unit of angular velocity?",
+            "options": [
+                "Radian per second",
+                "Degree per second",
+                "Cycle per second"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of angular velocity is radian per second."
+        },
+        {
+            "question": "What is the SI unit of angular acceleration?",
+            "options": [
+                "Radian per second squared",
+                "Degree per second squared",
+                "Cycle per second squared"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of angular acceleration is radian per second squared."
+        },
+        {
+            "question": "What is the SI unit of specific heat capacity?",
+            "options": [
+                "Joule per kilogram Kelvin",
+                "Calorie per gram Celsius",
+                "Joule per gram Kelvin"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of specific heat capacity is joule per kilogram Kelvin."
+        },
+        {
+            "question": "What is the SI unit of thermal conductivity?",
+            "options": [
+                "Watt per meter Kelvin",
+                "Joule per meter Kelvin",
+                "Calorie per meter Kelvin"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of thermal conductivity is watt per meter Kelvin."
+        },
+        {
+            "question": "What is the SI unit of magnetic flux?",
+            "options": [
+                "Weber",
+                "Tesla",
+                "Gauss"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of magnetic flux is the weber."
+        },
+        {
+            "question": "What is the SI unit of magnetic flux density?",
+            "options": [
+                "Tesla",
+                "Weber",
+                "Gauss"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of magnetic flux density is the tesla."
+        },
+        {
+            "question": "What is the SI unit of capacitance?",
+            "options": [
+                "Farad",
+                "Henry",
+                "Coulomb"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of capacitance is the farad."
+        },
+        {
+            "question": "What is the SI unit of inductance?",
+            "options": [
+                "Henry",
+                "Farad",
+                "Weber"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of inductance is the henry."
+        },
+        {
+            "question": "What is the SI unit of entropy?",
+            "options": [
+                "Joule per Kelvin",
+                "Watt per Kelvin",
+                "Newton per Kelvin"
+            ],
+            "answer": "A",
+            "explanation": "The SI unit of entropy is joule per Kelvin."
+        }
+    ]
+}

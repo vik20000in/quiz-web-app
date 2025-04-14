@@ -47,7 +47,7 @@
                 "40",
                 "45"
             ],
-            "answer": "C",
+            "answer": "B",
             "explanation": "The total sum is the mean multiplied by the number of values. 8 * 5 = 40."
         },
         {
