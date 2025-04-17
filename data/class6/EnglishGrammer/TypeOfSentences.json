@@ -7,7 +7,8 @@
       "Exclamatory",
       "Declarative"
     ],
-    "answer": "Declarative"
+    "answer": "Declarative",
+    "explanation": "This sentence makes a statement or states a fact. It ends with a period. Therefore, it is a declarative sentence."
   },
   {
     "question": "Identify the type of sentence: What a beautiful painting!",
@@ -17,7 +18,8 @@
       "Exclamatory",
       "Imperative"
     ],
-    "answer": "Exclamatory"
+    "answer": "Exclamatory",
+    "explanation": "This sentence expresses strong emotion (admiration) and ends with an exclamation mark. Therefore, it is an exclamatory sentence."
   },
   {
     "question": "Identify the type of sentence: Please pass the salt.",
@@ -27,7 +29,8 @@
       "Declarative",
       "Exclamatory"
     ],
-    "answer": "Imperative"
+    "answer": "Imperative",
+    "explanation": "This sentence makes a request. The subject 'you' is implied (You please pass the salt). Therefore, it is an imperative sentence."
   },
   {
     "question": "Identify the type of sentence: Where did you go yesterday?",
@@ -37,7 +40,8 @@
       "Imperative",
       "Interrogative"
     ],
-    "answer": "Interrogative"
+    "answer": "Interrogative",
+    "explanation": "This sentence asks a direct question and ends with a question mark. Therefore, it is an interrogative sentence."
   },
   {
     "question": "Which type of sentence makes a statement or states a fact?",
@@ -47,7 +51,8 @@
       "Exclamatory",
       "Declarative"
     ],
-    "answer": "Declarative"
+    "answer": "Declarative",
+    "explanation": "Declarative sentences are used to declare or state something. They provide information and end with a period."
   },
   {
     "question": "Which type of sentence asks a question?",
@@ -57,7 +62,8 @@
       "Imperative",
       "Exclamatory"
     ],
-    "answer": "Interrogative"
+    "answer": "Interrogative",
+    "explanation": "Interrogative sentences are used to ask questions. They typically end with a question mark."
   },
   {
     "question": "Which type of sentence expresses a command, request, or advice?",
@@ -67,7 +73,8 @@
       "Imperative",
       "Interrogative"
     ],
-    "answer": "Imperative"
+    "answer": "Imperative",
+    "explanation": "Imperative sentences are used to give commands, make requests, or offer advice. The subject is often implied ('you')."
   },
   {
     "question": "Which type of sentence expresses strong emotion or surprise?",
@@ -77,7 +84,8 @@
       "Exclamatory",
       "Declarative"
     ],
-    "answer": "Exclamatory"
+    "answer": "Exclamatory",
+    "explanation": "Exclamatory sentences are used to express strong feelings like excitement, surprise, happiness, or anger. They end with an exclamation mark."
   },
   {
     "question": "Identify the type of sentence: Do your homework now.",
@@ -87,7 +95,8 @@
       "Imperative",
       "Interrogative"
     ],
-    "answer": "Imperative"
+    "answer": "Imperative",
+    "explanation": "This sentence gives a direct command. The subject 'you' is implied (You do your homework now). Therefore, it is an imperative sentence."
   },
   {
     "question": "Identify the type of sentence: How wonderful the weather is!",
@@ -97,7 +106,8 @@
       "Imperative",
       "Exclamatory"
     ],
-    "answer": "Exclamatory"
+    "answer": "Exclamatory",
+    "explanation": "This sentence expresses strong emotion (wonder/happiness) about the weather and ends with an exclamation mark. Therefore, it is an exclamatory sentence."
   },
    {
     "question": "Identify the type of sentence: My favourite colour is blue.",
@@ -107,7 +117,8 @@
       "Imperative",
       "Exclamatory"
     ],
-    "answer": "Declarative"
+    "answer": "Declarative",
+    "explanation": "This sentence states a fact about the speaker's preference and ends with a period. Therefore, it is a declarative sentence."
   },
    {
     "question": "Identify the type of sentence: Can you help me with this problem?",
@@ -117,6 +128,7 @@
       "Interrogative",
       "Declarative"
     ],
-    "answer": "Interrogative"
+    "answer": "Interrogative",
+    "explanation": "This sentence asks a question (a request for help) and ends with a question mark. Therefore, it is an interrogative sentence."
   }
 ]
