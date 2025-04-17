@@ -11,14 +11,14 @@
                         { "name": "Decimal", "path": "class6/mathematics/Decimal.json" },
                         { "name": "Fraction", "path": "class6/mathematics/Fraction.json" },
                         { "name": "Multiplication1", "path": "class6/mathematics/Multiplication1.json" },
-                        { "name": "Multiplication2", "path": "class6/mathematics/Multiplication2.json" },                       
+                        { "name": "Multiplication2", "path": "class6/mathematics/Multiplication2.json" },
                         { "name": "Geometry", "path": "class6/mathematics/Geometry.json" },
                         { "name": "DataHandling", "path": "class6/mathematics/DataHandling.json" },
                         { "name": "Time", "path": "class6/mathematics/Time.json" },
                         { "name": "Division", "path": "class6/mathematics/division.json" },
                         {"name":"integersnegitivenumber", "path":"class6/mathematics/integersnegitivenumber.json"},
-                        {"name":"playing with number", "path":"class6/mathematics/playingwithnumber.json"},                        
-                        {"name":"sets", "path":"class6/mathematics/sets.json"},                        
+                        {"name":"playing with number", "path":"class6/mathematics/playingwithnumber.json"},
+                        {"name":"sets", "path":"class6/mathematics/sets.json"},
                         { "name": "Ratio", "path": "class6/mathematics/Ratio.json" },
                         { "name": "fundamentals of alzebra", "path": "class6/mathematics/fundamentalsofalzebra.json" },
                         { "name": "fundamentalsofgeomatricalconcept", "path": "class6/mathematics/fundamentalsofgeomatricalconcept.json" },
@@ -29,9 +29,9 @@
                 {
                     "name": "Physics",
                     "subcategories": [
-                        { "name": "Matter1", "path": "class6/Physics/Matter1.json" },   
+                        { "name": "Matter1", "path": "class6/Physics/Matter1.json" },
                         {"name": "Physical quantities", "path": "class6/Physics/PhysicaPhysicalQuantityAndMeasurementlQuantities.json"}
-                       
+
                     ]
                 },
                 {
@@ -64,7 +64,8 @@
                         { "name":"articles", "path":"class6/EnglishGrammer/articles.json"},
                         { "name":"subjectandPredicate", "path":"class6/EnglishGrammer/subjectandPredicate.json"},
                         { "name":"verbfiniteandinfinite", "path":"class6/EnglishGrammer/verbfiniteandinfinite.json"},
-                        { "name":"verbthepasttense", "path":"class6/EnglishGrammer/verbthepasttense.json"}                        
+                        { "name":"verbthepasttense", "path":"class6/EnglishGrammer/verbthepasttense.json"},
+                        { "name": "Type of Sentences", "path": "class6/EnglishGrammer/TypeOfSentences.json" } 
                     ]
                 },
                 {
@@ -103,9 +104,9 @@
                         { "name": "Geometry", "path": "class8/mathematics/geometry.json" },
                         { "name": "Algebra", "path": "class8/mathematics/algebra.json" },
                         { "name": "Statistics", "path": "class8/mathematics/statistics.json" },
-                        { "name": "Olympiad Math", "path": "class8/mathematics/olympiad_math.json" },                     
+                        { "name": "Olympiad Math", "path": "class8/mathematics/olympiad_math.json" },
                         { "name": "Number SystNem", "path": "class8/mathematics/number_system.json" },
-                        { "name": "LinearEquations", "path": "class8/mathematics/LinearEquations.json" },                
+                        { "name": "LinearEquations", "path": "class8/mathematics/LinearEquations.json" },
                         { "name": "DataHandling", "path": "class8/mathematics/DataHandling.json" },
                         { "name": "Division", "path": "class8/mathematics/Division.json" }
                     ]
@@ -118,7 +119,7 @@
                         { "name": "Biology", "path": "class8/Science/biology.json" },
                         { "name": "Olympiad Science", "path": "class8/Science/olympiad_science.json" }
                     ]
-                }, 
+                },
                 {
                     "name": "English Grammer",
                     "subcategories": [

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Identify the type of sentence: The sun rises in the east.",
+    "options": [
+      "Interrogative",
+      "Imperative",
+      "Exclamatory",
+      "Declarative"
+    ],
+    "answer": "Declarative"
+  },
+  {
+    "question": "Identify the type of sentence: What a beautiful painting!",
+    "options": [
+      "Declarative",
+      "Interrogative",
+      "Exclamatory",
+      "Imperative"
+    ],
+    "answer": "Exclamatory"
+  },
+  {
+    "question": "Identify the type of sentence: Please pass the salt.",
+    "options": [
+      "Interrogative",
+      "Imperative",
+      "Declarative",
+      "Exclamatory"
+    ],
+    "answer": "Imperative"
+  },
+  {
+    "question": "Identify the type of sentence: Where did you go yesterday?",
+    "options": [
+      "Declarative",
+      "Exclamatory",
+      "Imperative",
+      "Interrogative"
+    ],
+    "answer": "Interrogative"
+  },
+  {
+    "question": "Which type of sentence makes a statement or states a fact?",
+    "options": [
+      "Interrogative",
+      "Imperative",
+      "Exclamatory",
+      "Declarative"
+    ],
+    "answer": "Declarative"
+  },
+  {
+    "question": "Which type of sentence asks a question?",
+    "options": [
+      "Declarative",
+      "Interrogative",
+      "Imperative",
+      "Exclamatory"
+    ],
+    "answer": "Interrogative"
+  },
+  {
+    "question": "Which type of sentence expresses a command, request, or advice?",
+    "options": [
+      "Exclamatory",
+      "Declarative",
+      "Imperative",
+      "Interrogative"
+    ],
+    "answer": "Imperative"
+  },
+  {
+    "question": "Which type of sentence expresses strong emotion or surprise?",
+    "options": [
+      "Imperative",
+      "Interrogative",
+      "Exclamatory",
+      "Declarative"
+    ],
+    "answer": "Exclamatory"
+  },
+  {
+    "question": "Identify the type of sentence: Do your homework now.",
+    "options": [
+      "Declarative",
+      "Exclamatory",
+      "Imperative",
+      "Interrogative"
+    ],
+    "answer": "Imperative"
+  },
+  {
+    "question": "Identify the type of sentence: How wonderful the weather is!",
+    "options": [
+      "Interrogative",
+      "Declarative",
+      "Imperative",
+      "Exclamatory"
+    ],
+    "answer": "Exclamatory"
+  },
+   {
+    "question": "Identify the type of sentence: My favourite colour is blue.",
+    "options": [
+      "Declarative",
+      "Interrogative",
+      "Imperative",
+      "Exclamatory"
+    ],
+    "answer": "Declarative"
+  },
+   {
+    "question": "Identify the type of sentence: Can you help me with this problem?",
+    "options": [
+      "Imperative",
+      "Exclamatory",
+      "Interrogative",
+      "Declarative"
+    ],
+    "answer": "Interrogative"
+  }
+]
