@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "What is Mail Merge used for in a word processor?",
+      "options": ["To send personalized letters to many people", "To print a single document", "To create tables"],
+      "answer": "A",
+      "explanation": "Mail Merge is used to send personalized letters to many recipients."
+    },
+    {
+      "question": "Which two main components are required for Mail Merge?",
+      "options": ["Main document and data source", "Table and chart", "Image and text"],
+      "answer": "A",
+      "explanation": "Mail Merge needs a main document and a data source."
+    },
+    {
+      "question": "What is the main document in Mail Merge?",
+      "options": ["The template letter or document", "The list of addresses", "A spreadsheet"],
+      "answer": "A",
+      "explanation": "The main document is the template for the merged letters."
+    },
+    {
+      "question": "What is the data source in Mail Merge?",
+      "options": ["A file containing recipient information", "A picture", "A chart"],
+      "answer": "A",
+      "explanation": "The data source contains names, addresses, etc."
+    },
+    {
+      "question": "Which menu in MS Word is used to start Mail Merge?",
+      "options": ["Mailings", "Insert", "View"],
+      "answer": "A",
+      "explanation": "The Mailings tab is used for Mail Merge."
+    },
+    {
+      "question": "Which type of documents can be created using Mail Merge?",
+      "options": ["Letters, labels, envelopes", "Pictures", "Tables only"],
+      "answer": "A",
+      "explanation": "Mail Merge can create letters, labels, and envelopes."
+    },
+    {
+      "question": "What is a merge field?",
+      "options": ["A placeholder for data from the data source", "A table cell", "A font style"],
+      "answer": "A",
+      "explanation": "Merge fields are placeholders for personalized data."
+    },
+    {
+      "question": "How do you insert a merge field in MS Word?",
+      "options": ["Mailings > Insert Merge Field", "Home > Font", "Insert > Picture"],
+      "answer": "A",
+      "explanation": "Insert Merge Field is under the Mailings tab."
+    },
+    {
+      "question": "Which file formats can be used as a data source for Mail Merge?",
+      "options": ["Excel, Access, CSV", "JPEG, PNG", "PDF"],
+      "answer": "A",
+      "explanation": "Excel, Access, and CSV files can be used as data sources."
+    },
+    {
+      "question": "What happens when you finish and merge documents?",
+      "options": ["Personalized documents are created for each recipient", "A single document is saved", "A table is inserted"],
+      "answer": "A",
+      "explanation": "Each recipient gets a personalized document."
+    },
+    {
+      "question": "Which step comes first in Mail Merge?",
+      "options": ["Select document type", "Insert merge fields", "Print documents"],
+      "answer": "A",
+      "explanation": "First, select the type of document you want to create."
+    },
+    {
+      "question": "What is the purpose of the 'Preview Results' button in Mail Merge?",
+      "options": ["To see how the merged document will look", "To print the document", "To save the document"],
+      "answer": "A",
+      "explanation": "Preview Results shows the merged data in the document."
+    },
+    {
+      "question": "How can you filter recipients in Mail Merge?",
+      "options": ["Use the 'Edit Recipient List' option", "Change font", "Insert a table"],
+      "answer": "A",
+      "explanation": "Edit Recipient List allows filtering and sorting."
+    },
+    {
+      "question": "Which option is used to match fields between the main document and data source?",
+      "options": ["Match Fields", "Insert Table", "Page Layout"],
+      "answer": "A",
+      "explanation": "Match Fields ensures correct data is used."
+    },
+    {
+      "question": "What is the advantage of using Mail Merge?",
+      "options": ["Saves time when sending similar documents to many people", "Increases file size", "Makes documents colorful"],
+      "answer": "A",
+      "explanation": "Mail Merge automates the process for many recipients."
+    },
+    {
+      "question": "Which of the following is NOT a step in Mail Merge?",
+      "options": ["Insert Picture", "Select Recipients", "Write your letter"],
+      "answer": "A",
+      "explanation": "Insert Picture is not a Mail Merge step."
+    },
+    {
+      "question": "How can you create address labels using Mail Merge?",
+      "options": ["Select 'Labels' as document type", "Insert a table", "Change page color"],
+      "answer": "A",
+      "explanation": "Selecting 'Labels' creates address labels."
+    },
+    {
+      "question": "What does the 'Finish & Merge' button do?",
+      "options": ["Creates the final merged documents", "Deletes the data source", "Changes font"],
+      "answer": "A",
+      "explanation": "Finish & Merge creates the personalized documents."
+    },
+    {
+      "question": "Which type of field is used to insert a recipient's name?",
+      "options": ["Merge field", "Text box", "Table"],
+      "answer": "A",
+      "explanation": "Merge fields insert personalized data."
+    },
+    {
+      "question": "What is the purpose of the 'Rules' option in Mail Merge?",
+      "options": ["To add conditions or logic", "To change font", "To insert a picture"],
+      "answer": "A",
+      "explanation": "Rules add logic like 'If...Then...Else' to Mail Merge."
+    },
+    {
+      "question": "Which of the following can be personalized using Mail Merge?",
+      "options": ["Name, address, greeting", "Font color", "Page size"],
+      "answer": "A",
+      "explanation": "Mail Merge personalizes names, addresses, etc."
+    },
+    {
+      "question": "How can you check for errors before finishing Mail Merge?",
+      "options": ["Use 'Check for Errors' option", "Change font", "Insert a table"],
+      "answer": "A",
+      "explanation": "Check for Errors helps find mistakes before merging."
+    },
+    {
+      "question": "Which tab contains the Mail Merge options in MS Word?",
+      "options": ["Mailings", "Home", "Insert"],
+      "answer": "A",
+      "explanation": "Mailings tab contains Mail Merge options."
+    },
+    {
+      "question": "What is the purpose of the 'Greeting Line' in Mail Merge?",
+      "options": ["To insert a personalized greeting", "To change font", "To insert a table"],
+      "answer": "A",
+      "explanation": "Greeting Line adds a personalized salutation."
+    },
+    {
+      "question": "Which option allows you to skip a recipient in Mail Merge?",
+      "options": ["Edit Recipient List", "Insert Table", "Change Font"],
+      "answer": "A",
+      "explanation": "Edit Recipient List lets you skip recipients."
+    },
+    {
+      "question": "What is the benefit of using an Excel file as a data source?",
+      "options": ["Easy to organize and update data", "Makes documents colorful", "Increases file size"],
+      "answer": "A",
+      "explanation": "Excel files are easy to organize and update."
+    },
+    {
+      "question": "Which option is used to insert an address block in Mail Merge?",
+      "options": ["Address Block", "Insert Table", "Page Layout"],
+      "answer": "A",
+      "explanation": "Address Block inserts the recipient's address."
+    },
+    {
+      "question": "How can you save the merged documents as separate files?",
+      "options": ["Choose 'Finish & Merge' > 'Export to Individual Documents'", "Change font", "Insert a table"],
+      "answer": "A",
+      "explanation": "Finish & Merge allows exporting to individual files."
+    },
+    {
+      "question": "Which option is used to sort recipients in Mail Merge?",
+      "options": ["Sort in Edit Recipient List", "Insert Table", "Change Font"],
+      "answer": "A",
+      "explanation": "Sorting is done in Edit Recipient List."
+    },
+    {
+      "question": "What is the last step in Mail Merge?",
+      "options": ["Print or save the merged documents", "Insert a table", "Change font"],
+      "answer": "A",
+      "explanation": "The last step is to print or save the merged documents."
+    }
+  ]
+}

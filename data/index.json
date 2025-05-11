@@ -230,7 +230,14 @@
                         {
                             "name": "Categories of Computer Languages",
                             "path": "class6/Computer/CategoriesOfComputerLanguages.json"
+                        },{
+                            "name": "WordProcessorTabularPresentation",
+                            "path": "class6/Computer/WordProcessorTabularPresentation.json"
+                        },{
+                            "name": "WordProcessorMailMerge",
+                            "path": "class6/Computer/WordProcessorMailMerge.json"
                         }
+                        
                     ]
                 },
                 {

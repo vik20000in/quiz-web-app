@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "What is a table in a word processor?",
+      "options": ["A grid of rows and columns", "A type of font", "A page layout"],
+      "answer": "A",
+      "explanation": "A table is a grid made up of rows and columns."
+    },
+    {
+      "question": "Which menu is commonly used to insert a table in MS Word?",
+      "options": ["Insert", "Home", "View"],
+      "answer": "A",
+      "explanation": "The Insert menu is used to add tables."
+    },
+    {
+      "question": "What is the intersection of a row and a column called?",
+      "options": ["Cell", "Box", "Grid"],
+      "answer": "A",
+      "explanation": "The intersection is called a cell."
+    },
+    {
+      "question": "How can you add a new row to an existing table?",
+      "options": ["Right-click and choose 'Insert Row'", "Change font", "Use the Save option"],
+      "answer": "A",
+      "explanation": "Right-clicking gives options to insert rows."
+    },
+    {
+      "question": "Which option is used to merge two or more cells in a table?",
+      "options": ["Merge Cells", "Split Cells", "Delete Cells"],
+      "answer": "A",
+      "explanation": "Merge Cells combines selected cells."
+    },
+    {
+      "question": "How do you split a single cell into multiple cells?",
+      "options": ["Split Cells", "Merge Cells", "Insert Table"],
+      "answer": "A",
+      "explanation": "Split Cells divides a cell into more cells."
+    },
+    {
+      "question": "Which tool is used to change the border style of a table?",
+      "options": ["Borders and Shading", "Font", "Paragraph"],
+      "answer": "A",
+      "explanation": "Borders and Shading changes table borders."
+    },
+    {
+      "question": "How can you delete a column from a table?",
+      "options": ["Right-click and select 'Delete Column'", "Press Backspace", "Change alignment"],
+      "answer": "A",
+      "explanation": "Right-clicking gives the option to delete columns."
+    },
+    {
+      "question": "Which shortcut inserts a new table in MS Word?",
+      "options": ["Alt + N, T", "Ctrl + S", "Ctrl + P"],
+      "answer": "A",
+      "explanation": "Alt + N, T opens the Insert Table dialog."
+    },
+    {
+      "question": "What is the default alignment of text in a table cell?",
+      "options": ["Top left", "Center", "Bottom right"],
+      "answer": "A",
+      "explanation": "Text is usually aligned top left by default."
+    },
+    {
+      "question": "How can you change the width of a column?",
+      "options": ["Drag the column border", "Change font size", "Insert a row"],
+      "answer": "A",
+      "explanation": "Dragging the border changes column width."
+    },
+    {
+      "question": "Which feature allows you to add color to table cells?",
+      "options": ["Shading", "Font color", "Page color"],
+      "answer": "A",
+      "explanation": "Shading adds background color to cells."
+    },
+    {
+      "question": "How do you select an entire row in a table?",
+      "options": ["Click to the left of the row", "Double-click the cell", "Press Ctrl + A"],
+      "answer": "A",
+      "explanation": "Clicking to the left selects the whole row."
+    },
+    {
+      "question": "Which option is used to combine two tables into one?",
+      "options": ["Remove the space between them", "Change font", "Insert a picture"],
+      "answer": "A",
+      "explanation": "Removing the space merges two tables."
+    },
+    {
+      "question": "How can you add a table caption in MS Word?",
+      "options": ["References > Insert Caption", "Insert > Table", "Home > Font"],
+      "answer": "A",
+      "explanation": "Insert Caption is under the References tab."
+    },
+    {
+      "question": "Which option is used to sort data in a table?",
+      "options": ["Layout > Sort", "Insert > Table", "Home > Sort"],
+      "answer": "A",
+      "explanation": "The Sort option is found under Layout."
+    },
+    {
+      "question": "How can you convert text to a table?",
+      "options": ["Insert > Table > Convert Text to Table", "Home > Font", "View > Table"],
+      "answer": "A",
+      "explanation": "Convert Text to Table is under Insert > Table."
+    },
+    {
+      "question": "Which option is used to repeat a table heading on each page?",
+      "options": ["Repeat Header Rows", "Merge Cells", "Split Table"],
+      "answer": "A",
+      "explanation": "Repeat Header Rows repeats headings on each page."
+    },
+    {
+      "question": "How do you move a table to a different location in the document?",
+      "options": ["Drag the table handle", "Change font", "Insert a row"],
+      "answer": "A",
+      "explanation": "Dragging the table handle moves the table."
+    },
+    {
+      "question": "Which option is used to auto-fit the contents of a table?",
+      "options": ["AutoFit", "Merge Cells", "Split Cells"],
+      "answer": "A",
+      "explanation": "AutoFit adjusts the size to fit contents."
+    },
+    {
+      "question": "How can you insert a formula in a table cell?",
+      "options": ["Layout > Formula", "Insert > Table", "Home > Font"],
+      "answer": "A",
+      "explanation": "The Formula option is under Layout."
+    },
+    {
+      "question": "Which option is used to split a table into two?",
+      "options": ["Split Table", "Merge Cells", "Sort"],
+      "answer": "A",
+      "explanation": "Split Table divides a table into two."
+    },
+    {
+      "question": "How do you select an entire table?",
+      "options": ["Click the table move handle", "Double-click a cell", "Press Ctrl + S"],
+      "answer": "A",
+      "explanation": "The move handle selects the whole table."
+    },
+    {
+      "question": "Which option is used to remove all borders from a table?",
+      "options": ["No Border", "Shading", "Sort"],
+      "answer": "A",
+      "explanation": "No Border removes all borders from the table."
+    },
+    {
+      "question": "How can you add a new column to the right of an existing column?",
+      "options": ["Right-click > Insert Column Right", "Insert > Table", "Home > Font"],
+      "answer": "A",
+      "explanation": "Right-clicking gives the option to insert columns."
+    },
+    {
+      "question": "Which option is used to align text vertically in a cell?",
+      "options": ["Cell Alignment", "Font", "Sort"],
+      "answer": "A",
+      "explanation": "Cell Alignment changes vertical alignment."
+    },
+    {
+      "question": "How do you delete an entire table?",
+      "options": ["Select table and press Delete", "Change font", "Insert a row"],
+      "answer": "A",
+      "explanation": "Selecting and pressing Delete removes the table."
+    },
+    {
+      "question": "Which option is used to add a diagonal line in a cell?",
+      "options": ["Borders > Diagonal Border", "Shading", "Sort"],
+      "answer": "A",
+      "explanation": "Diagonal Border adds a diagonal line."
+    },
+    {
+      "question": "How can you quickly move to the next cell in a table?",
+      "options": ["Press Tab", "Press Enter", "Press Shift"],
+      "answer": "A",
+      "explanation": "Tab moves to the next cell."
+    },
+    {
+      "question": "Which feature allows you to repeat the last action in a table?",
+      "options": ["F4 key", "Ctrl + S", "Ctrl + P"],
+      "answer": "A",
+      "explanation": "F4 repeats the last action."
+    }
+  ]
+}
