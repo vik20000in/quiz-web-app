@@ -84,7 +84,9 @@
                     "name": "History",
                     "subcategories": [
                         { "name": "The Egyptian Civilization", "path": "class6/History/TheEgyptianCivilization.json" },
-                        { "name": "The Egyptian Civilization 1", "path": "class6/History/TheEgyptianCivilization1.json" }
+                        { "name": "The Egyptian Civilization 1", "path": "class6/History/TheEgyptianCivilization1.json" },
+                        { "name": "Indus valley civilization", "path": "class6/History/Indusvalleycivilization.json" },
+                        { "name": "Mesopotamian Civilization", "path": "class6/History/MesopotamianCivilization.json" }
 
                     ]
                 },

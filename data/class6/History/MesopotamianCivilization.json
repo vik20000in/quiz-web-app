@@ -1,0 +1,314 @@
+{
+    "questions": [
+        {
+            "question": "Which two rivers were the lifelines of Mesopotamian civilization?",
+            "options": [
+                "Tigris and Euphrates",
+                "Nile and Amazon",
+                "Indus and Ganga"
+            ],
+            "answer": "A",
+            "explanation": "The Tigris and Euphrates rivers supported Mesopotamian civilization."
+        },
+        {
+            "question": "What does the word 'Mesopotamia' mean?",
+            "options": [
+                "Land between rivers",
+                "Land of mountains",
+                "Land of deserts"
+            ],
+            "answer": "A",
+            "explanation": "Mesopotamia means 'land between rivers'."
+        },
+        {
+            "question": "Which was the earliest known civilization in Mesopotamia?",
+            "options": [
+                "Sumerian",
+                "Babylonian",
+                "Assyrian"
+            ],
+            "answer": "A",
+            "explanation": "The Sumerians were the earliest known civilization in Mesopotamia."
+        },
+        {
+            "question": "What was the writing system developed by the Sumerians called?",
+            "options": [
+                "Cuneiform",
+                "Hieroglyphics",
+                "Sanskrit"
+            ],
+            "answer": "A",
+            "explanation": "Cuneiform was the writing system developed by the Sumerians."
+        },
+        {
+            "question": "Which Mesopotamian city is famous for its Hanging Gardens?",
+            "options": [
+                "Babylon",
+                "Ur",
+                "Nineveh"
+            ],
+            "answer": "A",
+            "explanation": "The Hanging Gardens were in Babylon."
+        },
+        {
+            "question": "Who was the famous king who created a code of laws in Babylon?",
+            "options": [
+                "Hammurabi",
+                "Sargon",
+                "Ashurbanipal"
+            ],
+            "answer": "A",
+            "explanation": "King Hammurabi created the Code of Hammurabi."
+        },
+        {
+            "question": "What was the main building material in Mesopotamia?",
+            "options": [
+                "Sun-dried bricks",
+                "Marble",
+                "Granite"
+            ],
+            "answer": "A",
+            "explanation": "Sun-dried bricks were used for construction."
+        },
+        {
+            "question": "What was a ziggurat?",
+            "options": [
+                "A stepped temple tower",
+                "A palace",
+                "A granary"
+            ],
+            "answer": "A",
+            "explanation": "A ziggurat was a stepped temple tower."
+        },
+        {
+            "question": "Which Mesopotamian city was known for its library?",
+            "options": [
+                "Nineveh",
+                "Babylon",
+                "Uruk"
+            ],
+            "answer": "A",
+            "explanation": "Nineveh was famous for its library."
+        },
+        {
+            "question": "Which invention is Mesopotamia credited with?",
+            "options": [
+                "The wheel",
+                "The compass",
+                "Paper"
+            ],
+            "answer": "A",
+            "explanation": "The wheel was invented in Mesopotamia."
+        },
+        {
+            "question": "What was the main occupation of Mesopotamian people?",
+            "options": [
+                "Farming",
+                "Hunting",
+                "Fishing"
+            ],
+            "answer": "A",
+            "explanation": "Farming was the main occupation."
+        },
+        {
+            "question": "Which metal was first used by Mesopotamians?",
+            "options": [
+                "Copper",
+                "Iron",
+                "Aluminium"
+            ],
+            "answer": "A",
+            "explanation": "Copper was the first metal used."
+        },
+        {
+            "question": "What was the main crop grown in Mesopotamia?",
+            "options": [
+                "Barley",
+                "Rice",
+                "Maize"
+            ],
+            "answer": "A",
+            "explanation": "Barley was the main crop."
+        },
+        {
+            "question": "Which animal was domesticated by Mesopotamians?",
+            "options": [
+                "Sheep",
+                "Tiger",
+                "Elephant"
+            ],
+            "answer": "A",
+            "explanation": "Sheep were domesticated."
+        },
+        {
+            "question": "What was the role of priests in Mesopotamian society?",
+            "options": [
+                "Religious and administrative duties",
+                "Only farming",
+                "Only trading"
+            ],
+            "answer": "A",
+            "explanation": "Priests performed religious and administrative duties."
+        },
+        {
+            "question": "Which Mesopotamian city is considered one of the world's first cities?",
+            "options": [
+                "Uruk",
+                "Delhi",
+                "Rome"
+            ],
+            "answer": "A",
+            "explanation": "Uruk is considered one of the first cities."
+        },
+        {
+            "question": "What was the Code of Hammurabi?",
+            "options": [
+                "A set of laws",
+                "A religious text",
+                "A poem"
+            ],
+            "answer": "A",
+            "explanation": "The Code of Hammurabi was a set of laws."
+        },
+        {
+            "question": "Which Mesopotamian civilization was known for its military strength?",
+            "options": [
+                "Assyrian",
+                "Sumerian",
+                "Babylonian"
+            ],
+            "answer": "A",
+            "explanation": "The Assyrians were known for their military strength."
+        },
+        {
+            "question": "What was the main reason for the decline of Mesopotamian civilization?",
+            "options": [
+                "Invasions and environmental changes",
+                "Discovery of iron",
+                "Earthquakes"
+            ],
+            "answer": "A",
+            "explanation": "Invasions and environmental changes led to the decline."
+        },
+        {
+            "question": "What was the main form of transport in Mesopotamia?",
+            "options": [
+                "Boats and carts",
+                "Cars",
+                "Bicycles"
+            ],
+            "answer": "A",
+            "explanation": "Boats and carts were used for transport."
+        },
+        {
+            "question": "Which god was considered the chief god in Babylon?",
+            "options": [
+                "Marduk",
+                "Enlil",
+                "Ishtar"
+            ],
+            "answer": "A",
+            "explanation": "Marduk was the chief god in Babylon."
+        },
+        {
+            "question": "What was the main writing material in Mesopotamia?",
+            "options": [
+                "Clay tablets",
+                "Papyrus",
+                "Paper"
+            ],
+            "answer": "A",
+            "explanation": "Clay tablets were used for writing."
+        },
+        {
+            "question": "Which Mesopotamian city was famous for its Ishtar Gate?",
+            "options": [
+                "Babylon",
+                "Ur",
+                "Nineveh"
+            ],
+            "answer": "A",
+            "explanation": "Babylon was famous for the Ishtar Gate."
+        },
+        {
+            "question": "What was the main architectural feature of Mesopotamian temples?",
+            "options": [
+                "Ziggurats",
+                "Domes",
+                "Pyramids"
+            ],
+            "answer": "A",
+            "explanation": "Ziggurats were the main feature."
+        },
+        {
+            "question": "Which Mesopotamian king established the world's first empire?",
+            "options": [
+                "Sargon of Akkad",
+                "Hammurabi",
+                "Nebuchadnezzar"
+            ],
+            "answer": "A",
+            "explanation": "Sargon of Akkad established the first empire."
+        },
+        {
+            "question": "Which goddess was associated with love and war in Mesopotamia?",
+            "options": [
+                "Ishtar",
+                "Hathor",
+                "Aphrodite"
+            ],
+            "answer": "A",
+            "explanation": "Ishtar was the goddess of love and war."
+        },
+        {
+            "question": "What was the main reason for the prosperity of Mesopotamian cities?",
+            "options": [
+                "Fertile land and trade",
+                "Gold mines",
+                "Silk production"
+            ],
+            "answer": "A",
+            "explanation": "Fertile land and trade led to prosperity."
+        },
+        {
+            "question": "Which Mesopotamian city was known for its astronomical studies?",
+            "options": [
+                "Babylon",
+                "Ur",
+                "Lagash"
+            ],
+            "answer": "A",
+            "explanation": "Babylon was known for astronomy."
+        },
+        {
+            "question": "What was the main purpose of the Mesopotamian calendar?",
+            "options": [
+                "To plan farming activities",
+                "To celebrate festivals",
+                "To record wars"
+            ],
+            "answer": "A",
+            "explanation": "The calendar was used to plan farming."
+        },
+        {
+            "question": "Which Mesopotamian invention helped in record keeping?",
+            "options": [
+                "Cuneiform writing",
+                "Printing press",
+                "Paper"
+            ],
+            "answer": "A",
+            "explanation": "Cuneiform writing helped in record keeping."
+        },
+        {
+            "question": "Which Mesopotamian city was destroyed and rebuilt several times?",
+            "options": [
+                "Babylon",
+                "Harappa",
+                "Thebes"
+            ],
+            "answer": "A",
+            "explanation": "Babylon was destroyed and rebuilt many times."
+        }
+    ]
+}
