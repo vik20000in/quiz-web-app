@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "What is an element?",
+      "options": [
+        "A substance made of only one kind of atom",
+        "A mixture of two substances",
+        "A substance that can be broken into simpler substances"
+      ],
+      "answer": "A",
+      "explanation": "An element is made of only one kind of atom."
+    },
+    {
+      "question": "Which of the following is a compound?",
+      "options": [
+        "Water (H₂O)",
+        "Oxygen (O₂)",
+        "Iron (Fe)"
+      ],
+      "answer": "A",
+      "explanation": "Water is a compound made of hydrogen and oxygen."
+    },
+    {
+      "question": "What is the chemical symbol for Sodium?",
+      "options": [
+        "Na",
+        "So",
+        "S"
+      ],
+      "answer": "A",
+      "explanation": "The symbol for Sodium is Na."
+    },
+    {
+      "question": "Which of the following is NOT an element?",
+      "options": [
+        "Air",
+        "Gold",
+        "Carbon"
+      ],
+      "answer": "A",
+      "explanation": "Air is a mixture, not an element."
+    },
+    {
+      "question": "What is the formula for carbon dioxide?",
+      "options": [
+        "CO₂",
+        "CO",
+        "C₂O"
+      ],
+      "answer": "A",
+      "explanation": "CO₂ is the formula for carbon dioxide."
+    },
+    {
+      "question": "Which of the following is a symbol for an element?",
+      "options": [
+        "O",
+        "H₂O",
+        "CO₂"
+      ],
+      "answer": "A",
+      "explanation": "O is the symbol for oxygen."
+    },
+    {
+      "question": "How many elements are present in water (H₂O)?",
+      "options": [
+        "2",
+        "1",
+        "3"
+      ],
+      "answer": "A",
+      "explanation": "Water contains hydrogen and oxygen."
+    },
+    {
+      "question": "Which of the following is a compound?",
+      "options": [
+        "Sodium chloride (NaCl)",
+        "Iron (Fe)",
+        "Oxygen (O₂)"
+      ],
+      "answer": "A",
+      "explanation": "NaCl is a compound of sodium and chlorine."
+    },
+    {
+      "question": "What does a chemical formula show?",
+      "options": [
+        "The types and numbers of atoms in a molecule",
+        "The color of a substance",
+        "The taste of a substance"
+      ],
+      "answer": "A",
+      "explanation": "A chemical formula shows the types and numbers of atoms."
+    },
+    {
+      "question": "What is the symbol for the element Carbon?",
+      "options": [
+        "C",
+        "Ca",
+        "Co"
+      ],
+      "answer": "A",
+      "explanation": "C is the symbol for carbon."
+    }
+  ]
+}

@@ -5,95 +5,262 @@
                 {
                     "name": "Mathematics",
                     "subcategories": [
-                        { "name": "Number System", "path": "class6/mathematics/number_system.json" },
-                        { "name": "LinearEquations.json", "path": "class6/mathematics/LinearEquations.json" },
-                        { "name": "Olympiad Math", "path": "class6/mathematics/OlympiadMath.json" },
-                        { "name": "Decimal", "path": "class6/mathematics/Decimal.json" },
-                        { "name": "Fraction", "path": "class6/mathematics/Fraction.json" },
-                        { "name": "Multiplication1", "path": "class6/mathematics/Multiplication1.json" },
-                        { "name": "Multiplication2", "path": "class6/mathematics/Multiplication2.json" },
-                        { "name": "Geometry", "path": "class6/mathematics/Geometry.json" },
-                        { "name": "DataHandling", "path": "class6/mathematics/DataHandling.json" },
-                        { "name": "Time", "path": "class6/mathematics/Time.json" },
-                        { "name": "Division", "path": "class6/mathematics/division.json" },
-                        {"name":"integersnegitivenumber", "path":"class6/mathematics/integersnegitivenumber.json"},
-                        {"name":"playing with number", "path":"class6/mathematics/playingwithnumber.json"},
-                        {"name":"sets", "path":"class6/mathematics/sets.json"},
-                        { "name": "Ratio", "path": "class6/mathematics/Ratio.json" },
-                        { "name": "fundamentals of alzebra", "path": "class6/mathematics/fundamentalsofalzebra.json" },
-                        { "name": "fundamentalsofgeomatricalconcept", "path": "class6/mathematics/fundamentalsofgeomatricalconcept.json" },
-                        { "name": "Angles", "path": "class6/mathematics/Angles.json" },
-                        { "name": "meanandmedian", "path": "class6/mathematics/meanandmedian.json" }
+                        {
+                            "name": "Number System",
+                            "path": "class6/mathematics/number_system.json"
+                        },
+                        {
+                            "name": "LinearEquations.json",
+                            "path": "class6/mathematics/LinearEquations.json"
+                        },
+                        {
+                            "name": "Olympiad Math",
+                            "path": "class6/mathematics/OlympiadMath.json"
+                        },
+                        {
+                            "name": "Decimal",
+                            "path": "class6/mathematics/Decimal.json"
+                        },
+                        {
+                            "name": "Fraction",
+                            "path": "class6/mathematics/Fraction.json"
+                        },
+                        {
+                            "name": "Multiplication1",
+                            "path": "class6/mathematics/Multiplication1.json"
+                        },
+                        {
+                            "name": "Multiplication2",
+                            "path": "class6/mathematics/Multiplication2.json"
+                        },
+                        {
+                            "name": "Geometry",
+                            "path": "class6/mathematics/Geometry.json"
+                        },
+                        {
+                            "name": "DataHandling",
+                            "path": "class6/mathematics/DataHandling.json"
+                        },
+                        {
+                            "name": "Time",
+                            "path": "class6/mathematics/Time.json"
+                        },
+                        {
+                            "name": "Division",
+                            "path": "class6/mathematics/division.json"
+                        },
+                        {
+                            "name": "integersnegitivenumber",
+                            "path": "class6/mathematics/integersnegitivenumber.json"
+                        },
+                        {
+                            "name": "playing with number",
+                            "path": "class6/mathematics/playingwithnumber.json"
+                        },
+                        {
+                            "name": "sets",
+                            "path": "class6/mathematics/sets.json"
+                        },
+                        {
+                            "name": "Ratio",
+                            "path": "class6/mathematics/Ratio.json"
+                        },
+                        {
+                            "name": "fundamentals of alzebra",
+                            "path": "class6/mathematics/fundamentalsofalzebra.json"
+                        },
+                        {
+                            "name": "fundamentalsofgeomatricalconcept",
+                            "path": "class6/mathematics/fundamentalsofgeomatricalconcept.json"
+                        },
+                        {
+                            "name": "Angles",
+                            "path": "class6/mathematics/Angles.json"
+                        },
+                        {
+                            "name": "meanandmedian",
+                            "path": "class6/mathematics/meanandmedian.json"
+                        }
                     ]
                 },
                 {
                     "name": "Physics",
                     "subcategories": [
-                        { "name": "Matter1", "path": "class6/Physics/Matter1.json" },
-                        {"name": "Physical quantities", "path": "class6/Physics/PhysicaPhysicalQuantityAndMeasurementlQuantities.json"}
-
+                        {
+                            "name": "Matter1",
+                            "path": "class6/Physics/Matter1.json"
+                        },
+                        {
+                            "name": "Physical quantities",
+                            "path": "class6/Physics/PhysicaPhysicalQuantityAndMeasurementlQuantities.json"
+                        },
+                        {
+                            "name": "Force",
+                            "path": "class6/Physics/Force.json"
+                        }
                     ]
                 },
                 {
                     "name": "Biology",
                     "subcategories": [
-                        { "name": "The Leaf", "path": "class6/Biology/TheLeaf.json" }
+                        {
+                            "name": "The Leaf",
+                            "path": "class6/Biology/TheLeaf.json"
+                        },
+                        {
+                            "name": "The Flower",
+                            "path": "class6/Biology/TheFlower.json"
+                        },
+                        {
+                            "name": "Cell",
+                            "path": "class6/Biology/Cell.json"
+                        }
                     ]
                 },
                 {
                     "name": "Chemistry",
                     "subcategories": [
-                        { "name": "Introduction to Chemistry", "path": "class6/Chemistry/IntroductionToChemistry.json" }
+                        {
+                            "name": "Introduction to Chemistry",
+                            "path": "class6/Chemistry/IntroductionToChemistry.json"
+                        },
+                        {
+                            "name": "Common Laboratory Apparatus and Equipment ",
+                            "path": "class6/Chemistry/CommonLaboratoryApparatusAndEquipment.json"
+                        },
+                        {
+                            "name": "Matter",
+                            "path": "class6/Chemistry/Matter.json"
+                        },
+                        {
+                            "name": "ElementsCompounds",
+                            "path": "class6/Chemistry/ElementsCompounds.json.json"
+                        }
                     ]
                 },
                 {
                     "name": "EnglishGrammer",
                     "subcategories": [
-                        { "name": "Adjectives", "path": "class6/EnglishGrammer/Adjectives.json" },
-                        { "name": "Adverbs", "path": "class6/EnglishGrammer/Adverbs.json" },
-                        { "name": "Conjunctions", "path": "class6/EnglishGrammer/Conjunctions.json" },
-                        { "name":"direct to indirect", "path":"class6/EnglishGrammer/directtoindirect.json"},
-                        { "name":"nouns", "path":"class6/EnglishGrammer/nouns.json"},
-                        { "name":"prepositions", "path":"class6/EnglishGrammer/prepositions.json"},
-                        { "name":"pronouns", "path":"class6/EnglishGrammer/pronouns.json"},
-                        { "name":"tenses", "path":"class6/EnglishGrammer/tenses.json"},
-                        { "name":"verbs", "path":"class6/EnglishGrammer/verbs.json"},
-                        { "name":"ActivePassiveVoice", "path":"class6/EnglishGrammer/ActivePassiveVoice.json"},
-                        { "name":"Punctuation ", "path":"class6/EnglishGrammer/Punctuation.json"},
-                        { "name":"EnglishOlympiad1", "path":"class6/EnglishGrammer/EnglishOlympiad1.json"},
-                        { "name":"articles", "path":"class6/EnglishGrammer/articles.json"},
-                        { "name":"subjectandPredicate", "path":"class6/EnglishGrammer/subjectandPredicate.json"},
-                        { "name":"verbfiniteandinfinite", "path":"class6/EnglishGrammer/verbfiniteandinfinite.json"},
-                        { "name":"verbthepasttense", "path":"class6/EnglishGrammer/verbthepasttense.json"},
-                        { "name": "Type of Sentences", "path": "class6/EnglishGrammer/TypeOfSentences.json" } 
+                        {
+                            "name": "Adjectives",
+                            "path": "class6/EnglishGrammer/Adjectives.json"
+                        },
+                        {
+                            "name": "Adverbs",
+                            "path": "class6/EnglishGrammer/Adverbs.json"
+                        },
+                        {
+                            "name": "Conjunctions",
+                            "path": "class6/EnglishGrammer/Conjunctions.json"
+                        },
+                        {
+                            "name": "direct to indirect",
+                            "path": "class6/EnglishGrammer/directtoindirect.json"
+                        },
+                        {
+                            "name": "nouns",
+                            "path": "class6/EnglishGrammer/nouns.json"
+                        },
+                        {
+                            "name": "prepositions",
+                            "path": "class6/EnglishGrammer/prepositions.json"
+                        },
+                        {
+                            "name": "pronouns",
+                            "path": "class6/EnglishGrammer/pronouns.json"
+                        },
+                        {
+                            "name": "tenses",
+                            "path": "class6/EnglishGrammer/tenses.json"
+                        },
+                        {
+                            "name": "verbs",
+                            "path": "class6/EnglishGrammer/verbs.json"
+                        },
+                        {
+                            "name": "ActivePassiveVoice",
+                            "path": "class6/EnglishGrammer/ActivePassiveVoice.json"
+                        },
+                        {
+                            "name": "Punctuation ",
+                            "path": "class6/EnglishGrammer/Punctuation.json"
+                        },
+                        {
+                            "name": "EnglishOlympiad1",
+                            "path": "class6/EnglishGrammer/EnglishOlympiad1.json"
+                        },
+                        {
+                            "name": "articles",
+                            "path": "class6/EnglishGrammer/articles.json"
+                        },
+                        {
+                            "name": "subjectandPredicate",
+                            "path": "class6/EnglishGrammer/subjectandPredicate.json"
+                        },
+                        {
+                            "name": "verbfiniteandinfinite",
+                            "path": "class6/EnglishGrammer/verbfiniteandinfinite.json"
+                        },
+                        {
+                            "name": "verbthepasttense",
+                            "path": "class6/EnglishGrammer/verbthepasttense.json"
+                        },
+                        {
+                            "name": "Type of Sentences",
+                            "path": "class6/EnglishGrammer/TypeOfSentences.json"
+                        }
                     ]
                 },
                 {
                     "name": "Geography",
                     "subcategories": [
-                        { "name": "Mapping the Earth", "path": "class6/Geography/MappingTheEarth.json" }
+                        {
+                            "name": "Mapping the Earth",
+                            "path": "class6/Geography/MappingTheEarth.json"
+                        },
+                        {
+                            "name": "Water Bodies of the Earth",
+                            "path": "class6/Geography/WaterBodiesOfTheEarth.json"
+                        }
                     ]
                 },
                 {
                     "name": "Computer",
                     "subcategories": [
-                        { "name": "Categories of Computer Languages", "path": "class6/Computer/CategoriesOfComputerLanguages.json" }
+                        {
+                            "name": "Categories of Computer Languages",
+                            "path": "class6/Computer/CategoriesOfComputerLanguages.json"
+                        }
                     ]
                 },
                 {
                     "name": "History",
                     "subcategories": [
-                        { "name": "The Egyptian Civilization", "path": "class6/History/TheEgyptianCivilization.json" },
-                        { "name": "The Egyptian Civilization 1", "path": "class6/History/TheEgyptianCivilization1.json" },
-                        { "name": "Indus valley civilization", "path": "class6/History/Indusvalleycivilization.json" },
-                        { "name": "Mesopotamian Civilization", "path": "class6/History/MesopotamianCivilization.json" }
-
+                        {
+                            "name": "The Egyptian Civilization",
+                            "path": "class6/History/TheEgyptianCivilization.json"
+                        },
+                        {
+                            "name": "The Egyptian Civilization 1",
+                            "path": "class6/History/TheEgyptianCivilization1.json"
+                        },
+                        {
+                            "name": "Indus valley civilization",
+                            "path": "class6/History/Indusvalleycivilization.json"
+                        },
+                        {
+                            "name": "Mesopotamian Civilization",
+                            "path": "class6/History/MesopotamianCivilization.json"
+                        }
                     ]
                 },
                 {
                     "name": "Hindi",
                     "subcategories": [
-                        { "name": "Dhan ki Khoj", "path": "class6/Hindi/DhanKiKhoj.json" }
+                        {
+                            "name": "Dhan ki Khoj",
+                            "path": "class6/Hindi/DhanKiKhoj.json"
+                        }
                     ]
                 }
             ]
@@ -103,38 +270,104 @@
                 {
                     "name": "Mathematics",
                     "subcategories": [
-                        { "name": "Geometry", "path": "class8/mathematics/geometry.json" },
-                        { "name": "Algebra", "path": "class8/mathematics/algebra.json" },
-                        { "name": "Statistics", "path": "class8/mathematics/statistics.json" },
-                        { "name": "Olympiad Math", "path": "class8/mathematics/olympiad_math.json" },
-                        { "name": "Number SystNem", "path": "class8/mathematics/number_system.json" },
-                        { "name": "LinearEquations", "path": "class8/mathematics/LinearEquations.json" },
-                        { "name": "DataHandling", "path": "class8/mathematics/DataHandling.json" },
-                        { "name": "Division", "path": "class8/mathematics/Division.json" }
+                        {
+                            "name": "Geometry",
+                            "path": "class8/mathematics/geometry.json"
+                        },
+                        {
+                            "name": "Algebra",
+                            "path": "class8/mathematics/algebra.json"
+                        },
+                        {
+                            "name": "Statistics",
+                            "path": "class8/mathematics/statistics.json"
+                        },
+                        {
+                            "name": "Olympiad Math",
+                            "path": "class8/mathematics/olympiad_math.json"
+                        },
+                        {
+                            "name": "Number SystNem",
+                            "path": "class8/mathematics/number_system.json"
+                        },
+                        {
+                            "name": "LinearEquations",
+                            "path": "class8/mathematics/LinearEquations.json"
+                        },
+                        {
+                            "name": "DataHandling",
+                            "path": "class8/mathematics/DataHandling.json"
+                        },
+                        {
+                            "name": "Division",
+                            "path": "class8/mathematics/Division.json"
+                        }
                     ]
                 },
                 {
                     "name": "Science",
                     "subcategories": [
-                        { "name": "Chemistry", "path": "class8/Science/chemistry.json" },
-                        { "name": "Physics", "path": "class8/Science/physics.json" },
-                        { "name": "Biology", "path": "class8/Science/biology.json" },
-                        { "name": "Olympiad Science", "path": "class8/Science/olympiad_science.json" }
+                        {
+                            "name": "Chemistry",
+                            "path": "class8/Science/chemistry.json"
+                        },
+                        {
+                            "name": "Physics",
+                            "path": "class8/Science/physics.json"
+                        },
+                        {
+                            "name": "Biology",
+                            "path": "class8/Science/biology.json"
+                        },
+                        {
+                            "name": "Olympiad Science",
+                            "path": "class8/Science/olympiad_science.json"
+                        }
                     ]
                 },
                 {
                     "name": "English Grammer",
                     "subcategories": [
-                        { "name": "ActivePassive", "path": "class8/English/ActivePassive.json" },
-                        { "name": "Adjectives", "path": "class8/English/Adjectives.json" },
-                        { "name": "Adverbs", "path": "class8/English/Adverbs.json" },
-                        { "name": "Conjunctions", "path": "class8/English/Conjunctions.json" },
-                        { "name": "DirectIndirect", "path": "class8/English/DirectIndirect.json" },
-                        { "name": "Prepositions", "path": "class8/English/Prepositions.json" },
-                        { "name": "Tenses", "path": "class8/English/Tenses.json" },
-                        { "name": "Verbs", "path": "class8/English/Verbs.json" },
-                        { "name": "Punctuation", "path": "class8/English/Punctuation.json" },
-                        { "name": "EnglishOlympiad", "path": "class8/English/EnglishOlympiad.json" }
+                        {
+                            "name": "ActivePassive",
+                            "path": "class8/English/ActivePassive.json"
+                        },
+                        {
+                            "name": "Adjectives",
+                            "path": "class8/English/Adjectives.json"
+                        },
+                        {
+                            "name": "Adverbs",
+                            "path": "class8/English/Adverbs.json"
+                        },
+                        {
+                            "name": "Conjunctions",
+                            "path": "class8/English/Conjunctions.json"
+                        },
+                        {
+                            "name": "DirectIndirect",
+                            "path": "class8/English/DirectIndirect.json"
+                        },
+                        {
+                            "name": "Prepositions",
+                            "path": "class8/English/Prepositions.json"
+                        },
+                        {
+                            "name": "Tenses",
+                            "path": "class8/English/Tenses.json"
+                        },
+                        {
+                            "name": "Verbs",
+                            "path": "class8/English/Verbs.json"
+                        },
+                        {
+                            "name": "Punctuation",
+                            "path": "class8/English/Punctuation.json"
+                        },
+                        {
+                            "name": "EnglishOlympiad",
+                            "path": "class8/English/EnglishOlympiad.json"
+                        }
                     ]
                 }
             ]

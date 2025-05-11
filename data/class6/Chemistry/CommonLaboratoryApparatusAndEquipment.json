@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "Which apparatus is best for measuring the exact volume of a liquid?",
+      "options": ["Burette", "Beaker", "Watch glass"],
+      "answer": "A",
+      "explanation": "A burette is designed for precise measurement of liquid volumes."
+    },
+    {
+      "question": "Which laboratory equipment is used to heat substances with a flame?",
+      "options": ["Bunsen burner", "Pipette", "Funnel"],
+      "answer": "A",
+      "explanation": "A Bunsen burner is used for heating substances."
+    },
+    {
+      "question": "Which apparatus is used to separate a solid from a liquid by filtration?",
+      "options": ["Filter paper and funnel", "Evaporating dish", "Test tube"],
+      "answer": "A",
+      "explanation": "Filter paper and funnel are used for filtration."
+    },
+    {
+      "question": "Which apparatus is used to hold liquids for mixing or heating?",
+      "options": ["Beaker", "Burette", "Test tube holder"],
+      "answer": "A",
+      "explanation": "A beaker is used for holding, mixing, or heating liquids."
+    },
+    {
+      "question": "Which apparatus is used to transfer a fixed volume of liquid?",
+      "options": ["Pipette", "Burette", "Tripod stand"],
+      "answer": "A",
+      "explanation": "A pipette is used for transferring fixed volumes."
+    },
+    {
+      "question": "Which apparatus is used to grind chemicals into powder?",
+      "options": ["Mortar and pestle", "Test tube rack", "Burette"],
+      "answer": "A",
+      "explanation": "A mortar and pestle is used for grinding."
+    },
+    {
+      "question": "Which apparatus is used to support glassware during heating?",
+      "options": ["Tripod stand", "Test tube rack", "Pipette"],
+      "answer": "A",
+      "explanation": "A tripod stand supports glassware during heating."
+    },
+    {
+      "question": "Which apparatus is used to measure temperature?",
+      "options": ["Thermometer", "Balance", "Bunsen burner"],
+      "answer": "A",
+      "explanation": "A thermometer measures temperature."
+    },
+    {
+      "question": "Which apparatus is used to deliver a known volume of liquid drop by drop?",
+      "options": ["Burette", "Pipette", "Beaker"],
+      "answer": "A",
+      "explanation": "A burette delivers liquid drop by drop."
+    },
+    {
+      "question": "Which apparatus is used to hold test tubes while heating?",
+      "options": ["Test tube holder", "Tongs", "Tripod stand"],
+      "answer": "A",
+      "explanation": "A test tube holder is used for this purpose."
+    },
+    {
+      "question": "Which apparatus is used to evaporate liquids?",
+      "options": ["Evaporating dish", "Beaker", "Measuring cylinder"],
+      "answer": "A",
+      "explanation": "An evaporating dish is used to evaporate liquids."
+    },
+    {
+      "question": "Which apparatus is used to measure mass?",
+      "options": ["Balance", "Burette", "Funnel"],
+      "answer": "A",
+      "explanation": "A balance is used to measure mass."
+    },
+    {
+      "question": "Which apparatus is used to pour liquids without spilling?",
+      "options": ["Funnel", "Beaker", "Burette"],
+      "answer": "A",
+      "explanation": "A funnel helps pour liquids safely."
+    },
+    {
+      "question": "Which apparatus is used to hold several test tubes together?",
+      "options": ["Test tube rack", "Beaker", "Burette"],
+      "answer": "A",
+      "explanation": "A test tube rack holds multiple test tubes."
+    },
+    {
+      "question": "Which apparatus is used to cover beakers or evaporating dishes?",
+      "options": ["Watch glass", "Test tube", "Measuring cylinder"],
+      "answer": "A",
+      "explanation": "A watch glass is used as a cover."
+    },
+    {
+      "question": "Which apparatus is used to transfer small amounts of liquid?",
+      "options": ["Dropper", "Bunsen burner", "Watch glass"],
+      "answer": "A",
+      "explanation": "A dropper is used to transfer small amounts of liquid."
+    },
+    {
+      "question": "Which apparatus is used to hold a burette during titration?",
+      "options": ["Burette stand", "Test tube rack", "Tripod stand"],
+      "answer": "A",
+      "explanation": "A burette stand holds the burette in place."
+    },
+    {
+      "question": "Which apparatus is used to measure the pH of a solution?",
+      "options": ["pH meter", "Thermometer", "Balance"],
+      "answer": "A",
+      "explanation": "A pH meter measures the acidity or alkalinity of a solution."
+    },
+    {
+      "question": "Which apparatus is used to heat substances in a controlled manner?",
+      "options": ["Hot plate", "Bunsen burner", "Microwave"],
+      "answer": "A",
+      "explanation": "A hot plate provides controlled heating."
+    },
+    {
+      "question": "Which apparatus is used to dry chemicals?",
+      "options": ["Desiccator", "Beaker", "Funnel"],
+      "answer": "A",
+      "explanation": "A desiccator is used to dry chemicals."
+    },
+    {
+      "question": "Which apparatus is used to separate immiscible liquids?",
+      "options": ["Separating funnel", "Measuring cylinder", "Test tube"],
+      "answer": "A",
+      "explanation": "A separating funnel separates immiscible liquids."
+    },
+    {
+      "question": "Which apparatus is used to hold crucibles while heating?",
+      "options": ["Crucible tongs", "Test tube holder", "Tripod stand"],
+      "answer": "A",
+      "explanation": "Crucible tongs hold crucibles during heating."
+    },
+    {
+      "question": "Which apparatus is used to support a beaker over a flame?",
+      "options": ["Wire gauze", "Test tube rack", "Burette"],
+      "answer": "A",
+      "explanation": "Wire gauze supports beakers over a flame."
+    },
+    {
+      "question": "Which apparatus is used to measure small volumes of liquid accurately?",
+      "options": ["Micropipette", "Beaker", "Evaporating dish"],
+      "answer": "A",
+      "explanation": "A micropipette measures small volumes accurately."
+    },
+    {
+      "question": "Which apparatus is used to hold liquids for titration?",
+      "options": ["Conical flask", "Watch glass", "Mortar and pestle"],
+      "answer": "A",
+      "explanation": "A conical flask is used in titration."
+    },
+    {
+      "question": "Which apparatus is used to cool hot vapors into liquid?",
+      "options": ["Condenser", "Burette", "Beaker"],
+      "answer": "A",
+      "explanation": "A condenser cools vapors into liquid."
+    },
+    {
+      "question": "Which apparatus is used to collect gases during experiments?",
+      "options": ["Gas jar", "Test tube", "Funnel"],
+      "answer": "A",
+      "explanation": "A gas jar is used to collect gases."
+    },
+    {
+      "question": "Which apparatus is used to stir solutions?",
+      "options": ["Glass rod", "Burette", "Pipette"],
+      "answer": "A",
+      "explanation": "A glass rod is used for stirring."
+    },
+    {
+      "question": "Which apparatus is used to measure atmospheric pressure?",
+      "options": ["Barometer", "Thermometer", "Balance"],
+      "answer": "A",
+      "explanation": "A barometer measures atmospheric pressure."
+    },
+    {
+      "question": "Which apparatus is used to heat substances to very high temperatures?",
+      "options": ["Crucible", "Beaker", "Watch glass"],
+      "answer": "A",
+      "explanation": "A crucible is used for high-temperature heating."
+    }
+  ]
+}

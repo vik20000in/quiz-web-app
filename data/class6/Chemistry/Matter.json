@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "What is matter?",
+      "options": ["Anything that has mass and occupies space", "Anything that can be seen", "Anything that is a solid"],
+      "answer": "A",
+      "explanation": "Matter is anything that has mass and occupies space."
+    },
+    {
+      "question": "Which of the following is NOT a state of matter?",
+      "options": ["Energy", "Solid", "Gas"],
+      "answer": "A",
+      "explanation": "Energy is not a state of matter."
+    },
+    {
+      "question": "Which state of matter has a definite shape and volume?",
+      "options": ["Solid", "Liquid", "Gas"],
+      "answer": "A",
+      "explanation": "Solids have definite shape and volume."
+    },
+    {
+      "question": "Which state of matter takes the shape of its container but has a definite volume?",
+      "options": ["Liquid", "Solid", "Gas"],
+      "answer": "A",
+      "explanation": "Liquids take the shape of the container but have definite volume."
+    },
+    {
+      "question": "Which state of matter has neither definite shape nor definite volume?",
+      "options": ["Gas", "Solid", "Liquid"],
+      "answer": "A",
+      "explanation": "Gases have neither definite shape nor definite volume."
+    },
+    {
+      "question": "What is the smallest unit of matter?",
+      "options": ["Atom", "Molecule", "Cell"],
+      "answer": "A",
+      "explanation": "Atom is the smallest unit of matter."
+    },
+    {
+      "question": "What is the process of changing a solid directly into a gas called?",
+      "options": ["Sublimation", "Condensation", "Evaporation"],
+      "answer": "A",
+      "explanation": "Sublimation is the process where a solid changes directly into a gas."
+    },
+    {
+      "question": "What is the process of changing a liquid into a gas called?",
+      "options": ["Evaporation", "Condensation", "Melting"],
+      "answer": "A",
+      "explanation": "Evaporation is the process of changing a liquid into a gas."
+    },
+    {
+      "question": "What is the process of changing a gas into a liquid called?",
+      "options": ["Condensation", "Evaporation", "Sublimation"],
+      "answer": "A",
+      "explanation": "Condensation is the process of changing a gas into a liquid."
+    },
+    {
+      "question": "What is the process of changing a solid into a liquid called?",
+      "options": ["Melting", "Freezing", "Condensation"],
+      "answer": "A",
+      "explanation": "Melting is the process of changing a solid into a liquid."
+    },
+    {
+      "question": "Which state of matter has the highest kinetic energy?",
+      "options": ["Gas", "Solid", "Liquid"],
+      "answer": "A",
+      "explanation": "Particles in gases have the highest kinetic energy."
+    },
+    {
+      "question": "Which state of matter is compressible?",
+      "options": ["Gas", "Solid", "Liquid"],
+      "answer": "A",
+      "explanation": "Gases are compressible."
+    },
+    {
+      "question": "Which of the following is an example of sublimation?",
+      "options": ["Camphor", "Water", "Iron"],
+      "answer": "A",
+      "explanation": "Camphor sublimes directly from solid to gas."
+    },
+    {
+      "question": "What is the boiling point of water at sea level?",
+      "options": ["100°C", "0°C", "50°C"],
+      "answer": "A",
+      "explanation": "Water boils at 100°C at sea level."
+    },
+    {
+      "question": "What is the freezing point of water?",
+      "options": ["0°C", "100°C", "50°C"],
+      "answer": "A",
+      "explanation": "Water freezes at 0°C."
+    },
+    {
+      "question": "Which of the following is NOT matter?",
+      "options": ["Light", "Air", "Water"],
+      "answer": "A",
+      "explanation": "Light is not matter."
+    },
+    {
+      "question": "Which of the following is a mixture?",
+      "options": ["Air", "Oxygen", "Hydrogen"],
+      "answer": "A",
+      "explanation": "Air is a mixture of gases."
+    },
+    {
+      "question": "Which of the following is a pure substance?",
+      "options": ["Distilled water", "Milk", "Soil"],
+      "answer": "A",
+      "explanation": "Distilled water is a pure substance."
+    },
+    {
+      "question": "Which of the following is NOT a property of solids?",
+      "options": ["Easily compressible", "Definite shape", "Definite volume"],
+      "answer": "A",
+      "explanation": "Solids are not easily compressible."
+    },
+    {
+      "question": "Which of the following is a property of liquids?",
+      "options": ["Take the shape of the container", "Fixed shape", "Easily compressible"],
+      "answer": "A",
+      "explanation": "Liquids take the shape of the container."
+    },
+    {
+      "question": "Which of the following is a property of gases?",
+      "options": ["No definite shape or volume", "Definite shape", "Definite volume"],
+      "answer": "A",
+      "explanation": "Gases have no definite shape or volume."
+    },
+    {
+      "question": "Which of the following is NOT a change of state?",
+      "options": ["Rusting", "Melting", "Freezing"],
+      "answer": "A",
+      "explanation": "Rusting is a chemical change, not a change of state."
+    },
+    {
+      "question": "Which of the following is a chemical change?",
+      "options": ["Burning of paper", "Melting of ice", "Boiling of water"],
+      "answer": "A",
+      "explanation": "Burning of paper is a chemical change."
+    },
+    {
+      "question": "Which of the following is a physical change?",
+      "options": ["Melting of ice", "Burning of wood", "Rusting of iron"],
+      "answer": "A",
+      "explanation": "Melting of ice is a physical change."
+    },
+    {
+      "question": "Which of the following is NOT a physical property?",
+      "options": ["Flammability", "Color", "Density"],
+      "answer": "A",
+      "explanation": "Flammability is a chemical property."
+    },
+    {
+      "question": "Which of the following is a chemical property?",
+      "options": ["Ability to burn", "Boiling point", "Melting point"],
+      "answer": "A",
+      "explanation": "Ability to burn is a chemical property."
+    },
+    {
+      "question": "Which of the following is NOT a mixture?",
+      "options": ["Distilled water", "Air", "Salt solution"],
+      "answer": "A",
+      "explanation": "Distilled water is a pure substance."
+    },
+    {
+      "question": "Which of the following is a homogeneous mixture?",
+      "options": ["Salt solution", "Sand and iron filings", "Oil and water"],
+      "answer": "A",
+      "explanation": "Salt solution is homogeneous."
+    },
+    {
+      "question": "Which of the following is a heterogeneous mixture?",
+      "options": ["Sand and iron filings", "Salt solution", "Sugar solution"],
+      "answer": "A",
+      "explanation": "Sand and iron filings are heterogeneous."
+    },
+    {
+      "question": "Which of the following is NOT a method of separation?",
+      "options": ["Combustion", "Filtration", "Evaporation"],
+      "answer": "A",
+      "explanation": "Combustion is not a separation method."
+    }
+  ]
+}

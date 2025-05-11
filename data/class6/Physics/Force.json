@@ -1,0 +1,304 @@
+{
+    "questions": [
+        {
+            "question": "What is force?",
+            "options": [
+                "A push or pull",
+                "A type of energy",
+                "A kind of matter"
+            ],
+            "answer": "A",
+            "explanation": "Force is a push or pull acting on an object."
+        },
+        {
+            "question": "Which unit is used to measure force?",
+            "options": [
+                "Newton",
+                "Joule",
+                "Watt"
+            ],
+            "answer": "A",
+            "explanation": "Force is measured in newtons (N)."
+        },
+        {
+            "question": "Which instrument is used to measure force?",
+            "options": [
+                "Spring balance",
+                "Thermometer",
+                "Barometer"
+            ],
+            "answer": "A",
+            "explanation": "A spring balance measures force."
+        },
+        {
+            "question": "Which of the following is NOT an effect of force?",
+            "options": [
+                "Changing color",
+                "Changing shape",
+                "Changing direction"
+            ],
+            "answer": "A",
+            "explanation": "Force does not change color."
+        },
+        {
+            "question": "What happens when two equal and opposite forces act on an object?",
+            "options": [
+                "They cancel each other",
+                "They add up",
+                "They multiply"
+            ],
+            "answer": "A",
+            "explanation": "Equal and opposite forces cancel each other."
+        },
+        {
+            "question": "Which type of force acts only when objects are in contact?",
+            "options": [
+                "Contact force",
+                "Non-contact force",
+                "Magnetic force"
+            ],
+            "answer": "A",
+            "explanation": "Contact forces require physical contact."
+        },
+        {
+            "question": "Which of the following is a non-contact force?",
+            "options": [
+                "Gravitational force",
+                "Frictional force",
+                "Muscular force"
+            ],
+            "answer": "A",
+            "explanation": "Gravitational force acts without contact."
+        },
+        {
+            "question": "What is the force that opposes motion called?",
+            "options": [
+                "Friction",
+                "Gravity",
+                "Magnetism"
+            ],
+            "answer": "A",
+            "explanation": "Friction opposes motion."
+        },
+        {
+            "question": "Which force pulls objects towards the center of the Earth?",
+            "options": [
+                "Gravity",
+                "Friction",
+                "Electrostatic force"
+            ],
+            "answer": "A",
+            "explanation": "Gravity pulls objects towards Earth."
+        },
+        {
+            "question": "Which force is responsible for a charged balloon attracting small pieces of paper?",
+            "options": [
+                "Electrostatic force",
+                "Magnetic force",
+                "Frictional force"
+            ],
+            "answer": "A",
+            "explanation": "Electrostatic force attracts paper to a charged balloon."
+        },
+        {
+            "question": "Which force is used to separate iron filings from sand?",
+            "options": [
+                "Magnetic force",
+                "Gravitational force",
+                "Frictional force"
+            ],
+            "answer": "A",
+            "explanation": "Magnetic force attracts iron filings."
+        },
+        {
+            "question": "Which force acts between two magnets?",
+            "options": [
+                "Magnetic force",
+                "Frictional force",
+                "Muscular force"
+            ],
+            "answer": "A",
+            "explanation": "Magnets exert magnetic force."
+        },
+        {
+            "question": "What is the net force if two forces of 5 N and 3 N act in the same direction?",
+            "options": [
+                "8 N",
+                "2 N",
+                "15 N"
+            ],
+            "answer": "A",
+            "explanation": "Net force = 5 N + 3 N = 8 N."
+        },
+        {
+            "question": "What is the net force if two forces of 10 N and 4 N act in opposite directions?",
+            "options": [
+                "6 N",
+                "14 N",
+                "40 N"
+            ],
+            "answer": "A",
+            "explanation": "Net force = 10 N - 4 N = 6 N."
+        },
+        {
+            "question": "Which force helps us to walk without slipping?",
+            "options": [
+                "Friction",
+                "Gravity",
+                "Magnetism"
+            ],
+            "answer": "A",
+            "explanation": "Friction provides grip for walking."
+        },
+        {
+            "question": "Which force is responsible for the motion of planets around the Sun?",
+            "options": [
+                "Gravitational force",
+                "Frictional force",
+                "Electrostatic force"
+            ],
+            "answer": "A",
+            "explanation": "Gravity keeps planets in orbit."
+        },
+        {
+            "question": "Which force acts on a falling apple?",
+            "options": [
+                "Gravity",
+                "Magnetism",
+                "Friction"
+            ],
+            "answer": "A",
+            "explanation": "Gravity pulls the apple down."
+        },
+        {
+            "question": "Which force is responsible for the attraction between unlike charges?",
+            "options": [
+                "Electrostatic force",
+                "Magnetic force",
+                "Frictional force"
+            ],
+            "answer": "A",
+            "explanation": "Electrostatic force attracts unlike charges."
+        },
+        {
+            "question": "Which force acts when you rub your hands together?",
+            "options": [
+                "Friction",
+                "Gravity",
+                "Magnetism"
+            ],
+            "answer": "A",
+            "explanation": "Friction produces heat when hands are rubbed."
+        },
+        {
+            "question": "Which force is responsible for the movement of a boat by rowing?",
+            "options": [
+                "Muscular force",
+                "Magnetic force",
+                "Electrostatic force"
+            ],
+            "answer": "A",
+            "explanation": "Muscular force moves the boat."
+        },
+        {
+            "question": "Which force is responsible for the repulsion between like poles of magnets?",
+            "options": [
+                "Magnetic force",
+                "Gravitational force",
+                "Frictional force"
+            ],
+            "answer": "A",
+            "explanation": "Like poles repel due to magnetic force."
+        },
+        {
+            "question": "Which force is responsible for the attraction between a comb and bits of paper after combing dry hair?",
+            "options": [
+                "Electrostatic force",
+                "Magnetic force",
+                "Frictional force"
+            ],
+            "answer": "A",
+            "explanation": "Electrostatic force attracts paper to the comb."
+        },
+        {
+            "question": "Which force acts on a parachute falling to the ground?",
+            "options": [
+                "Gravity and air resistance",
+                "Magnetism",
+                "Electrostatic force"
+            ],
+            "answer": "A",
+            "explanation": "Gravity pulls down, air resistance slows the fall."
+        },
+        {
+            "question": "Which force is responsible for the motion of a bicycle?",
+            "options": [
+                "Muscular force",
+                "Magnetic force",
+                "Electrostatic force"
+            ],
+            "answer": "A",
+            "explanation": "Muscular force moves the pedals."
+        },
+        {
+            "question": "Which force is responsible for the slowing down of a moving car?",
+            "options": [
+                "Friction",
+                "Gravity",
+                "Magnetism"
+            ],
+            "answer": "A",
+            "explanation": "Friction slows down the car."
+        },
+        {
+            "question": "Which force acts on a ball thrown upwards?",
+            "options": [
+                "Gravity",
+                "Magnetism",
+                "Electrostatic force"
+            ],
+            "answer": "A",
+            "explanation": "Gravity pulls the ball down."
+        },
+        {
+            "question": "Which force is responsible for the stretching of a rubber band?",
+            "options": [
+                "Muscular force",
+                "Magnetic force",
+                "Electrostatic force"
+            ],
+            "answer": "A",
+            "explanation": "Muscular force stretches the band."
+        },
+        {
+            "question": "Which force is responsible for the attraction between the Earth and the Moon?",
+            "options": [
+                "Gravitational force",
+                "Magnetic force",
+                "Frictional force"
+            ],
+            "answer": "A",
+            "explanation": "Gravity attracts the Earth and Moon."
+        },
+        {
+            "question": "Which force is responsible for the movement of a magnet towards iron?",
+            "options": [
+                "Magnetic force",
+                "Gravitational force",
+                "Frictional force"
+            ],
+            "answer": "A",
+            "explanation": "Magnetic force attracts iron."
+        },
+        {
+            "question": "Which force is responsible for the movement of a charged balloon towards a wall?",
+            "options": [
+                "Electrostatic force",
+                "Magnetic force",
+                "Frictional force"
+            ],
+            "answer": "A",
+            "explanation": "Electrostatic force attracts the balloon to the wall."
+        }
+    ]
+}

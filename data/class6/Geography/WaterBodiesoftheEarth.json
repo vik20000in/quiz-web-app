@@ -1,0 +1,304 @@
+{
+    "questions": [
+        {
+            "question": "Which is the largest ocean on Earth?",
+            "options": [
+                "Pacific Ocean",
+                "Atlantic Ocean",
+                "Indian Ocean"
+            ],
+            "answer": "A",
+            "explanation": "The Pacific Ocean is the largest ocean on Earth."
+        },
+        {
+            "question": "Which is the smallest ocean in the world?",
+            "options": [
+                "Arctic Ocean",
+                "Indian Ocean",
+                "Southern Ocean"
+            ],
+            "answer": "A",
+            "explanation": "The Arctic Ocean is the smallest ocean."
+        },
+        {
+            "question": "Which river is the longest in the world?",
+            "options": [
+                "Nile",
+                "Amazon",
+                "Yangtze"
+            ],
+            "answer": "A",
+            "explanation": "The Nile is the longest river in the world."
+        },
+        {
+            "question": "Which is the deepest oceanic trench?",
+            "options": [
+                "Mariana Trench",
+                "Tonga Trench",
+                "Puerto Rico Trench"
+            ],
+            "answer": "A",
+            "explanation": "The Mariana Trench is the deepest."
+        },
+        {
+            "question": "Which sea is the saltiest in the world?",
+            "options": [
+                "Dead Sea",
+                "Red Sea",
+                "Baltic Sea"
+            ],
+            "answer": "A",
+            "explanation": "The Dead Sea is the saltiest."
+        },
+        {
+            "question": "Which is the largest freshwater lake by area?",
+            "options": [
+                "Lake Superior",
+                "Lake Victoria",
+                "Lake Baikal"
+            ],
+            "answer": "A",
+            "explanation": "Lake Superior is the largest by area."
+        },
+        {
+            "question": "Which is the largest lake by volume?",
+            "options": [
+                "Lake Baikal",
+                "Lake Superior",
+                "Lake Victoria"
+            ],
+            "answer": "A",
+            "explanation": "Lake Baikal is the largest by volume."
+        },
+        {
+            "question": "Which ocean is located between Africa, Asia, Australia, and the Southern Ocean?",
+            "options": [
+                "Indian Ocean",
+                "Atlantic Ocean",
+                "Pacific Ocean"
+            ],
+            "answer": "A",
+            "explanation": "The Indian Ocean is located between these continents."
+        },
+        {
+            "question": "Which river flows through the most countries?",
+            "options": [
+                "Danube",
+                "Amazon",
+                "Yangtze"
+            ],
+            "answer": "A",
+            "explanation": "The Danube flows through 10 countries."
+        },
+        {
+            "question": "Which is the largest gulf in the world?",
+            "options": [
+                "Gulf of Mexico",
+                "Persian Gulf",
+                "Gulf of Aden"
+            ],
+            "answer": "A",
+            "explanation": "The Gulf of Mexico is the largest."
+        },
+        {
+            "question": "Which is the longest river in Asia?",
+            "options": [
+                "Yangtze",
+                "Ganges",
+                "Mekong"
+            ],
+            "answer": "A",
+            "explanation": "The Yangtze is the longest river in Asia."
+        },
+        {
+            "question": "Which is the largest bay in the world?",
+            "options": [
+                "Bay of Bengal",
+                "Hudson Bay",
+                "Bay of Biscay"
+            ],
+            "answer": "A",
+            "explanation": "The Bay of Bengal is the largest."
+        },
+        {
+            "question": "Which is the world's largest coral reef system?",
+            "options": [
+                "Great Barrier Reef",
+                "Belize Barrier Reef",
+                "Red Sea Coral Reef"
+            ],
+            "answer": "A",
+            "explanation": "The Great Barrier Reef is the largest."
+        },
+        {
+            "question": "Which is the largest inland sea?",
+            "options": [
+                "Caspian Sea",
+                "Black Sea",
+                "Aral Sea"
+            ],
+            "answer": "A",
+            "explanation": "The Caspian Sea is the largest inland sea."
+        },
+        {
+            "question": "Which river has the largest discharge of water?",
+            "options": [
+                "Amazon",
+                "Nile",
+                "Mississippi"
+            ],
+            "answer": "A",
+            "explanation": "The Amazon has the largest discharge."
+        },
+        {
+            "question": "Which is the longest river in India?",
+            "options": [
+                "Ganga",
+                "Yamuna",
+                "Godavari"
+            ],
+            "answer": "A",
+            "explanation": "The Ganga is the longest river in India."
+        },
+        {
+            "question": "Which is the largest waterfall by volume?",
+            "options": [
+                "Inga Falls",
+                "Niagara Falls",
+                "Victoria Falls"
+            ],
+            "answer": "A",
+            "explanation": "Inga Falls has the largest volume."
+        },
+        {
+            "question": "Which is the largest delta in the world?",
+            "options": [
+                "Sundarbans",
+                "Okavango",
+                "Nile Delta"
+            ],
+            "answer": "A",
+            "explanation": "The Sundarbans is the largest delta."
+        },
+        {
+            "question": "Which is the largest island in the world surrounded by water?",
+            "options": [
+                "Greenland",
+                "New Guinea",
+                "Borneo"
+            ],
+            "answer": "A",
+            "explanation": "Greenland is the largest island."
+        },
+        {
+            "question": "Which ocean is the coldest?",
+            "options": [
+                "Arctic Ocean",
+                "Indian Ocean",
+                "Atlantic Ocean"
+            ],
+            "answer": "A",
+            "explanation": "The Arctic Ocean is the coldest."
+        },
+        {
+            "question": "Which is the largest river in Africa?",
+            "options": [
+                "Nile",
+                "Congo",
+                "Niger"
+            ],
+            "answer": "A",
+            "explanation": "The Nile is the largest river in Africa."
+        },
+        {
+            "question": "Which is the largest sea in the world?",
+            "options": [
+                "Philippine Sea",
+                "Coral Sea",
+                "Arabian Sea"
+            ],
+            "answer": "A",
+            "explanation": "The Philippine Sea is the largest."
+        },
+        {
+            "question": "Which is the deepest lake in the world?",
+            "options": [
+                "Lake Baikal",
+                "Lake Tanganyika",
+                "Caspian Sea"
+            ],
+            "answer": "A",
+            "explanation": "Lake Baikal is the deepest."
+        },
+        {
+            "question": "Which is the largest man-made lake in the world?",
+            "options": [
+                "Lake Volta",
+                "Lake Mead",
+                "Lake Kariba"
+            ],
+            "answer": "A",
+            "explanation": "Lake Volta is the largest man-made lake."
+        },
+        {
+            "question": "Which is the largest peninsula surrounded by water?",
+            "options": [
+                "Arabian Peninsula",
+                "Indian Peninsula",
+                "Malay Peninsula"
+            ],
+            "answer": "A",
+            "explanation": "The Arabian Peninsula is the largest."
+        },
+        {
+            "question": "Which is the largest strait in the world?",
+            "options": [
+                "Strait of Malacca",
+                "Strait of Gibraltar",
+                "Bering Strait"
+            ],
+            "answer": "A",
+            "explanation": "The Strait of Malacca is the largest."
+        },
+        {
+            "question": "Which is the largest archipelago in the world?",
+            "options": [
+                "Malay Archipelago",
+                "Philippines",
+                "Japan"
+            ],
+            "answer": "A",
+            "explanation": "The Malay Archipelago is the largest."
+        },
+        {
+            "question": "Which is the largest lagoon in the world?",
+            "options": [
+                "New Caledonia Lagoon",
+                "Chilika Lake",
+                "Venetian Lagoon"
+            ],
+            "answer": "A",
+            "explanation": "New Caledonia Lagoon is the largest."
+        },
+        {
+            "question": "Which is the largest estuary in the world?",
+            "options": [
+                "St. Lawrence Estuary",
+                "Amazon Estuary",
+                "Ob Estuary"
+            ],
+            "answer": "A",
+            "explanation": "St. Lawrence Estuary is the largest."
+        },
+        {
+            "question": "Which is the largest fjord in the world?",
+            "options": [
+                "Scoresby Sund",
+                "Sognefjord",
+                "Milford Sound"
+            ],
+            "answer": "A",
+            "explanation": "Scoresby Sund in Greenland is the largest fjord."
+        }
+    ]
+}

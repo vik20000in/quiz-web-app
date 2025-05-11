@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the basic structural and functional unit of life?",
+      "options": ["Cell", "Tissue", "Organ"],
+      "answer": "A",
+      "explanation": "The cell is the basic structural and functional unit of life."
+    },
+    {
+      "question": "Which part of the cell controls all its activities?",
+      "options": ["Nucleus", "Cell wall", "Cytoplasm"],
+      "answer": "A",
+      "explanation": "The nucleus controls all activities of the cell."
+    },
+    {
+      "question": "Which part of the plant cell is not found in animal cells?",
+      "options": ["Cell wall", "Nucleus", "Cytoplasm"],
+      "answer": "A",
+      "explanation": "The cell wall is present only in plant cells."
+    },
+    {
+      "question": "What is the jelly-like substance inside the cell called?",
+      "options": ["Cytoplasm", "Nucleus", "Cell membrane"],
+      "answer": "A",
+      "explanation": "Cytoplasm is the jelly-like substance inside the cell."
+    },
+    {
+      "question": "Which part of the cell allows substances to enter or leave the cell?",
+      "options": ["Cell membrane", "Nucleus", "Vacuole"],
+      "answer": "A",
+      "explanation": "The cell membrane controls the movement of substances."
+    },
+    {
+      "question": "What is the function of chloroplasts in plant cells?",
+      "options": ["Photosynthesis", "Respiration", "Digestion"],
+      "answer": "A",
+      "explanation": "Chloroplasts help in photosynthesis."
+    },
+    {
+      "question": "Which cell part stores food, water, and waste?",
+      "options": ["Vacuole", "Nucleus", "Cell wall"],
+      "answer": "A",
+      "explanation": "The vacuole stores food, water, and waste."
+    },
+    {
+      "question": "What is the function of mitochondria?",
+      "options": ["Produce energy", "Store food", "Control cell activities"],
+      "answer": "A",
+      "explanation": "Mitochondria are known as the powerhouse of the cell."
+    },
+    {
+      "question": "Which of the following is a unicellular organism?",
+      "options": ["Amoeba", "Human", "Dog"],
+      "answer": "A",
+      "explanation": "Amoeba is made up of a single cell."
+    },
+    {
+      "question": "What is the function of the cell wall?",
+      "options": ["Provide shape and protection", "Control cell activities", "Store food"],
+      "answer": "A",
+      "explanation": "The cell wall provides shape and protection to plant cells."
+    }
+  ]
+}

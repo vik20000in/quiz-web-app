@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "What is the main function of a flower?",
+      "options": ["Reproduction", "Photosynthesis", "Respiration"],
+      "answer": "A",
+      "explanation": "The main function of a flower is reproduction."
+    },
+    {
+      "question": "Which part of the flower produces pollen?",
+      "options": ["Anther", "Stigma", "Ovary"],
+      "answer": "A",
+      "explanation": "The anther produces pollen."
+    },
+    {
+      "question": "Which part of the flower receives pollen during pollination?",
+      "options": ["Stigma", "Style", "Petal"],
+      "answer": "A",
+      "explanation": "The stigma receives pollen."
+    },
+    {
+      "question": "What is the female reproductive part of a flower called?",
+      "options": ["Pistil", "Stamen", "Petal"],
+      "answer": "A",
+      "explanation": "The pistil is the female reproductive part."
+    },
+    {
+      "question": "Which part of the flower develops into fruit?",
+      "options": ["Ovary", "Anther", "Petal"],
+      "answer": "A",
+      "explanation": "The ovary develops into fruit."
+    },
+    {
+      "question": "What are the colorful parts of a flower that attract insects called?",
+      "options": ["Petals", "Sepals", "Stamens"],
+      "answer": "A",
+      "explanation": "Petals attract insects."
+    },
+    {
+      "question": "Which part of the flower protects the bud before it opens?",
+      "options": ["Sepal", "Petal", "Stigma"],
+      "answer": "A",
+      "explanation": "Sepals protect the bud."
+    },
+    {
+      "question": "What is the male reproductive part of a flower called?",
+      "options": ["Stamen", "Pistil", "Ovary"],
+      "answer": "A",
+      "explanation": "The stamen is the male reproductive part."
+    },
+    {
+      "question": "Which part connects the stigma to the ovary?",
+      "options": ["Style", "Anther", "Filament"],
+      "answer": "A",
+      "explanation": "The style connects stigma to ovary."
+    },
+    {
+      "question": "What is the process of transfer of pollen from anther to stigma called?",
+      "options": ["Pollination", "Fertilization", "Germination"],
+      "answer": "A",
+      "explanation": "Pollination is the transfer of pollen."
+    },
+    {
+      "question": "What is the process called when male and female gametes fuse?",
+      "options": ["Fertilization", "Pollination", "Germination"],
+      "answer": "A",
+      "explanation": "Fertilization is the fusion of gametes."
+    },
+    {
+      "question": "Which part of the stamen holds the anther?",
+      "options": ["Filament", "Style", "Ovary"],
+      "answer": "A",
+      "explanation": "The filament holds the anther."
+    },
+    {
+      "question": "What do you call flowers that have both male and female parts?",
+      "options": ["Bisexual", "Unisexual", "Asexual"],
+      "answer": "A",
+      "explanation": "Bisexual flowers have both male and female parts."
+    },
+    {
+      "question": "What is the outermost whorl of a flower called?",
+      "options": ["Calyx", "Corolla", "Androecium"],
+      "answer": "A",
+      "explanation": "Calyx is the outermost whorl."
+    },
+    {
+      "question": "Which whorl consists of petals?",
+      "options": ["Corolla", "Calyx", "Gynoecium"],
+      "answer": "A",
+      "explanation": "Corolla consists of petals."
+    },
+    {
+      "question": "What is the collective term for all stamens in a flower?",
+      "options": ["Androecium", "Gynoecium", "Calyx"],
+      "answer": "A",
+      "explanation": "Androecium is the collective term for stamens."
+    },
+    {
+      "question": "What is the collective term for all carpels in a flower?",
+      "options": ["Gynoecium", "Androecium", "Corolla"],
+      "answer": "A",
+      "explanation": "Gynoecium is the collective term for carpels."
+    },
+    {
+      "question": "Which part of the flower contains ovules?",
+      "options": ["Ovary", "Anther", "Stigma"],
+      "answer": "A",
+      "explanation": "Ovary contains ovules."
+    },
+    {
+      "question": "What is the function of nectar in flowers?",
+      "options": ["Attract pollinators", "Produce seeds", "Protect ovules"],
+      "answer": "A",
+      "explanation": "Nectar attracts pollinators."
+    },
+    {
+      "question": "Which type of pollination occurs within the same flower?",
+      "options": ["Self-pollination", "Cross-pollination", "Artificial pollination"],
+      "answer": "A",
+      "explanation": "Self-pollination occurs within the same flower."
+    },
+    {
+      "question": "Which type of pollination occurs between different flowers?",
+      "options": ["Cross-pollination", "Self-pollination", "Artificial pollination"],
+      "answer": "A",
+      "explanation": "Cross-pollination occurs between different flowers."
+    },
+    {
+      "question": "Which agent is NOT involved in pollination?",
+      "options": ["Sound", "Wind", "Insects"],
+      "answer": "A",
+      "explanation": "Sound is not an agent of pollination."
+    },
+    {
+      "question": "What is the enlarged basal part of the pistil called?",
+      "options": ["Ovary", "Stigma", "Style"],
+      "answer": "A",
+      "explanation": "Ovary is the enlarged basal part."
+    },
+    {
+      "question": "What is the sticky part of the pistil that receives pollen?",
+      "options": ["Stigma", "Style", "Ovary"],
+      "answer": "A",
+      "explanation": "Stigma is sticky to receive pollen."
+    },
+    {
+      "question": "Which part of the flower is often green and leaf-like?",
+      "options": ["Sepal", "Petal", "Stigma"],
+      "answer": "A",
+      "explanation": "Sepals are often green and leaf-like."
+    },
+    {
+      "question": "What do you call a flower that lacks either stamens or pistils?",
+      "options": ["Unisexual", "Bisexual", "Asexual"],
+      "answer": "A",
+      "explanation": "Unisexual flowers lack either stamens or pistils."
+    },
+    {
+      "question": "What is the process by which seeds are formed after fertilization?",
+      "options": ["Seed formation", "Pollination", "Germination"],
+      "answer": "A",
+      "explanation": "Seeds are formed after fertilization."
+    },
+    {
+      "question": "Which part of the flower usually falls off after fertilization?",
+      "options": ["Petals", "Ovary", "Ovule"],
+      "answer": "A",
+      "explanation": "Petals usually fall off after fertilization."
+    },
+    {
+      "question": "What is the function of the filament?",
+      "options": ["Supports the anther", "Produces pollen", "Receives pollen"],
+      "answer": "A",
+      "explanation": "Filament supports the anther."
+    },
+    {
+      "question": "Which part of the flower is responsible for producing seeds?",
+      "options": ["Ovule", "Stigma", "Petal"],
+      "answer": "A",
+      "explanation": "Ovule develops into seed after fertilization."
+    }
+  ]
+}
