@@ -1,0 +1,257 @@
+{
+  "chapter": "Polygon",
+  "class": "6",
+  "subject": "Mathematics",
+  "questions": [
+    {
+      "question": "What is a polygon?",
+      "options": [
+        "A closed figure with straight sides",
+        "A figure with curved sides",
+        "A figure with only three sides",
+        "A figure with no sides"
+      ],
+      "answer": "A closed figure with straight sides"
+    },
+    {
+      "question": "How many sides does a triangle have?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "3"
+    },
+    {
+      "question": "What is a quadrilateral?",
+      "options": [
+        "A polygon with 3 sides",
+        "A polygon with 4 sides",
+        "A polygon with 5 sides",
+        "A polygon with 6 sides"
+      ],
+      "answer": "A polygon with 4 sides"
+    },
+    {
+      "question": "How many sides does a pentagon have?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "What do you call a polygon with 6 sides?",
+      "options": [
+        "Pentagon",
+        "Hexagon",
+        "Heptagon",
+        "Octagon"
+      ],
+      "answer": "Hexagon"
+    },
+    {
+      "question": "A polygon with 8 sides is called?",
+      "options": [
+        "Hexagon",
+        "Heptagon",
+        "Octagon",
+        "Nonagon"
+      ],
+      "answer": "Octagon"
+    },
+    {
+      "question": "What is the sum of the interior angles of a triangle?",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "answer": "180°"
+    },
+    {
+      "question": "What is the sum of the interior angles of a quadrilateral?",
+      "options": [
+        "180°",
+        "270°",
+        "360°",
+        "540°"
+      ],
+      "answer": "360°"
+    },
+    {
+      "question": "How many diagonals does a pentagon have?",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "7"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "Which of the following is NOT a polygon?",
+      "options": [
+        "Triangle",
+        "Circle",
+        "Pentagon",
+        "Hexagon"
+      ],
+      "answer": "Circle"
+    },
+    {
+      "question": "A regular polygon has:",
+      "options": [
+        "All sides equal",
+        "All angles equal",
+        "Both sides and angles equal",
+        "None of these"
+      ],
+      "answer": "Both sides and angles equal"
+    },
+    {
+      "question": "What is the sum of the interior angles of a pentagon?",
+      "options": [
+        "360°",
+        "540°",
+        "720°",
+        "900°"
+      ],
+      "answer": "540°"
+    },
+    {
+      "question": "How many sides does a decagon have?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "answer": "10"
+    },
+    {
+      "question": "A polygon with 7 sides is called?",
+      "options": [
+        "Hexagon",
+        "Heptagon",
+        "Octagon",
+        "Nonagon"
+      ],
+      "answer": "Heptagon"
+    },
+    {
+      "question": "How many diagonals does a hexagon have?",
+      "options": [
+        "6",
+        "7",
+        "9",
+        "12"
+      ],
+      "answer": "9"
+    },
+    {
+      "question": "What is the sum of the exterior angles of any polygon?",
+      "options": [
+        "180°",
+        "270°",
+        "360°",
+        "540°"
+      ],
+      "answer": "360°"
+    },
+    {
+      "question": "Which of the following is a regular polygon?",
+      "options": [
+        "Rectangle",
+        "Square",
+        "Trapezium",
+        "Parallelogram"
+      ],
+      "answer": "Square"
+    },
+    {
+      "question": "How many sides does a nonagon have?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": "9"
+    },
+    {
+      "question": "A polygon with all sides and all angles equal is called?",
+      "options": [
+        "Irregular polygon",
+        "Regular polygon",
+        "Concave polygon",
+        "Complex polygon"
+      ],
+      "answer": "Regular polygon"
+    },
+    {
+      "question": "What is the minimum number of sides a polygon can have?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "3"
+    },
+    {
+      "question": "How many diagonals does a quadrilateral have?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "What is the sum of the interior angles of a hexagon?",
+      "options": [
+        "540°",
+        "720°",
+        "900°",
+        "1080°"
+      ],
+      "answer": "720°"
+    },
+    {
+      "question": "Which of the following is a polygon with 12 sides?",
+      "options": [
+        "Decagon",
+        "Dodecagon",
+        "Nonagon",
+        "Octagon"
+      ],
+      "answer": "Dodecagon"
+    },
+    {
+      "question": "How many triangles can be formed by joining the vertices of a quadrilateral?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "Which of the following is a concave polygon?",
+      "options": [
+        "A polygon with all angles less than 180°",
+        "A polygon with at least one angle more than 180°",
+        "A regular polygon",
+        "A triangle"
+      ],
+      "answer": "A polygon with at least one angle more than 180°"
+    }
+  ]
+}

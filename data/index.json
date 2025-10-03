@@ -84,6 +84,10 @@
                         {
                             "name": "Ratio and Proportion",
                             "path": "class6/mathematics/RatioAndProportion.json"
+                        },
+                        {
+                            "name": "Polygon",
+                            "path": "class6/mathematics/Polygon.json"
                         }
                     ]
                 },
@@ -283,113 +287,9 @@
                     ]
                 }
             ]
-        },
-        "Class 8": {
-            "categories": [
-                {
-                    "name": "Mathematics",
-                    "subcategories": [
-                        {
-                            "name": "Geometry",
-                            "path": "class8/mathematics/geometry.json"
-                        },
-                        {
-                            "name": "Algebra",
-                            "path": "class8/mathematics/algebra.json"
-                        },
-                        {
-                            "name": "Statistics",
-                            "path": "class8/mathematics/statistics.json"
-                        },
-                        {
-                            "name": "Olympiad Math",
-                            "path": "class8/mathematics/olympiad_math.json"
-                        },
-                        {
-                            "name": "Number SystNem",
-                            "path": "class8/mathematics/number_system.json"
-                        },
-                        {
-                            "name": "LinearEquations",
-                            "path": "class8/mathematics/LinearEquations.json"
-                        },
-                        {
-                            "name": "DataHandling",
-                            "path": "class8/mathematics/DataHandling.json"
-                        },
-                        {
-                            "name": "Division",
-                            "path": "class8/mathematics/Division.json"
-                        }
-                    ]
-                },
-                {
-                    "name": "Science",
-                    "subcategories": [
-                        {
-                            "name": "Chemistry",
-                            "path": "class8/Science/chemistry.json"
-                        },
-                        {
-                            "name": "Physics",
-                            "path": "class8/Science/physics.json"
-                        },
-                        {
-                            "name": "Biology",
-                            "path": "class8/Science/biology.json"
-                        },
-                        {
-                            "name": "Olympiad Science",
-                            "path": "class8/Science/olympiad_science.json"
-                        }
-                    ]
-                },
-                {
-                    "name": "English Grammer",
-                    "subcategories": [
-                        {
-                            "name": "ActivePassive",
-                            "path": "class8/English/ActivePassive.json"
-                        },
-                        {
-                            "name": "Adjectives",
-                            "path": "class8/English/Adjectives.json"
-                        },
-                        {
-                            "name": "Adverbs",
-                            "path": "class8/English/Adverbs.json"
-                        },
-                        {
-                            "name": "Conjunctions",
-                            "path": "class8/English/Conjunctions.json"
-                        },
-                        {
-                            "name": "DirectIndirect",
-                            "path": "class8/English/DirectIndirect.json"
-                        },
-                        {
-                            "name": "Prepositions",
-                            "path": "class8/English/Prepositions.json"
-                        },
-                        {
-                            "name": "Tenses",
-                            "path": "class8/English/Tenses.json"
-                        },
-                        {
-                            "name": "Verbs",
-                            "path": "class8/English/Verbs.json"
-                        },
-                        {
-                            "name": "Punctuation",
-                            "path": "class8/English/Punctuation.json"
-                        },
-                        {
-                            "name": "EnglishOlympiad",
-                            "path": "class8/English/EnglishOlympiad.json"
-                        }
-                    ]
-                }
-            ]
         }
     }
-}
+}   
+
+      
+   
