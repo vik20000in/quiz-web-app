@@ -258,6 +258,10 @@
                         {
                             "name": "Mesopotamian Civilization",
                             "path": "class6/History/MesopotamianCivilization.json"
+                        },
+                        {
+                            "Name":"Later Vedic period",
+                            "path": "class6/History/LaterVedicPeriod.json"
                         }
                     ]
                 },
