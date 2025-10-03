@@ -1,0 +1,157 @@
+{
+  "chapter": "Mixture",
+  "class": "6",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "question": "What is a mixture?",
+      "options": [
+        "A pure substance",
+        "A combination of two or more substances that are not chemically combined",
+        "A chemical compound",
+        "A single element"
+      ],
+      "answer": "A combination of two or more substances that are not chemically combined"
+    },
+    {
+      "question": "Which of the following is an example of a mixture?",
+      "options": [
+        "Water",
+        "Salt",
+        "Air",
+        "Iron"
+      ],
+      "answer": "Air"
+    },
+    {
+      "question": "Which of the following is NOT a mixture?",
+      "options": [
+        "Salt solution",
+        "Sugar",
+        "Soil",
+        "Milk"
+      ],
+      "answer": "Sugar"
+    },
+    {
+      "question": "Which method is used to separate sand from water?",
+      "options": [
+        "Filtration",
+        "Evaporation",
+        "Distillation",
+        "Magnetic separation"
+      ],
+      "answer": "Filtration"
+    },
+    {
+      "question": "Which of the following is a homogeneous mixture?",
+      "options": [
+        "Oil and water",
+        "Sand and iron filings",
+        "Salt dissolved in water",
+        "Sand and water"
+      ],
+      "answer": "Salt dissolved in water"
+    },
+    {
+      "question": "Which of the following is a heterogeneous mixture?",
+      "options": [
+        "Sugar solution",
+        "Air",
+        "Soil",
+        "Vinegar"
+      ],
+      "answer": "Soil"
+    },
+    {
+      "question": "What is the process of separating a dissolved solid from a liquid by heating called?",
+      "options": [
+        "Filtration",
+        "Evaporation",
+        "Sedimentation",
+        "Decantation"
+      ],
+      "answer": "Evaporation"
+    },
+    {
+      "question": "Which method is used to separate iron filings from a mixture?",
+      "options": [
+        "Hand picking",
+        "Magnetic separation",
+        "Filtration",
+        "Evaporation"
+      ],
+      "answer": "Magnetic separation"
+    },
+    {
+      "question": "Which of the following is a property of mixtures?",
+      "options": [
+        "They have fixed composition",
+        "They can be separated by physical methods",
+        "They are always liquids",
+        "They are always solids"
+      ],
+      "answer": "They can be separated by physical methods"
+    },
+    {
+      "question": "Which of the following is NOT a method of separation of mixtures?",
+      "options": [
+        "Filtration",
+        "Evaporation",
+        "Melting",
+        "Decantation"
+      ],
+      "answer": "Melting"
+    },
+    {
+      "question": "What type of mixture is milk?",
+      "options": [
+        "Homogeneous",
+        "Heterogeneous",
+        "Element",
+        "Compound"
+      ],
+      "answer": "Heterogeneous"
+    },
+    {
+      "question": "Which of the following is a solution?",
+      "options": [
+        "Oil and water",
+        "Salt and sand",
+        "Salt in water",
+        "Iron filings and sand"
+      ],
+      "answer": "Salt in water"
+    },
+    {
+      "question": "What is the process of settling down of heavier particles in a mixture called?",
+      "options": [
+        "Filtration",
+        "Sedimentation",
+        "Evaporation",
+        "Distillation"
+      ],
+      "answer": "Sedimentation"
+    },
+    {
+      "question": "Which method is used to separate cream from milk?",
+      "options": [
+        "Filtration",
+        "Centrifugation",
+        "Evaporation",
+        "Distillation"
+      ],
+      "answer": "Centrifugation"
+    },
+    {
+      "question": "Which of the following is a characteristic of a homogeneous mixture?",
+      "options": [
+        "Components are visible",
+        "Composition is uniform throughout",
+        "Can be separated by magnets",
+        "Has only one component"
+      ],
+      "answer": "Composition is uniform throughout"
+    }
+  ]
+}

@@ -80,6 +80,10 @@
                         {
                             "name": "meanandmedian",
                             "path": "class6/mathematics/meanandmedian.json"
+                        },
+                        {
+                            "name": "Ratio and Proportion",
+                            "path": "class6/mathematics/RatioAndProportion.json"
                         }
                     ]
                 },
@@ -135,6 +139,10 @@
                         {
                             "name": "ElementsCompounds",
                             "path": "class6/Chemistry/ElementsCompounds.json.json"
+                        },
+                        {
+                            "name": "Mixture",
+                            "path": "class6/Chemistry/mixture.json"
                         }
                     ]
                 },
